@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "shopkeeper_hotdog_buy_surging_power_01",
+  "timestamp": "2025-05-12T04:53:11.806976",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Reloading is for lesser men.",
+      "part": 1
+    }
+  ]
+}

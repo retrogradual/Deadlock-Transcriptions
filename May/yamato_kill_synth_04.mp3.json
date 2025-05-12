@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "yamato_kill_synth_04",
+  "timestamp": "2025-05-12T02:52:12.440046",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "\u3042\u306e\u30b1\u30fc\u30b9\u3092\u9802\u304d\u305f\u3044\u306a\u3002",
+      "part": 1
+    }
+  ]
+}

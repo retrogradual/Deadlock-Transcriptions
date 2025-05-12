@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "gigawatt_ally_inferno_killed_in_lane_01",
+  "timestamp": "2025-05-11T15:01:30.622097",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " They took our Infernus!",
+      "part": 1
+    }
+  ]
+}

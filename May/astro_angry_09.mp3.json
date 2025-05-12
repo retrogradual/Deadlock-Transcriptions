@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "astro_angry_09",
+  "timestamp": "2025-05-11T14:58:47.774952",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " This ends now!",
+      "part": 1
+    }
+  ]
+}

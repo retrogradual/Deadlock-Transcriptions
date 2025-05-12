@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "haze_ping_ignore_wraith",
+  "timestamp": "2025-05-11T15:03:14.060783",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Ignore race.",
+      "part": 1
+    }
+  ]
+}

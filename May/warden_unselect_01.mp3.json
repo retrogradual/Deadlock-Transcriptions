@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "warden_unselect_01",
+  "timestamp": "2025-05-11T15:08:56.595005",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I'll return to my training.",
+      "part": 1
+    }
+  ]
+}

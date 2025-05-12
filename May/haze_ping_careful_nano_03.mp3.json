@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "haze_ping_careful_nano_03",
+  "timestamp": "2025-05-11T15:02:59.269818",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Careful, Calico!",
+      "part": 1
+    }
+  ]
+}

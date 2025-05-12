@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "nano_sad_01",
+  "timestamp": "2025-05-11T15:05:21.643932",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I'm surrounded by incompetence.",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wraith_unselect_04",
+  "timestamp": "2025-05-11T15:10:09.076095",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.5,
+      "text": " It shouldn't take you too long to realize you made a mistake.",
+      "part": 1
+    }
+  ]
+}

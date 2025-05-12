@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wraith_unselect_03",
+  "timestamp": "2025-05-11T15:10:08.322997",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " You'll be back.",
+      "part": 1
+    }
+  ]
+}

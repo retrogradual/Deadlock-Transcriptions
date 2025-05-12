@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "warden_sad_05",
+  "timestamp": "2025-05-11T15:08:54.474011",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " How are we losing?",
+      "part": 1
+    }
+  ]
+}

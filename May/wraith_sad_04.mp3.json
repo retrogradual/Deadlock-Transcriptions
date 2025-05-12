@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wraith_sad_04",
+  "timestamp": "2025-05-11T15:10:05.846135",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Nothing's going the way it was supposed to.",
+      "part": 1
+    }
+  ]
+}

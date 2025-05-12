@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "warden_enemy_chrono_kill_post_swap_03",
+  "timestamp": "2025-05-11T15:08:08.965140",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": " You think you had the advantage there, Paradox?",
+      "part": 1
+    }
+  ]
+}

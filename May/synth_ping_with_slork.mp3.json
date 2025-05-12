@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "synth_ping_with_slork",
+  "timestamp": "2025-05-11T15:06:45.466143",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I'm with you, Fathom!",
+      "part": 1
+    }
+  ]
+}

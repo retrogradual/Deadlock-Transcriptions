@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wraith_ally_inferno_burns_down_objective_01",
+  "timestamp": "2025-05-11T15:09:30.834487",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.799999952316284,
+      "text": " Feels good working together again, doesn't it?",
+      "part": 1
+    }
+  ]
+}

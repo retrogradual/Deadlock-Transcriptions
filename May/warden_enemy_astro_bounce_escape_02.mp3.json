@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "warden_enemy_astro_bounce_escape_02",
+  "timestamp": "2025-05-11T15:08:00.958457",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " You can't run forever, Holiday!",
+      "part": 1
+    }
+  ]
+}

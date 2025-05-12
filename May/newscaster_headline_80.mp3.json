@@ -1,0 +1,24 @@
+{
+  "voiceline_id": "newscaster_headline_80",
+  "timestamp": "2025-05-12T04:52:37.109676",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.5,
+      "text": " The Orders of the Amber Hand and Sapphire Flame have long provided safeguards ensuring that the Patrons remain on their home plane.",
+      "part": 1
+    },
+    {
+      "start": 7.5,
+      "end": 12.5,
+      "text": " But have the people we trusted to be Wardens of the Patrons secretly been planning a coup?",
+      "part": 2
+    },
+    {
+      "start": 12.5,
+      "end": 18.0,
+      "text": " Find out how the ongoing ritual could impact your life in today's edition of the New York Oracle.",
+      "part": 3
+    }
+  ]
+}

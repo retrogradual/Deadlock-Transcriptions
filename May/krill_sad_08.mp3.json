@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "krill_sad_08",
+  "timestamp": "2025-05-11T15:04:02.081471",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " This is bad.",
+      "part": 1
+    }
+  ]
+}

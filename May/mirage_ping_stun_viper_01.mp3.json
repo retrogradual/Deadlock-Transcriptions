@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "mirage_ping_stun_viper_01",
+  "timestamp": "2025-05-12T04:00:39.689604",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Stun Viper!",
+      "part": 1
+    }
+  ]
+}

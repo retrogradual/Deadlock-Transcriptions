@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_ping_stun_yamato_01",
+  "timestamp": "2025-05-11T15:07:42.345427",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "\u30b9\u30bf\u30f3\u30e4\u30de\u30c8!",
+      "part": 1
+    }
+  ]
+}

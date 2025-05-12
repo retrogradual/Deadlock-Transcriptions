@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "yamato_ping_see_wraith_01",
+  "timestamp": "2025-05-11T15:10:46.541663",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.800000011920929,
+      "text": " I see race.",
+      "part": 1
+    }
+  ]
+}

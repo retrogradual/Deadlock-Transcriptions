@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wraith_ping_ignore_wrecker",
+  "timestamp": "2025-05-11T15:09:57.480047",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Ignore Wrecker.",
+      "part": 1
+    }
+  ]
+}

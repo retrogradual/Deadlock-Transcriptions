@@ -1,0 +1,24 @@
+{
+  "voiceline_id": "newscaster_headline_47",
+  "timestamp": "2025-05-12T04:52:30.157095",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.5999999046325684,
+      "text": " Beeline continues to be closed this week. While the mayor has not spoken publicly on",
+      "part": 1
+    },
+    {
+      "start": 3.5999999046325684,
+      "end": 7.28000020980835,
+      "text": " the nature of the closure, inside sources suspect it may have something to do with a",
+      "part": 2
+    },
+    {
+      "start": 7.28000020980835,
+      "end": 8.279999732971191,
+      "text": " sewer spirit.",
+      "part": 3
+    }
+  ]
+}

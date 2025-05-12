@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "tengu_happy_07",
+  "timestamp": "2025-05-11T15:06:58.590036",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " We're doing great!",
+      "part": 1
+    }
+  ]
+}

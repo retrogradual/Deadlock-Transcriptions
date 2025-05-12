@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "warden_concerned_07",
+  "timestamp": "2025-05-11T15:08:51.461569",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": " It'll be tough, but we can still win this!",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "voiceline_id": "newscaster_headline_05",
+  "timestamp": "2025-05-12T04:52:19.557618",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.840000033378601,
+      "text": " Is Harry Houdini really dead?",
+      "part": 1
+    },
+    {
+      "start": 1.840000033378601,
+      "end": 5.880000114440918,
+      "text": " Recent reports suggest that the legendary magician's final trick was to escape death",
+      "part": 2
+    },
+    {
+      "start": 5.880000114440918,
+      "end": 6.519999980926514,
+      "text": " itself.",
+      "part": 3
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wraith_concerned_04",
+  "timestamp": "2025-05-11T15:10:02.215716",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.5999999046325684,
+      "text": " We can still figure a way out of this mess.",
+      "part": 1
+    }
+  ]
+}

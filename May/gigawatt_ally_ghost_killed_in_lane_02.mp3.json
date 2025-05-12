@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "gigawatt_ally_ghost_killed_in_lane_02",
+  "timestamp": "2025-05-11T15:01:21.756056",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I took out Geist!",
+      "part": 1
+    }
+  ]
+}

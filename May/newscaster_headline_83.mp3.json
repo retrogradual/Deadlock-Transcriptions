@@ -1,0 +1,30 @@
+{
+  "voiceline_id": "newscaster_headline_83",
+  "timestamp": "2025-05-12T04:52:38.086369",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.9600000381469727,
+      "text": " Is it ethical to put children under a geish?",
+      "part": 1
+    },
+    {
+      "start": 2.9600000381469727,
+      "end": 7.28000020980835,
+      "text": " The hot new parenting trend has kids making their bed every morning, but some experts",
+      "part": 2
+    },
+    {
+      "start": 7.28000020980835,
+      "end": 11.760000228881836,
+      "text": " warn that supernatural compulsion could run the risk of hurting long-term relationships",
+      "part": 3
+    },
+    {
+      "start": 11.760000228881836,
+      "end": 13.479999542236328,
+      "text": " between parents and their kids.",
+      "part": 4
+    }
+  ]
+}

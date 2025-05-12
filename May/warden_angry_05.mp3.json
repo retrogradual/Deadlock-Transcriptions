@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "warden_angry_05",
+  "timestamp": "2025-05-11T15:08:50.266187",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " We will never break!",
+      "part": 1
+    }
+  ]
+}

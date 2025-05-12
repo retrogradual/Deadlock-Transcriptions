@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "newscaster_seasonal_atlas_unlock_01_alt_01",
+  "timestamp": "2025-05-12T04:52:44.229356",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.240000009536743,
+      "text": " Detective Abrams was last seen wearing a Santa hat.",
+      "part": 1
+    },
+    {
+      "start": 3.240000009536743,
+      "end": 6.71999979019165,
+      "text": " Reports that he's looking for Eggnog have not been substantiated.",
+      "part": 2
+    }
+  ]
+}

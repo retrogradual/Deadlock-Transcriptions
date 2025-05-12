@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "warden_select_04",
+  "timestamp": "2025-05-11T15:08:55.692935",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.5,
+      "text": " Too often people think of the benefits without ever considering the cost.",
+      "part": 1
+    }
+  ]
+}

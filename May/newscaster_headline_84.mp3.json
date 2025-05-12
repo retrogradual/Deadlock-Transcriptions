@@ -1,0 +1,36 @@
+{
+  "voiceline_id": "newscaster_headline_84",
+  "timestamp": "2025-05-12T04:52:37.742364",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.799999952316284,
+      "text": " Are voodoo dolls acceptable disciplinary tools in high school?",
+      "part": 1
+    },
+    {
+      "start": 3.799999952316284,
+      "end": 7.159999847412109,
+      "text": " A Brooklyn math teacher looking to test the outer bounds of tenure certainly",
+      "part": 2
+    },
+    {
+      "start": 7.159999847412109,
+      "end": 8.15999984741211,
+      "text": " thinks so.",
+      "part": 3
+    },
+    {
+      "start": 8.15999984741211,
+      "end": 12.039999961853027,
+      "text": " Read all about what happens when geometry goes bad in today's New York",
+      "part": 4
+    },
+    {
+      "start": 12.039999961853027,
+      "end": 12.399999618530273,
+      "text": " Oracle.",
+      "part": 5
+    }
+  ]
+}

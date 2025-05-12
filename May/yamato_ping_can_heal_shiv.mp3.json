@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "yamato_ping_can_heal_shiv",
+  "timestamp": "2025-05-11T15:10:39.216708",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "SIP. I CAN HEAR YOU.",
+      "part": 1
+    }
+  ]
+}

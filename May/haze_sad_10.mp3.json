@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "haze_sad_10",
+  "timestamp": "2025-05-11T15:03:26.102960",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " The despair is real.",
+      "part": 1
+    }
+  ]
+}

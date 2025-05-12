@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "warden_happy_08",
+  "timestamp": "2025-05-11T15:08:52.685832",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " They weren't ready for us.",
+      "part": 1
+    }
+  ]
+}

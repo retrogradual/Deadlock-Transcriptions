@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "shopkeeper_hotdog_t4_slork_01",
+  "timestamp": "2025-05-12T04:53:27.729767",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.5999999046325684,
+      "text": " Don't see too many fishmen walkin' around the city.",
+      "part": 1
+    }
+  ]
+}

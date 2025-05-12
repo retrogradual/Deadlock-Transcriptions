@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "yamato_ping_attack_nano",
+  "timestamp": "2025-05-11T15:10:36.509532",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Let's take out Kariko.",
+      "part": 1
+    }
+  ]
+}

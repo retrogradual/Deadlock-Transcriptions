@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "orion_concerned_09",
+  "timestamp": "2025-05-11T15:05:33.168111",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": " I've survived certain death before. I can do it again.",
+      "part": 1
+    }
+  ]
+}

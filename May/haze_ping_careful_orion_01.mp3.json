@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "haze_ping_careful_orion_01",
+  "timestamp": "2025-05-11T15:03:00.866519",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Be careful, Great Talon.",
+      "part": 1
+    }
+  ]
+}

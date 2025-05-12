@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "gigawatt_enemy_wraith_lifts_02",
+  "timestamp": "2025-05-11T15:01:57.899645",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " SOMEONE STOP REEF!",
+      "part": 1
+    }
+  ]
+}

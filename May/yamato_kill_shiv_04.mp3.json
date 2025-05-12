@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "yamato_kill_shiv_04",
+  "timestamp": "2025-05-12T02:52:11.492910",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Nice hair.",
+      "part": 1
+    }
+  ]
+}

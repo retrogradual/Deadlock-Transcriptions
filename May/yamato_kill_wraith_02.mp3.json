@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "yamato_kill_wraith_02",
+  "timestamp": "2025-05-12T02:52:15.168487",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Leavetown Race.",
+      "part": 1
+    }
+  ]
+}

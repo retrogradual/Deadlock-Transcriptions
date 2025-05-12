@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "mirage_ping_ignore_chrono",
+  "timestamp": "2025-05-12T03:59:51.775317",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Ignore Paradox!",
+      "part": 1
+    }
+  ]
+}

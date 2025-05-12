@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "newscaster_seasonal_haze_unlock_01_comp",
+  "timestamp": "2025-05-12T04:52:44.794744",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": " Hoping to soften their image, the OSIC Sandman Division released a holiday calendar this year.",
+      "part": 1
+    },
+    {
+      "start": 5.0,
+      "end": 7.0,
+      "text": " It only made them more terrifying.",
+      "part": 2
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "newscaster_headline_03",
+  "timestamp": "2025-05-12T04:52:18.661950",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.800000190734863,
+      "text": " Once an eclipse changed the world, who knows what today's celestial event will bring.",
+      "part": 1
+    }
+  ]
+}

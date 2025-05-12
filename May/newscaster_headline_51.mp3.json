@@ -1,0 +1,24 @@
+{
+  "voiceline_id": "newscaster_headline_51",
+  "timestamp": "2025-05-12T04:52:30.508005",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": " Gin Ambassador Neshala Dion has arrived in New York as negotiations continue.",
+      "part": 1
+    },
+    {
+      "start": 4.0,
+      "end": 7.0,
+      "text": " But, is the U.S. government really okay with selling Wyoming?",
+      "part": 2
+    },
+    {
+      "start": 7.0,
+      "end": 10.0,
+      "text": " For this story and more, pick up the New York Oracle today.",
+      "part": 3
+    }
+  ]
+}

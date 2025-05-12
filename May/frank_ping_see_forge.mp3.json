@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "frank_ping_see_forge",
+  "timestamp": "2025-05-11T15:00:16.878874",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I seem to get it.",
+      "part": 1
+    }
+  ]
+}

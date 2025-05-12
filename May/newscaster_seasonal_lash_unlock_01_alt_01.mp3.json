@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "newscaster_seasonal_lash_unlock_01_alt_01",
+  "timestamp": "2025-05-12T04:52:45.427348",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": " Read the New York Oracle to find out.",
+      "part": 1
+    }
+  ]
+}

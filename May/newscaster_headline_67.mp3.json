@@ -1,0 +1,24 @@
+{
+  "voiceline_id": "newscaster_headline_67",
+  "timestamp": "2025-05-12T04:52:34.188913",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.519999980926514,
+      "text": " We were told that Lost Whisper was impregnable, but is there any truth to the rumor that a",
+      "part": 1
+    },
+    {
+      "start": 4.519999980926514,
+      "end": 6.440000057220459,
+      "text": " dangerous inmate escaped?",
+      "part": 2
+    },
+    {
+      "start": 6.440000057220459,
+      "end": 7.880000114440918,
+      "text": " The New York Oracle investigates.",
+      "part": 3
+    }
+  ]
+}

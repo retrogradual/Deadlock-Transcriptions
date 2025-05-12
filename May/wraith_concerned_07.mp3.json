@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wraith_concerned_07",
+  "timestamp": "2025-05-11T15:10:02.663825",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": " This is a bad time to have an off day.",
+      "part": 1
+    }
+  ]
+}

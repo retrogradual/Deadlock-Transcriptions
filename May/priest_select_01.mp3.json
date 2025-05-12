@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "priest_select_01",
+  "timestamp": "2025-05-11T15:05:36.845876",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.079999923706055,
+      "text": " I am a placeholder voice. Don't get me wrong, I sound great, but I belong behind the shot.",
+      "part": 1
+    },
+    {
+      "start": 5.079999923706055,
+      "end": 5.840000152587891,
+      "text": " Not with a gun.",
+      "part": 2
+    }
+  ]
+}

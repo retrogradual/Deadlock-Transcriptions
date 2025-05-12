@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "haze_angry_01",
+  "timestamp": "2025-05-11T15:03:18.871800",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I won't let them win.",
+      "part": 1
+    }
+  ]
+}

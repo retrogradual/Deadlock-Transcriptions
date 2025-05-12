@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bebop_sad_10",
+  "timestamp": "2025-05-11T14:59:09.957269",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " How did I get in this mess?",
+      "part": 1
+    }
+  ]
+}

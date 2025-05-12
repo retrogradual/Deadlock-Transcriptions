@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "newscaster_headline_57",
+  "timestamp": "2025-05-12T04:52:31.485773",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.440000057220459,
+      "text": " The Occult Security and Investigation Commission has opened a new office in New York.",
+      "part": 1
+    },
+    {
+      "start": 4.440000057220459,
+      "end": 8.800000190734863,
+      "text": " We hit the streets of Manhattan to find out if people feel more safe or more concerned.",
+      "part": 2
+    }
+  ]
+}

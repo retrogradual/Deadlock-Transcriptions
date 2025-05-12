@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "shopkeeper_hotdog_open_gun_03",
+  "timestamp": "2025-05-12T04:52:59.019355",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": " Fun fact about ghosts, like humans, they don't like getting shot.",
+      "part": 1
+    }
+  ]
+}

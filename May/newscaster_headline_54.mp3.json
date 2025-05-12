@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "newscaster_headline_54",
+  "timestamp": "2025-05-12T04:52:30.289535",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.639999866485596,
+      "text": " An attempt on John Haythorne's life has raised security concerns for the controversial speaker's",
+      "part": 1
+    },
+    {
+      "start": 4.639999866485596,
+      "end": 6.039999961853027,
+      "text": " upcoming New York appearance.",
+      "part": 2
+    }
+  ]
+}

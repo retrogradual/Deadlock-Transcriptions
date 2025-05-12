@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "tengu_angry_07",
+  "timestamp": "2025-05-11T15:06:56.159281",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " We can't let them bully us!",
+      "part": 1
+    }
+  ]
+}

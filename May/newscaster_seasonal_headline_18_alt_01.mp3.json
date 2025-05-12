@@ -1,0 +1,24 @@
+{
+  "voiceline_id": "newscaster_seasonal_headline_18_alt_01",
+  "timestamp": "2025-05-12T04:52:41.934596",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0399999618530273,
+      "text": " Planning on going caroling this year?",
+      "part": 1
+    },
+    {
+      "start": 2.0399999618530273,
+      "end": 6.559999942779541,
+      "text": " This week's edition of the New York Oracle offers useful tips on how to raise spirits,",
+      "part": 2
+    },
+    {
+      "start": 6.559999942779541,
+      "end": 8.15999984741211,
+      "text": " but not raise spirits.",
+      "part": 3
+    }
+  ]
+}

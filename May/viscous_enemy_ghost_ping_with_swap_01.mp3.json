@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "viscous_enemy_ghost_ping_with_swap_01",
+  "timestamp": "2025-05-11T15:07:50.069913",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " The Geist is looking to swap!",
+      "part": 1
+    }
+  ]
+}

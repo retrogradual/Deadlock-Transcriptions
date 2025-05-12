@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "gigawatt_enemy_orion_see_missile_01",
+  "timestamp": "2025-05-11T15:01:42.587190",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Talon is hunting us!",
+      "part": 1
+    }
+  ]
+}

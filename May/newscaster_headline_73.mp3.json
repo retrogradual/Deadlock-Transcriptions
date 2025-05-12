@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "newscaster_headline_73",
+  "timestamp": "2025-05-12T04:52:35.563545",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.199999809265137,
+      "text": " A Soho cat cafe run by familiars has charmed the community, but to owner's mittens and",
+      "part": 1
+    },
+    {
+      "start": 5.199999809265137,
+      "end": 7.71999979019165,
+      "text": " peppermint, it's just another day making biscuits.",
+      "part": 2
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "shopkeeper_hotdog_buy_early_12",
+  "timestamp": "2025-05-12T04:53:05.594549",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": " Curios don't do justice to the wonders I sell.",
+      "part": 1
+    }
+  ]
+}

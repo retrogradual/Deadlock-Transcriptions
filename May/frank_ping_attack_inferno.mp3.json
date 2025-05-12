@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "frank_ping_attack_inferno",
+  "timestamp": "2025-05-11T15:00:21.920123",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Let's take out Infernus.",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wraith_happy_02",
+  "timestamp": "2025-05-11T15:10:03.473382",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Now that's a job well done!",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "priest_ping_with_mirage",
+  "timestamp": "2025-05-11T15:05:59.020541",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I'm with you, Mirage.",
+      "part": 1
+    }
+  ]
+}

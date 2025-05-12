@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "inferno_angry_06",
+  "timestamp": "2025-05-11T15:03:33.973117",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": " If you think you're winning, I've got some bad news for you.",
+      "part": 1
+    }
+  ]
+}

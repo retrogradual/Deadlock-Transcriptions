@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_ping_with_viper",
+  "timestamp": "2025-05-11T15:07:37.025966",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I'm with you, Viper.",
+      "part": 1
+    }
+  ]
+}

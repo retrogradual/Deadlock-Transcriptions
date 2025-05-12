@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "forge_sad_07",
+  "timestamp": "2025-05-11T15:00:05.401549",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Can I catch a break?",
+      "part": 1
+    }
+  ]
+}

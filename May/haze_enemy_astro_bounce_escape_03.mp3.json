@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "haze_enemy_astro_bounce_escape_03",
+  "timestamp": "2025-05-11T15:02:16.588803",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " You can't run forever, Holiday.",
+      "part": 1
+    }
+  ]
+}

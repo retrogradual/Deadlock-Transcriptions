@@ -1,0 +1,24 @@
+{
+  "voiceline_id": "newscaster_headline_64",
+  "timestamp": "2025-05-12T04:52:32.853369",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.5,
+      "text": " As the military campaign in Ixia continues, the controversial political organization",
+      "part": 1
+    },
+    {
+      "start": 4.5,
+      "end": 9.079999923706055,
+      "text": " Friends of Humanity announced a rally in New York to demand the U.S. cease sending aid",
+      "part": 2
+    },
+    {
+      "start": 9.079999923706055,
+      "end": 10.079999923706055,
+      "text": " to the Outer Plains.",
+      "part": 3
+    }
+  ]
+}

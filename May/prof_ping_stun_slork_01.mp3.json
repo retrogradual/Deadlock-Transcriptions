@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "prof_ping_stun_slork_01",
+  "timestamp": "2025-05-11T14:59:56.286368",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " STOMPFALUM!",
+      "part": 1
+    }
+  ]
+}

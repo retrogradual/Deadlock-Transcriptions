@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "astro_concerned_02",
+  "timestamp": "2025-05-11T14:58:48.769960",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " What's happening?",
+      "part": 1
+    }
+  ]
+}

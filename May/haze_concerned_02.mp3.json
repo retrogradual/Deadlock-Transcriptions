@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "haze_concerned_02",
+  "timestamp": "2025-05-11T15:03:20.481787",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " My work must continue.",
+      "part": 1
+    }
+  ]
+}

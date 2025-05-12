@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_ping_stun_ghost_01",
+  "timestamp": "2025-05-11T15:07:13.944815",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Sturmgeist!",
+      "part": 1
+    }
+  ]
+}

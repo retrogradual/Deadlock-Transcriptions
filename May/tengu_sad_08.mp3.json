@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "tengu_sad_08",
+  "timestamp": "2025-05-11T15:07:00.924660",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": " I thought we'd be in a different place by now.",
+      "part": 1
+    }
+  ]
+}

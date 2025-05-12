@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "warden_unselect_05",
+  "timestamp": "2025-05-11T15:08:57.155262",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I'm not ready to fight the Patrons.",
+      "part": 1
+    }
+  ]
+}

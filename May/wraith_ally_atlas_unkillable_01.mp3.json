@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wraith_ally_atlas_unkillable_01",
+  "timestamp": "2025-05-11T15:09:05.189948",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " You just can't stop that guy!",
+      "part": 1
+    }
+  ]
+}

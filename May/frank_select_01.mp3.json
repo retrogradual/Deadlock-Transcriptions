@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "frank_select_01",
+  "timestamp": "2025-05-11T15:00:48.025046",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I'm going to find out where I came from.",
+      "part": 1
+    }
+  ]
+}

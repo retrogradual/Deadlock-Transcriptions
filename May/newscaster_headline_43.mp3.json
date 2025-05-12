@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "newscaster_headline_43",
+  "timestamp": "2025-05-12T04:52:28.558853",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.519999980926514,
+      "text": " The Klansky trial has taken a dramatic turn today, as Miserhart took the stand to claim",
+      "part": 1
+    },
+    {
+      "start": 4.519999980926514,
+      "end": 8.84000015258789,
+      "text": " that Eric Klansky's botched exorcism caused the spirit inhumane pain and suffering.",
+      "part": 2
+    }
+  ]
+}

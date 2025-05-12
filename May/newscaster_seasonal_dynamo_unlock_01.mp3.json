@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "newscaster_seasonal_dynamo_unlock_01",
+  "timestamp": "2025-05-12T04:52:43.983071",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": " This just in, Professor Dynamo rang in the holiday season with style.",
+      "part": 1
+    }
+  ]
+}

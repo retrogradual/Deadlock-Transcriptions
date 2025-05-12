@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "warden_ally_chrono_swap_to_boss_02",
+  "timestamp": "2025-05-11T15:08:08.369995",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Well done, Paradox!",
+      "part": 1
+    }
+  ]
+}

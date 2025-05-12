@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wraith_ping_saw_inferno",
+  "timestamp": "2025-05-11T15:09:32.958531",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I saw in furnace.",
+      "part": 1
+    }
+  ]
+}

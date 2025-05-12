@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "newscaster_headline_53",
+  "timestamp": "2025-05-12T04:52:30.417501",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.5,
+      "text": " Is Trinity Church an undead time bomb waiting to explode?",
+      "part": 1
+    },
+    {
+      "start": 3.5,
+      "end": 6.440000057220459,
+      "text": " We talk with Premier Necromancer Frederick Toten to get his take.",
+      "part": 2
+    }
+  ]
+}

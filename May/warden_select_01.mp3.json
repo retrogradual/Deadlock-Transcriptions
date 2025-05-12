@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "warden_select_01",
+  "timestamp": "2025-05-11T15:08:55.468199",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.5,
+      "text": " The patrons must be stopped, no matter the cost.",
+      "part": 1
+    }
+  ]
+}

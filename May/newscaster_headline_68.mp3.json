@@ -1,0 +1,24 @@
+{
+  "voiceline_id": "newscaster_headline_68",
+  "timestamp": "2025-05-12T04:52:34.370009",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.680000066757202,
+      "text": " Airships have made travel faster than ever, but not everyone is comfortable putting their",
+      "part": 1
+    },
+    {
+      "start": 3.680000066757202,
+      "end": 5.760000228881836,
+      "text": " safety in the hands of a Zephyr.",
+      "part": 2
+    },
+    {
+      "start": 5.760000228881836,
+      "end": 8.479999542236328,
+      "text": " Are those concerns reasonable, or just misplaced fear?",
+      "part": 3
+    }
+  ]
+}

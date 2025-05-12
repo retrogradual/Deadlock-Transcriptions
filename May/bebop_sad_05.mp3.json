@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bebop_sad_05",
+  "timestamp": "2025-05-11T14:59:09.162964",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " This isn't the outcome I was expecting.",
+      "part": 1
+    }
+  ]
+}

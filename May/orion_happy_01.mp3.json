@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "orion_happy_01",
+  "timestamp": "2025-05-11T15:05:32.928434",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Yes.",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "orion_happy_09",
+  "timestamp": "2025-05-11T15:05:33.904505",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": " We keep this up, the battle will be over soon.",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "voiceline_id": "newscaster_headline_60",
+  "timestamp": "2025-05-12T04:52:32.257656",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.559999942779541,
+      "text": " The Mendoza syndicate may have been driven out of Spanish Harlem, but is their criminal",
+      "part": 1
+    },
+    {
+      "start": 3.559999942779541,
+      "end": 5.119999885559082,
+      "text": " empire truly gone?",
+      "part": 2
+    },
+    {
+      "start": 5.119999885559082,
+      "end": 7.28000020980835,
+      "text": " We talked to local law enforcement to get their take.",
+      "part": 3
+    }
+  ]
+}

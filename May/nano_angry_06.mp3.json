@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "nano_angry_06",
+  "timestamp": "2025-05-11T15:05:17.381642",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " How are we screwing this up?",
+      "part": 1
+    }
+  ]
+}

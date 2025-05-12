@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wraith_ping_stun_orion_01",
+  "timestamp": "2025-05-11T15:09:46.012921",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " STUN GREY TALON!",
+      "part": 1
+    }
+  ]
+}

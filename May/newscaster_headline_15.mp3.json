@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "newscaster_headline_15",
+  "timestamp": "2025-05-12T04:52:21.556647",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": " This week in the New York Oracle, warding your house on a budget.",
+      "part": 1
+    }
+  ]
+}

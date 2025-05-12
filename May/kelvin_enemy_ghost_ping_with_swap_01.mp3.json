@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "kelvin_enemy_ghost_ping_with_swap_01",
+  "timestamp": "2025-05-11T15:03:40.516785",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Don't get close to Geist!",
+      "part": 1
+    }
+  ]
+}

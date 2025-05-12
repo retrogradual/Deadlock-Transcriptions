@@ -1,0 +1,24 @@
+{
+  "voiceline_id": "newscaster_headline_45",
+  "timestamp": "2025-05-12T04:52:29.005550",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.079999923706055,
+      "text": " A murder of crows suspected to be the infamous serial killer known as the troubadour was",
+      "part": 1
+    },
+    {
+      "start": 4.079999923706055,
+      "end": 6.639999866485596,
+      "text": " spotted flying over Champaign-Urbana today.",
+      "part": 2
+    },
+    {
+      "start": 6.639999866485596,
+      "end": 8.359999656677246,
+      "text": " Could he be flying to New York?",
+      "part": 3
+    }
+  ]
+}

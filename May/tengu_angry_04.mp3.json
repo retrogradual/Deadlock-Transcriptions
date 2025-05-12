@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "tengu_angry_04",
+  "timestamp": "2025-05-11T15:06:55.605756",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I won't let you get away with that!",
+      "part": 1
+    }
+  ]
+}

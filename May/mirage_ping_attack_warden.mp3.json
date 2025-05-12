@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "mirage_ping_attack_warden",
+  "timestamp": "2025-05-12T04:00:44.253286",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " LET'S CHECK OUT WARDEN!",
+      "part": 1
+    }
+  ]
+}

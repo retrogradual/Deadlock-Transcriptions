@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bookworm_ping_can_heal_wraith",
+  "timestamp": "2025-05-11T14:59:46.549157",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Wraith, I can heal you!",
+      "part": 1
+    }
+  ]
+}

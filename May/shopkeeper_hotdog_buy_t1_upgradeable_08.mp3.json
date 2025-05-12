@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "shopkeeper_hotdog_buy_t1_upgradeable_08",
+  "timestamp": "2025-05-12T04:53:12.382986",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": " You're laying down the groundwork for something impressive.",
+      "part": 1
+    }
+  ]
+}

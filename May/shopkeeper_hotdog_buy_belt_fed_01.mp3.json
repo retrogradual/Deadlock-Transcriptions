@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "shopkeeper_hotdog_buy_belt_fed_01",
+  "timestamp": "2025-05-12T04:53:02.266505",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " HELLO RATE OF FIRE!",
+      "part": 1
+    }
+  ]
+}

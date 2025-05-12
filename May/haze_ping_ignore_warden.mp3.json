@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "haze_ping_ignore_warden",
+  "timestamp": "2025-05-11T15:03:11.764029",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Ignore Worden.",
+      "part": 1
+    }
+  ]
+}

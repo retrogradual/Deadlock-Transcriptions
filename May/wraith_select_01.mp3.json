@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wraith_select_01",
+  "timestamp": "2025-05-11T15:10:06.809080",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.5199999809265137,
+      "text": " If you think crime doesn't pay, you are outrageously bad at crime.",
+      "part": 1
+    }
+  ]
+}

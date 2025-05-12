@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "haze_sad_08",
+  "timestamp": "2025-05-11T15:03:24.985511",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " We're outmatched.",
+      "part": 1
+    }
+  ]
+}

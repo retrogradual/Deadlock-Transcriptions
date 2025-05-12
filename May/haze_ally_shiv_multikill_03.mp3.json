@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "haze_ally_shiv_multikill_03",
+  "timestamp": "2025-05-11T15:03:02.353784",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Great work, Shiv.",
+      "part": 1
+    }
+  ]
+}

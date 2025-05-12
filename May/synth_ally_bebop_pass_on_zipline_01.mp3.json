@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "synth_ally_bebop_pass_on_zipline_01",
+  "timestamp": "2025-05-11T15:06:36.339643",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Be safe, Bebop!",
+      "part": 1
+    }
+  ]
+}

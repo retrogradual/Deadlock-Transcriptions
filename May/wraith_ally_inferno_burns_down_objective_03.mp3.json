@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wraith_ally_inferno_burns_down_objective_03",
+  "timestamp": "2025-05-11T15:09:30.972412",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": " Admit it, Infernus. You're having fun.",
+      "part": 1
+    }
+  ]
+}

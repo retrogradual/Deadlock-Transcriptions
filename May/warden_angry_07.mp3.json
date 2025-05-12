@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "warden_angry_07",
+  "timestamp": "2025-05-11T15:08:49.917212",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I won't go quietly.",
+      "part": 1
+    }
+  ]
+}

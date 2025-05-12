@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "priest_ping_saw_bebop",
+  "timestamp": "2025-05-11T15:05:42.753718",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I SAW A BEEBA!",
+      "part": 1
+    }
+  ]
+}

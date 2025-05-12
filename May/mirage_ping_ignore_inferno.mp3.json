@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "mirage_ping_ignore_inferno",
+  "timestamp": "2025-05-12T04:00:09.432653",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Ignore Infernalis!",
+      "part": 1
+    }
+  ]
+}

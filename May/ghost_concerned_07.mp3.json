@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "ghost_concerned_07",
+  "timestamp": "2025-05-11T15:00:55.020536",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "text": " If we don't come together, we're doomed.",
+      "part": 1
+    }
+  ]
+}

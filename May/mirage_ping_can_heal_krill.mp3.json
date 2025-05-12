@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "mirage_ping_can_heal_krill",
+  "timestamp": "2025-05-12T04:00:13.156188",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Clear! I can hear you!",
+      "part": 1
+    }
+  ]
+}

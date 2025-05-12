@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "wraith_unselect_10",
+  "timestamp": "2025-05-11T15:10:10.194291",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " You need to find a craps or poker game?",
+      "part": 1
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": " Give me a call.",
+      "part": 2
+    }
+  ]
+}

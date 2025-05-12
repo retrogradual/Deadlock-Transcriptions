@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "viscous_enemy_ghost_ping_with_swap_03",
+  "timestamp": "2025-05-11T15:07:50.243515",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": " Don't let Geist get too close to you!",
+      "part": 1
+    }
+  ]
+}

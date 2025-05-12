@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "newscaster_headline_02",
+  "timestamp": "2025-05-12T04:52:18.679584",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.8799999952316284,
+      "text": " What calamities await New York?",
+      "part": 1
+    },
+    {
+      "start": 1.8799999952316284,
+      "end": 5.320000171661377,
+      "text": " For five measly pennies, our prognostications can be yours!",
+      "part": 2
+    }
+  ]
+}

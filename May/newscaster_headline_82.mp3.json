@@ -1,0 +1,24 @@
+{
+  "voiceline_id": "newscaster_headline_82",
+  "timestamp": "2025-05-12T04:52:37.606371",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.28000020980835,
+      "text": " Is the doll in your attic plotting murder, or simply a trapped soul praying for a death",
+      "part": 1
+    },
+    {
+      "start": 4.28000020980835,
+      "end": 5.880000114440918,
+      "text": " that will never come?",
+      "part": 2
+    },
+    {
+      "start": 5.880000114440918,
+      "end": 9.5600004196167,
+      "text": " We talked to local artificers to find out how you can tell the difference.",
+      "part": 3
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "haze_enemy_wraith_lifts_02",
+  "timestamp": "2025-05-11T15:03:13.472588",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I pray I don't survive this race.",
+      "part": 1
+    }
+  ]
+}

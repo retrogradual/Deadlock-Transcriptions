@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "priest_ping_with_slork",
+  "timestamp": "2025-05-11T15:06:04.695220",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I'm with you, Fathom!",
+      "part": 1
+    }
+  ]
+}

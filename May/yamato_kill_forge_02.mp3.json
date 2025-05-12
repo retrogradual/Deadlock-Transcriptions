@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "yamato_kill_forge_02",
+  "timestamp": "2025-05-12T02:52:03.009039",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "\u304a\u524d\u306a\u3069\u79c1\u306e\u76f8\u624b\u3067\u306f\u306a\u3044\u3001\u30de\u30af\u30ae\u30cb\u30b9\u3002",
+      "part": 1
+    }
+  ]
+}

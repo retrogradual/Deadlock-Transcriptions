@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "gigawatt_ping_stun_orion_01",
+  "timestamp": "2025-05-11T15:01:44.073944",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Stunning Great Talon!",
+      "part": 1
+    }
+  ]
+}

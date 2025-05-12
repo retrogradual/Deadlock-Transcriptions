@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "warden_ping_post_game_06",
+  "timestamp": "2025-05-11T15:08:58.440826",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Good job, everyone.",
+      "part": 1
+    }
+  ]
+}

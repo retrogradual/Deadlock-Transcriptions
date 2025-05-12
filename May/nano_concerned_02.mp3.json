@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "nano_concerned_02",
+  "timestamp": "2025-05-11T15:05:18.520498",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I need to stay focused.",
+      "part": 1
+    }
+  ]
+}

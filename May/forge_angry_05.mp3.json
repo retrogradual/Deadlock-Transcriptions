@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "forge_angry_05",
+  "timestamp": "2025-05-11T14:59:59.837348",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Oh, they're gonna pay for that.",
+      "part": 1
+    }
+  ]
+}

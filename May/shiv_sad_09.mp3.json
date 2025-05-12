@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "shiv_sad_09",
+  "timestamp": "2025-05-11T15:06:25.794696",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Just end it already.",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "priest_ping_stun_atlas_01",
+  "timestamp": "2025-05-11T15:05:41.795899",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " STAN ABRAMS",
+      "part": 1
+    }
+  ]
+}

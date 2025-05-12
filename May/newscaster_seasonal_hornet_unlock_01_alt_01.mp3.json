@@ -1,0 +1,24 @@
+{
+  "voiceline_id": "newscaster_seasonal_hornet_unlock_01_alt_01",
+  "timestamp": "2025-05-12T04:52:45.063060",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.200000047683716,
+      "text": " Is Vindicta executing individuals with alarming frequency?",
+      "part": 1
+    },
+    {
+      "start": 3.200000047683716,
+      "end": 7.920000076293945,
+      "text": " Yes. Are people strangely okay with it because she's dressed as a murderous elf?",
+      "part": 2
+    },
+    {
+      "start": 7.920000076293945,
+      "end": 9.119999885559082,
+      "text": " Absolutely!",
+      "part": 3
+    }
+  ]
+}

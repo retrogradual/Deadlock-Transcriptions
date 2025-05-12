@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "yamato_ping_see_chrono",
+  "timestamp": "2025-05-11T15:10:21.963900",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "IC Paradox",
+      "part": 1
+    }
+  ]
+}

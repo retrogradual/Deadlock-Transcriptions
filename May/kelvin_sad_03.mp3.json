@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "kelvin_sad_03",
+  "timestamp": "2025-05-11T15:03:49.460623",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " This does not look good.",
+      "part": 1
+    }
+  ]
+}

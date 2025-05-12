@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "inferno_sad_04",
+  "timestamp": "2025-05-11T15:03:38.727746",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Nothing's going the way it's supposed to.",
+      "part": 1
+    }
+  ]
+}

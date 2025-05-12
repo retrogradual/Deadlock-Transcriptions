@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "shopkeeper_hotdog_buy_veil_walker_01",
+  "timestamp": "2025-05-12T04:53:15.543456",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.139999866485596,
+      "text": " If you feel a little tingly when you walk in the veil, that's totally normal and probably",
+      "part": 1
+    },
+    {
+      "start": 4.139999866485596,
+      "end": 5.920000076293945,
+      "text": " doesn't have long-term consequences.",
+      "part": 2
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "newscaster_headline_04",
+  "timestamp": "2025-05-12T04:52:18.874108",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.28000020980835,
+      "text": " While most of New York remains huddled in their apartments, 12 individuals seek to make",
+      "part": 1
+    },
+    {
+      "start": 4.28000020980835,
+      "end": 5.920000076293945,
+      "text": " contact with the patron.",
+      "part": 2
+    }
+  ]
+}

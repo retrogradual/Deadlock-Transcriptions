@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "chrono_select_07",
+  "timestamp": "2025-05-11T14:59:51.248283",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.960000038146973,
+      "text": " Don't expect me to explain how this all works, just be happy that it works.",
+      "part": 1
+    }
+  ]
+}

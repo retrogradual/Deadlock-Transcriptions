@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "mirage_ping_post_game_03",
+  "timestamp": "2025-05-12T04:00:55.344083",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " We have ushered in a new age.",
+      "part": 1
+    }
+  ]
+}

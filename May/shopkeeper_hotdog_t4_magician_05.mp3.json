@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "shopkeeper_hotdog_t4_magician_05",
+  "timestamp": "2025-05-12T04:53:24.010770",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Don't get in too much trouble, Sinclair.",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "yamato_ping_can_heal_forge",
+  "timestamp": "2025-05-11T15:10:23.770619",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "\u30de\u30af\u30ae\u30cb\u30b9\u3001I can heal you!",
+      "part": 1
+    }
+  ]
+}

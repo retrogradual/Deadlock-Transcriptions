@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "shopkeeper_hotdog_t4_slork_04",
+  "timestamp": "2025-05-12T04:53:28.046650",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.240000009536743,
+      "text": " Thanks for not rippin' my face off, Fathom!",
+      "part": 1
+    },
+    {
+      "start": 2.240000009536743,
+      "end": 4.239999771118164,
+      "text": " The missus'll appreciate it!",
+      "part": 2
+    }
+  ]
+}

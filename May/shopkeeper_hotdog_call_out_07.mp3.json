@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "shopkeeper_hotdog_call_out_07",
+  "timestamp": "2025-05-12T04:52:56.721813",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.5199999809265137,
+      "text": " All the power of design-o-mystics with none o' the pretension!",
+      "part": 1
+    },
+    {
+      "start": 3.5199999809265137,
+      "end": 5.519999980926514,
+      "text": " Come to the Curiosity Shop today!",
+      "part": 2
+    }
+  ]
+}

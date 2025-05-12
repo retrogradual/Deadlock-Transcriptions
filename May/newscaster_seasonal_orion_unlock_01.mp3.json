@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "newscaster_seasonal_orion_unlock_01",
+  "timestamp": "2025-05-12T04:52:46.011462",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": " Is Grey Talon looking to give the gift of murder this holiday season?",
+      "part": 1
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": " Our sources say yes.",
+      "part": 2
+    }
+  ]
+}

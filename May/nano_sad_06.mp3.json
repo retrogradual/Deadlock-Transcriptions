@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "nano_sad_06",
+  "timestamp": "2025-05-11T15:05:22.394587",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " It wasn't supposed to go this way.",
+      "part": 1
+    }
+  ]
+}

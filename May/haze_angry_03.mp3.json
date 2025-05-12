@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "haze_angry_03",
+  "timestamp": "2025-05-11T15:03:19.308937",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " They've made a grave error.",
+      "part": 1
+    }
+  ]
+}

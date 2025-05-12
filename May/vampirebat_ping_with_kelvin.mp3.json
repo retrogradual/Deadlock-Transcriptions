@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_ping_with_kelvin",
+  "timestamp": "2025-05-11T15:07:21.059793",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I'm with you, Calvin.",
+      "part": 1
+    }
+  ]
+}

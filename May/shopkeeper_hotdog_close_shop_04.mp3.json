@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "shopkeeper_hotdog_close_shop_04",
+  "timestamp": "2025-05-12T04:52:57.540675",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Time to relocate!",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "mirage_select_10",
+  "timestamp": "2025-05-12T04:00:53.759907",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " We all have a destiny.",
+      "part": 1
+    },
+    {
+      "start": 2.0,
+      "end": 5.0,
+      "text": " The only question is, do you have the courage to face it?",
+      "part": 2
+    }
+  ]
+}

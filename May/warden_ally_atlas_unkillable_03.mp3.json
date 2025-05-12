@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "warden_ally_atlas_unkillable_03",
+  "timestamp": "2025-05-11T15:08:03.642647",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": " That man fights like a demon. That's...",
+      "part": 1
+    },
+    {
+      "start": 3.0,
+      "end": 5.0,
+      "text": " ...fairly unsurprising, actually.",
+      "part": 2
+    }
+  ]
+}

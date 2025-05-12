@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "shopkeeper_hotdog_open_gun_02",
+  "timestamp": "2025-05-12T04:52:58.132695",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.799999952316284,
+      "text": " I see you're a discerning individual with a penchant for violence.",
+      "part": 1
+    }
+  ]
+}

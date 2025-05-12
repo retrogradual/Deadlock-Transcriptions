@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "astro_enemy_ghost_ping_with_swap_03",
+  "timestamp": "2025-05-11T14:58:45.638258",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Guys can swap, be careful!",
+      "part": 1
+    }
+  ]
+}

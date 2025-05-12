@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "shopkeeper_hotdog_call_out_09",
+  "timestamp": "2025-05-12T04:52:56.788419",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.4000000953674316,
+      "text": " Guns! Get your guns over here!",
+      "part": 1
+    }
+  ]
+}

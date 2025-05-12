@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "haze_concerned_07",
+  "timestamp": "2025-05-11T15:03:21.854373",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": " If we don't change tactics, we're going to die.",
+      "part": 1
+    }
+  ]
+}

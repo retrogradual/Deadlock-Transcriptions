@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wraith_ping_careful_haze_03",
+  "timestamp": "2025-05-11T15:09:26.522590",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": " Careful, Hayes!",
+      "part": 1
+    }
+  ]
+}

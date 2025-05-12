@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wraith_ping_post_game_04",
+  "timestamp": "2025-05-11T15:10:10.342215",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.440000057220459,
+      "text": " Glad it went the way it did.",
+      "part": 1
+    }
+  ]
+}

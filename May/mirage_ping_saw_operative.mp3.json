@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "mirage_ping_saw_operative",
+  "timestamp": "2025-05-12T04:00:24.407340",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": " I saw a raven!",
+      "part": 1
+    }
+  ]
+}

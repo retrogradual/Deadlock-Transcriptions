@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "krill_sad_04",
+  "timestamp": "2025-05-11T15:04:01.588321",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I just want this to be over.",
+      "part": 1
+    }
+  ]
+}

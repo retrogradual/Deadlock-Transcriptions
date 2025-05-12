@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "yamato_ping_careful_inferno_02",
+  "timestamp": "2025-05-11T15:10:30.140416",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Care for InFARNESS.",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "mirage_ping_stun_krill_01",
+  "timestamp": "2025-05-12T04:00:14.654838",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Stonegrin!",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "shiv_ping_stun_slork_01",
+  "timestamp": "2025-05-11T15:06:30.904674",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Stun Fathom!",
+      "part": 1
+    }
+  ]
+}

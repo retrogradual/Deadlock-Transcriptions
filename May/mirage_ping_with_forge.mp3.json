@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "mirage_ping_with_forge",
+  "timestamp": "2025-05-12T03:59:57.032076",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I'm with you McGinnis.",
+      "part": 1
+    }
+  ]
+}

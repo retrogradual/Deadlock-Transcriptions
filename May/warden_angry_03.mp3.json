@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "warden_angry_03",
+  "timestamp": "2025-05-11T15:08:49.508099",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " You will never win!",
+      "part": 1
+    }
+  ]
+}

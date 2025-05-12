@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wraith_angry_01",
+  "timestamp": "2025-05-11T15:10:00.338027",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " How is this happening?",
+      "part": 1
+    }
+  ]
+}

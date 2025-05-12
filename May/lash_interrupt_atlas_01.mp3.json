@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "lash_interrupt_atlas_01",
+  "timestamp": "2025-05-11T15:04:09.968947",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Yeah, sorry Abrams.",
+      "part": 1
+    }
+  ]
+}

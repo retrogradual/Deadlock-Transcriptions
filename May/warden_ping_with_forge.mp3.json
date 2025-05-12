@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "warden_ping_with_forge",
+  "timestamp": "2025-05-11T15:08:14.942782",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I'm with you McGinnis!",
+      "part": 1
+    }
+  ]
+}

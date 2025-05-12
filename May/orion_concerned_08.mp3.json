@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "orion_concerned_08",
+  "timestamp": "2025-05-11T15:05:32.493062",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.4000000953674316,
+      "text": " The stakes are too high. I must remain calm.",
+      "part": 1
+    }
+  ]
+}

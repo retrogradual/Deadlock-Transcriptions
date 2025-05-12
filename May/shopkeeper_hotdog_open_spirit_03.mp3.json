@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "shopkeeper_hotdog_open_spirit_03",
+  "timestamp": "2025-05-12T04:52:59.562723",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.5,
+      "text": " Firearms, while great, aren't always the solution.",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "shopkeeper_hotdog_open_gun_04",
+  "timestamp": "2025-05-12T04:52:58.468519",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "text": " You ever see a gun shoot enchanted bullets?",
+      "part": 1
+    },
+    {
+      "start": 2.5,
+      "end": 4.5,
+      "text": " Buddy, it is a sight to behold!",
+      "part": 2
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "frank_ping_ignore_viper",
+  "timestamp": "2025-05-11T15:00:41.182765",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Ignore Viber.",
+      "part": 1
+    }
+  ]
+}

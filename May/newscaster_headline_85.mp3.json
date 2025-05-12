@@ -1,0 +1,24 @@
+{
+  "voiceline_id": "newscaster_headline_85",
+  "timestamp": "2025-05-12T04:52:38.267327",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.960000038146973,
+      "text": " Expecting parents have long kept the names of their babies secret, but now a new OSIC",
+      "part": 1
+    },
+    {
+      "start": 4.960000038146973,
+      "end": 9.880000114440918,
+      "text": " HEX report has some families questioning about ever revealing their children's true name.",
+      "part": 2
+    },
+    {
+      "start": 9.880000114440918,
+      "end": 13.0,
+      "text": " Readers weigh in with their thoughts in today's New York Oracle.",
+      "part": 3
+    }
+  ]
+}

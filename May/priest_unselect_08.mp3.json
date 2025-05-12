@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "priest_unselect_08",
+  "timestamp": "2025-05-11T15:05:39.070202",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I gotta go mine this store anyway.",
+      "part": 1
+    }
+  ]
+}

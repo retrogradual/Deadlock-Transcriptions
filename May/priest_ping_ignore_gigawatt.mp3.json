@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "priest_ping_ignore_gigawatt",
+  "timestamp": "2025-05-11T15:05:48.441509",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Ignore 7!",
+      "part": 1
+    }
+  ]
+}

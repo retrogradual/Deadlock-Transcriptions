@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wraith_select_08",
+  "timestamp": "2025-05-11T15:10:07.852184",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": " Friends are just acquaintances you feel bad for extorting.",
+      "part": 1
+    }
+  ]
+}

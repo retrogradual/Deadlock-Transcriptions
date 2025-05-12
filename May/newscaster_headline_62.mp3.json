@@ -1,0 +1,24 @@
+{
+  "voiceline_id": "newscaster_headline_62",
+  "timestamp": "2025-05-12T04:52:32.419629",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.559999942779541,
+      "text": " Cadence and the Requiem Boys' new single, Paying the Price, has been tearing up the",
+      "part": 1
+    },
+    {
+      "start": 3.559999942779541,
+      "end": 4.559999942779541,
+      "text": " charts.",
+      "part": 2
+    },
+    {
+      "start": 4.559999942779541,
+      "end": 8.520000457763672,
+      "text": " But should parents be concerned about lyrics that some say glorify human sacrifice?",
+      "part": 3
+    }
+  ]
+}

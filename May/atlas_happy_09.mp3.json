@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "atlas_happy_09",
+  "timestamp": "2025-05-11T14:58:59.706251",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " This case will be closed in no time.",
+      "part": 1
+    }
+  ]
+}

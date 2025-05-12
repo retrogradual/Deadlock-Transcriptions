@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "newscaster_headline_01",
+  "timestamp": "2025-05-12T04:52:18.881998",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": " Come friends, the New York Oracle isn't just the news, it's a glimpse into the future!",
+      "part": 1
+    }
+  ]
+}

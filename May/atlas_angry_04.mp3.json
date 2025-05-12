@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "atlas_angry_04",
+  "timestamp": "2025-05-11T14:58:56.452989",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Well, you're gonna pay for that!",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "atlas_sad_08",
+  "timestamp": "2025-05-11T14:59:01.521562",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I know when we're outmatched.",
+      "part": 1
+    }
+  ]
+}

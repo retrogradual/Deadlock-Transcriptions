@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "gigawatt_enemy_ghost_ping_with_swap_01",
+  "timestamp": "2025-05-11T15:01:23.411791",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.799999952316284,
+      "text": " Be careful! Geist can steal our health!",
+      "part": 1
+    }
+  ]
+}

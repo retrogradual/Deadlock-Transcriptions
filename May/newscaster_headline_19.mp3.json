@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "newscaster_headline_19",
+  "timestamp": "2025-05-12T04:52:23.342190",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.5,
+      "text": " Bunko, Party Game, or Ritual Component?",
+      "part": 1
+    },
+    {
+      "start": 3.5,
+      "end": 5.5,
+      "text": " To the Soho Coven, it's a little of both.",
+      "part": 2
+    }
+  ]
+}

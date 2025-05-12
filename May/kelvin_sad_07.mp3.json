@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "kelvin_sad_07",
+  "timestamp": "2025-05-11T15:03:49.861777",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " How did this happen?",
+      "part": 1
+    }
+  ]
+}

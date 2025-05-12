@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_select_06",
+  "timestamp": "2025-05-11T15:07:43.979721",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": " Time to shake up the vampiric hierarchy.",
+      "part": 1
+    }
+  ]
+}

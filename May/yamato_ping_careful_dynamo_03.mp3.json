@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "yamato_ping_careful_dynamo_03",
+  "timestamp": "2025-05-11T15:10:23.134249",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Careful, Dynamo!",
+      "part": 1
+    }
+  ]
+}

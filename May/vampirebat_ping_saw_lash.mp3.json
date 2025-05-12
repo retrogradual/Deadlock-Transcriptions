@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_ping_saw_lash",
+  "timestamp": "2025-05-11T15:07:23.452107",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I SAW LASH!",
+      "part": 1
+    }
+  ]
+}

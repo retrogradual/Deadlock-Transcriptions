@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "newscaster_seasonal_headline_10",
+  "timestamp": "2025-05-12T04:52:40.046213",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": " Looking to make this holiday season more magical?",
+      "part": 1
+    },
+    {
+      "start": 3.0,
+      "end": 5.0,
+      "text": " Curse your enemies!",
+      "part": 2
+    }
+  ]
+}

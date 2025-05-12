@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "warden_ally_wraith_kill_in_lift_03",
+  "timestamp": "2025-05-11T15:08:44.012948",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Nice lift!",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wraith_enemy_chrono_kill_post_swap_01",
+  "timestamp": "2025-05-11T15:09:12.960291",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": " You didn't really think that would get it done, did you?",
+      "part": 1
+    }
+  ]
+}

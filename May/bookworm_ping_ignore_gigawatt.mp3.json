@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bookworm_ping_ignore_gigawatt",
+  "timestamp": "2025-05-11T14:59:22.310998",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.1200000047683716,
+      "text": " Ignore 7.",
+      "part": 1
+    }
+  ]
+}

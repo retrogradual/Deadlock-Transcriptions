@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "haze_ping_saw_bebop",
+  "timestamp": "2025-05-11T15:02:24.130851",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I saw Bebop.",
+      "part": 1
+    }
+  ]
+}

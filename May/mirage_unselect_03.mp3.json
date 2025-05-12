@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "mirage_unselect_03",
+  "timestamp": "2025-05-12T04:00:54.065716",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Apologies, I'm spoken for today.",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "gigawatt_angry_04",
+  "timestamp": "2025-05-11T15:02:04.030521",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": " This will be a massacre.",
+      "part": 1
+    }
+  ]
+}

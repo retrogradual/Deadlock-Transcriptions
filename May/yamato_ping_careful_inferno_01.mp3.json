@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "yamato_ping_careful_inferno_01",
+  "timestamp": "2025-05-11T15:10:29.932960",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Careful E-farness.",
+      "part": 1
+    }
+  ]
+}

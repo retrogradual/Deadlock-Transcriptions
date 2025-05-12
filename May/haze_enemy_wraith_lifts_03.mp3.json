@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "haze_enemy_wraith_lifts_03",
+  "timestamp": "2025-05-11T15:03:13.389738",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I'll make you suffer for this, Wraith!",
+      "part": 1
+    }
+  ]
+}

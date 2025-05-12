@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "warden_ally_shiv_multikill_01",
+  "timestamp": "2025-05-11T15:08:37.761880",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " It's impressive watching shift work.",
+      "part": 1
+    }
+  ]
+}

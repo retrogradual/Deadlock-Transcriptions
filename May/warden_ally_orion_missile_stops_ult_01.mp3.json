@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "warden_ally_orion_missile_stops_ult_01",
+  "timestamp": "2025-05-11T15:08:35.772892",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Thank you, Great Talon.",
+      "part": 1
+    }
+  ]
+}

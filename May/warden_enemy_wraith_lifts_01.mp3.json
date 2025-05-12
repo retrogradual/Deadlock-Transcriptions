@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "warden_enemy_wraith_lifts_01",
+  "timestamp": "2025-05-11T15:08:44.739812",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.800000011920929,
+      "text": " Wow.",
+      "part": 1
+    }
+  ]
+}

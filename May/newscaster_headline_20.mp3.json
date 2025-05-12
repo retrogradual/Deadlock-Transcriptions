@@ -1,0 +1,24 @@
+{
+  "voiceline_id": "newscaster_headline_20",
+  "timestamp": "2025-05-12T04:52:22.628950",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.360000133514404,
+      "text": " The Supreme Court today upheld Cinder Mall versus the state of Alabama, paving the way",
+      "part": 1
+    },
+    {
+      "start": 4.360000133514404,
+      "end": 6.239999771118164,
+      "text": " for the Spirit's congressional bid.",
+      "part": 2
+    },
+    {
+      "start": 6.239999771118164,
+      "end": 8.15999984741211,
+      "text": " Read all about it in the New York Oracle.",
+      "part": 3
+    }
+  ]
+}

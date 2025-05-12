@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bebop_concerned_02",
+  "timestamp": "2025-05-11T14:59:05.514695",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " This is why I don't like working in groups!",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "newscaster_headline_36",
+  "timestamp": "2025-05-12T04:52:26.509699",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.440000057220459,
+      "text": " Political firebrand, or founder of a new inquisition?",
+      "part": 1
+    },
+    {
+      "start": 3.440000057220459,
+      "end": 7.320000171661377,
+      "text": " Read our exclusive interview with John Haythorne and decide for yourself.",
+      "part": 2
+    }
+  ]
+}

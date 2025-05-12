@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "forge_sad_01",
+  "timestamp": "2025-05-11T15:00:04.070816",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.5,
+      "text": " DAMMIT!",
+      "part": 1
+    }
+  ]
+}

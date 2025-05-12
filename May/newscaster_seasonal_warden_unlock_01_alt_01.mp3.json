@@ -1,0 +1,30 @@
+{
+  "voiceline_id": "newscaster_seasonal_warden_unlock_01_alt_01",
+  "timestamp": "2025-05-12T04:52:47.077678",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Once, Warden was dressed as a cop.",
+      "part": 1
+    },
+    {
+      "start": 2.0,
+      "end": 5.0,
+      "text": " Now, he's dressed as a cop with a Santa hat.",
+      "part": 2
+    },
+    {
+      "start": 5.0,
+      "end": 6.0,
+      "text": " What will he look like next?",
+      "part": 3
+    },
+    {
+      "start": 6.0,
+      "end": 11.0,
+      "text": " The New York Oracle digs into this ever-evolving and seemingly unending mystery.",
+      "part": 4
+    }
+  ]
+}

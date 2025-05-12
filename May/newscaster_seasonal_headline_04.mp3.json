@@ -1,0 +1,24 @@
+{
+  "voiceline_id": "newscaster_seasonal_headline_04",
+  "timestamp": "2025-05-12T04:52:39.326784",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.159999847412109,
+      "text": " This month, Maximilian Fairfax made headlines after donating a small fortune to New York",
+      "part": 1
+    },
+    {
+      "start": 5.159999847412109,
+      "end": 10.359999656677246,
+      "text": " orphanages. When asked about his generous act, the CEO of Fairfax Industries replied,",
+      "part": 2
+    },
+    {
+      "start": 10.359999656677246,
+      "end": 12.640000343322754,
+      "text": " no one should be without family on the holidays.",
+      "part": 3
+    }
+  ]
+}

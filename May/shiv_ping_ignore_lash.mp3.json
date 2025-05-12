@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "shiv_ping_ignore_lash",
+  "timestamp": "2025-05-11T15:06:18.633874",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " IGNORE LASH!",
+      "part": 1
+    }
+  ]
+}

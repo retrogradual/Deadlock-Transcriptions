@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "priest_ping_careful_chrono_03",
+  "timestamp": "2025-05-11T15:05:43.776812",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " CAREFUL PARADOX!",
+      "part": 1
+    }
+  ]
+}

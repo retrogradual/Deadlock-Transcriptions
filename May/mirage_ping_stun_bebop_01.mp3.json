@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "mirage_ping_stun_bebop_01",
+  "timestamp": "2025-05-12T03:59:48.695292",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Stun bebop!",
+      "part": 1
+    }
+  ]
+}

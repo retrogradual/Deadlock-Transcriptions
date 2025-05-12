@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_ping_stun_shiv_01",
+  "timestamp": "2025-05-11T15:07:30.964903",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " ST\u0104D SI\u0118!",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "ghost_sad_09",
+  "timestamp": "2025-05-11T15:00:59.092232",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " We are overwhelmed!",
+      "part": 1
+    }
+  ]
+}

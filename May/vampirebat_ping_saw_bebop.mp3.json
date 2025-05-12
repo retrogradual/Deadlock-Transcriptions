@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_ping_saw_bebop",
+  "timestamp": "2025-05-11T15:07:07.297703",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I saw a bebop!",
+      "part": 1
+    }
+  ]
+}

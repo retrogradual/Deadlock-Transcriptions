@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "newscaster_headline_29",
+  "timestamp": "2025-05-12T04:52:24.864497",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.0,
+      "text": " In today's edition of the New York Oracle, we investigate which items in your apartment are most likely to be cursed.",
+      "part": 1
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": " You won't believe what we found!",
+      "part": 2
+    }
+  ]
+}

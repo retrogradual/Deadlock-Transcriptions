@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "mirage_ping_saw_orion",
+  "timestamp": "2025-05-12T04:00:26.764804",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I saw Grey Calon!",
+      "part": 1
+    }
+  ]
+}

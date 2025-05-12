@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "kelvin_sad_04",
+  "timestamp": "2025-05-11T15:03:49.266568",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": " I won't lie, it's hard to remain optimistic.",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "frank_select_09",
+  "timestamp": "2025-05-11T15:00:49.713031",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": " I hate looking into the mirror and staring into a stranger's eyes.",
+      "part": 1
+    },
+    {
+      "start": 4.5,
+      "end": 6.5,
+      "text": " Where does he end and I begin?",
+      "part": 2
+    }
+  ]
+}

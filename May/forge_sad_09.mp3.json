@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "forge_sad_09",
+  "timestamp": "2025-05-11T15:00:05.602600",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " God, I could use a drink.",
+      "part": 1
+    }
+  ]
+}

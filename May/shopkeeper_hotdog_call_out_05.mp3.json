@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "shopkeeper_hotdog_call_out_05",
+  "timestamp": "2025-05-12T04:52:56.443092",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.319999933242798,
+      "text": " Don't be caught in the maelstrom unprepared.",
+      "part": 1
+    },
+    {
+      "start": 2.319999933242798,
+      "end": 3.880000114440918,
+      "text": " Buy Mystic Goods today!",
+      "part": 2
+    }
+  ]
+}

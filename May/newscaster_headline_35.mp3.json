@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "newscaster_headline_35",
+  "timestamp": "2025-05-12T04:52:26.735867",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.5,
+      "text": " Is your local doomsayer insane or secretly a prophet?",
+      "part": 1
+    },
+    {
+      "start": 3.5,
+      "end": 5.5,
+      "text": " We asked experts how to spot the difference.",
+      "part": 2
+    }
+  ]
+}

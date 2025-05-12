@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "frank_ping_attack_bebop",
+  "timestamp": "2025-05-11T15:00:09.798898",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Let's take out Bebop.",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "shopkeeper_hotdog_open_gun_05",
+  "timestamp": "2025-05-12T04:52:58.913549",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.5999999046325684,
+      "text": " Things are only going to get weirder, my friend.",
+      "part": 1
+    },
+    {
+      "start": 2.5999999046325684,
+      "end": 3.799999952316284,
+      "text": " May I suggest a gun?",
+      "part": 2
+    }
+  ]
+}

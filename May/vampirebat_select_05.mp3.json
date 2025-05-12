@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_select_05",
+  "timestamp": "2025-05-11T15:07:43.422086",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": " I'm tired of being at the bottom of the vampiric social ladder.",
+      "part": 1
+    }
+  ]
+}

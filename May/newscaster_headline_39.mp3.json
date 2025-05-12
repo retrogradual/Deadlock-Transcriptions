@@ -1,0 +1,24 @@
+{
+  "voiceline_id": "newscaster_headline_39",
+  "timestamp": "2025-05-12T04:52:27.138389",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.5999999046325684,
+      "text": " Rogers and Hammerstein's latest musical, South Pacific, has become the hottest ticket",
+      "part": 1
+    },
+    {
+      "start": 3.5999999046325684,
+      "end": 7.800000190734863,
+      "text": " in town, with some would-be theatergoers selling one-eighth of their souls to scouters for",
+      "part": 2
+    },
+    {
+      "start": 7.800000190734863,
+      "end": 8.520000457763672,
+      "text": " prime seating.",
+      "part": 3
+    }
+  ]
+}

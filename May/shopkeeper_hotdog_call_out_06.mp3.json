@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "shopkeeper_hotdog_call_out_06",
+  "timestamp": "2025-05-12T04:52:56.239723",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.440000057220459,
+      "text": " Get all the ritual supplies you need at the Curiosity Shop!",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "forge_concerned_08",
+  "timestamp": "2025-05-11T15:00:01.522495",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Let's not get too cocky!",
+      "part": 1
+    }
+  ]
+}

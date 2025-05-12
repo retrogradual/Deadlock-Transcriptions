@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "ghost_angry_03",
+  "timestamp": "2025-05-11T15:00:52.196511",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " How can this be happening?",
+      "part": 1
+    }
+  ]
+}

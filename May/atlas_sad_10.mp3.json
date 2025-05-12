@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "atlas_sad_10",
+  "timestamp": "2025-05-11T14:59:01.913297",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " This wasn't supposed to happen!",
+      "part": 1
+    }
+  ]
+}

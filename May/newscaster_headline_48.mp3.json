@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "newscaster_headline_48",
+  "timestamp": "2025-05-12T04:52:29.337722",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.359999895095825,
+      "text": " Looking to take your kids to the bleak carnival?",
+      "part": 1
+    },
+    {
+      "start": 2.359999895095825,
+      "end": 6.360000133514404,
+      "text": " Pick up your copy of the New York Oracle to find out how to keep your family safe.",
+      "part": 2
+    }
+  ]
+}

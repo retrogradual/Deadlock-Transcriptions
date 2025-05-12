@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "yamato_ping_ignore_wraith",
+  "timestamp": "2025-05-11T15:10:46.031565",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Ignore race.",
+      "part": 1
+    }
+  ]
+}

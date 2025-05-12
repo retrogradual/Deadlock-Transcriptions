@@ -1,0 +1,30 @@
+{
+  "voiceline_id": "newscaster_headline_38",
+  "timestamp": "2025-05-12T04:52:27.330882",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.640000104904175,
+      "text": " Late last night, Nathan Weiss, the center for the Knickerbockers, was found with their",
+      "part": 1
+    },
+    {
+      "start": 3.640000104904175,
+      "end": 4.639999866485596,
+      "text": " legs broken.",
+      "part": 2
+    },
+    {
+      "start": 4.639999866485596,
+      "end": 8.680000305175781,
+      "text": " Reports that it involved a gambling debt to a Madison Avenue Curio shop owner have yet",
+      "part": 3
+    },
+    {
+      "start": 8.680000305175781,
+      "end": 9.720000267028809,
+      "text": " to be substantiated.",
+      "part": 4
+    }
+  ]
+}

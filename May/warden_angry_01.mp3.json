@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "warden_angry_01",
+  "timestamp": "2025-05-11T15:08:49.158950",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " YOU ANSWER TO ME!",
+      "part": 1
+    }
+  ]
+}

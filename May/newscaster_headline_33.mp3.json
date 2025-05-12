@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "newscaster_headline_33",
+  "timestamp": "2025-05-12T04:52:25.726411",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.799999952316284,
+      "text": " Congress debates possible alchemy restrictions.",
+      "part": 1
+    },
+    {
+      "start": 2.799999952316284,
+      "end": 4.800000190734863,
+      "text": " Read all about it in the New York Oracle.",
+      "part": 2
+    }
+  ]
+}

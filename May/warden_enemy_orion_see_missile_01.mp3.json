@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "warden_enemy_orion_see_missile_01",
+  "timestamp": "2025-05-11T15:08:36.197436",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Great talent is on the hunt.",
+      "part": 1
+    }
+  ]
+}

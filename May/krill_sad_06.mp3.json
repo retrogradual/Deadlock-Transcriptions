@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "krill_sad_06",
+  "timestamp": "2025-05-11T15:04:01.931656",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " We're so far behind, Maurice.",
+      "part": 1
+    }
+  ]
+}

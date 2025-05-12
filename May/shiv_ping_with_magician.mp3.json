@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "shiv_ping_with_magician",
+  "timestamp": "2025-05-11T15:06:28.432628",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I'm with ya, Sinclair!",
+      "part": 1
+    }
+  ]
+}

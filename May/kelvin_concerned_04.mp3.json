@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "kelvin_concerned_04",
+  "timestamp": "2025-05-11T15:03:44.479196",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " This is rather bad.",
+      "part": 1
+    }
+  ]
+}

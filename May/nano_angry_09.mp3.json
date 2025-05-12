@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "nano_angry_09",
+  "timestamp": "2025-05-11T15:05:17.811305",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " You brought this on yourselves.",
+      "part": 1
+    }
+  ]
+}

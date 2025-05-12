@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wraith_concerned_02",
+  "timestamp": "2025-05-11T15:10:02.355727",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I'm not feeling good about this.",
+      "part": 1
+    }
+  ]
+}

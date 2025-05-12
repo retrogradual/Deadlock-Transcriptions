@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "shopkeeper_hotdog_buy_early_11",
+  "timestamp": "2025-05-12T04:53:04.923672",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": " What are you looking for? Guns? Trinkets? Tickets to South Pacific?",
+      "part": 1
+    }
+  ]
+}

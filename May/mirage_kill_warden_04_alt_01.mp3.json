@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "mirage_kill_warden_04_alt_01",
+  "timestamp": "2025-05-12T04:00:43.849817",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": " Blind devotion is not loyalty, it's ignorance.",
+      "part": 1
+    }
+  ]
+}

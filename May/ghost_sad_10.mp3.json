@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "ghost_sad_10",
+  "timestamp": "2025-05-11T15:00:59.180168",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I wasn't expecting this.",
+      "part": 1
+    }
+  ]
+}

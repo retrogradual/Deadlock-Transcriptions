@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "ghost_happy_05",
+  "timestamp": "2025-05-11T15:00:55.859690",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " New York won't forget my name.",
+      "part": 1
+    }
+  ]
+}

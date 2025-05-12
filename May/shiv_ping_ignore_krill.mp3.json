@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "shiv_ping_ignore_krill",
+  "timestamp": "2025-05-11T15:06:18.439711",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Ignore Krill!",
+      "part": 1
+    }
+  ]
+}

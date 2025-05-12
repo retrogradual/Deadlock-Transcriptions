@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "nano_kill_kelvin_05_alt_01",
+  "timestamp": "2025-05-12T02:50:19.738106",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Calvin's down.",
+      "part": 1
+    }
+  ]
+}

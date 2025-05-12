@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "mirage_ping_with_cadence",
+  "timestamp": "2025-05-12T03:59:50.498601",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I'm with you, Cadence.",
+      "part": 1
+    }
+  ]
+}

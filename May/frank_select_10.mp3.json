@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "frank_select_10",
+  "timestamp": "2025-05-11T15:00:49.685942",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Someone made me for a reason.",
+      "part": 1
+    },
+    {
+      "start": 3.0,
+      "end": 6.0,
+      "text": " I just need to figure out who and why.",
+      "part": 2
+    }
+  ]
+}

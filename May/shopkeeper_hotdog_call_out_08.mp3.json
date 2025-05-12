@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "shopkeeper_hotdog_call_out_08",
+  "timestamp": "2025-05-12T04:52:56.304722",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": " If you're looking for items to complete the ritual, I got you covered right here.",
+      "part": 1
+    }
+  ]
+}

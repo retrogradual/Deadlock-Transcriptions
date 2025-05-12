@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "gigawatt_enemy_kelvin_kill_on_ice_path_01",
+  "timestamp": "2025-05-11T15:01:33.729860",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " YOU CAN'T RUN FROM ME, KELVIN!",
+      "part": 1
+    }
+  ]
+}

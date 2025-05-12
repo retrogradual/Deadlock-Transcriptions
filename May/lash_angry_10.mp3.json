@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "lash_angry_10",
+  "timestamp": "2025-05-11T15:04:05.837172",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I am not losing today.",
+      "part": 1
+    }
+  ]
+}

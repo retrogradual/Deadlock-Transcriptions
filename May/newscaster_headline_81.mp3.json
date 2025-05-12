@@ -1,0 +1,30 @@
+{
+  "voiceline_id": "newscaster_headline_81",
+  "timestamp": "2025-05-12T04:52:37.498892",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.840000152587891,
+      "text": " The international bestseller for Queen and Coven, highlighting the daring exploits of",
+      "part": 1
+    },
+    {
+      "start": 4.840000152587891,
+      "end": 9.520000457763672,
+      "text": " the Queen's own 13th Airborne Assault Coven, is under fire as representatives of the Crown",
+      "part": 2
+    },
+    {
+      "start": 9.520000457763672,
+      "end": 14.0,
+      "text": " claim that some of the operations detailed in the tell-all violate the nation's scrying",
+      "part": 3
+    },
+    {
+      "start": 14.0,
+      "end": 16.760000228881836,
+      "text": " laws and pose a national security risk.",
+      "part": 4
+    }
+  ]
+}

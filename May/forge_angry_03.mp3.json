@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "forge_angry_03",
+  "timestamp": "2025-05-11T14:59:59.898500",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Really?",
+      "part": 1
+    }
+  ]
+}

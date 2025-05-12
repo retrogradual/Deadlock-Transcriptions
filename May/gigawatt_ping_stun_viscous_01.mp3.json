@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "gigawatt_ping_stun_viscous_01",
+  "timestamp": "2025-05-11T15:01:54.617975",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " STONED ISTHIS!",
+      "part": 1
+    }
+  ]
+}

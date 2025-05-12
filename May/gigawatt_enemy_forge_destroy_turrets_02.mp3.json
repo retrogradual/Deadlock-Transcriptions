@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "gigawatt_enemy_forge_destroy_turrets_02",
+  "timestamp": "2025-05-11T15:01:19.934294",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Removing McGuinness's support.",
+      "part": 1
+    }
+  ]
+}

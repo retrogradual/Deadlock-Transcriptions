@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "ghost_happy_09",
+  "timestamp": "2025-05-11T15:00:57.010023",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " It's only a matter of time.",
+      "part": 1
+    }
+  ]
+}

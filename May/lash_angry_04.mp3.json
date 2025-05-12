@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "lash_angry_04",
+  "timestamp": "2025-05-11T15:04:05.140208",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " You think you got the best of me?",
+      "part": 1
+    }
+  ]
+}

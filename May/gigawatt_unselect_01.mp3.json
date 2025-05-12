@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "gigawatt_unselect_01",
+  "timestamp": "2025-05-11T15:02:10.865934",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": " Very well. If you don't want to win, that's your business.",
+      "part": 1
+    }
+  ]
+}

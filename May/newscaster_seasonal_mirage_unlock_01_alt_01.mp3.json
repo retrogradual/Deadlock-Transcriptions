@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "newscaster_seasonal_mirage_unlock_01_alt_01",
+  "timestamp": "2025-05-12T04:52:45.784408",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.640000104904175,
+      "text": " Are the djinn embracing western holidays?",
+      "part": 1
+    },
+    {
+      "start": 2.640000104904175,
+      "end": 5.28000020980835,
+      "text": " Mirage's latest headgear says, maybe.",
+      "part": 2
+    }
+  ]
+}

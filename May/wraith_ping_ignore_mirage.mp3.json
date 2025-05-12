@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wraith_ping_ignore_mirage",
+  "timestamp": "2025-05-11T15:09:41.971699",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": " Ignore mirage.",
+      "part": 1
+    }
+  ]
+}

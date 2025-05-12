@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "kelvin_enemy_ghost_ping_with_swap_02",
+  "timestamp": "2025-05-11T15:03:40.924310",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " A ghost is looking to steal your health!",
+      "part": 1
+    }
+  ]
+}

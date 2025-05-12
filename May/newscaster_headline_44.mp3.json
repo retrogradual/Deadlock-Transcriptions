@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "newscaster_headline_44",
+  "timestamp": "2025-05-12T04:52:28.337586",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.2799999713897705,
+      "text": " How young is too young to talk to your children about hexes?",
+      "part": 1
+    },
+    {
+      "start": 3.2799999713897705,
+      "end": 6.199999809265137,
+      "text": " The New York Oracle speaks to a child therapist to find out.",
+      "part": 2
+    }
+  ]
+}

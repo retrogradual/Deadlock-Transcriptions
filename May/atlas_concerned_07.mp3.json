@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "atlas_concerned_07",
+  "timestamp": "2025-05-11T14:58:58.011821",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " What the hell is happening?",
+      "part": 1
+    }
+  ]
+}

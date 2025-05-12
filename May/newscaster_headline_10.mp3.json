@@ -1,0 +1,24 @@
+{
+  "voiceline_id": "newscaster_headline_10",
+  "timestamp": "2025-05-12T04:52:20.397932",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.199999809265137,
+      "text": " Extra planar fashion icon, Roche-Blanc, exposed as being nothing more than a human using a",
+      "part": 1
+    },
+    {
+      "start": 5.199999809265137,
+      "end": 6.800000190734863,
+      "text": " glamour cantrip.",
+      "part": 2
+    },
+    {
+      "start": 6.800000190734863,
+      "end": 9.359999656677246,
+      "text": " Read about this and more in the New York Oracle.",
+      "part": 3
+    }
+  ]
+}

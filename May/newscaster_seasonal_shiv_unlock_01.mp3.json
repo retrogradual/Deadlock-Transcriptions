@@ -1,0 +1,24 @@
+{
+  "voiceline_id": "newscaster_seasonal_shiv_unlock_01",
+  "timestamp": "2025-05-12T04:52:45.991121",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.360000133514404,
+      "text": " A handsome son of a bitch in a Santa hat has been seen throwing knives in Midtown.",
+      "part": 1
+    },
+    {
+      "start": 4.360000133514404,
+      "end": 5.360000133514404,
+      "text": " Could it be Shiv?",
+      "part": 2
+    },
+    {
+      "start": 5.360000133514404,
+      "end": 6.840000152587891,
+      "text": " Yes, yes, it's Shiv.",
+      "part": 3
+    }
+  ]
+}

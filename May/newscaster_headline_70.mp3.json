@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "newscaster_headline_70",
+  "timestamp": "2025-05-12T04:52:34.402816",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.519999980926514,
+      "text": " Anton's Fine Monkey Paws has been temporarily closed after it was discovered that some of",
+      "part": 1
+    },
+    {
+      "start": 4.519999980926514,
+      "end": 7.199999809265137,
+      "text": " their stock was corrupted by a wish twister.",
+      "part": 2
+    }
+  ]
+}

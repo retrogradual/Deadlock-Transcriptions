@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "shiv_ping_with_operative",
+  "timestamp": "2025-05-11T15:06:29.678022",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I'm with you, Raven.",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "newscaster_seasonal_headline_12",
+  "timestamp": "2025-05-12T04:52:41.495855",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.5199999809265137,
+      "text": " New York anxiously awaits the arrival of Kris Kringle.",
+      "part": 1
+    },
+    {
+      "start": 3.5199999809265137,
+      "end": 5.760000228881836,
+      "text": " Have you been a good boy or girl this year?",
+      "part": 2
+    }
+  ]
+}

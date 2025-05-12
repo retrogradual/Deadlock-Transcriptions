@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "newscaster_seasonal_headline_13",
+  "timestamp": "2025-05-12T04:52:40.895787",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.5,
+      "text": " The tree is lit, the rockets are kicking, and magic is in the air.",
+      "part": 1
+    },
+    {
+      "start": 4.5,
+      "end": 6.5,
+      "text": " It's holiday time in New York!",
+      "part": 2
+    }
+  ]
+}

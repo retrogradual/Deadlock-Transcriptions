@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wraith_concerned_06",
+  "timestamp": "2025-05-11T15:10:02.582537",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " It's not too late to turn this around.",
+      "part": 1
+    }
+  ]
+}

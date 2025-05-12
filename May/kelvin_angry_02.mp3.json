@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "kelvin_angry_02",
+  "timestamp": "2025-05-11T15:03:43.437121",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Das ist NONSENSE!",
+      "part": 1
+    }
+  ]
+}

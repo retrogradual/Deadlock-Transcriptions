@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bebop_concerned_03",
+  "timestamp": "2025-05-11T14:59:05.468987",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " We need to regroup!",
+      "part": 1
+    }
+  ]
+}

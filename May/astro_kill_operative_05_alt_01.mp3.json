@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "astro_kill_operative_05_alt_01",
+  "timestamp": "2025-05-12T02:48:25.729174",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "text": " Great! Now I'm fighting Soviet spies!",
+      "part": 1
+    }
+  ]
+}

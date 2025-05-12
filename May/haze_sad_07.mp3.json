@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "haze_sad_07",
+  "timestamp": "2025-05-11T15:03:25.212844",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Hope is fleeting.",
+      "part": 1
+    }
+  ]
+}

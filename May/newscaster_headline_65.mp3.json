@@ -1,0 +1,30 @@
+{
+  "voiceline_id": "newscaster_headline_65",
+  "timestamp": "2025-05-12T04:52:33.219240",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.599999904632568,
+      "text": " Eldritch Tactical Solutions, a subsidiary of Fairfax Industries, comes under fire as",
+      "part": 1
+    },
+    {
+      "start": 4.599999904632568,
+      "end": 7.440000057220459,
+      "text": " new allegations are made by former employees.",
+      "part": 2
+    },
+    {
+      "start": 7.440000057220459,
+      "end": 10.15999984741211,
+      "text": " Are these soldiers of fortune committing war crimes?",
+      "part": 3
+    },
+    {
+      "start": 10.15999984741211,
+      "end": 11.600000381469727,
+      "text": " The New York Oracle investigates.",
+      "part": 4
+    }
+  ]
+}

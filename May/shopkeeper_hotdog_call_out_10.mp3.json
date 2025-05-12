@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "shopkeeper_hotdog_call_out_10",
+  "timestamp": "2025-05-12T04:52:57.711300",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.71999979019165,
+      "text": " You want hexes? We got hexes. You need bullets? We got bullets. You need a Reuben? Find a deli,",
+      "part": 1
+    },
+    {
+      "start": 6.71999979019165,
+      "end": 10.800000190734863,
+      "text": " because at the Curiosity Shop, we deal in power and tchotchkes.",
+      "part": 2
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "yamato_ping_attack_wraith",
+  "timestamp": "2025-05-11T15:10:45.643033",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Let's take out race!",
+      "part": 1
+    }
+  ]
+}

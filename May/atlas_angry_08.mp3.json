@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "atlas_angry_08",
+  "timestamp": "2025-05-11T14:58:56.978741",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " You don't know who you're messing with.",
+      "part": 1
+    }
+  ]
+}

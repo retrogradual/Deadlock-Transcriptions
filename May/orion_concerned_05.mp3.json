@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "orion_concerned_05",
+  "timestamp": "2025-05-11T15:05:32.334829",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I won't be remembered as a failure.",
+      "part": 1
+    }
+  ]
+}

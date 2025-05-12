@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "newscaster_headline_52",
+  "timestamp": "2025-05-12T04:52:30.368821",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.799999952316284,
+      "text": " George Frederick Cook is primed to take the stage once more, but are audiences ready to",
+      "part": 1
+    },
+    {
+      "start": 3.799999952316284,
+      "end": 5.71999979019165,
+      "text": " see a headless ghost as a leading man?",
+      "part": 2
+    }
+  ]
+}

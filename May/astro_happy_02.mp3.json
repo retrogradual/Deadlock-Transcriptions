@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "astro_happy_02",
+  "timestamp": "2025-05-11T14:58:49.650102",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": " Beautiful!",
+      "part": 1
+    }
+  ]
+}

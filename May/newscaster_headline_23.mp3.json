@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "newscaster_headline_23",
+  "timestamp": "2025-05-12T04:52:23.902971",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.0,
+      "text": " The tome of Anubis, once thought lost to the sands of time, was purportedly spotted here in New York's black market.",
+      "part": 1
+    },
+    {
+      "start": 6.0,
+      "end": 10.0,
+      "text": " For this story and more, pick up your copy of the New York Oracle today.",
+      "part": 2
+    }
+  ]
+}

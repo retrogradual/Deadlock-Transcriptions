@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wraith_happy_04",
+  "timestamp": "2025-05-11T15:10:03.661116",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.2799999713897705,
+      "text": " Things are looking up!",
+      "part": 1
+    }
+  ]
+}

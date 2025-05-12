@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "ghost_sad_03",
+  "timestamp": "2025-05-11T15:00:58.395015",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " My faith is wavering.",
+      "part": 1
+    }
+  ]
+}

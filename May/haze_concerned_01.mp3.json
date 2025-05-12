@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "haze_concerned_01",
+  "timestamp": "2025-05-11T15:03:20.268097",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.799999952316284,
+      "text": " This isn't my time to die.",
+      "part": 1
+    }
+  ]
+}

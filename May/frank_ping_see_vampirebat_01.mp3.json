@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "frank_ping_see_vampirebat_01",
+  "timestamp": "2025-05-11T15:00:40.116234",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I see the vampire.",
+      "part": 1
+    }
+  ]
+}

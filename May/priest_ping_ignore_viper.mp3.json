@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "priest_ping_ignore_viper",
+  "timestamp": "2025-05-11T15:06:09.518740",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Ignore Viper!",
+      "part": 1
+    }
+  ]
+}

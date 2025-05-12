@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wraith_concerned_01",
+  "timestamp": "2025-05-11T15:10:01.787971",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " We could have a problem.",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "shopkeeper_hotdog_call_out_03",
+  "timestamp": "2025-05-12T04:52:55.651392",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": " Hey! You with the money! You wanna spend it?",
+      "part": 1
+    }
+  ]
+}

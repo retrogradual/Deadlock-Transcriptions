@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "newscaster_seasonal_bebop_unlock_01",
+  "timestamp": "2025-05-12T04:52:43.436330",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.5,
+      "text": " In today's Human Interest Story, we'll cover Bebop, the plucky scrap golem in an adorable Santa hat.",
+      "part": 1
+    }
+  ]
+}

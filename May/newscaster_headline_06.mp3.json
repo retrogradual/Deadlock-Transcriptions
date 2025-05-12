@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "newscaster_headline_06",
+  "timestamp": "2025-05-12T04:52:19.385932",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": " The New York Oracle, bringing the future to the present for over 20 years.",
+      "part": 1
+    }
+  ]
+}

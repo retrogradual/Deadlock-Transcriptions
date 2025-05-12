@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "gigawatt_concerned_05",
+  "timestamp": "2025-05-11T15:02:06.120060",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "text": " This situation is dire.",
+      "part": 1
+    }
+  ]
+}

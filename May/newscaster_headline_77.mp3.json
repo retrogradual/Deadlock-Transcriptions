@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "newscaster_headline_77",
+  "timestamp": "2025-05-12T04:52:35.924354",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.71999979019165,
+      "text": " The EPA has issued another sanction to Fairfax Industries, citing their improper disposal",
+      "part": 1
+    },
+    {
+      "start": 4.71999979019165,
+      "end": 8.960000038146973,
+      "text": " of spiritual waste was not just an affront to nature, but a threat to it.",
+      "part": 2
+    }
+  ]
+}

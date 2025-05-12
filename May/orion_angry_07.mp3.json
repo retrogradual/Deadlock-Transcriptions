@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "orion_angry_07",
+  "timestamp": "2025-05-11T15:05:31.786077",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " We should have seen that coming.",
+      "part": 1
+    }
+  ]
+}

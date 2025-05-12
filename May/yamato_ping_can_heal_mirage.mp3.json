@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "yamato_ping_can_heal_mirage",
+  "timestamp": "2025-05-11T15:10:35.195926",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "\u307f\u306a\u3057\u3001I can hear you!",
+      "part": 1
+    }
+  ]
+}

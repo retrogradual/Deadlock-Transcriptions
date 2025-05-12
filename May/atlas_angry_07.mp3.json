@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "atlas_angry_07",
+  "timestamp": "2025-05-11T14:58:57.313572",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Try that again!",
+      "part": 1
+    }
+  ]
+}

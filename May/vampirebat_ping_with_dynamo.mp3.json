@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_ping_with_dynamo",
+  "timestamp": "2025-05-11T15:07:10.816163",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I'm with you, Danimo!",
+      "part": 1
+    }
+  ]
+}

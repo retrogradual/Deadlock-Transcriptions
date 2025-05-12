@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "shopkeeper_hotdog_open_spirit_04",
+  "timestamp": "2025-05-12T04:53:00.171823",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.320000171661377,
+      "text": " I see we're looking for something of a more mystical persuasion.",
+      "part": 1
+    }
+  ]
+}

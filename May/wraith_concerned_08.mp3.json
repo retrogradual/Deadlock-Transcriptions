@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wraith_concerned_08",
+  "timestamp": "2025-05-11T15:10:02.841964",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " We're down, but not out.",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "voiceline_id": "newscaster_headline_40",
+  "timestamp": "2025-05-12T04:52:28.066560",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.5199999809265137,
+      "text": " In world news, a seventh astral gate has been found in Europe.",
+      "part": 1
+    },
+    {
+      "start": 3.5199999809265137,
+      "end": 7.71999979019165,
+      "text": " While dormant, experts wonder if the celestial event could cause it to open.",
+      "part": 2
+    },
+    {
+      "start": 7.71999979019165,
+      "end": 11.079999923706055,
+      "text": " For this story and more, pick up your copy of the New York Oracle today.",
+      "part": 3
+    }
+  ]
+}

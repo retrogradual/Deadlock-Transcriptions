@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "warden_select_03",
+  "timestamp": "2025-05-11T15:08:55.593908",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.5999999046325684,
+      "text": " I will make up for my parents' failures.",
+      "part": 1
+    }
+  ]
+}

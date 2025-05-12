@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "newscaster_headline_16",
+  "timestamp": "2025-05-12T04:52:22.848004",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.480000019073486,
+      "text": " Read our exclusive interview with Professor Dynamo to hear his thoughts on astral gates,",
+      "part": 1
+    },
+    {
+      "start": 4.480000019073486,
+      "end": 7.679999828338623,
+      "text": " the eclipse, and what it's like to live life without a body.",
+      "part": 2
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "newscaster_headline_22",
+  "timestamp": "2025-05-12T04:52:24.003282",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.5,
+      "text": " A memoir by Incubus to the Stars, Mikhail Asan has spent three weeks on top of our bestsellers list.",
+      "part": 1
+    },
+    {
+      "start": 5.5,
+      "end": 10.0,
+      "text": " Learn more about the book that has everyone talking in this week's edition of the New York Oracle.",
+      "part": 2
+    }
+  ]
+}

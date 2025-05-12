@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "astro_sad_05",
+  "timestamp": "2025-05-11T14:58:52.956123",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Nothing's going according to plan.",
+      "part": 1
+    }
+  ]
+}

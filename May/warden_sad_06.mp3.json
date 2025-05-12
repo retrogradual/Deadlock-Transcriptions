@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "warden_sad_06",
+  "timestamp": "2025-05-11T15:08:54.458411",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " We can't let the patron win!",
+      "part": 1
+    }
+  ]
+}

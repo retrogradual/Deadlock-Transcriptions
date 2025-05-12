@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wraith_ally_atlas_unkillable_02",
+  "timestamp": "2025-05-11T15:09:04.920324",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " KEEP FIGHTING, ABRAMS!",
+      "part": 1
+    }
+  ]
+}

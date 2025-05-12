@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "atlas_angry_01_alt_01",
+  "timestamp": "2025-05-11T14:58:56.442423",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Dammit!",
+      "part": 1
+    }
+  ]
+}

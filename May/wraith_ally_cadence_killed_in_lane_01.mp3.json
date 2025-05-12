@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wraith_ally_cadence_killed_in_lane_01",
+  "timestamp": "2025-05-11T15:09:10.099124",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " They took our cadence!",
+      "part": 1
+    }
+  ]
+}

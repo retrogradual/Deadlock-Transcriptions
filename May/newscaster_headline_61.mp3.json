@@ -1,0 +1,30 @@
+{
+  "voiceline_id": "newscaster_headline_61",
+  "timestamp": "2025-05-12T04:52:33.180285",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.679999828338623,
+      "text": " The New York Oracle's own Ali Kincaid sits down with occult magnate Maximilian Fairfax",
+      "part": 1
+    },
+    {
+      "start": 4.679999828338623,
+      "end": 6.5,
+      "text": " in an exclusive new interview.",
+      "part": 2
+    },
+    {
+      "start": 6.5,
+      "end": 10.880000114440918,
+      "text": " Read his thoughts on family, the Ixian War, and the future of the supernatural in our",
+      "part": 3
+    },
+    {
+      "start": 10.880000114440918,
+      "end": 11.380000114440918,
+      "text": " world.",
+      "part": 4
+    }
+  ]
+}

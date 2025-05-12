@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "yamato_ping_ignore_atlas",
+  "timestamp": "2025-05-11T15:10:18.717401",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Ignore Abrams.",
+      "part": 1
+    }
+  ]
+}

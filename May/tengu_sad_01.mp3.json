@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "tengu_sad_01",
+  "timestamp": "2025-05-11T15:06:59.867276",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Oh, man.",
+      "part": 1
+    }
+  ]
+}

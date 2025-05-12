@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_ping_saw_wraith",
+  "timestamp": "2025-05-11T15:07:40.721322",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I saw Wraith!",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "warden_ping_ignore_nano",
+  "timestamp": "2025-05-11T15:08:34.927950",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Ignore Calico!",
+      "part": 1
+    }
+  ]
+}

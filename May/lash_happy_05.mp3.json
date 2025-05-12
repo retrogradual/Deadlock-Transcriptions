@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "lash_happy_05",
+  "timestamp": "2025-05-11T15:04:08.282837",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " When are you guys going to get it?",
+      "part": 1
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": " I'm better than you.",
+      "part": 2
+    }
+  ]
+}

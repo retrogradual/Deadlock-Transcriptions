@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "krill_concerned_04",
+  "timestamp": "2025-05-11T15:03:57.821769",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " We can't afford to make mistakes.",
+      "part": 1
+    }
+  ]
+}

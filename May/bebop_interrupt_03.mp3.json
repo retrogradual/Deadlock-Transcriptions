@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bebop_interrupt_03",
+  "timestamp": "2025-05-11T14:59:08.110777",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " NICE TRY!",
+      "part": 1
+    }
+  ]
+}

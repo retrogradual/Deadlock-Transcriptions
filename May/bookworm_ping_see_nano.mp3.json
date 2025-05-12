@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bookworm_ping_see_nano",
+  "timestamp": "2025-05-11T14:59:34.288075",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I see Calico.",
+      "part": 1
+    }
+  ]
+}

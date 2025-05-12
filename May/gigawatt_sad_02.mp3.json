@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "gigawatt_sad_02",
+  "timestamp": "2025-05-11T15:02:08.148826",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " How is this happening?",
+      "part": 1
+    }
+  ]
+}

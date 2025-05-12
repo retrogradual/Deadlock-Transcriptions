@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "priest_unselect_10",
+  "timestamp": "2025-05-11T15:05:39.368501",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Think I'll stick to the shop.",
+      "part": 1
+    }
+  ]
+}

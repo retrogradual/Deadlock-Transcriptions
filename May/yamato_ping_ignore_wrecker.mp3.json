@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "yamato_ping_ignore_wrecker",
+  "timestamp": "2025-05-11T15:10:47.502420",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Ignore Weka.",
+      "part": 1
+    }
+  ]
+}

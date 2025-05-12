@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "shiv_sad_08",
+  "timestamp": "2025-05-11T15:06:25.933756",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "text": " This is what I get for trying to be a hero.",
+      "part": 1
+    }
+  ]
+}

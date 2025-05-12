@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "newscaster_seasonal_headline_06_alt_01",
+  "timestamp": "2025-05-12T04:52:40.297918",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": " The Yeti of the Yukon Lumberjack Show has thrilled Canadian audiences for years.",
+      "part": 1
+    },
+    {
+      "start": 5.0,
+      "end": 9.0,
+      "text": " Will they find the same success as they begin their first U.S. tour this winter?",
+      "part": 2
+    }
+  ]
+}

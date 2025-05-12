@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "nano_sad_10",
+  "timestamp": "2025-05-11T15:05:22.650470",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Well, this just got awkward.",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "shiv_ping_saw_viper",
+  "timestamp": "2025-05-11T15:06:32.911953",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "\u30a2\u30c3\u30b5\u30fc\u30d5\u30a1\u30a4\u30d6!",
+      "part": 1
+    }
+  ]
+}

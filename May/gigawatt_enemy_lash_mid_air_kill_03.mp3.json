@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "gigawatt_enemy_lash_mid_air_kill_03",
+  "timestamp": "2025-05-11T15:01:38.524483",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": " YOU ARE NEVER GOING TO LAND, LASH!",
+      "part": 1
+    }
+  ]
+}

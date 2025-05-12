@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "lash_catch_hornet_03",
+  "timestamp": "2025-05-12T02:49:45.142401",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": " Ha ha! What do you think you're doing up there?",
+      "part": 1
+    }
+  ]
+}

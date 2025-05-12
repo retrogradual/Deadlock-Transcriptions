@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "warden_angry_04",
+  "timestamp": "2025-05-11T15:08:49.621849",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.200000047683716,
+      "text": " If I must die, I'll take you with me.",
+      "part": 1
+    }
+  ]
+}

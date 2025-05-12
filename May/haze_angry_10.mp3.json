@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "haze_angry_10",
+  "timestamp": "2025-05-11T15:03:20.216753",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " You can't stop us.",
+      "part": 1
+    }
+  ]
+}

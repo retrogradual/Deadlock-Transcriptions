@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "forge_sad_05",
+  "timestamp": "2025-05-11T15:00:04.476638",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": " So, mistakes were made.",
+      "part": 1
+    }
+  ]
+}

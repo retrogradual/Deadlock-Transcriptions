@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "atlas_angry_10",
+  "timestamp": "2025-05-11T14:58:57.511129",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": " Don't you get it? You can't win!",
+      "part": 1
+    }
+  ]
+}

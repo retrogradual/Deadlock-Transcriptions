@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "lash_concerned_01",
+  "timestamp": "2025-05-11T15:04:06.828022",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": " We may be behind, but it's not over.",
+      "part": 1
+    }
+  ]
+}

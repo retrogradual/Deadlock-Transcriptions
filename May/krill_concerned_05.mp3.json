@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "krill_concerned_05",
+  "timestamp": "2025-05-11T15:03:57.882050",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " We need to keep it together.",
+      "part": 1
+    }
+  ]
+}

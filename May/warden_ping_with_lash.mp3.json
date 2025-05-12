@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "warden_ping_with_lash",
+  "timestamp": "2025-05-11T15:08:32.781033",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I'm with you, Lash.",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "gigawatt_ping_post_game_02",
+  "timestamp": "2025-05-11T15:02:12.686929",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": " You all played your part to perfection.",
+      "part": 1
+    }
+  ]
+}

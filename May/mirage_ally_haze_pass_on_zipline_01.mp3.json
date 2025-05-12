@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "mirage_ally_haze_pass_on_zipline_01",
+  "timestamp": "2025-05-12T04:00:02.269427",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Haze, I'll join you when I can.",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "shiv_ping_can_heal_trapper",
+  "timestamp": "2025-05-11T15:06:31.100710",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Trapper, I can hear you!",
+      "part": 1
+    }
+  ]
+}

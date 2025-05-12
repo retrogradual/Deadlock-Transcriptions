@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "frank_ping_ignore_chrono",
+  "timestamp": "2025-05-11T15:00:12.881561",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Ignore Paradox!",
+      "part": 1
+    }
+  ]
+}

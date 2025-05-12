@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bebop_happy_03",
+  "timestamp": "2025-05-11T14:59:07.231106",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Now we're talking!",
+      "part": 1
+    }
+  ]
+}

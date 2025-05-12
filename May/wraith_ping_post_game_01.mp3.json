@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wraith_ping_post_game_01",
+  "timestamp": "2025-05-11T15:10:09.714835",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Good work, everyone.",
+      "part": 1
+    }
+  ]
+}

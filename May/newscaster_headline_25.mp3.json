@@ -1,0 +1,24 @@
+{
+  "voiceline_id": "newscaster_headline_25",
+  "timestamp": "2025-05-12T04:52:25.223629",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.079999923706055,
+      "text": " Tension mounts as fonts of power all over the city are being tapped in an attempt to",
+      "part": 1
+    },
+    {
+      "start": 4.079999923706055,
+      "end": 8.800000190734863,
+      "text": " contact a powerful extra-planar being known only as the Patron.",
+      "part": 2
+    },
+    {
+      "start": 8.800000190734863,
+      "end": 13.15999984741211,
+      "text": " See what experts are saying about what's at stake in today's edition of the New York Oracle.",
+      "part": 3
+    }
+  ]
+}

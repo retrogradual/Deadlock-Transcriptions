@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "newscaster_seasonal_headline_09_alt_01",
+  "timestamp": "2025-05-12T04:52:41.086839",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.880000114440918,
+      "text": " The Knickerbocker's losing streak continues, after a humiliating defeat to the Celtics.",
+      "part": 1
+    },
+    {
+      "start": 4.880000114440918,
+      "end": 7.28000020980835,
+      "text": " In unrelated news, no one likes the Celtics.",
+      "part": 2
+    }
+  ]
+}

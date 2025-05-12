@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "warden_unselect_10",
+  "timestamp": "2025-05-11T15:08:57.740797",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": " I only get one shot at this, and I'm not ready to take it.",
+      "part": 1
+    }
+  ]
+}

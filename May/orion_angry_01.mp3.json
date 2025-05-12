@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "orion_angry_01",
+  "timestamp": "2025-05-11T15:05:31.012037",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " What is happening?",
+      "part": 1
+    }
+  ]
+}

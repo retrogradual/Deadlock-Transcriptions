@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wraith_ping_post_game_03",
+  "timestamp": "2025-05-11T15:10:10.272500",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " That was one hell of a fight!",
+      "part": 1
+    }
+  ]
+}

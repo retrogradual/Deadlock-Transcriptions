@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "orion_happy_06",
+  "timestamp": "2025-05-11T15:05:33.663237",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I haven't felt hope in a long time.",
+      "part": 1
+    }
+  ]
+}

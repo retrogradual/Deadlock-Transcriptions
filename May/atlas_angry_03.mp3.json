@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "atlas_angry_03",
+  "timestamp": "2025-05-11T14:58:56.173371",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Get it together!",
+      "part": 1
+    }
+  ]
+}

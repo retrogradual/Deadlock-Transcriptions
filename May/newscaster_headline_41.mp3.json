@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "newscaster_headline_41",
+  "timestamp": "2025-05-12T04:52:27.858840",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.0,
+      "text": " They thought they were making ashtrays, but this first-grade class in Harlem was actually making phylacteries.",
+      "part": 1
+    },
+    {
+      "start": 6.0,
+      "end": 10.0,
+      "text": " Read the disturbing tale of art class malfeasance in the New York Oracle today.",
+      "part": 2
+    }
+  ]
+}

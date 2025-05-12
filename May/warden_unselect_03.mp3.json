@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "warden_unselect_03",
+  "timestamp": "2025-05-11T15:08:56.785743",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.7200000286102295,
+      "text": " There's still much I have to learn about the Patrons.",
+      "part": 1
+    }
+  ]
+}

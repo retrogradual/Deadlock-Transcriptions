@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "newscaster_seasonal_headline_01_alt_01",
+  "timestamp": "2025-05-12T04:52:38.593402",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": " Happy Holidays from your friends at the New York Oracle!",
+      "part": 1
+    }
+  ]
+}

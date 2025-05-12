@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "krill_ally_atlas_killed_in_lane_02",
+  "timestamp": "2025-05-11T15:03:50.958866",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " THEY KILLED THE BLUE GUY!",
+      "part": 1
+    }
+  ]
+}

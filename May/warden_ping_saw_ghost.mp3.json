@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "warden_ping_saw_ghost",
+  "timestamp": "2025-05-11T15:08:16.508091",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I saw a Geist!",
+      "part": 1
+    }
+  ]
+}

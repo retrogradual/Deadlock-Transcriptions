@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "warden_unselect_08",
+  "timestamp": "2025-05-11T15:08:57.410376",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": " I won't act on behalf of AmbitionSpark.",
+      "part": 1
+    }
+  ]
+}

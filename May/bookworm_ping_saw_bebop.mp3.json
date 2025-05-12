@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bookworm_ping_saw_bebop",
+  "timestamp": "2025-05-11T14:59:14.075132",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I SAW A BEBOP!",
+      "part": 1
+    }
+  ]
+}

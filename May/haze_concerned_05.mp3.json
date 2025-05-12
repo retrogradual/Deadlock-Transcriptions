@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "haze_concerned_05",
+  "timestamp": "2025-05-11T15:03:20.760065",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " We need a better plan.",
+      "part": 1
+    }
+  ]
+}

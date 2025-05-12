@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "mirage_ping_stun_slork_01",
+  "timestamp": "2025-05-12T04:00:31.366947",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Stonefathom!",
+      "part": 1
+    }
+  ]
+}

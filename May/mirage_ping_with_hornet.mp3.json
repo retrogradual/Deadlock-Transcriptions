@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "mirage_ping_with_hornet",
+  "timestamp": "2025-05-12T04:00:06.413225",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I'm with you, Vindicta!",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "atlas_kill_ghost_vn_01",
+  "timestamp": "2025-05-12T02:48:27.885810",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I knew I couldn't trust you, Geist.",
+      "part": 1
+    }
+  ]
+}

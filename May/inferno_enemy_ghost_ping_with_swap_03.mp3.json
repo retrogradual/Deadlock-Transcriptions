@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "inferno_enemy_ghost_ping_with_swap_03",
+  "timestamp": "2025-05-11T15:03:31.889845",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Stay on your guard, Geist can swap.",
+      "part": 1
+    }
+  ]
+}

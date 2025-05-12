@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "shopkeeper_hotdog_t4_magician_04",
+  "timestamp": "2025-05-12T04:53:23.645804",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " You guys need some counseling.",
+      "part": 1
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": " And a gun.",
+      "part": 2
+    }
+  ]
+}

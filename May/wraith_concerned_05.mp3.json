@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wraith_concerned_05",
+  "timestamp": "2025-05-11T15:10:02.396628",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": " We just need to double down. What's the worst that could happen?",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "haze_sad_04",
+  "timestamp": "2025-05-11T15:03:24.818098",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I won't hear the end of this work.",
+      "part": 1
+    }
+  ]
+}

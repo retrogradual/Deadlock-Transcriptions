@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "synth_ping_with_trapper",
+  "timestamp": "2025-05-11T15:06:47.053556",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I'm with you, Trapper.",
+      "part": 1
+    }
+  ]
+}

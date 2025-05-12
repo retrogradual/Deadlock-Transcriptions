@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "newscaster_headline_17",
+  "timestamp": "2025-05-12T04:52:23.316525",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.119999885559082,
+      "text": " The OSIC has issued a warning to the City of New York, recommending that citizens stay",
+      "part": 1
+    },
+    {
+      "start": 4.119999885559082,
+      "end": 6.599999904632568,
+      "text": " indoors for the duration of the celestial event.",
+      "part": 2
+    }
+  ]
+}

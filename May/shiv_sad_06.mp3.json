@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "shiv_sad_06",
+  "timestamp": "2025-05-11T15:06:25.448299",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": " This is what I get for fighting with zealots.",
+      "part": 1
+    }
+  ]
+}

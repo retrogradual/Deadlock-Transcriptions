@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "gigawatt_ping_see_viscous",
+  "timestamp": "2025-05-11T15:01:53.559279",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I see Viscous!",
+      "part": 1
+    }
+  ]
+}

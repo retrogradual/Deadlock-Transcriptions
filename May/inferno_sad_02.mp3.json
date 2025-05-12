@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "inferno_sad_02",
+  "timestamp": "2025-05-11T15:03:38.597827",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " What are we doing wrong?",
+      "part": 1
+    }
+  ]
+}

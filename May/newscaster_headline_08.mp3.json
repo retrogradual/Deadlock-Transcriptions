@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "newscaster_headline_08",
+  "timestamp": "2025-05-12T04:52:20.303616",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.639999866485596,
+      "text": " Today in Science Watch, researchers discover a parallel universe where spirit boards are",
+      "part": 1
+    },
+    {
+      "start": 4.639999866485596,
+      "end": 6.28000020980835,
+      "text": " nothing more than a child's toy.",
+      "part": 2
+    }
+  ]
+}

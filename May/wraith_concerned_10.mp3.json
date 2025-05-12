@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wraith_concerned_10",
+  "timestamp": "2025-05-11T15:10:03.114065",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": " Not ideal.",
+      "part": 1
+    }
+  ]
+}

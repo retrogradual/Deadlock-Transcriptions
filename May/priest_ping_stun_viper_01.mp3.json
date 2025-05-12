@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "priest_ping_stun_viper_01",
+  "timestamp": "2025-05-11T15:06:09.898676",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Stun Viper!",
+      "part": 1
+    }
+  ]
+}

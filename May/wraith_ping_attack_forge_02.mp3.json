@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wraith_ping_attack_forge_02",
+  "timestamp": "2025-05-11T15:09:19.075073",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Let's take out McGinnis.",
+      "part": 1
+    }
+  ]
+}

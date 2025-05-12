@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "ghost_sad_04",
+  "timestamp": "2025-05-11T15:00:58.608613",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Well, this is horrific.",
+      "part": 1
+    }
+  ]
+}

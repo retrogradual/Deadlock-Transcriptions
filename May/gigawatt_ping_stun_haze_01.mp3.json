@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "gigawatt_ping_stun_haze_01",
+  "timestamp": "2025-05-11T15:01:27.352211",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " STONEHAGE",
+      "part": 1
+    }
+  ]
+}

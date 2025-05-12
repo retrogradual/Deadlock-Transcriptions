@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "inferno_sad_01",
+  "timestamp": "2025-05-11T15:03:38.358715",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " This shit ain't working.",
+      "part": 1
+    }
+  ]
+}

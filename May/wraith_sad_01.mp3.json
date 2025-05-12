@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wraith_sad_01",
+  "timestamp": "2025-05-11T15:10:05.649863",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Ugh, not now.",
+      "part": 1
+    }
+  ]
+}

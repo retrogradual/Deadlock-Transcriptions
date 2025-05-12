@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "shopkeeper_hotdog_open_spirit_01",
+  "timestamp": "2025-05-12T04:52:58.887418",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.320000171661377,
+      "text": " If you're looking to improve your abilities, I've got just the thing.",
+      "part": 1
+    }
+  ]
+}

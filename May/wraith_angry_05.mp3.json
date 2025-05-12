@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wraith_angry_05",
+  "timestamp": "2025-05-11T15:10:00.811065",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Big mistake.",
+      "part": 1
+    }
+  ]
+}

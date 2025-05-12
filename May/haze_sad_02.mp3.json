@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "haze_sad_02",
+  "timestamp": "2025-05-11T15:03:24.385839",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " This can't be happening.",
+      "part": 1
+    }
+  ]
+}

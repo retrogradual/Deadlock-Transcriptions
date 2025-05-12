@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "mirage_ping_careful_cadence_02",
+  "timestamp": "2025-05-12T03:59:49.801165",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " CAREFUL CADENCE",
+      "part": 1
+    }
+  ]
+}

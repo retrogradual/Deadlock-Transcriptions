@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "shopkeeper_hotdog_t4_yamato_01_05",
+  "timestamp": "2025-05-12T04:53:37.410489",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I really, uh, uh, really, uh...",
+      "part": 1
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": " Lady, I'm trying here.",
+      "part": 2
+    }
+  ]
+}

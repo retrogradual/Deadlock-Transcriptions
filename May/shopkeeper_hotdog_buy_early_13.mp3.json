@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "shopkeeper_hotdog_buy_early_13",
+  "timestamp": "2025-05-12T04:53:05.330896",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.7200000286102295,
+      "text": " I'm sure you'll see something here you like.",
+      "part": 1
+    }
+  ]
+}

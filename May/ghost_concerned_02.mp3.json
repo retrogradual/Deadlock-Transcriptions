@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "ghost_concerned_02",
+  "timestamp": "2025-05-11T15:00:53.775338",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I can almost hear them laughing.",
+      "part": 1
+    }
+  ]
+}

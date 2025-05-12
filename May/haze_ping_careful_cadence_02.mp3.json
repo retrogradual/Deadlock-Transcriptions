@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "haze_ping_careful_cadence_02",
+  "timestamp": "2025-05-11T15:02:25.635246",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Careful, Cadence.",
+      "part": 1
+    }
+  ]
+}

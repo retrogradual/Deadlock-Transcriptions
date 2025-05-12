@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "lash_concerned_05",
+  "timestamp": "2025-05-11T15:04:06.900179",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " This isn't over yet.",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "voiceline_id": "newscaster_headline_58",
+  "timestamp": "2025-05-12T04:52:31.438306",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.519999980926514,
+      "text": " An OSIC spokesman has refused to confirm or deny the existence of the notorious Sandman",
+      "part": 1
+    },
+    {
+      "start": 5.519999980926514,
+      "end": 6.519999980926514,
+      "text": " Division.",
+      "part": 2
+    },
+    {
+      "start": 6.519999980926514,
+      "end": 8.640000343322754,
+      "text": " For this story and more, read the New York Oracle.",
+      "part": 3
+    }
+  ]
+}

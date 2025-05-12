@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "frank_ping_saw_forge",
+  "timestamp": "2025-05-11T15:00:15.995781",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I saw McGuinness.",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "newscaster_headline_34",
+  "timestamp": "2025-05-12T04:52:26.056276",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.880000114440918,
+      "text": " The Grey Coven leaves audiences spellbound.",
+      "part": 1
+    },
+    {
+      "start": 2.880000114440918,
+      "end": 6.480000019073486,
+      "text": " Read the New York Oracle's review of the latest off-Broadway sensation.",
+      "part": 2
+    }
+  ]
+}

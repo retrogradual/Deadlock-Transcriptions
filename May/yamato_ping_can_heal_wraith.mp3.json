@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "yamato_ping_can_heal_wraith",
+  "timestamp": "2025-05-11T15:10:45.687081",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Raze, I can hear you.",
+      "part": 1
+    }
+  ]
+}

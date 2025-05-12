@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "shopkeeper_hotdog_buy_t1_upgradeable_03",
+  "timestamp": "2025-05-12T04:53:11.515191",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Can't wait to see what you build with this!",
+      "part": 1
+    }
+  ]
+}

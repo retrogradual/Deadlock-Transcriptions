@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "gigawatt_ping_saw_krill",
+  "timestamp": "2025-05-11T15:01:36.912292",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I SAW KRILL!",
+      "part": 1
+    }
+  ]
+}

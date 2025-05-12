@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "mirage_ping_saw_ghost",
+  "timestamp": "2025-05-12T03:59:58.765094",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I saw a Geist!",
+      "part": 1
+    }
+  ]
+}

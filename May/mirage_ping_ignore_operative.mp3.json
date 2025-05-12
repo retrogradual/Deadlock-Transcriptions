@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "mirage_ping_ignore_operative",
+  "timestamp": "2025-05-12T04:00:24.469962",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Ignore Raven.",
+      "part": 1
+    }
+  ]
+}

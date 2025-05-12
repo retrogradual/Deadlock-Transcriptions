@@ -1,0 +1,24 @@
+{
+  "voiceline_id": "newscaster_headline_31",
+  "timestamp": "2025-05-12T04:52:25.919870",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": " An eight-year-old concert pianist dazzled audiences last night.",
+      "part": 1
+    },
+    {
+      "start": 4.0,
+      "end": 7.0,
+      "text": " But was the Long Island native a child prodigy?",
+      "part": 2
+    },
+    {
+      "start": 7.0,
+      "end": 10.0,
+      "text": " Or simply possessed by an 18th century composer?",
+      "part": 3
+    }
+  ]
+}

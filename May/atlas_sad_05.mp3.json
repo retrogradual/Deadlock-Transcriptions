@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "atlas_sad_05",
+  "timestamp": "2025-05-11T14:59:01.500493",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Nothing is going right.",
+      "part": 1
+    }
+  ]
+}

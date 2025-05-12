@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "gigawatt_ping_stun_slork_01",
+  "timestamp": "2025-05-11T15:01:47.889146",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Stunned Slork",
+      "part": 1
+    }
+  ]
+}

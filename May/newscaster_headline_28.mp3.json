@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "newscaster_headline_28",
+  "timestamp": "2025-05-12T04:52:24.805535",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.7200000286102295,
+      "text": " A tour group disappeared while spending the night in a haunted Chelsea hotel, leaving",
+      "part": 1
+    },
+    {
+      "start": 3.7200000286102295,
+      "end": 5.440000057220459,
+      "text": " mediums and police baffled.",
+      "part": 2
+    }
+  ]
+}

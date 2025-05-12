@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "nano_happy_08",
+  "timestamp": "2025-05-11T15:05:20.274299",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Wonderful!",
+      "part": 1
+    }
+  ]
+}

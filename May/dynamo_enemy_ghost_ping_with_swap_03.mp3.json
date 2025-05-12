@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "dynamo_enemy_ghost_ping_with_swap_03",
+  "timestamp": "2025-05-11T14:59:54.181109",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Don't let Geist steal your health!",
+      "part": 1
+    }
+  ]
+}

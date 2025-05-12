@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "forge_sad_03",
+  "timestamp": "2025-05-11T15:00:04.449560",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Well, that was ugly.",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wraith_enemy_forge_destroy_turrets_03",
+  "timestamp": "2025-05-11T15:09:18.683301",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Another turret down.",
+      "part": 1
+    }
+  ]
+}

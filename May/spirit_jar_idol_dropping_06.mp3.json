@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "spirit_jar_idol_dropping_06",
+  "timestamp": "2025-05-12T04:53:41.203904",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.400000095367432,
+      "text": " Please wait to take me to the temple until I've finished gathering up these spirits.",
+      "part": 1
+    }
+  ]
+}

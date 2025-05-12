@@ -1,0 +1,24 @@
+{
+  "voiceline_id": "newscaster_seasonal_headline_23",
+  "timestamp": "2025-05-12T04:52:43.269456",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.9600000381469727,
+      "text": " Cadence and the Requiem Boys' holiday show sold out in record time.",
+      "part": 1
+    },
+    {
+      "start": 3.9600000381469727,
+      "end": 6.360000133514404,
+      "text": " Will the Ixian singer add a second date?",
+      "part": 2
+    },
+    {
+      "start": 6.360000133514404,
+      "end": 7.360000133514404,
+      "text": " Only time will tell.",
+      "part": 3
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "newscaster_headline_18",
+  "timestamp": "2025-05-12T04:52:22.269073",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": " Could today be the day where humanity makes contact with the Patron?",
+      "part": 1
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": " Only time will tell.",
+      "part": 2
+    }
+  ]
+}

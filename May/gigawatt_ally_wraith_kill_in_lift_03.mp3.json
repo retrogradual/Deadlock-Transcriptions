@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "gigawatt_ally_wraith_kill_in_lift_03",
+  "timestamp": "2025-05-11T15:01:57.695122",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": " You played your part well, Wraith.",
+      "part": 1
+    }
+  ]
+}

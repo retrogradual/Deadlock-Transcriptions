@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "newscaster_seasonal_forge_unlock_01_alt_01",
+  "timestamp": "2025-05-12T04:52:43.992613",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.5,
+      "text": " Presumably walking home drunk after a Fairfax Industry Holiday Party,",
+      "part": 1
+    },
+    {
+      "start": 3.5,
+      "end": 8.0,
+      "text": " notorious misanthrope Maggie McGinnis has been seen looking festive!",
+      "part": 2
+    }
+  ]
+}

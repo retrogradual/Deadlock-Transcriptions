@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "warden_ally_inferno_burns_down_objective_02",
+  "timestamp": "2025-05-11T15:08:24.289248",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " The fire consumed them.",
+      "part": 1
+    }
+  ]
+}

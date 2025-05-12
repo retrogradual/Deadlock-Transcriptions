@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "gigawatt_enemy_lash_mid_air_kill_02",
+  "timestamp": "2025-05-11T15:01:38.757753",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Try again, Lash!",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "voiceline_id": "newscaster_headline_56",
+  "timestamp": "2025-05-12T04:52:31.304063",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": " Have you been curious about the mysteries of the Black Chateau?",
+      "part": 1
+    },
+    {
+      "start": 3.0,
+      "end": 7.199999809265137,
+      "text": " For the first time in its August history, the Chateau's doors are being opened to the",
+      "part": 2
+    },
+    {
+      "start": 7.199999809265137,
+      "end": 8.119999885559082,
+      "text": " New York Oracle.",
+      "part": 3
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "orion_happy_04",
+  "timestamp": "2025-05-11T15:05:33.525339",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I haven't smiled in a while.",
+      "part": 1
+    }
+  ]
+}

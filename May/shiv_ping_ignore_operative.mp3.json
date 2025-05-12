@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "shiv_ping_ignore_operative",
+  "timestamp": "2025-05-11T15:06:29.211778",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " IGNORE RAVEN!",
+      "part": 1
+    }
+  ]
+}

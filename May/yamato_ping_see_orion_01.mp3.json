@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "yamato_ping_see_orion_01",
+  "timestamp": "2025-05-11T15:10:39.066435",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I see greater on.",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "newscaster_headline_24",
+  "timestamp": "2025-05-12T04:52:24.642248",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": " Artifacts of the Outer Plains, a new exhibit at the Met, is gearing up to open next month.",
+      "part": 1
+    },
+    {
+      "start": 5.0,
+      "end": 7.0,
+      "text": " Read all about it in the New York Oracle.",
+      "part": 2
+    }
+  ]
+}

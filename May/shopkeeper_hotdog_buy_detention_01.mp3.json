@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "shopkeeper_hotdog_buy_detention_01",
+  "timestamp": "2025-05-12T04:53:03.615011",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.799999952316284,
+      "text": " They're gonna stay there and weep while you shoot them.",
+      "part": 1
+    }
+  ]
+}

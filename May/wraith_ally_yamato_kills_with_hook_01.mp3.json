@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wraith_ally_yamato_kills_with_hook_01",
+  "timestamp": "2025-05-11T15:09:58.736045",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Nice moves, Yamato!",
+      "part": 1
+    }
+  ]
+}

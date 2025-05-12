@@ -1,0 +1,30 @@
+{
+  "voiceline_id": "newscaster_headline_63",
+  "timestamp": "2025-05-12T04:52:33.088872",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.300000190734863,
+      "text": " Next week will mark the five-year anniversary of South Ixia officially joining the United",
+      "part": 1
+    },
+    {
+      "start": 4.300000190734863,
+      "end": 6.78000020980835,
+      "text": " States as its 52nd state.",
+      "part": 2
+    },
+    {
+      "start": 6.78000020980835,
+      "end": 10.579999923706055,
+      "text": " See how folks are planning to celebrate across the country in today's edition of the New",
+      "part": 3
+    },
+    {
+      "start": 10.579999923706055,
+      "end": 11.300000190734863,
+      "text": " York Oracle.",
+      "part": 4
+    }
+  ]
+}

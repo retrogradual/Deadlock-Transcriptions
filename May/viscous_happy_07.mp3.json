@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "viscous_happy_07",
+  "timestamp": "2025-05-11T15:07:57.297019",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Hooray!",
+      "part": 1
+    }
+  ]
+}

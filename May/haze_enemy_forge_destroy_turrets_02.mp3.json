@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "haze_enemy_forge_destroy_turrets_02",
+  "timestamp": "2025-05-11T15:02:34.749619",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": " Build as many of those machines as you want, they won't help you.",
+      "part": 1
+    }
+  ]
+}

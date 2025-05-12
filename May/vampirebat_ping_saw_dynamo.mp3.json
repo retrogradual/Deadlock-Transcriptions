@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_ping_saw_dynamo",
+  "timestamp": "2025-05-11T15:07:10.096159",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "I saw the animal.",
+      "part": 1
+    }
+  ]
+}

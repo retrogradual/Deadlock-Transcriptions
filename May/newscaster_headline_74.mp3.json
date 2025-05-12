@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "newscaster_headline_74",
+  "timestamp": "2025-05-12T04:52:35.358456",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": " A local con artist was arrested for trying to sell real estate in the underworld.",
+      "part": 1
+    },
+    {
+      "start": 4.0,
+      "end": 8.0,
+      "text": " Read the strange tale of Eskrow and Armageddon in this week's New York Oracle.",
+      "part": 2
+    }
+  ]
+}

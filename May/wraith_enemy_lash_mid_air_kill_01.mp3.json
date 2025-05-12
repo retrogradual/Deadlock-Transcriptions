@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wraith_enemy_lash_mid_air_kill_01",
+  "timestamp": "2025-05-11T15:09:38.968701",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Nice try, asshole.",
+      "part": 1
+    }
+  ]
+}

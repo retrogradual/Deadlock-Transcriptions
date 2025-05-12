@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "warden_happy_03",
+  "timestamp": "2025-05-11T15:08:52.030388",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " This will soon be over.",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "shiv_ping_ignore_chrono",
+  "timestamp": "2025-05-11T15:06:16.802146",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Ignore Paradox!",
+      "part": 1
+    }
+  ]
+}

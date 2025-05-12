@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "yamato_ping_ignore_orion",
+  "timestamp": "2025-05-11T15:10:38.520751",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "\u30a4\u30b0\u30cc\u30a2\u30fb\u30b0\u30ec\u30a4\u30bf\u30ed\u30f3",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "frank_ping_ignore_haze",
+  "timestamp": "2025-05-11T15:00:20.016990",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Ignore Haze.",
+      "part": 1
+    }
+  ]
+}

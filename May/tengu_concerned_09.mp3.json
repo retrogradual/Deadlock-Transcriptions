@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "tengu_concerned_09",
+  "timestamp": "2025-05-11T15:06:57.494318",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " No te preocupes, Ivy.",
+      "part": 1
+    }
+  ]
+}

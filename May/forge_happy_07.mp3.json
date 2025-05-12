@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "forge_happy_07",
+  "timestamp": "2025-05-11T15:00:03.120044",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " We keep doing this, we're gonna win!",
+      "part": 1
+    }
+  ]
+}

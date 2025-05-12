@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "atlas_enemy_ghost_ping_with_swap_02",
+  "timestamp": "2025-05-11T14:58:53.904667",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Geist is going to try to steal your health.",
+      "part": 1
+    }
+  ]
+}

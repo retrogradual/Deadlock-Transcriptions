@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "warden_happy_02",
+  "timestamp": "2025-05-11T15:08:52.488421",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Everyone's pulling their weight.",
+      "part": 1
+    }
+  ]
+}

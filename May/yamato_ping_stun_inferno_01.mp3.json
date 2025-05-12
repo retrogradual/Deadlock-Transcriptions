@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "yamato_ping_stun_inferno_01",
+  "timestamp": "2025-05-11T15:10:30.697901",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "\u30b9\u30bf\u30f3\u30a4\u30f3\u30d5\u30a1\u30fc\u30cd\u30b9",
+      "part": 1
+    }
+  ]
+}

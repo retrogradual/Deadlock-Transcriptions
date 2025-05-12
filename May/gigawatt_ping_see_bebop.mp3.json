@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "gigawatt_ping_see_bebop",
+  "timestamp": "2025-05-11T15:01:09.960207",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I see peanut!",
+      "part": 1
+    }
+  ]
+}
