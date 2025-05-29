@@ -1,0 +1,30 @@
+{
+  "voiceline_id": "magician_hs_select_02",
+  "timestamp": "2025-05-14T15:52:31.172177",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.240000009536743,
+      "text": " The Magnificent Henry is ready to help.",
+      "part": 1
+    },
+    {
+      "start": 2.240000009536743,
+      "end": 2.740000009536743,
+      "text": " Ha!",
+      "part": 2
+    },
+    {
+      "start": 2.740000009536743,
+      "end": 3.5799999237060547,
+      "text": " Somethin' funny?",
+      "part": 3
+    },
+    {
+      "start": 3.5799999237060547,
+      "end": 6.579999923706055,
+      "text": " Yeah, you calling yourself magnificent is hilarious.",
+      "part": 4
+    }
+  ]
+}

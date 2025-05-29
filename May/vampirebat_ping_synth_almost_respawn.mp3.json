@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_ping_synth_almost_respawn",
+  "timestamp": "2025-05-13T17:13:15.720630",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Your pocket is almost back!",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "priest_ping_shiv_under_garage",
+  "timestamp": "2025-05-13T17:05:39.226602",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Jim's under the garage!",
+      "part": 1
+    }
+  ]
+}

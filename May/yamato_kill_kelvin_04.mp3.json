@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_kill_kelvin_04",
-  "timestamp": "2025-05-12T02:52:07.522942",
+  "timestamp": "2025-05-14T02:08:04.847110",
   "segments": [
     {
       "start": 0.0,
-      "end": 5.0,
-      "text": "\u4e16\u306b\u805e\u3053\u3048\u305f\u82f1\u96c4\u3068\u3066\u3001\u5b9f\u4f53\u306f\u6240\u8a6e\u3053\u3093\u306a\u3082\u306e\u3060\u3002",
+      "end": 4.5,
+      "text": " This is what it's like to be a hero, even if it's only heard of in the world.",
       "part": 1
     }
   ]

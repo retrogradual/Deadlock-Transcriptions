@@ -1,12 +1,18 @@
 {
   "voiceline_id": "yamato_select_03",
-  "timestamp": "2025-05-11T15:10:13.892847",
+  "timestamp": "2025-05-14T02:06:28.955470",
   "segments": [
     {
       "start": 0.0,
-      "end": 6.0,
-      "text": "\u79c1\u306f\u8a33\u3042\u3063\u3066\u3053\u306e\u540d\u3092\u5f97\u305f\u3002\u6c7a\u3057\u3066\u6c5a\u3059\u3053\u3068\u306e\u3067\u304d\u306c\u3053\u306e\u540d\u3092\u3002",
+      "end": 2.5999999046325684,
+      "text": " I was given this name for a reason.",
       "part": 1
+    },
+    {
+      "start": 2.5999999046325684,
+      "end": 4.599999904632568,
+      "text": " A name that can never be stained.",
+      "part": 2
     }
   ]
 }

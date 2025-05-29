@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "trapper_ping_refresher_almost_ready",
+  "timestamp": "2025-05-13T17:11:19.995844",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Refresh is almost ready!",
+      "part": 1
+    }
+  ]
+}

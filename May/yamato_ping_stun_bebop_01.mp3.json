@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_ping_stun_bebop_01",
-  "timestamp": "2025-05-11T15:10:21.446954",
+  "timestamp": "2025-05-14T02:07:30.667090",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": "\u30b9\u30bf\u30f3\u30d3\u30fc\u30d0\u30c3\u30d7",
+      "text": " Stun Bebop.",
       "part": 1
     }
   ]

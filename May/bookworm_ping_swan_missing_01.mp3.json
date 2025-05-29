@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bookworm_ping_swan_missing_01",
+  "timestamp": "2025-05-13T16:23:15.505222",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Swans missing.",
+      "part": 1
+    }
+  ]
+}

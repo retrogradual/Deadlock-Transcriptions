@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_ping_dynamo_dead",
+  "timestamp": "2025-05-13T17:11:57.952651",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " DYNAMO IS DEAD",
+      "part": 1
+    }
+  ]
+}

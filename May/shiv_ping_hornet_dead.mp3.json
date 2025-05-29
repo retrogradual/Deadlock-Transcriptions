@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "shiv_ping_hornet_dead",
+  "timestamp": "2025-05-13T17:06:41.519012",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " VINDICTOR'S DEAD!",
+      "part": 1
+    }
+  ]
+}

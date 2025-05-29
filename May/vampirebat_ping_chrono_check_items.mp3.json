@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_ping_chrono_check_items",
+  "timestamp": "2025-05-13T17:11:52.485340",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Check out what Paradox bought.",
+      "part": 1
+    }
+  ]
+}

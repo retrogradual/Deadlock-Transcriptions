@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "yamato_ping_inferno_dead",
+  "timestamp": "2025-05-14T02:08:01.373039",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Infarness is dead.",
+      "part": 1
+    }
+  ]
+}

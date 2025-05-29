@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "viper_ping_headed_orange_02",
+  "timestamp": "2025-05-13T17:14:02.651928",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Headed to Orchard!",
+      "part": 1
+    }
+  ]
+}

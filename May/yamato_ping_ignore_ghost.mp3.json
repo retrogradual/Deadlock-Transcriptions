@@ -1,12 +1,18 @@
 {
   "voiceline_id": "yamato_ping_ignore_ghost",
-  "timestamp": "2025-05-11T15:10:25.609295",
+  "timestamp": "2025-05-14T02:07:45.807357",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
-      "text": " \u0627\u06af\u0646\u0648\u0631 \u06af\u0627\u0626\u0633\u0679",
+      "end": 1.0,
+      "text": " ignore Geist",
       "part": 1
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "text": " .",
+      "part": 2
     }
   ]
 }

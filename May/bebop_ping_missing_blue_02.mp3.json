@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bebop_ping_missing_blue_02",
+  "timestamp": "2025-05-13T16:20:57.606652",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " MISSING PROLOGUE!",
+      "part": 1
+    }
+  ]
+}

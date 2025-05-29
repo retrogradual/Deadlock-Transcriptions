@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "operative_ping_headed_blue_02",
+  "timestamp": "2025-05-13T17:02:16.862081",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Headed to Broadway.",
+      "part": 1
+    }
+  ]
+}

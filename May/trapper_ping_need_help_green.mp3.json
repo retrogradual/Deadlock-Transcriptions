@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "trapper_ping_need_help_green",
+  "timestamp": "2025-05-13T17:11:12.218296",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": " Need help?",
+      "part": 1
+    },
+    {
+      "start": 1.0,
+      "end": 1.5,
+      "text": " I'm green!",
+      "part": 2
+    }
+  ]
+}

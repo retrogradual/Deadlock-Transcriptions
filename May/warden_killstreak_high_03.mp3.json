@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "warden_killstreak_high_03",
+  "timestamp": "2025-05-13T18:51:41.946578",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": " I AM UNBREAKABLE!",
+      "part": 1
+    }
+  ]
+}

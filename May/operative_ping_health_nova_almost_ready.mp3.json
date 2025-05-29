@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "operative_ping_health_nova_almost_ready",
+  "timestamp": "2025-05-13T17:02:19.318072",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Elfnov is almost ready.",
+      "part": 1
+    }
+  ]
+}

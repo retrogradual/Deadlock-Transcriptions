@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "operative_ping_take_mid",
+  "timestamp": "2025-05-13T17:02:48.910505",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Let's go on it!",
+      "part": 1
+    }
+  ]
+}

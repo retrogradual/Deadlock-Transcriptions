@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "operative_ping_defend_orange_02",
+  "timestamp": "2025-05-13T17:02:08.756175",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Defend Orchard.",
+      "part": 1
+    }
+  ]
+}

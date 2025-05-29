@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "shiv_low_health_warning",
+  "timestamp": "2025-05-13T17:06:18.866557",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Might be time to pull back.",
+      "part": 1
+    }
+  ]
+}

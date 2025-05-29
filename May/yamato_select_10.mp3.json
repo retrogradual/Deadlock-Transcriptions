@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_select_10",
-  "timestamp": "2025-05-11T15:10:14.363909",
+  "timestamp": "2025-05-14T02:06:31.210316",
   "segments": [
     {
       "start": 0.0,
-      "end": 5.400000095367432,
-      "text": "\u5144\u3088\u3001\u898b\u3066\u3044\u3066\u304f\u308c\u3002\u3059\u3050\u306b\u3042\u306a\u305f\u306e\u5922\u306f\u73fe\u5b9f\u3068\u306a\u308b\u3002",
+      "end": 5.0,
+      "text": " Brother, please watch over me. Your dream will soon become a reality.",
       "part": 1
     }
   ]

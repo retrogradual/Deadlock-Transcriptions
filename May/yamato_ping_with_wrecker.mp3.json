@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_ping_with_wrecker",
-  "timestamp": "2025-05-11T15:10:48.097056",
+  "timestamp": "2025-05-14T02:08:51.821581",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
-      "text": " \u0627\u06cc\u0645 \u0648\u06cc\u0632\u06cc \u0648\u06cc\u06a9\u0627",
+      "end": 1.2799999713897705,
+      "text": " I'm with you, Becca.",
       "part": 1
     }
   ]

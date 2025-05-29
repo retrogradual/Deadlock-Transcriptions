@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "mirage_upgrade_power2_04_alt",
+  "timestamp": "2025-05-13T16:58:14.920124",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Escalibs will be set to their tasks.",
+      "part": 1
+    }
+  ]
+}

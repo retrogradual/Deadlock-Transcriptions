@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "priest_use_power1_06",
+  "timestamp": "2025-05-13T18:48:20.985602",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " A-O-A THINGY!",
+      "part": 1
+    }
+  ]
+}

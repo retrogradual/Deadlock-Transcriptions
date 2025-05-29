@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "operative_ping_negative_02",
+  "timestamp": "2025-05-13T17:02:34.602496",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " That I don't know.",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "prof_ping_slork_under_garage",
+  "timestamp": "2025-05-13T16:26:11.168178",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Phalem's under the garage!",
+      "part": 1
+    }
+  ]
+}

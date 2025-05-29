@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "magician_henry_ping_stun_viper_01",
+  "timestamp": "2025-05-13T16:55:11.520740",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Stun Viper!",
+      "part": 1
+    }
+  ]
+}

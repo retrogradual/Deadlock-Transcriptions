@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_ping_stun_forge_01",
-  "timestamp": "2025-05-11T15:10:24.880041",
+  "timestamp": "2025-05-14T02:07:42.134680",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": "\u30b9\u30bf\u30f3\u30fb\u30de\u30af\u30ae\u30cb\u30b9",
+      "text": " Stan McGuinness.",
       "part": 1
     }
   ]

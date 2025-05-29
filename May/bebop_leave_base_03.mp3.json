@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bebop_leave_base_03",
+  "timestamp": "2025-05-13T18:40:12.264136",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " We need to finish this!",
+      "part": 1
+    }
+  ]
+}

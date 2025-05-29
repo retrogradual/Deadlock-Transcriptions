@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "slork_ping_silence_not_ready",
+  "timestamp": "2025-05-13T17:08:25.853278",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " SILENCE GLIFTS ON COOLDOWN",
+      "part": 1
+    }
+  ]
+}

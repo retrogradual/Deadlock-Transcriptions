@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bookworm_ping_gigawatt_almost_respawn",
+  "timestamp": "2025-05-13T16:22:07.037735",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Seven is almost back.",
+      "part": 1
+    }
+  ]
+}

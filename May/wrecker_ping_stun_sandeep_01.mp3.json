@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wrecker_ping_stun_sandeep_01",
+  "timestamp": "2025-05-13T17:22:08.146283",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Stan Sandeep.",
+      "part": 1
+    }
+  ]
+}

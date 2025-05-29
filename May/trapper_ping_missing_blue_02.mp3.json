@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "trapper_ping_missing_blue_02",
+  "timestamp": "2025-05-13T17:11:08.938892",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " MISSING BROADWAY!",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "shiv_ping_ability1_almost_ready",
+  "timestamp": "2025-05-13T17:06:21.098977",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " BLADE'S ALMOST READY!",
+      "part": 1
+    }
+  ]
+}

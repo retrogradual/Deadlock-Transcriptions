@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "shiv_ping_astro_almost_respawn",
+  "timestamp": "2025-05-13T17:06:23.533156",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Holiday is almost back!",
+      "part": 1
+    }
+  ]
+}

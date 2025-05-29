@@ -1,12 +1,18 @@
 {
   "voiceline_id": "yamato_ping_ignore_lash",
-  "timestamp": "2025-05-11T15:10:34.298035",
+  "timestamp": "2025-05-14T02:08:15.153080",
   "segments": [
     {
       "start": 0.0,
       "end": 1.0,
-      "text": " Ignolash",
+      "text": " Ignore lash",
       "part": 1
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "text": " .",
+      "part": 2
     }
   ]
 }

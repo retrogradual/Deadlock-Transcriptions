@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_ping_stun_synth_01",
-  "timestamp": "2025-05-11T15:10:42.506390",
+  "timestamp": "2025-05-14T02:08:30.641924",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Stump pocket",
+      "text": " Stump Pocket.",
       "part": 1
     }
   ]

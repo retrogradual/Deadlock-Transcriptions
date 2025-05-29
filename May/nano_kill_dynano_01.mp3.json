@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "nano_kill_dynano_01",
+  "timestamp": "2025-05-14T15:52:47.108573",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.880000114440918,
+      "text": " You tried, Professor. That has to count for something.",
+      "part": 1
+    }
+  ]
+}

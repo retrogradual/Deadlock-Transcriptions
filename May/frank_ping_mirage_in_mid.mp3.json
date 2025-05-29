@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "frank_ping_mirage_in_mid",
+  "timestamp": "2025-05-13T16:28:21.526925",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Mirage is in mid.",
+      "part": 1
+    }
+  ]
+}

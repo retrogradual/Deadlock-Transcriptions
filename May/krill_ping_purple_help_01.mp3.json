@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "krill_ping_purple_help_01",
+  "timestamp": "2025-05-13T16:50:28.990032",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Purple needs help!",
+      "part": 1
+    }
+  ]
+}

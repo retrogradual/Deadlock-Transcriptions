@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wrecker_ping_theyre_in_mid",
+  "timestamp": "2025-05-13T17:22:11.110004",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " V E R Y M I D",
+      "part": 1
+    }
+  ]
+}

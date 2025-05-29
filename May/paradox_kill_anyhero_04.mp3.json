@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "paradox_kill_anyhero_04",
+  "timestamp": "2025-05-13T16:23:43.466292",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Enemy down.",
+      "part": 1
+    }
+  ]
+}

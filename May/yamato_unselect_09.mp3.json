@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_unselect_09",
-  "timestamp": "2025-05-11T15:10:15.427943",
+  "timestamp": "2025-05-14T02:06:32.359113",
   "segments": [
     {
       "start": 0.0,
-      "end": 4.0,
-      "text": "\u8840\u3092\u898b\u308b\u306e\u306f\u307e\u305f\u306e\u6a5f\u4f1a\u3001\u3068\u3044\u3046\u3053\u3068\u304b\u3002",
+      "end": 3.5,
+      "text": " \u8840\u3092\u898b\u308b\u306e\u306f\u307e\u305f\u306e\u6a5f\u4f1a\u3068\u3044\u3046\u3053\u3068\u304b\u3002",
       "part": 1
     }
   ]

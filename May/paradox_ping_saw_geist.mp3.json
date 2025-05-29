@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "paradox_ping_saw_geist",
+  "timestamp": "2025-05-13T16:25:14.593634",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I saw a Geist!",
+      "part": 1
+    }
+  ]
+}

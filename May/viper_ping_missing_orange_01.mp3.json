@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "viper_ping_missing_orange_01",
+  "timestamp": "2025-05-13T17:14:12.601594",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0399999618530273,
+      "text": " MISSING ORANGE",
+      "part": 1
+    }
+  ]
+}

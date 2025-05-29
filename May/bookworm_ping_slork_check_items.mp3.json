@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bookworm_ping_slork_check_items",
+  "timestamp": "2025-05-13T16:23:11.865595",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Check out what Fathom brought.",
+      "part": 1
+    }
+  ]
+}

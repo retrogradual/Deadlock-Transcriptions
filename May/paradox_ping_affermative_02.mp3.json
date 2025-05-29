@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "paradox_ping_affermative_02",
+  "timestamp": "2025-05-13T16:23:48.826908",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I like it.",
+      "part": 1
+    }
+  ]
+}

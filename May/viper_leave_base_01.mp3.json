@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "viper_leave_base_01",
+  "timestamp": "2025-05-13T18:50:48.195965",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " You gotta get back out there!",
+      "part": 1
+    }
+  ]
+}

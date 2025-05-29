@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "patron_female_ally_sandeep_start_03",
+  "timestamp": "2025-05-14T15:50:28.263037",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": " Sandeep, you're a man of service, of action.",
+      "part": 1
+    },
+    {
+      "start": 5.0,
+      "end": 10.0,
+      "text": " Complete the ritual and earn your just reward.",
+      "part": 2
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_ping_stun_tengu_01",
-  "timestamp": "2025-05-11T15:10:42.990877",
+  "timestamp": "2025-05-14T02:08:35.354282",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": "\u30b9\u30bf\u30f3 \u30a2\u30a4\u30d3\u30fc",
+      "text": " Stan Ivey.",
       "part": 1
     }
   ]

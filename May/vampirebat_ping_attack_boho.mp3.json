@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_ping_attack_boho",
+  "timestamp": "2025-05-13T17:11:35.328110",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Let's take out the witch!",
+      "part": 1
+    }
+  ]
+}

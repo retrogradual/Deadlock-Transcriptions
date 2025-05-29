@@ -1,12 +1,30 @@
 {
   "voiceline_id": "yamato_ping_see_bebop_01",
-  "timestamp": "2025-05-11T15:10:20.785850",
+  "timestamp": "2025-05-14T02:07:30.281865",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
-      "text": "ICB-BUC",
+      "end": 1.0,
+      "text": " .",
       "part": 1
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "text": " .",
+      "part": 2
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": " .",
+      "part": 3
+    },
+    {
+      "start": 3.0,
+      "end": 3.0,
+      "text": "",
+      "part": 4
     }
   ]
 }

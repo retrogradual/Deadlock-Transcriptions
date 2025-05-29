@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wrecker_ping_careful_murphy_01",
+  "timestamp": "2025-05-13T17:21:30.657085",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " CAREFUL MURPHY",
+      "part": 1
+    }
+  ]
+}

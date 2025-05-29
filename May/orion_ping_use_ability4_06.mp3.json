@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "orion_ping_use_ability4_06",
+  "timestamp": "2025-05-13T17:03:59.854716",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Arrow is ready to fly!",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wraith_ping_rejuv_drop",
+  "timestamp": "2025-05-13T17:20:13.125851",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " REJUVESTROPPING!",
+      "part": 1
+    }
+  ]
+}

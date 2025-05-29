@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "warden_ping_see_orion_on_roof",
+  "timestamp": "2025-05-13T17:17:33.284465",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Great Talons on the Roof!",
+      "part": 1
+    }
+  ]
+}

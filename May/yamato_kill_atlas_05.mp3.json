@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_kill_atlas_05",
-  "timestamp": "2025-05-12T02:51:59.455307",
+  "timestamp": "2025-05-14T02:07:23.212705",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
-      "text": "\u307e\u3063\u305f\u304f\u5384\u4ecb\u306a\u3084\u3064\u3060\u3002",
+      "end": 2.5,
+      "text": " Man, he's such a pain in the ass.",
       "part": 1
     }
   ]

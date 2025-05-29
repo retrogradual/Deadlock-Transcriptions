@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "slork_ping_headed_blue_01",
+  "timestamp": "2025-05-13T17:07:59.187607",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " HEADED TO BLUE!",
+      "part": 1
+    }
+  ]
+}

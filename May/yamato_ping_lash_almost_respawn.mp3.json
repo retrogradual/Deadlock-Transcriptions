@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "yamato_ping_lash_almost_respawn",
+  "timestamp": "2025-05-14T02:08:15.433428",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Lush is almost back.",
+      "part": 1
+    }
+  ]
+}

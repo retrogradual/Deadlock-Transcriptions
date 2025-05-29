@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "patron_female_ally_sandeep_start_01",
+  "timestamp": "2025-05-14T15:50:28.003728",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.960000038146973,
+      "text": " You seek to change the world, Sandeep, but doing that will come at a price.",
+      "part": 1
+    }
+  ]
+}

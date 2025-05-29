@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "operative_ping_be_back_soon",
+  "timestamp": "2025-05-13T17:02:05.489384",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Be right back.",
+      "part": 1
+    }
+  ]
+}

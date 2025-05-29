@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "viper_ping_need_help_orange",
+  "timestamp": "2025-05-13T17:14:14.653780",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.5199999809265137,
+      "text": " Need help on Orange?",
+      "part": 1
+    }
+  ]
+}

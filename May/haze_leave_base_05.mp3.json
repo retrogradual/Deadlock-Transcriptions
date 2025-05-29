@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "haze_leave_base_05",
+  "timestamp": "2025-05-13T18:44:16.997453",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " The job's not finished yet.",
+      "part": 1
+    }
+  ]
+}

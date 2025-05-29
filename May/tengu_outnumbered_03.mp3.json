@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "tengu_outnumbered_03",
+  "timestamp": "2025-05-13T17:09:52.921016",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " You might wanna pull back.",
+      "part": 1
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_ping_careful_kelvin_01",
-  "timestamp": "2025-05-11T15:10:31.315933",
+  "timestamp": "2025-05-14T02:08:05.337920",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Kia wh\u014d, Kerby.",
+      "text": " Careful, Kirby.",
       "part": 1
     }
   ]

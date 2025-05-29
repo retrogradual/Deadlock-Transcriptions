@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "trapper_ping_headed_purple_02",
+  "timestamp": "2025-05-13T17:11:00.646949",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Head to the park!",
+      "part": 1
+    }
+  ]
+}

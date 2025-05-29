@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "warden_ping_inferno_on_top_of_garage",
+  "timestamp": "2025-05-13T17:16:42.648792",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " In furnaces on top of the garage!",
+      "part": 1
+    }
+  ]
+}

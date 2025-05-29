@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "krill_low_health_warning",
+  "timestamp": "2025-05-13T16:49:51.665524",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " We should find a place to rest up.",
+      "part": 1
+    }
+  ]
+}

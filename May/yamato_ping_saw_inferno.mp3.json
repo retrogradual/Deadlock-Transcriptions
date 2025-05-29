@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_ping_saw_inferno",
-  "timestamp": "2025-05-11T15:10:30.613884",
+  "timestamp": "2025-05-14T02:08:03.329928",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
-      "text": "\u0e2d\u0e32\u0e07\u0e0b\u0e32\u0e27 \u0e07\u0e34\u0e19\u0e1f\u0e32\u0e19\u0e31\u0e2a",
+      "end": 1.100000023841858,
+      "text": " ISO infonis.",
       "part": 1
     }
   ]

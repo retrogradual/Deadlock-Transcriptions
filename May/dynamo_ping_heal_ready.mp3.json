@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "dynamo_ping_heal_ready",
+  "timestamp": "2025-05-13T16:25:47.145676",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": " Heels ready!",
+      "part": 1
+    }
+  ]
+}

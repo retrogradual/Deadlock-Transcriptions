@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "atlas_ping_use_curse",
+  "timestamp": "2025-05-13T16:20:23.529296",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Ready to use CURSE!",
+      "part": 1
+    }
+  ]
+}

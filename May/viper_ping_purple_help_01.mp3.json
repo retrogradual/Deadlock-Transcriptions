@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "viper_ping_purple_help_01",
+  "timestamp": "2025-05-13T17:14:19.657704",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Purple needs help!",
+      "part": 1
+    }
+  ]
+}

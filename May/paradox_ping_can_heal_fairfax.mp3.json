@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "paradox_ping_can_heal_fairfax",
+  "timestamp": "2025-05-13T16:24:59.858110",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Fairfax, I can heal you!",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "priest_ping_slork_in_mid",
+  "timestamp": "2025-05-13T17:05:41.246656",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " PATHOMS ADMIT!",
+      "part": 1
+    }
+  ]
+}

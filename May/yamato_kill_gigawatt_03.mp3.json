@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_kill_gigawatt_03",
-  "timestamp": "2025-05-12T02:52:04.186956",
+  "timestamp": "2025-05-14T02:07:47.032085",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": "\u5984\u60f3\u306e\u306a\u308c\u306e\u679c\u3066\u3060\u306a\u3002",
+      "text": " It's the end of your delusion.",
       "part": 1
     }
   ]

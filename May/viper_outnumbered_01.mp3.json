@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "viper_outnumbered_01",
+  "timestamp": "2025-05-13T17:13:47.167638",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": " Pssst, I'm not planning on dying a hero.",
+      "part": 1
+    }
+  ]
+}

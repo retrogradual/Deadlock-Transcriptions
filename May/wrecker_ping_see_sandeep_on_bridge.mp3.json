@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wrecker_ping_see_sandeep_on_bridge",
+  "timestamp": "2025-05-13T17:22:05.763771",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Sandeep's on the bridge.",
+      "part": 1
+    }
+  ]
+}

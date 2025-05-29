@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "trapper_ping_use_refresher",
+  "timestamp": "2025-05-13T17:11:30.078954",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Ready to use Refresher!",
+      "part": 1
+    }
+  ]
+}

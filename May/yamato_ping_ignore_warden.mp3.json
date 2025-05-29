@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_ping_ignore_warden",
-  "timestamp": "2025-05-11T15:10:45.319547",
+  "timestamp": "2025-05-14T02:08:42.800097",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
-      "text": " EG\u00dcN O\u011eAN VARDIN",
+      "end": 1.0,
+      "text": " Ignore what then?",
       "part": 1
     }
   ]

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_ally_fortuna_killed_in_lane_01",
+  "timestamp": "2025-05-13T17:11:37.331972",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " THEY TOOK OUT FORTUNA!",
+      "part": 1
+    }
+  ]
+}

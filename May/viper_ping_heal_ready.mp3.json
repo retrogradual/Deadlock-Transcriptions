@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "viper_ping_heal_ready",
+  "timestamp": "2025-05-13T17:14:04.787663",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": " Heels ready!",
+      "part": 1
+    }
+  ]
+}

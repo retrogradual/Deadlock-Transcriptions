@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "frank_ping_push_green_01",
+  "timestamp": "2025-05-13T16:28:34.191110",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Let's push green.",
+      "part": 1
+    }
+  ]
+}

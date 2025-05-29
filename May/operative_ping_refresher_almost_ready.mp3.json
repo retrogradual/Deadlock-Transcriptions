@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "operative_ping_refresher_almost_ready",
+  "timestamp": "2025-05-13T17:02:39.611779",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Refresh is almost ready.",
+      "part": 1
+    }
+  ]
+}

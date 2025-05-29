@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "haze_low_health_warning",
+  "timestamp": "2025-05-13T16:33:27.180515",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.319999933242798,
+      "text": " I need to find a place to recover.",
+      "part": 1
+    }
+  ]
+}

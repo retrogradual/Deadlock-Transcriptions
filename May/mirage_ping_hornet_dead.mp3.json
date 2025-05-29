@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "mirage_ping_hornet_dead",
+  "timestamp": "2025-05-13T16:58:55.952292",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " PENDICTO IS DEAD!",
+      "part": 1
+    }
+  ]
+}

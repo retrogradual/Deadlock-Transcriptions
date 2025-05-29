@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "nano_ping_saw_them",
+  "timestamp": "2025-05-13T17:01:43.128050",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": " I saw them.",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wrecker_ping_murphy_missing_01",
+  "timestamp": "2025-05-13T17:21:46.935801",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " MURPHY IS MISSING!",
+      "part": 1
+    }
+  ]
+}

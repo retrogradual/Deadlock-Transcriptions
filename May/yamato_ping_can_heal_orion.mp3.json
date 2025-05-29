@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_ping_can_heal_orion",
-  "timestamp": "2025-05-11T15:10:38.059351",
+  "timestamp": "2025-05-14T02:08:21.559202",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": "Grey Talon, I can heal you.",
+      "text": " Grey Talon, I can heal you.",
       "part": 1
     }
   ]

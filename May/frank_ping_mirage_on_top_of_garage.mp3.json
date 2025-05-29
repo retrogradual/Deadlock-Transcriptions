@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "frank_ping_mirage_on_top_of_garage",
+  "timestamp": "2025-05-13T16:28:22.165113",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Garage is on top of the garage.",
+      "part": 1
+    }
+  ]
+}

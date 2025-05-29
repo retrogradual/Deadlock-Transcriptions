@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "frank_ping_orion_under_garage",
+  "timestamp": "2025-05-13T16:28:32.384116",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Great talent is dead.",
+      "part": 1
+    }
+  ]
+}

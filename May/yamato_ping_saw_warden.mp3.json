@@ -1,12 +1,18 @@
 {
   "voiceline_id": "yamato_ping_saw_warden",
-  "timestamp": "2025-05-11T15:10:45.097484",
+  "timestamp": "2025-05-14T02:08:42.667325",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
-      "text": "\u30a2\u30a4\u30bd\u30fc\u30fb\u30ef\u30fc\u30c7\u30f3",
+      "end": 1.0,
+      "text": " .",
       "part": 1
+    },
+    {
+      "start": 1.0,
+      "end": 1.0,
+      "text": "",
+      "part": 2
     }
   ]
 }

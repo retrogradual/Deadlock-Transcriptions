@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_ping_attack_mirage",
-  "timestamp": "2025-05-11T15:10:34.887228",
+  "timestamp": "2025-05-14T02:08:17.564214",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": "Let's take out Mirage.",
+      "text": " Let's take out Mirage.",
       "part": 1
     }
   ]

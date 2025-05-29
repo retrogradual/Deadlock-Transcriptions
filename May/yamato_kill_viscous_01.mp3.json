@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_kill_viscous_01",
-  "timestamp": "2025-05-12T02:52:13.579606",
+  "timestamp": "2025-05-14T02:08:36.798912",
   "segments": [
     {
       "start": 0.0,
       "end": 0.5,
-      "text": "\u304f\u3063",
+      "text": " Hmph!",
       "part": 1
     }
   ]

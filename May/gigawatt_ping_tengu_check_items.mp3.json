@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "gigawatt_ping_tengu_check_items",
+  "timestamp": "2025-05-13T16:32:37.362292",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Check out what I've imported!",
+      "part": 1
+    }
+  ]
+}

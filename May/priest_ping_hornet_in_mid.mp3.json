@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "priest_ping_hornet_in_mid",
+  "timestamp": "2025-05-13T17:04:42.650566",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Vindictus inmid!",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "trapper_ping_missing_orange_01",
+  "timestamp": "2025-05-13T17:11:09.770540",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " MISSING ORANGE!",
+      "part": 1
+    }
+  ]
+}

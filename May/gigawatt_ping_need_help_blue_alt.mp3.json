@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "gigawatt_ping_need_help_blue_alt",
+  "timestamp": "2025-05-13T16:31:49.895790",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " NEED HELP ON BROADWAY?",
+      "part": 1
+    }
+  ]
+}

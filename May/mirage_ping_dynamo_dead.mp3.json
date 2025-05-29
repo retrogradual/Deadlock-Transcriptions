@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "mirage_ping_dynamo_dead",
+  "timestamp": "2025-05-13T16:58:36.389891",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Dynamo's dead.",
+      "part": 1
+    }
+  ]
+}

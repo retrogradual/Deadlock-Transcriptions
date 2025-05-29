@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "shiv_ping_ability4_almost_ready",
+  "timestamp": "2025-05-13T17:06:22.515185",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " KILLING BLUE IS ALMOST READY!",
+      "part": 1
+    }
+  ]
+}

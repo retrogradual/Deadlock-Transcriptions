@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "slork_ping_rupture_almost_ready",
+  "timestamp": "2025-05-13T17:08:24.267188",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " DK'S ALMOST READY!",
+      "part": 1
+    }
+  ]
+}

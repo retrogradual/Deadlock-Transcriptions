@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wraith_ping_defend_blue_02",
+  "timestamp": "2025-05-13T17:18:54.793430",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.1200000047683716,
+      "text": " DEFEND BROADWAY",
+      "part": 1
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_select_05",
-  "timestamp": "2025-05-11T15:10:12.911174",
+  "timestamp": "2025-05-14T02:06:29.421445",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
-      "text": "\u7acb\u3061\u3075\u3055\u304c\u308b\u8005\u306f\u8ab0\u3067\u3042\u308c\u65ac\u308a\u6368\u3066\u308b",
+      "end": 3.0,
+      "text": " Anyone who stands in my way, I will cut them down.",
       "part": 1
     }
   ]

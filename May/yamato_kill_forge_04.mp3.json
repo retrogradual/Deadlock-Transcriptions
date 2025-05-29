@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_kill_forge_04",
-  "timestamp": "2025-05-12T02:52:02.376529",
+  "timestamp": "2025-05-14T02:07:39.587134",
   "segments": [
     {
       "start": 0.0,
-      "end": 3.0,
-      "text": "\u6a2a\u305f\u308f\u308a\u8840\u3092\u6d41\u3059\u304c\u3044\u3044",
+      "end": 2.4000000953674316,
+      "text": " Yoko tawari chi wo nagasu ga ii!",
       "part": 1
     }
   ]

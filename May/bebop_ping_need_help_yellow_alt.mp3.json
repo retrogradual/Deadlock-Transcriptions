@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bebop_ping_need_help_yellow_alt",
+  "timestamp": "2025-05-13T16:21:00.995098",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Maybe I'll go nuke!",
+      "part": 1
+    }
+  ]
+}

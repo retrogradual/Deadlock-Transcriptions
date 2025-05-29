@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "forge_leave_base_02",
+  "timestamp": "2025-05-13T18:42:05.184126",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " It's time to end this thing.",
+      "part": 1
+    }
+  ]
+}

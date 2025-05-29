@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_kill_lash_01",
-  "timestamp": "2025-05-12T02:52:08.594311",
+  "timestamp": "2025-05-14T02:08:13.283451",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": "\u99ac\u9e7f\u306a\u30a2\u30e1\u30ea\u30ab\u4eba\u3081",
+      "text": " You stupid American!",
       "part": 1
     }
   ]

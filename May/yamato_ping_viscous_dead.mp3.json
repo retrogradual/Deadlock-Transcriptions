@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "yamato_ping_viscous_dead",
+  "timestamp": "2025-05-14T02:08:40.011013",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Vesikas is dead.",
+      "part": 1
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_ping_attack_bebop",
-  "timestamp": "2025-05-11T15:10:19.658486",
+  "timestamp": "2025-05-14T02:07:28.150566",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Let's take out Beebop.",
+      "text": " Let's take out B-Bomb.",
       "part": 1
     }
   ]

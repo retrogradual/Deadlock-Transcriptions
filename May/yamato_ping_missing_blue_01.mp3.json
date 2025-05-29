@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "yamato_ping_missing_blue_01",
+  "timestamp": "2025-05-14T02:07:02.677294",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.7200000286102295,
+      "text": " Missing Blue",
+      "part": 1
+    }
+  ]
+}

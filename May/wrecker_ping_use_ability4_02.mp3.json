@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wrecker_ping_use_ability4_02",
+  "timestamp": "2025-05-13T17:22:13.302917",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " READY TO SHADOW WALK!",
+      "part": 1
+    }
+  ]
+}

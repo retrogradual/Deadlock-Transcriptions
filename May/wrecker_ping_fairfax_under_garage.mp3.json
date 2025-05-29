@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wrecker_ping_fairfax_under_garage",
+  "timestamp": "2025-05-13T17:21:36.368755",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.559999942779541,
+      "text": " Fairfax under the garage!",
+      "part": 1
+    }
+  ]
+}

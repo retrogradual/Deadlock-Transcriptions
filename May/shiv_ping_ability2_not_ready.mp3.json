@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "shiv_ping_ability2_not_ready",
+  "timestamp": "2025-05-13T17:06:21.857503",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " DASH IS ON COOLDOWN!",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "priest_ping_viper_under_garage",
+  "timestamp": "2025-05-13T17:05:59.273070",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " VIPERS UNDER THE GARAGE!",
+      "part": 1
+    }
+  ]
+}

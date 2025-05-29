@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "mirage_ping_trapper_almost_respawn",
+  "timestamp": "2025-05-13T17:00:18.782237",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Trapper is almost back!",
+      "part": 1
+    }
+  ]
+}

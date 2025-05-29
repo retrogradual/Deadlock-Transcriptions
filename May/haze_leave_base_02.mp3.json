@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "haze_leave_base_02",
+  "timestamp": "2025-05-13T18:44:17.898313",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.200000047683716,
+      "text": " My hands have been clean for far too long.",
+      "part": 1
+    }
+  ]
+}

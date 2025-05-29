@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "magician_savannah_ping_saw_forge",
+  "timestamp": "2025-05-13T16:57:35.805277",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I saw McGuinness.",
+      "part": 1
+    }
+  ]
+}

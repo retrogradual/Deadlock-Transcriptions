@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_kill_inferno_04",
-  "timestamp": "2025-05-12T02:52:07.001287",
+  "timestamp": "2025-05-14T02:08:00.426742",
   "segments": [
     {
       "start": 0.0,
-      "end": 4.0,
-      "text": "\u3053\u3044\u3064\u304c\u7d42\u308f\u3063\u305f\u3089\u3001\u3084\u3064\u306e\u30d0\u30fc\u3082\u713c\u304d\u6255\u3063\u3066\u3084\u308b\u3002",
+      "end": 3.5,
+      "text": " When this guy is done, I'll burn his bar down as well.",
       "part": 1
     }
   ]

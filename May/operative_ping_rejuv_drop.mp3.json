@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "operative_ping_rejuv_drop",
+  "timestamp": "2025-05-13T17:02:40.026610",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Reduce dropping.",
+      "part": 1
+    }
+  ]
+}

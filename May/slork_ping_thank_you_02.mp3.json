@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "slork_ping_thank_you_02",
+  "timestamp": "2025-05-13T17:08:29.409262",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": " Thank you.",
+      "part": 1
+    },
+    {
+      "start": 1.0,
+      "end": 1.0,
+      "text": "",
+      "part": 2
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_ping_attack_wrecker",
-  "timestamp": "2025-05-11T15:10:46.779837",
+  "timestamp": "2025-05-14T02:08:50.222666",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Let's take out the record.",
+      "text": " Let's take out the red car.",
       "part": 1
     }
   ]

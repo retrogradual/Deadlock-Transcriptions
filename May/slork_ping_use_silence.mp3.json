@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "slork_ping_use_silence",
+  "timestamp": "2025-05-13T17:08:33.242450",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Ready to use silence glyph!",
+      "part": 1
+    }
+  ]
+}

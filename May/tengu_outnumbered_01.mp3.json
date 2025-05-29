@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "tengu_outnumbered_01",
+  "timestamp": "2025-05-13T17:09:53.433548",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Oh boy, there's a lot of them!",
+      "part": 1
+    }
+  ]
+}

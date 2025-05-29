@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_ping_wait",
+  "timestamp": "2025-05-13T17:13:30.696454",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.5,
+      "text": " Hold up!",
+      "part": 1
+    }
+  ]
+}

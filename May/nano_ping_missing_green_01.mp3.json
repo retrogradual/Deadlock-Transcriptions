@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "nano_ping_missing_green_01",
+  "timestamp": "2025-05-13T17:01:27.478651",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.1200000047683716,
+      "text": " Missing green.",
+      "part": 1
+    }
+  ]
+}

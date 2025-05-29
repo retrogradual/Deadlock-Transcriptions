@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_kill_dynamo_03",
-  "timestamp": "2025-05-12T02:52:01.777678",
+  "timestamp": "2025-05-14T02:07:35.424914",
   "segments": [
     {
       "start": 0.0,
       "end": 4.0,
-      "text": "\u6c17\u9ad8\u304d\u7537\u3082\u6b7b\u306d\u3070\u305f\u3060\u306e\u5c4d\u3060\u3002",
+      "text": " A noble man is nothing but a corpse when he dies.",
       "part": 1
     }
   ]

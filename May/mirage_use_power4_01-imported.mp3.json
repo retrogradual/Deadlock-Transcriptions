@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "mirage_use_power4_01-imported",
+  "timestamp": "2025-05-13T16:58:15.680036",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": " Teleporting.",
+      "part": 1
+    }
+  ]
+}

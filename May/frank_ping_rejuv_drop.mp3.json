@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "frank_ping_rejuv_drop",
+  "timestamp": "2025-05-13T16:28:36.290848",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Rejuve's dropping.",
+      "part": 1
+    }
+  ]
+}

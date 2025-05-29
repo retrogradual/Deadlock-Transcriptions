@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wrecker_ping_use_ability4_10",
+  "timestamp": "2025-05-13T17:22:16.385555",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.7200000286102295,
+      "text": " Ready to go in.",
+      "part": 1
+    }
+  ]
+}

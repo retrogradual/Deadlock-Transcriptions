@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_ping_see_shiv_01",
-  "timestamp": "2025-05-11T15:10:40.618879",
+  "timestamp": "2025-05-14T02:08:26.606345",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
-      "text": "IC Sieb",
+      "end": 0.7200000286102295,
+      "text": " Icy Sheep",
       "part": 1
     }
   ]

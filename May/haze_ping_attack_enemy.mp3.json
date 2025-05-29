@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "haze_ping_attack_enemy",
+  "timestamp": "2025-05-13T16:33:42.626204",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " LET'S TAKE OUT THE ENEMY!",
+      "part": 1
+    }
+  ]
+}

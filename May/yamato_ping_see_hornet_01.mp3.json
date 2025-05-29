@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_ping_see_hornet_01",
-  "timestamp": "2025-05-11T15:10:29.298873",
+  "timestamp": "2025-05-14T02:07:58.905110",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
-      "text": "IC\u30d3\u30f3\u30c7\u30a3\u30af\u30bf\u30fc",
+      "end": 1.0,
+      "text": " ICBinDicta",
       "part": 1
     }
   ]

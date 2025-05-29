@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_kill_dynamo_05",
-  "timestamp": "2025-05-12T02:52:01.793822",
+  "timestamp": "2025-05-14T02:07:35.328424",
   "segments": [
     {
       "start": 0.0,
-      "end": 4.0,
-      "text": "\u611a\u304b\u306a\u9078\u629e\u3092\u3057\u305f\u306a\u3001\u30c0\u30a4\u30ca\u30e2\u3002",
+      "end": 3.0,
+      "text": " What a foolish choice you've made, Dynamo.",
       "part": 1
     }
   ]

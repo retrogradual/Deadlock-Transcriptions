@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "tengu_outnumbered_02",
+  "timestamp": "2025-05-13T17:09:52.919730",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I'm not liking this math.",
+      "part": 1
+    }
+  ]
+}

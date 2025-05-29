@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "tengu_use_power4_07",
+  "timestamp": "2025-05-13T18:50:07.659821",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " You need some speed!",
+      "part": 1
+    }
+  ]
+}

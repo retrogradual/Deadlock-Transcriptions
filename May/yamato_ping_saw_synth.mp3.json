@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_ping_saw_synth",
-  "timestamp": "2025-05-11T15:10:42.005488",
+  "timestamp": "2025-05-14T02:08:29.383719",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
-      "text": "\u611b\u60f3\u30dd\u30b1\u30c3\u30c8",
+      "end": 1.0,
+      "text": " I so book it.",
       "part": 1
     }
   ]

@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_ping_careful_wrecker_01",
-  "timestamp": "2025-05-11T15:10:47.029339",
+  "timestamp": "2025-05-14T02:08:50.749775",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Kawhiweka.",
+      "text": " Careful, Wicca.",
       "part": 1
     }
   ]

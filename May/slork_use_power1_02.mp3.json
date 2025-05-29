@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "slork_use_power1_02",
+  "timestamp": "2025-05-13T18:49:11.880281",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I'll boil them alive!",
+      "part": 1
+    }
+  ]
+}

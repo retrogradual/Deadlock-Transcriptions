@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "synth_ping_purple_help_01",
+  "timestamp": "2025-05-13T17:09:14.864913",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Purple Needs Help!",
+      "part": 1
+    }
+  ]
+}

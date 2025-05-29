@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "synth_ping_need_help_green",
+  "timestamp": "2025-05-13T17:09:08.322769",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Need help? I'm green!",
+      "part": 1
+    }
+  ]
+}

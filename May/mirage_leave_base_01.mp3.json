@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "mirage_leave_base_01",
+  "timestamp": "2025-05-13T18:46:55.922760",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I need to get out there.",
+      "part": 1
+    }
+  ]
+}

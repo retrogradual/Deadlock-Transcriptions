@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "operative_ping_affermative_01",
+  "timestamp": "2025-05-13T17:02:02.357406",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " DUH!",
+      "part": 1
+    }
+  ]
+}

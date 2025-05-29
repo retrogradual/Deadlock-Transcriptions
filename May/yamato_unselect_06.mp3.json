@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_unselect_06",
-  "timestamp": "2025-05-11T15:10:14.855909",
+  "timestamp": "2025-05-14T02:06:32.059659",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": "\u5606\u304b\u308f\u3057\u3044\u306a\u3002",
+      "text": " Nagakawashina.",
       "part": 1
     }
   ]

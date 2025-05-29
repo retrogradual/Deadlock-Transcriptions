@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "forge_leave_base_05",
+  "timestamp": "2025-05-13T18:42:06.179438",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Shouldn't be much longer.",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "slork_ping_defend_green_02",
+  "timestamp": "2025-05-13T17:07:52.648996",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Defend Greenwich!",
+      "part": 1
+    }
+  ]
+}

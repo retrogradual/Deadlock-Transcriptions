@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "patron_female_ally_fairfax_start_03",
+  "timestamp": "2025-05-14T15:50:25.042078",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.199999809265137,
+      "text": " Your ambition reaches across the plains, Fairfax.",
+      "part": 1
+    }
+  ]
+}

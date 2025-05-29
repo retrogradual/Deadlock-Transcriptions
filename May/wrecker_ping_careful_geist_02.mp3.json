@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wrecker_ping_careful_geist_02",
+  "timestamp": "2025-05-13T17:21:30.117301",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Careful, Geist!",
+      "part": 1
+    }
+  ]
+}

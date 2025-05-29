@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "operative_ping_returning_to_base",
+  "timestamp": "2025-05-13T17:02:42.446603",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " EDIT TO BUS",
+      "part": 1
+    }
+  ]
+}

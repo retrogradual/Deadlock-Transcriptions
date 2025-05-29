@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "forge_low_health_warning",
+  "timestamp": "2025-05-13T16:26:30.242122",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I need to find a place to heal, or I'm done for.",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "trapper_ping_silence_almost_ready",
+  "timestamp": "2025-05-13T17:11:23.965204",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Silence glyphs is almost ready!",
+      "part": 1
+    }
+  ]
+}

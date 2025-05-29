@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "operative_ping_meet_here",
+  "timestamp": "2025-05-13T17:02:26.930044",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Let's meet here.",
+      "part": 1
+    }
+  ]
+}

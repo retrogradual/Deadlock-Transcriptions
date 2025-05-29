@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "frank_ping_warp_stone_almost_ready",
+  "timestamp": "2025-05-13T16:29:20.998168",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Warpstone's almost ready.",
+      "part": 1
+    }
+  ]
+}

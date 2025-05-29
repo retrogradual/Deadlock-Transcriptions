@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "lash_upgrade_power3_10",
+  "timestamp": "2025-05-13T18:46:36.632159",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " They don't know who the best is?",
+      "part": 1
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": " They're about to find out!",
+      "part": 2
+    }
+  ]
+}

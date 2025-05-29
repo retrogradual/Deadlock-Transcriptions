@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "operative_ping_use_warp_stone",
+  "timestamp": "2025-05-13T17:02:55.260383",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Ready to use Warpstone.",
+      "part": 1
+    }
+  ]
+}

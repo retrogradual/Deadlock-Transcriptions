@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_ping_saw_gigawatt",
-  "timestamp": "2025-05-11T15:10:26.794834",
+  "timestamp": "2025-05-14T02:07:50.059498",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
-      "text": "ISO 7",
+      "end": 1.0,
+      "text": " ISO 7",
       "part": 1
     }
   ]

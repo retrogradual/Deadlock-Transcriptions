@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "atlas_see_money_01",
+  "timestamp": "2025-05-13T16:19:38.087029",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " There's money over here!",
+      "part": 1
+    }
+  ]
+}

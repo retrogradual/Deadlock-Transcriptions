@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "kelvin_ping_missing_purple_02",
+  "timestamp": "2025-05-13T16:49:19.689493",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " MISSING PARK!",
+      "part": 1
+    }
+  ]
+}

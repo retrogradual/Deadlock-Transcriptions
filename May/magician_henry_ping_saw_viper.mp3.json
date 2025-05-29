@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "magician_henry_ping_saw_viper",
+  "timestamp": "2025-05-13T16:55:11.274875",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": " I saw Viper!",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "forge_ping_missing_purple_01",
+  "timestamp": "2025-05-13T16:26:50.397109",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.1200000047683716,
+      "text": " MISSING PURPLE",
+      "part": 1
+    }
+  ]
+}

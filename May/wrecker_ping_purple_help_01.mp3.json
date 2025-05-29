@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wrecker_ping_purple_help_01",
+  "timestamp": "2025-05-13T17:21:54.437054",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.4800000190734863,
+      "text": " Therefore need help.",
+      "part": 1
+    }
+  ]
+}

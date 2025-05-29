@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_ping_missing_yellow_01",
+  "timestamp": "2025-05-13T17:12:40.481763",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Missing Yellow.",
+      "part": 1
+    }
+  ]
+}

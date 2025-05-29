@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wraith_ping_lets_go_purple_alt",
+  "timestamp": "2025-05-13T17:19:45.789472",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Let's go to park.",
+      "part": 1
+    }
+  ]
+}

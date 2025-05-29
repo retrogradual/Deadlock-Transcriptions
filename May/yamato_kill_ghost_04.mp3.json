@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_kill_ghost_04",
-  "timestamp": "2025-05-12T02:52:03.545340",
+  "timestamp": "2025-05-14T02:07:51.573404",
   "segments": [
     {
       "start": 0.0,
-      "end": 3.0,
-      "text": "\u3082\u3063\u3068\u524d\u306b\u6b7b\u306c\u3079\u304d\u3060\u3063\u305f\u5973\u3060\u3002",
+      "end": 2.799999952316284,
+      "text": " I should have died a long time ago!",
       "part": 1
     }
   ]

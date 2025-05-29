@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "synth_ping_t2_under_attack",
+  "timestamp": "2025-05-13T17:09:28.197838",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " They're taking out our Tier 2!",
+      "part": 1
+    }
+  ]
+}

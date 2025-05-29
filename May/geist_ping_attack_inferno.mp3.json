@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "geist_ping_attack_inferno",
+  "timestamp": "2025-05-14T16:55:49.853101",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Let's dig out Infernus!",
+      "part": 1
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_ping_see_mirage_01",
-  "timestamp": "2025-05-11T15:10:36.140831",
+  "timestamp": "2025-05-14T02:08:19.727661",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
-      "text": " \u0622\u0626\u06cc \u0633\u06cc \u0645\u06cc\u0631\u0627\u0646\u062c",
+      "end": 1.0,
+      "text": " I see Mirage.",
       "part": 1
     }
   ]

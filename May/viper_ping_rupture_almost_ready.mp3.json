@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "viper_ping_rupture_almost_ready",
+  "timestamp": "2025-05-13T17:14:24.684601",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " DECAY'S ALMOST READY!",
+      "part": 1
+    }
+  ]
+}

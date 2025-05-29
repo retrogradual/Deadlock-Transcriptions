@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "inferno_killstreak_mid_01",
+  "timestamp": "2025-05-13T18:45:07.887734",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "text": " Heh heh, I'm stoking the flames of victory.",
+      "part": 1
+    }
+  ]
+}

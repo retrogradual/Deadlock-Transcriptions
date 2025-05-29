@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "warden_ping_push_purple_01",
+  "timestamp": "2025-05-13T17:17:14.581954",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Let's PUSH PURPLE!",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "priest_ping_green_help_01",
+  "timestamp": "2025-05-13T17:04:35.711748",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " GREEN NEEDS HELP!",
+      "part": 1
+    }
+  ]
+}

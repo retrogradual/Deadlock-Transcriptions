@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "magician_henry_ping_ignore_orion",
+  "timestamp": "2025-05-13T16:55:03.705661",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Ignore grey talon!",
+      "part": 1
+    }
+  ]
+}

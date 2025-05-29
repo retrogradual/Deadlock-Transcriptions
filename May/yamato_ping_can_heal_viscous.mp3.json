@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_ping_can_heal_viscous",
-  "timestamp": "2025-05-11T15:10:43.595722",
+  "timestamp": "2025-05-14T02:08:38.108441",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": "Viscus, I can heal you.",
+      "text": " Viscous, I can heal you.",
       "part": 1
     }
   ]

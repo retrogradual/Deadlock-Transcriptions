@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bookworm_ping_see_fortuna_01",
+  "timestamp": "2025-05-13T16:21:31.408868",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I see Fortuna!",
+      "part": 1
+    }
+  ]
+}

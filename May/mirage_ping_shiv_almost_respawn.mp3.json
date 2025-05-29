@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "mirage_ping_shiv_almost_respawn",
+  "timestamp": "2025-05-13T17:00:01.469700",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Shiv's almost back!",
+      "part": 1
+    }
+  ]
+}

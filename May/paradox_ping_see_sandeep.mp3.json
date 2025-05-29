@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "paradox_ping_see_sandeep",
+  "timestamp": "2025-05-13T16:25:17.404784",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": " I see Sandeep.",
+      "part": 1
+    }
+  ]
+}

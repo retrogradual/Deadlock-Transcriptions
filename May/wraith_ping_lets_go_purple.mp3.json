@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wraith_ping_lets_go_purple",
+  "timestamp": "2025-05-13T17:19:46.500612",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": " Let's go purple!",
+      "part": 1
+    }
+  ]
+}

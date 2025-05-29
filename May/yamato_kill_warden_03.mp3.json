@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_kill_warden_03",
-  "timestamp": "2025-05-12T02:52:14.580609",
+  "timestamp": "2025-05-14T02:08:41.325564",
   "segments": [
     {
       "start": 0.0,
       "end": 2.5999999046325684,
-      "text": "\u4f55\u3067\u3082\u601d\u3046\u901a\u308a\u306b\u884c\u304f\u3068\u601d\u3046\u306a\u3002",
+      "text": " Don't think you can do whatever you want with me!",
       "part": 1
     }
   ]

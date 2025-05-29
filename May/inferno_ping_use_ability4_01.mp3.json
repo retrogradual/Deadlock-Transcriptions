@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "inferno_ping_use_ability4_01",
+  "timestamp": "2025-05-13T16:48:51.232903",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " STUN BOMBS READY!",
+      "part": 1
+    }
+  ]
+}

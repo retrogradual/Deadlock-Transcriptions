@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_ping_stun_nano_01",
-  "timestamp": "2025-05-11T15:10:37.598752",
+  "timestamp": "2025-05-14T02:08:55.826647",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": "\u30b9\u30bf\u30f3\u30ad\u30e3\u30eb\u30b3",
+      "text": " Stan Calico.",
       "part": 1
     }
   ]

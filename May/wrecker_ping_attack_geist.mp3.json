@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wrecker_ping_attack_geist",
+  "timestamp": "2025-05-13T17:21:25.278664",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " KILL GEIST!",
+      "part": 1
+    }
+  ]
+}

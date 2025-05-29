@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "nano_ping_they_were_here",
+  "timestamp": "2025-05-13T17:01:50.389244",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " They were here.",
+      "part": 1
+    }
+  ]
+}

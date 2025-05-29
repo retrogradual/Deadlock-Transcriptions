@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "magician_henry_ping_push_orange_01",
+  "timestamp": "2025-05-13T16:53:24.690444",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " LET'S PUSH ORANGE!",
+      "part": 1
+    }
+  ]
+}

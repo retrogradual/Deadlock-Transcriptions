@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_ping_careful_forge_01",
-  "timestamp": "2025-05-11T15:10:24.151680",
+  "timestamp": "2025-05-14T02:07:39.173740",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": "CAREFUL MARK GUINNESS",
+      "text": " Careful, Mark Guinness.",
       "part": 1
     }
   ]

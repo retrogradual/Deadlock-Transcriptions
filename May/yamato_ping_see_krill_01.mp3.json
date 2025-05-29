@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_ping_see_krill_01",
-  "timestamp": "2025-05-11T15:10:33.161320",
+  "timestamp": "2025-05-14T02:08:12.584380",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": "IC \u30af\u30ea\u30fc\u30b0",
+      "text": " I see clear.",
       "part": 1
     }
   ]

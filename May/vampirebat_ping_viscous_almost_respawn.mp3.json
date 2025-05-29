@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_ping_viscous_almost_respawn",
+  "timestamp": "2025-05-13T17:13:29.924224",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Vizcaz is almost back!",
+      "part": 1
+    }
+  ]
+}

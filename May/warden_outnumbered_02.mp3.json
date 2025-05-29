@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "warden_outnumbered_02",
+  "timestamp": "2025-05-13T17:15:57.124737",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " There may be too many of them.",
+      "part": 1
+    }
+  ]
+}

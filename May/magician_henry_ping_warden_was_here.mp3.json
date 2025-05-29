@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "magician_henry_ping_warden_was_here",
+  "timestamp": "2025-05-13T16:54:22.412644",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Warden was here!",
+      "part": 1
+    }
+  ]
+}

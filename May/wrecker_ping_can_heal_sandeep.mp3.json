@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wrecker_ping_can_heal_sandeep",
+  "timestamp": "2025-05-13T17:21:29.157264",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Sandeep! I can hear you!",
+      "part": 1
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_kill_warden_05",
-  "timestamp": "2025-05-12T02:52:14.701890",
+  "timestamp": "2025-05-14T02:08:43.136093",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": "\u5f37\u4fe1\u8005\u306e\u672b\u8def\u3060",
+      "text": " It's the end of a strong believer.",
       "part": 1
     }
   ]

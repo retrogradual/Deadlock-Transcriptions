@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "paradox_ping_stun_geist_01",
+  "timestamp": "2025-05-13T16:25:18.587595",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.1200000047683716,
+      "text": " Stungeist.",
+      "part": 1
+    }
+  ]
+}

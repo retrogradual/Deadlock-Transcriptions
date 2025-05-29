@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_unselect_03",
-  "timestamp": "2025-05-11T15:10:14.488760",
+  "timestamp": "2025-05-14T02:06:31.350828",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": "\u3044\u3044\u3060\u308d\u3046\u3002",
+      "text": " \u3044\u3044\u3060\u308d\u3046\u3002",
       "part": 1
     }
   ]

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "frank_ping_inferno_in_mid",
+  "timestamp": "2025-05-13T16:28:05.666081",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Infernus is in mid.",
+      "part": 1
+    }
+  ]
+}

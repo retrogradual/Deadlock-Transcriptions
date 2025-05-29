@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wrecker_ping_see_murphy",
+  "timestamp": "2025-05-13T17:22:03.666059",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I SEE MURPHY",
+      "part": 1
+    }
+  ]
+}

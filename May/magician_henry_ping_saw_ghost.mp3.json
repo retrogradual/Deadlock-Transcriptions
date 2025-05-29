@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "magician_henry_ping_saw_ghost",
+  "timestamp": "2025-05-13T16:54:47.940709",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I saw a Geist!",
+      "part": 1
+    }
+  ]
+}

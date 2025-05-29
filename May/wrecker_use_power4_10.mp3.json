@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "wrecker_use_power4_10",
+  "timestamp": "2025-05-13T18:52:54.056809",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.880000114440918,
+      "text": " But they could also mean 44 or 45.",
+      "part": 1
+    },
+    {
+      "start": 3.0799999237060547,
+      "end": 4.659999847412109,
+      "text": " They can also mean \u00ac\u202210.",
+      "part": 2
+    }
+  ]
+}

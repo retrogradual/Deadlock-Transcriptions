@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "gigawatt_ping_slork_was_here",
+  "timestamp": "2025-05-13T16:32:30.137189",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Slurk was here!",
+      "part": 1
+    }
+  ]
+}

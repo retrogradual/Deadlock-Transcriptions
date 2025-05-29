@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "warden_ping_ghost_dead",
+  "timestamp": "2025-05-13T17:16:22.956199",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Geist is dead.",
+      "part": 1
+    }
+  ]
+}

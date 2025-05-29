@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_kill_inferno_05",
-  "timestamp": "2025-05-12T02:52:06.664106",
+  "timestamp": "2025-05-14T02:08:00.807520",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": "\u529b\u306e\u5dee\u3092\u601d\u3044\u77e5\u3063\u305f\u304b?",
+      "text": " Have you realized the difference in power?",
       "part": 1
     }
   ]

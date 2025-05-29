@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "priest_ping_see_wrecker_on_roof",
+  "timestamp": "2025-05-13T17:05:35.995691",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Wreckers on the roof!",
+      "part": 1
+    }
+  ]
+}

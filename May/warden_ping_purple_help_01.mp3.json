@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "warden_ping_purple_help_01",
+  "timestamp": "2025-05-13T17:17:13.990104",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " PURPLE NEEDS HELP!",
+      "part": 1
+    }
+  ]
+}

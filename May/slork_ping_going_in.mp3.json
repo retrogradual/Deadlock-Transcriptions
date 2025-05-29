@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "slork_ping_going_in",
+  "timestamp": "2025-05-13T17:07:56.906142",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " GOING IN!",
+      "part": 1
+    }
+  ]
+}

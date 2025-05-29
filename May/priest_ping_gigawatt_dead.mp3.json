@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "priest_ping_gigawatt_dead",
+  "timestamp": "2025-05-13T17:04:32.472483",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Seven is dead.",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "paradox_ping_see_murphy_on_roof",
+  "timestamp": "2025-05-13T16:25:17.837182",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Murphy's on the roof!",
+      "part": 1
+    }
+  ]
+}

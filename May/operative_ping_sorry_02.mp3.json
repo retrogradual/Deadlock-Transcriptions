@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "operative_ping_sorry_02",
+  "timestamp": "2025-05-13T17:02:46.788099",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Apologies.",
+      "part": 1
+    }
+  ]
+}

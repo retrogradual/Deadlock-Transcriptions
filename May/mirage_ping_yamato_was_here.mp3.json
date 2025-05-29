@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "mirage_ping_yamato_was_here",
+  "timestamp": "2025-05-13T17:00:48.492897",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Yabba-Dobba-Dee-Yah!",
+      "part": 1
+    }
+  ]
+}

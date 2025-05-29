@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wraith_leave_base_04",
+  "timestamp": "2025-05-13T18:52:09.739410",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Let's roll the dice!",
+      "part": 1
+    }
+  ]
+}

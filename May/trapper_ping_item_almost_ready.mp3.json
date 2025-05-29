@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "trapper_ping_item_almost_ready",
+  "timestamp": "2025-05-13T17:11:04.043208",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.2799999713897705,
+      "text": " Items almost ready!",
+      "part": 1
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_kill_bebop_01",
-  "timestamp": "2025-05-12T02:51:59.877170",
+  "timestamp": "2025-05-14T02:07:26.548328",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": "I WON'T LOSE TO SCRAP METAL",
+      "text": " I won't lose to scrap metal.",
       "part": 1
     }
   ]

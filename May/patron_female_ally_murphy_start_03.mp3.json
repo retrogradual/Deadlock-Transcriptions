@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "patron_female_ally_murphy_start_03",
+  "timestamp": "2025-05-14T15:50:31.760354",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.5,
+      "text": " You've waited your whole life for this moment, Murphy. Seize it!",
+      "part": 1
+    }
+  ]
+}

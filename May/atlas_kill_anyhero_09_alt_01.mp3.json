@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "atlas_kill_anyhero_09_alt_01",
+  "timestamp": "2025-05-13T16:19:34.968230",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " You're not stopping me.",
+      "part": 1
+    }
+  ]
+}

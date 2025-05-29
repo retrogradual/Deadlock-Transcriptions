@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "slork_ping_t2_under_attack",
+  "timestamp": "2025-05-13T17:08:27.903640",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " THEY'RE TAKING OUR TIER 2!",
+      "part": 1
+    }
+  ]
+}

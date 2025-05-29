@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_ping_saw_forge",
-  "timestamp": "2025-05-11T15:10:24.677409",
+  "timestamp": "2025-05-14T02:07:41.346678",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": "\u611b\u60f3\u30de\u30af\u30b2\u30cd\u30b9",
+      "text": " I saw McGuinness.",
       "part": 1
     }
   ]

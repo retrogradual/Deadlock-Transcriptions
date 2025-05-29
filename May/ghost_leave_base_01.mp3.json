@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "ghost_leave_base_01",
+  "timestamp": "2025-05-13T18:42:54.971744",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " New York Awaits.",
+      "part": 1
+    }
+  ]
+}

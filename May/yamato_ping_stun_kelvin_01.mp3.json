@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_ping_stun_kelvin_01",
-  "timestamp": "2025-05-11T15:10:31.980315",
+  "timestamp": "2025-05-14T02:08:08.740970",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Stan Kerbin",
+      "text": " Stan Kermin",
       "part": 1
     }
   ]

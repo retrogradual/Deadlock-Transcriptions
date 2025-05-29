@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_ping_orion_was_here",
+  "timestamp": "2025-05-13T17:12:48.979560",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Great Talon was here!",
+      "part": 1
+    }
+  ]
+}

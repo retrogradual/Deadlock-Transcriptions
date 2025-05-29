@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "atlas_leave_base_03",
+  "timestamp": "2025-05-13T18:39:47.805099",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " The time to rest is over.",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "priest_ping_astro_check_items",
+  "timestamp": "2025-05-13T17:04:09.139648",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Check out what Holiday bought!",
+      "part": 1
+    }
+  ]
+}

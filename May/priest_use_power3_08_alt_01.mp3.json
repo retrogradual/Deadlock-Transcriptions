@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "priest_use_power3_08_alt_01",
+  "timestamp": "2025-05-13T18:48:28.348396",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " STAND-UM!",
+      "part": 1
+    }
+  ]
+}

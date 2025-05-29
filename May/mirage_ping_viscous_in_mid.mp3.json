@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "mirage_ping_viscous_in_mid",
+  "timestamp": "2025-05-13T17:00:33.107062",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " VISCUS INMID!",
+      "part": 1
+    }
+  ]
+}

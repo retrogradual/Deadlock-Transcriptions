@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "magician_henry_ping_with_forge",
+  "timestamp": "2025-05-13T16:54:46.541869",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I'm with you McGinnis!",
+      "part": 1
+    }
+  ]
+}

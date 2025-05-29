@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_kill_viscous_03",
-  "timestamp": "2025-05-12T02:52:14.164007",
+  "timestamp": "2025-05-14T02:08:38.437761",
   "segments": [
     {
       "start": 0.0,
-      "end": 3.0,
-      "text": "\u307e\u3063\u305f\u304f\u6a5f\u68b0\u306a\u5b58\u5728\u3060\u3002",
+      "end": 2.4000000953674316,
+      "text": " Generally speaking, that is a machine.",
       "part": 1
     }
   ]

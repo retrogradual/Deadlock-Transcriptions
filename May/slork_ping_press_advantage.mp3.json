@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "slork_ping_press_advantage",
+  "timestamp": "2025-05-13T17:08:19.063094",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " We need to press the advantage.",
+      "part": 1
+    }
+  ]
+}

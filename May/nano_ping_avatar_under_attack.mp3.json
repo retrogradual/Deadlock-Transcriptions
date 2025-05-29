@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "nano_ping_avatar_under_attack",
+  "timestamp": "2025-05-13T17:01:04.547923",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " They're taking our patron!",
+      "part": 1
+    }
+  ]
+}

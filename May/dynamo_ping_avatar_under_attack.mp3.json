@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "dynamo_ping_avatar_under_attack",
+  "timestamp": "2025-05-13T16:25:35.926444",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " They're taking our patron!",
+      "part": 1
+    }
+  ]
+}

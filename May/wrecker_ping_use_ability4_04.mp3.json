@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wrecker_ping_use_ability4_04",
+  "timestamp": "2025-05-13T17:22:13.754300",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": " I will astral slide.",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wrecker_use_power1_10",
+  "timestamp": "2025-05-13T18:52:32.351983",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": " THROW. HIT. KILL.",
+      "part": 1
+    }
+  ]
+}

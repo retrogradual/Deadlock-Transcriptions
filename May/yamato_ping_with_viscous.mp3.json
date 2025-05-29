@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_ping_with_viscous",
-  "timestamp": "2025-05-11T15:10:44.260662",
+  "timestamp": "2025-05-14T02:08:41.038261",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": "I'm with you, BISCAS!",
+      "text": " I'm with you, BISCUS!",
       "part": 1
     }
   ]

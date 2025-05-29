@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "patron_female_ally_murphy_start_05",
+  "timestamp": "2025-05-14T15:50:31.833703",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.71999979019165,
+      "text": " You are a hunter, Murphy. And today, I need your services.",
+      "part": 1
+    }
+  ]
+}

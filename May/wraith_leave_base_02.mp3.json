@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wraith_leave_base_02",
+  "timestamp": "2025-05-13T18:52:08.638428",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Can't let them have all the fun without me.",
+      "part": 1
+    }
+  ]
+}

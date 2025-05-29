@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "astro_solo_lasso_kill_01",
+  "timestamp": "2025-05-13T16:18:27.973454",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I'm my own backup.",
+      "part": 1
+    }
+  ]
+}

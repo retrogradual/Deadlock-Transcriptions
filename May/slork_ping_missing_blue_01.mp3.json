@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "slork_ping_missing_blue_01",
+  "timestamp": "2025-05-13T17:08:09.228822",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " This ain't blue.",
+      "part": 1
+    }
+  ]
+}

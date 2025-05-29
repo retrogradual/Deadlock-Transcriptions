@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_kill_orion_02",
-  "timestamp": "2025-05-12T02:52:10.427039",
+  "timestamp": "2025-05-14T02:08:21.277760",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": "\u6575\u306a\u304c\u3089\u898b\u4e0a\u3052\u305f\u6226\u58eb\u3060\u3002",
+      "text": " I am a warrior who looked up while being an enemy.",
       "part": 1
     }
   ]

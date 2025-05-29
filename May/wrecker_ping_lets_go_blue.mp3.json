@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wrecker_ping_lets_go_blue",
+  "timestamp": "2025-05-13T17:21:43.288018",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Let's go, bro!",
+      "part": 1
+    }
+  ]
+}

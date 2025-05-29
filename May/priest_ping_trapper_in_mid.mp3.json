@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "priest_ping_trapper_in_mid",
+  "timestamp": "2025-05-13T17:05:53.056788",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " TRAPPERS IN MED!",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "synth_ping_viper_almost_respawn",
+  "timestamp": "2025-05-13T17:09:39.024317",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Viper's almost back!",
+      "part": 1
+    }
+  ]
+}

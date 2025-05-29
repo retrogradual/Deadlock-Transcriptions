@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "synth_leave_base_01",
+  "timestamp": "2025-05-13T18:49:31.331980",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " It's time to end this once and for all.",
+      "part": 1
+    }
+  ]
+}

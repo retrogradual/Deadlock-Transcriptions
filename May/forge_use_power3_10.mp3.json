@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "forge_use_power3_10",
+  "timestamp": "2025-05-13T18:42:10.876629",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " BUILDING COVER!",
+      "part": 1
+    }
+  ]
+}

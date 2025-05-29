@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "haze_upgrade_power3_01",
+  "timestamp": "2025-05-13T18:44:27.307593",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": " Once I pick a target, there is no escaping me.",
+      "part": 1
+    }
+  ]
+}

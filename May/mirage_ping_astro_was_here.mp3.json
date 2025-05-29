@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "mirage_ping_astro_was_here",
+  "timestamp": "2025-05-13T16:58:22.707714",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Holiday was here!",
+      "part": 1
+    }
+  ]
+}

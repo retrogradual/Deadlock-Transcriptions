@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_kill_atlas_04",
-  "timestamp": "2025-05-12T02:51:59.333974",
+  "timestamp": "2025-05-14T02:07:23.614326",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": "\u9752\u304d\u60aa\u9b54\u306f\u6b7b\u3093\u3060",
+      "text": " The Blue Devil is dead.",
       "part": 1
     }
   ]

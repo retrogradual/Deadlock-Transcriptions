@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "shiv_ping_trapper_was_here",
+  "timestamp": "2025-05-13T17:07:30.242363",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " TRAMPO IS HERE!",
+      "part": 1
+    }
+  ]
+}

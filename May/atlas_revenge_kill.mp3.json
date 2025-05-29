@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "atlas_revenge_kill",
+  "timestamp": "2025-05-13T16:19:38.280475",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " YOU THOUGHT YOU WERE GONNA KEEP ME DOWN!",
+      "part": 1
+    }
+  ]
+}

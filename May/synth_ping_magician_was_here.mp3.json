@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "synth_ping_magician_was_here",
+  "timestamp": "2025-05-13T17:09:04.508780",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Sinclair was here!",
+      "part": 1
+    }
+  ]
+}

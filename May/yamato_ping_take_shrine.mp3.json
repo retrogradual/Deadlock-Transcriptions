@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "yamato_ping_take_shrine",
+  "timestamp": "2025-05-14T02:07:11.162971",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " It's time to end this.",
+      "part": 1
+    }
+  ]
+}

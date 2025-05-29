@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_kill_shiv_01",
-  "timestamp": "2025-05-12T02:52:11.449113",
+  "timestamp": "2025-05-14T02:08:24.346477",
   "segments": [
     {
       "start": 0.0,
-      "end": 3.0,
-      "text": "\u81ea\u5206\u306e\u672c\u8cea\u3092\u898b\u8aa4\u3063\u305f\u306a\u3001\u6e0b\u3002",
+      "end": 3.200000047683716,
+      "text": " You've misjudged your own essence, Shibu.",
       "part": 1
     }
   ]

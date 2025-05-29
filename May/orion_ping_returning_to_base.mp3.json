@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "orion_ping_returning_to_base",
+  "timestamp": "2025-05-13T17:03:47.581360",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Headed back to base.",
+      "part": 1
+    }
+  ]
+}

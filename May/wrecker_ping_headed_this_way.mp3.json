@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wrecker_ping_headed_this_way",
+  "timestamp": "2025-05-13T17:21:41.980301",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Heading this way.",
+      "part": 1
+    }
+  ]
+}

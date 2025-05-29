@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_ping_see_viscous_01",
-  "timestamp": "2025-05-11T15:10:44.114012",
+  "timestamp": "2025-05-14T02:08:39.536428",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": "\u30a2\u30a4\u30bb\u30a4\u30d3\u30b9\u30ab\u30b9",
+      "text": " I say viscous.",
       "part": 1
     }
   ]

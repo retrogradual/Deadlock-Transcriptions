@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "paradox_upgrade_power3_01",
+  "timestamp": "2025-05-13T18:41:09.163076",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Ready to speed things up!",
+      "part": 1
+    }
+  ]
+}

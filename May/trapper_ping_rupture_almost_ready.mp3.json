@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "trapper_ping_rupture_almost_ready",
+  "timestamp": "2025-05-13T17:11:21.940273",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " The K is almost ready!",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wraith_ping_missing_yellow_01",
+  "timestamp": "2025-05-13T17:19:53.539187",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.800000011920929,
+      "text": " MISSING YELLOW",
+      "part": 1
+    }
+  ]
+}

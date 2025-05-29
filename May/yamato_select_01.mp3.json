@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_select_01",
-  "timestamp": "2025-05-11T15:10:13.262391",
+  "timestamp": "2025-05-14T02:06:28.804108",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": "\u5bb9\u8d66\u306f\u3057\u306a\u3044\u3002",
+      "text": " I will not show mercy.",
       "part": 1
     }
   ]

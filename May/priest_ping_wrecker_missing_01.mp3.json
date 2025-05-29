@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "priest_ping_wrecker_missing_01",
+  "timestamp": "2025-05-13T17:06:08.421597",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Wreck is missing.",
+      "part": 1
+    }
+  ]
+}

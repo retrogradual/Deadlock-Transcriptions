@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wrecker_ping_use_ability1",
+  "timestamp": "2025-05-13T17:22:12.527033",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Boulders ready!",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wraith_ping_thanks",
+  "timestamp": "2025-05-13T17:20:51.769859",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Thanks for watching!",
+      "part": 1
+    }
+  ]
+}

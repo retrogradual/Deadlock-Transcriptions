@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "frank_ping_orion_dead",
+  "timestamp": "2025-05-13T16:28:31.568298",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Great talons in mid.",
+      "part": 1
+    }
+  ]
+}

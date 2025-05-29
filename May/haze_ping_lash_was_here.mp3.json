@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "haze_ping_lash_was_here",
+  "timestamp": "2025-05-13T16:34:50.490858",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Lash was here.",
+      "part": 1
+    }
+  ]
+}

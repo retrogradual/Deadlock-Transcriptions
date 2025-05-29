@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "priest_ping_see_operative_on_bridge",
+  "timestamp": "2025-05-13T17:05:30.774223",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Raven's on a bridge!",
+      "part": 1
+    }
+  ]
+}

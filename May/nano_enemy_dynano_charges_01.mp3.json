@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "nano_enemy_dynano_charges_01",
+  "timestamp": "2025-05-14T15:52:46.241973",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Here comes Dynamo.",
+      "part": 1
+    }
+  ]
+}

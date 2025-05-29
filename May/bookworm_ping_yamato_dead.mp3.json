@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bookworm_ping_yamato_dead",
+  "timestamp": "2025-05-13T16:23:39.415482",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Yamato is dead.",
+      "part": 1
+    }
+  ]
+}

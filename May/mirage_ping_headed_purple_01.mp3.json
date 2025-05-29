@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "mirage_ping_headed_purple_01",
+  "timestamp": "2025-05-13T16:58:52.533369",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": " Headed to purple!",
+      "part": 1
+    }
+  ]
+}

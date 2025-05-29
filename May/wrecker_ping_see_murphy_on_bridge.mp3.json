@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wrecker_ping_see_murphy_on_bridge",
+  "timestamp": "2025-05-13T17:22:04.149117",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " MURPHY'S ON THE BRIDGE!",
+      "part": 1
+    }
+  ]
+}

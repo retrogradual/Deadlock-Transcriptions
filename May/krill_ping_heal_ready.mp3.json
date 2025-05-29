@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "krill_ping_heal_ready",
+  "timestamp": "2025-05-13T16:50:12.971492",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " HEELS READY!",
+      "part": 1
+    }
+  ]
+}

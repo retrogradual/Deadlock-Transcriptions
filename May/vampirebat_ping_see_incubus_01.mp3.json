@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_ping_see_incubus_01",
+  "timestamp": "2025-05-13T17:11:38.753280",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I see the incubus!",
+      "part": 1
+    }
+  ]
+}

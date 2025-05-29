@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "shiv_ping_trapper_under_garage",
+  "timestamp": "2025-05-13T17:07:29.815389",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " TRAP US UNDER THE GARAGE!",
+      "part": 1
+    }
+  ]
+}

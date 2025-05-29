@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wraith_ping_tengu_check_items",
+  "timestamp": "2025-05-13T17:20:46.599048",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.4000000953674316,
+      "text": " Check out what Ivy bought!",
+      "part": 1
+    }
+  ]
+}

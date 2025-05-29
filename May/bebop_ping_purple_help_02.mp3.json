@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bebop_ping_purple_help_02",
+  "timestamp": "2025-05-13T16:21:04.666478",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Pump needs help!",
+      "part": 1
+    }
+  ]
+}

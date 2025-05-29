@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_kill_dynamo_01",
-  "timestamp": "2025-05-12T02:52:01.620593",
+  "timestamp": "2025-05-14T02:07:34.639383",
   "segments": [
     {
       "start": 0.0,
-      "end": 4.0,
-      "text": "\u5b66\u8005\u3054\u3068\u304d\u306b\u79c1\u3092\u6b62\u3081\u3089\u308c\u308b\u3068\u3067\u3082\u3002",
+      "end": 3.5,
+      "text": " Even if I were to be stopped by a mere scholar.",
       "part": 1
     }
   ]

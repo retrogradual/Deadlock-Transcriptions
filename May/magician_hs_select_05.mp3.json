@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "magician_hs_select_05",
+  "timestamp": "2025-05-14T15:52:30.944340",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": " Can we please pretend to like each other for 60 minutes?",
+      "part": 1
+    },
+    {
+      "start": 3.0,
+      "end": 5.5,
+      "text": " I'm going to be optimistic and say, sure.",
+      "part": 2
+    }
+  ]
+}

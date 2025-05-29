@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "kelvin_low_health_warning",
+  "timestamp": "2025-05-13T16:49:01.871965",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "text": " Ugh, this battle is taking its toll!",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "lash_ping_need_help_purple_alt",
+  "timestamp": "2025-05-13T16:51:28.826193",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": " Hey! I need help on Park!",
+      "part": 1
+    }
+  ]
+}

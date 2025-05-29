@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "gigawatt_ping_kelvin_check_items",
+  "timestamp": "2025-05-13T16:31:21.213865",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Check out what Kelvin bought!",
+      "part": 1
+    }
+  ]
+}

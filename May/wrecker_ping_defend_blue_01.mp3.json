@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wrecker_ping_defend_blue_01",
+  "timestamp": "2025-05-13T17:21:33.306905",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " D E F E N D B L U E",
+      "part": 1
+    }
+  ]
+}

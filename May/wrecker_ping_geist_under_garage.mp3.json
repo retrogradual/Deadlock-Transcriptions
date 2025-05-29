@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wrecker_ping_geist_under_garage",
+  "timestamp": "2025-05-13T17:21:38.344480",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " CASE UNDER THE GARAGE",
+      "part": 1
+    }
+  ]
+}

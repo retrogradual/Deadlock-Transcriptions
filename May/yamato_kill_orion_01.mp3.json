@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_kill_orion_01",
-  "timestamp": "2025-05-12T02:52:10.658200",
+  "timestamp": "2025-05-14T02:08:20.592529",
   "segments": [
     {
       "start": 0.0,
-      "end": 4.0,
-      "text": "\u8001\u4eba\u3092\u5012\u3059\u3053\u3068\u306b\u559c\u3073\u306f\u611f\u3058\u306a\u3044\u306a\u3041\u3002",
+      "end": 3.5,
+      "text": " I don't feel any joy in defeating an old man.",
       "part": 1
     }
   ]

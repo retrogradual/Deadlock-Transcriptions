@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_ping_stun_shiv_01",
-  "timestamp": "2025-05-11T15:10:40.850705",
+  "timestamp": "2025-05-14T02:08:27.847404",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": "\u30b9\u30bf\u30f3\u30b7\u30c3\u30d7\u3002",
+      "text": " Stanship.",
       "part": 1
     }
   ]

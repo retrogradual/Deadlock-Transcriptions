@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_kill_orion_04",
-  "timestamp": "2025-05-12T02:52:10.963203",
+  "timestamp": "2025-05-14T02:08:20.862907",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": "\u3084\u3059\u3089\u304b\u306b\u7720\u308b\u304c\u3044\u3044\u3002",
+      "text": " Go to sleep in peace.",
       "part": 1
     }
   ]

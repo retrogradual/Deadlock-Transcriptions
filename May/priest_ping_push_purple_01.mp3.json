@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "priest_ping_push_purple_01",
+  "timestamp": "2025-05-13T17:05:17.899757",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " LET'S PUSH PURPLE!",
+      "part": 1
+    }
+  ]
+}

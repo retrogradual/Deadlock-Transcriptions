@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "magician_henry_ping_kelvin_check_items",
+  "timestamp": "2025-05-13T16:52:49.984019",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Check out what Calvin bought!",
+      "part": 1
+    }
+  ]
+}

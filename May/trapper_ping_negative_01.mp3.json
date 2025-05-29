@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "trapper_ping_negative_01",
+  "timestamp": "2025-05-13T17:11:14.612769",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.5,
+      "text": " NO!",
+      "part": 1
+    }
+  ]
+}

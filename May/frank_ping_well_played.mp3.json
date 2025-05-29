@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "frank_ping_well_played",
+  "timestamp": "2025-05-13T16:29:21.926627",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Well played.",
+      "part": 1
+    }
+  ]
+}

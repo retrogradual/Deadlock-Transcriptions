@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_kill_bebop_02",
-  "timestamp": "2025-05-12T02:52:00.016977",
+  "timestamp": "2025-05-14T02:07:26.943518",
   "segments": [
     {
       "start": 0.0,
-      "end": 4.0,
-      "text": "\u7cf8\u306e\u5207\u308c\u305f\u64cd\u308a\u4eba\u5f62\u3068\u306f\u3053\u306e\u3053\u3068\u3060\u306a\u3002",
+      "end": 3.5,
+      "text": " So this is what it means to be a puppet with a broken string.",
       "part": 1
     }
   ]

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_ping_attack_graf",
+  "timestamp": "2025-05-13T17:11:37.968196",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Let's take out Graf!",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "frank_ping_rupture_almost_ready",
+  "timestamp": "2025-05-13T16:28:37.686978",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Decay is almost ready.",
+      "part": 1
+    }
+  ]
+}

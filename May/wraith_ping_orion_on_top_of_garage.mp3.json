@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wraith_ping_orion_on_top_of_garage",
+  "timestamp": "2025-05-13T17:20:07.145437",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Great talent is on top of the garage.",
+      "part": 1
+    }
+  ]
+}

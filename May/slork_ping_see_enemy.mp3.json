@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "slork_ping_see_enemy",
+  "timestamp": "2025-05-13T17:08:24.423765",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I SEE THE ENEMY!",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "shiv_ping_missing_purple_02",
+  "timestamp": "2025-05-13T17:06:54.829295",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " MISSION PARK!",
+      "part": 1
+    }
+  ]
+}

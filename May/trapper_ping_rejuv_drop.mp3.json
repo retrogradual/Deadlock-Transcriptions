@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "trapper_ping_rejuv_drop",
+  "timestamp": "2025-05-13T17:11:20.563819",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " REJUV'S DROPPING!",
+      "part": 1
+    }
+  ]
+}

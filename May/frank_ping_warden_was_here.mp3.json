@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "frank_ping_warden_was_here",
+  "timestamp": "2025-05-13T16:29:20.470538",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Warden was here.",
+      "part": 1
+    }
+  ]
+}

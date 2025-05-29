@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "orion_ping_missing_purple_01",
+  "timestamp": "2025-05-13T17:03:35.791612",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.7200000286102295,
+      "text": " MISSING PURPLE",
+      "part": 1
+    }
+  ]
+}

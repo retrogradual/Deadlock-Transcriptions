@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wrecker_kill_anyhero_03",
+  "timestamp": "2025-05-13T17:21:18.207511",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " F O O D",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "paradox_ping_careful_geist_01",
+  "timestamp": "2025-05-13T16:25:01.739280",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Careful, Geist!",
+      "part": 1
+    }
+  ]
+}

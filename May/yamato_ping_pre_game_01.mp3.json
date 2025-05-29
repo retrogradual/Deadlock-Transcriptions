@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_ping_pre_game_01",
-  "timestamp": "2025-05-11T15:10:16.553811",
+  "timestamp": "2025-05-14T02:06:32.994462",
   "segments": [
     {
       "start": 0.0,
-      "end": 3.0,
-      "text": "\u3058\u304d\u306b\u5f7c\u3089\u306f\u79c1\u306b\u3072\u308c\u4f0f\u3059\u3060\u308d\u3046\u3002",
+      "end": 3.200000047683716,
+      "text": " They will soon bow down to me.",
       "part": 1
     }
   ]

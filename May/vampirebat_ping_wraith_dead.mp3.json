@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_ping_wraith_dead",
+  "timestamp": "2025-05-13T17:13:35.695576",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Wraith is dead.",
+      "part": 1
+    }
+  ]
+}

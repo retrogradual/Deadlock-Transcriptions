@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "ghost_ping_t1_under_attack",
+  "timestamp": "2025-05-13T16:30:07.497771",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " They're taking our Tier 1!",
+      "part": 1
+    }
+  ]
+}

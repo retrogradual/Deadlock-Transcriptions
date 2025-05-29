@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_ping_pre_game_03",
-  "timestamp": "2025-05-11T15:10:16.414505",
+  "timestamp": "2025-05-14T02:06:33.049490",
   "segments": [
     {
       "start": 0.0,
       "end": 2.5,
-      "text": "\u79c1\u304c\u30c1\u30fc\u30e0\u3092\u52dd\u5229\u306b\u5c0e\u3053\u3046",
+      "text": " I will lead the team to victory!",
       "part": 1
     }
   ]

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "priest_ping_orion_was_here",
+  "timestamp": "2025-05-13T17:05:15.912088",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Great Talon was here!",
+      "part": 1
+    }
+  ]
+}

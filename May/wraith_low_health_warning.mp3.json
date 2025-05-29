@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wraith_low_health_warning",
+  "timestamp": "2025-05-13T17:18:28.761953",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I need to find a place to heal.",
+      "part": 1
+    }
+  ]
+}

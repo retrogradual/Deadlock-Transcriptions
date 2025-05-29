@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "synth_ping_headed_purple_01",
+  "timestamp": "2025-05-13T17:08:56.150206",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Headed to purple!",
+      "part": 1
+    }
+  ]
+}

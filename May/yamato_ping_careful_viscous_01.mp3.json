@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_ping_careful_viscous_01",
-  "timestamp": "2025-05-11T15:10:43.570895",
+  "timestamp": "2025-05-14T02:08:38.561451",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": "Careful Viscous",
+      "text": " Careful, Viscous.",
       "part": 1
     }
   ]

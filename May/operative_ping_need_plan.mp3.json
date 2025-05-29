@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "operative_ping_need_plan",
+  "timestamp": "2025-05-13T17:02:33.609528",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " What is the plan?",
+      "part": 1
+    }
+  ]
+}

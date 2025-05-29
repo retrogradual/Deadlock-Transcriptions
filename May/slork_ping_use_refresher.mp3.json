@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "slork_ping_use_refresher",
+  "timestamp": "2025-05-13T17:08:32.029365",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Ready to use refresher.",
+      "part": 1
+    }
+  ]
+}

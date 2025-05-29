@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "trapper_use_power1_09",
+  "timestamp": "2025-05-13T18:50:22.428818",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Whoo, they're gonna hate this!",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "operative_ping_need_help_yellow_alt",
+  "timestamp": "2025-05-13T17:02:33.120231",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " With help from New York.",
+      "part": 1
+    }
+  ]
+}

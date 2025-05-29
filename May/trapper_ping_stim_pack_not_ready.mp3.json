@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "trapper_ping_stim_pack_not_ready",
+  "timestamp": "2025-05-13T17:11:25.511656",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Healing Rites on Cooldown!",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "nano_kill_dynano_03",
+  "timestamp": "2025-05-14T15:52:48.845828",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": " A thousand travel books aren't worth one real trip, Dynamo.",
+      "part": 1
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": " You never had a chance.",
+      "part": 2
+    }
+  ]
+}

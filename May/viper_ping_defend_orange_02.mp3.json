@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "viper_ping_defend_orange_02",
+  "timestamp": "2025-05-13T17:13:54.905810",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " The Ben Orchard!",
+      "part": 1
+    }
+  ]
+}

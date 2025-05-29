@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "priest_use_power1_09_alt_01",
+  "timestamp": "2025-05-13T18:48:21.677101",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " LEAVE THEM TO ME!",
+      "part": 1
+    }
+  ]
+}

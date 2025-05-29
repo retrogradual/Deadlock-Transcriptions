@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "orion_kill_anyhero_02",
+  "timestamp": "2025-05-13T17:03:05.938574",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.5,
+      "text": " DEAD!",
+      "part": 1
+    }
+  ]
+}

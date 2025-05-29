@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "krill_leave_base_05",
+  "timestamp": "2025-05-13T18:46:03.688080",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.559999942779541,
+      "text": " Now let's go summon a Patron!",
+      "part": 1
+    }
+  ]
+}

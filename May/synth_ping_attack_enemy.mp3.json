@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "synth_ping_attack_enemy",
+  "timestamp": "2025-05-13T17:08:47.261383",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Let's take out the enemy!",
+      "part": 1
+    }
+  ]
+}

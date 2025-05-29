@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "magician_henry_ping_stun_chrono_01",
+  "timestamp": "2025-05-13T16:54:40.120651",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Stun Paradox.",
+      "part": 1
+    }
+  ]
+}

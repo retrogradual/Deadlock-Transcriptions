@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wrecker_ping_saw_geist",
+  "timestamp": "2025-05-13T17:21:59.460305",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I SAW A GEIST!",
+      "part": 1
+    }
+  ]
+}

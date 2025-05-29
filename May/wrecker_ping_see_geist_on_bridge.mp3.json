@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wrecker_ping_see_geist_on_bridge",
+  "timestamp": "2025-05-13T17:22:02.744221",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " GHOST ON THE BRIDGE!",
+      "part": 1
+    }
+  ]
+}

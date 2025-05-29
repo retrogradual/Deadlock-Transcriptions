@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "slork_ping_affermative_01",
+  "timestamp": "2025-05-13T17:07:47.917902",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Sounds good!",
+      "part": 1
+    }
+  ]
+}

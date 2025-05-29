@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "atlas_ping_curse_almost_ready",
+  "timestamp": "2025-05-13T16:19:44.182437",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " CURSE IS ALMOST READY!",
+      "part": 1
+    }
+  ]
+}

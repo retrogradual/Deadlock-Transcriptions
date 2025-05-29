@@ -1,0 +1,24 @@
+{
+  "voiceline_id": "magician_hs_select_09",
+  "timestamp": "2025-05-14T15:52:32.327833",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.559999942779541,
+      "text": " I'd say we'll do our best, but Savannah consistently gives it 35%.",
+      "part": 1
+    },
+    {
+      "start": 4.559999942779541,
+      "end": 5.679999828338623,
+      "text": " I can hear you.",
+      "part": 2
+    },
+    {
+      "start": 5.679999828338623,
+      "end": 6.440000057220459,
+      "text": " That's why I said it.",
+      "part": 3
+    }
+  ]
+}

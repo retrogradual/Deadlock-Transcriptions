@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "magician_savannah_ping_trapper_was_here",
+  "timestamp": "2025-05-13T16:57:07.356894",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Trapper was here!",
+      "part": 1
+    }
+  ]
+}

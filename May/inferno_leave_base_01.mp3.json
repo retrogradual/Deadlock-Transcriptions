@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "inferno_leave_base_01",
+  "timestamp": "2025-05-13T18:45:08.539827",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Gotta get back out there.",
+      "part": 1
+    }
+  ]
+}

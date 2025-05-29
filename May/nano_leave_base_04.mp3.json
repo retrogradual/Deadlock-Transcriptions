@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "nano_leave_base_04",
+  "timestamp": "2025-05-13T18:47:18.816035",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I have no time to lollygag.",
+      "part": 1
+    }
+  ]
+}

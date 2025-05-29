@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "trapper_use_power1_07",
+  "timestamp": "2025-05-13T18:50:21.923903",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I don't want to breathe this in.",
+      "part": 1
+    }
+  ]
+}

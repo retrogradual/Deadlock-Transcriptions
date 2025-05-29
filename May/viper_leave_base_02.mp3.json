@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "viper_leave_base_02",
+  "timestamp": "2025-05-13T18:50:48.473009",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I'm not letting them have all the fun!",
+      "part": 1
+    }
+  ]
+}

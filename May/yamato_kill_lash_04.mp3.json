@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_kill_lash_04",
-  "timestamp": "2025-05-12T02:52:09.218581",
+  "timestamp": "2025-05-14T02:08:13.786164",
   "segments": [
     {
       "start": 0.0,
-      "end": 3.200000047683716,
-      "text": "\u30e9\u30c3\u30b7\u30e5\u3001\u54c0\u308c\u3060\u306a\u3002",
+      "end": 3.0,
+      "text": " Rush, you're pitiful, aren't you?",
       "part": 1
     }
   ]

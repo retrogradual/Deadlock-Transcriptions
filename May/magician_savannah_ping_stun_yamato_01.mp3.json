@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "magician_savannah_ping_stun_yamato_01",
+  "timestamp": "2025-05-13T16:58:04.880525",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Stun Yamato.",
+      "part": 1
+    }
+  ]
+}

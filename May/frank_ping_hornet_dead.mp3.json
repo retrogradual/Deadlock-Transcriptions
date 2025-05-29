@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "frank_ping_hornet_dead",
+  "timestamp": "2025-05-13T16:28:02.806034",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Vindictus Dei.",
+      "part": 1
+    }
+  ]
+}

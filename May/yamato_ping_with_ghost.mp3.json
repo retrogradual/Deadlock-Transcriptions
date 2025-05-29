@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_ping_with_ghost",
-  "timestamp": "2025-05-11T15:10:26.286473",
+  "timestamp": "2025-05-14T02:07:46.620949",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
-      "text": " I'm with you guys!",
+      "end": 1.2799999713897705,
+      "text": " I'm with you guys.",
       "part": 1
     }
   ]

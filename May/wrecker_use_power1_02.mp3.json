@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wrecker_use_power1_02",
+  "timestamp": "2025-05-13T18:52:33.318507",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": " R.",
+      "part": 1
+    }
+  ]
+}

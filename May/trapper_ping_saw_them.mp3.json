@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "trapper_ping_saw_them",
+  "timestamp": "2025-05-13T17:11:22.775068",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I SAW THEM!",
+      "part": 1
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_ping_with_warden",
-  "timestamp": "2025-05-11T15:10:45.550684",
+  "timestamp": "2025-05-14T02:08:45.152693",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": "\u79c1\u306f\u30a6\u30a3\u30ba\u30a3\u30fc\u30fb\u30a6\u30a9\u30fc\u30c7\u30f3\u3067\u3059\u3002",
+      "text": " I'm Rizzi Warden.",
       "part": 1
     }
   ]

@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_kill_wrecker_05",
-  "timestamp": "2025-05-12T02:52:16.656336",
+  "timestamp": "2025-05-14T02:08:49.839984",
   "segments": [
     {
       "start": 0.0,
-      "end": 4.0,
-      "text": "\u30a8\u30af\u30b7\u30a2\u306e\u30d6\u30c3\u30c1\u30e3\u30fc\u3092\u7247\u4ed8\u3051\u305f",
+      "end": 2.5,
+      "text": " I got rid of Exia's butchers.",
       "part": 1
     }
   ]

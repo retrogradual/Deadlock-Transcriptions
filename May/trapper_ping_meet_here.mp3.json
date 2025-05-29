@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "trapper_ping_meet_here",
+  "timestamp": "2025-05-13T17:11:08.678201",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": " Let's meet here!",
+      "part": 1
+    }
+  ]
+}

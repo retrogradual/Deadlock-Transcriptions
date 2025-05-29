@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bebop_low_health_warning",
+  "timestamp": "2025-05-13T16:20:33.598135",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Might wanna pull back a bit.",
+      "part": 1
+    }
+  ]
+}

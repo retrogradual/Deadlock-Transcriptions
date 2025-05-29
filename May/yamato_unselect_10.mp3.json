@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_unselect_10",
-  "timestamp": "2025-05-11T15:10:15.502196",
+  "timestamp": "2025-05-14T02:06:32.772065",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": "\u6b8b\u5ff5\u3060\u306a\u3002",
+      "text": " That's too bad.",
       "part": 1
     }
   ]

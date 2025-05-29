@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_kill_ghost_03",
-  "timestamp": "2025-05-12T02:52:03.473873",
+  "timestamp": "2025-05-14T02:07:42.794421",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
-      "text": "\u8eab\u306e\u7a0b\u3092\u601d\u3044\u77e5\u3063\u305f\u3060\u308d\u3046\u3002",
+      "end": 2.5,
+      "text": " I'm sure you've realized that by now.",
       "part": 1
     }
   ]

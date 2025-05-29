@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "gigawatt_ping_cadence_under_garage",
+  "timestamp": "2025-05-13T16:30:43.481522",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Cadence is under the garage!",
+      "part": 1
+    }
+  ]
+}

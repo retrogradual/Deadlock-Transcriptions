@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "viper_ping_wait",
+  "timestamp": "2025-05-13T17:14:38.698699",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.800000011920929,
+      "text": " Hold on!",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "shiv_leave_base_01",
+  "timestamp": "2025-05-13T18:48:47.136139",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": " Gotta get back out there and stab some people.",
+      "part": 1
+    }
+  ]
+}

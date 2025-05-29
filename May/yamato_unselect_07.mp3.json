@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_unselect_07",
-  "timestamp": "2025-05-11T15:10:15.088698",
+  "timestamp": "2025-05-14T02:06:32.309239",
   "segments": [
     {
       "start": 0.0,
       "end": 4.0,
-      "text": "\u611a\u304b\u306a\u6c7a\u65ad\u3060\u304c\u3001\u597d\u304d\u306b\u3059\u308b\u304c\u3044\u3044\u3055\u3002",
+      "text": " It's a foolish decision, but feel free to do as you please.",
       "part": 1
     }
   ]

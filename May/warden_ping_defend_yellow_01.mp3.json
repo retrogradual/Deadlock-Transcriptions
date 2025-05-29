@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "warden_ping_defend_yellow_01",
+  "timestamp": "2025-05-13T17:16:15.374043",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " DEFEND YELLOW!",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wrecker_ping_help_with_idol",
+  "timestamp": "2025-05-13T17:21:43.659538",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " HELP ME DELIVER THIS THING!",
+      "part": 1
+    }
+  ]
+}

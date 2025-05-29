@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "orion_ping_missing_yellow_01",
+  "timestamp": "2025-05-13T17:03:36.772657",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.800000011920929,
+      "text": " MISSING YELLOW",
+      "part": 1
+    }
+  ]
+}

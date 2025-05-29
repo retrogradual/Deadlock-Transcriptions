@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wraith_ping_atlas_dead",
+  "timestamp": "2025-05-13T17:18:41.418051",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Abrams is dead.",
+      "part": 1
+    }
+  ]
+}

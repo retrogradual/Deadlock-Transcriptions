@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "mirage_ping_t1_under_attack",
+  "timestamp": "2025-05-13T17:00:11.979146",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " They're taking out tier one!",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "ghost_ping_purple_help_02",
+  "timestamp": "2025-05-13T16:30:01.135497",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": " Park needs help.",
+      "part": 1
+    }
+  ]
+}

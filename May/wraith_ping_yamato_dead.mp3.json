@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wraith_ping_yamato_dead",
+  "timestamp": "2025-05-13T17:21:16.004260",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Yamato is dead.",
+      "part": 1
+    }
+  ]
+}

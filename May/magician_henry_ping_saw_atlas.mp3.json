@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "magician_henry_ping_saw_atlas",
+  "timestamp": "2025-05-13T16:54:35.436505",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": " I saw Abrams!",
+      "part": 1
+    }
+  ]
+}

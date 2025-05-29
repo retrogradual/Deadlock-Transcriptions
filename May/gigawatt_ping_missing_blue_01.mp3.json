@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "gigawatt_ping_missing_blue_01",
+  "timestamp": "2025-05-13T16:31:42.374427",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " MISSING BLUE",
+      "part": 1
+    }
+  ]
+}

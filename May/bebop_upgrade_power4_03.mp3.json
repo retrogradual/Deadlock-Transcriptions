@@ -1,0 +1,30 @@
+{
+  "voiceline_id": "bebop_upgrade_power4_03",
+  "timestamp": "2025-05-13T18:40:24.426809",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.7400000095367432,
+      "text": " They'll be minding their own business, like,",
+      "part": 1
+    },
+    {
+      "start": 1.7400000095367432,
+      "end": 3.8399999141693115,
+      "text": " Oh, look at me! I'm not about to be murdered!",
+      "part": 2
+    },
+    {
+      "start": 3.8399999141693115,
+      "end": 4.960000038146973,
+      "text": " And then BAM!",
+      "part": 3
+    },
+    {
+      "start": 4.960000038146973,
+      "end": 6.960000038146973,
+      "text": " Hook gets him!",
+      "part": 4
+    }
+  ]
+}

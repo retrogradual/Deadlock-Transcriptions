@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "hornet_ping_can_heal_fairfax",
+  "timestamp": "2025-05-13T16:36:33.396392",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Fairfax, I can heal you.",
+      "part": 1
+    }
+  ]
+}

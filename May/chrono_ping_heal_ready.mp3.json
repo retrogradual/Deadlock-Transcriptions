@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "chrono_ping_heal_ready",
+  "timestamp": "2025-05-13T16:24:05.784495",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Heels ready!",
+      "part": 1
+    }
+  ]
+}

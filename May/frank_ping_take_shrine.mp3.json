@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "frank_ping_take_shrine",
+  "timestamp": "2025-05-13T16:29:06.015686",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " It's time to end this.",
+      "part": 1
+    }
+  ]
+}

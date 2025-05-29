@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "hornet_ping_missing_green_01",
+  "timestamp": "2025-05-13T16:36:54.785199",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": " MISSING GREEN",
+      "part": 1
+    }
+  ]
+}

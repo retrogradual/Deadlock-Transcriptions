@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "astro_ping_use_ability4",
+  "timestamp": "2025-05-13T16:19:14.588916",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Ready to use Lasso!",
+      "part": 1
+    }
+  ]
+}

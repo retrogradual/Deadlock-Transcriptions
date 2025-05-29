@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "viper_low_health_warning",
+  "timestamp": "2025-05-13T17:13:45.754312",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Gotta find a place to lay low.",
+      "part": 1
+    }
+  ]
+}

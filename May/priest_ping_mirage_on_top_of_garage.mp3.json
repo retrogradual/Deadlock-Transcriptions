@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "priest_ping_mirage_on_top_of_garage",
+  "timestamp": "2025-05-13T17:05:02.093084",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " GARAGE IS ON TOP OF THE GARAGE!",
+      "part": 1
+    }
+  ]
+}

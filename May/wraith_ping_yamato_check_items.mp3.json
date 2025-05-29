@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wraith_ping_yamato_check_items",
+  "timestamp": "2025-05-13T17:21:15.221050",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Check out what Yamato bought!",
+      "part": 1
+    }
+  ]
+}

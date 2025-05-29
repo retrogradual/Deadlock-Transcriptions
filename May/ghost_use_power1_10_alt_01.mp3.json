@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "ghost_use_power1_10_alt_01",
+  "timestamp": "2025-05-13T18:42:57.499157",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " The end comes.",
+      "part": 1
+    }
+  ]
+}

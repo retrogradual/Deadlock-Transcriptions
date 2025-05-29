@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "nano_outnumbered_03",
+  "timestamp": "2025-05-13T17:00:59.648967",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " The numbers aren't in my favor.",
+      "part": 1
+    }
+  ]
+}

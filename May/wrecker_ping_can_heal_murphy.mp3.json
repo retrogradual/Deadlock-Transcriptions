@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wrecker_ping_can_heal_murphy",
+  "timestamp": "2025-05-13T17:21:28.410090",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " MURPHY, I CAN HEAR YOU!",
+      "part": 1
+    }
+  ]
+}

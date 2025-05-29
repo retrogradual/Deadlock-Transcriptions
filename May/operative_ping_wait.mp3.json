@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "operative_ping_wait",
+  "timestamp": "2025-05-13T17:02:56.016839",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": " .",
+      "part": 1
+    }
+  ]
+}

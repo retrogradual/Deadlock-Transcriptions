@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "magician_hs_select_01",
+  "timestamp": "2025-05-14T15:52:31.598376",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I can't wait to be done with you.",
+      "part": 1
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": " Yeah, the feeling's mutual, buddy.",
+      "part": 2
+    }
+  ]
+}

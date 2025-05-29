@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "priest_ping_missing_green_01",
+  "timestamp": "2025-05-13T17:05:03.529550",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": " Missing green!",
+      "part": 1
+    }
+  ]
+}

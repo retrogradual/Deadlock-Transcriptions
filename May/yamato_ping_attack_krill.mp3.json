@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_ping_attack_krill",
-  "timestamp": "2025-05-11T15:10:32.070425",
+  "timestamp": "2025-05-14T02:08:11.370421",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": "Let's take out Krill.",
+      "text": " Let's take out clear.",
       "part": 1
     }
   ]

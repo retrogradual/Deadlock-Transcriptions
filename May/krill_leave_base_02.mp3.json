@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "krill_leave_base_02",
+  "timestamp": "2025-05-13T18:46:03.433121",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.5999999046325684,
+      "text": " The time has come to complete the ritual.",
+      "part": 1
+    }
+  ]
+}

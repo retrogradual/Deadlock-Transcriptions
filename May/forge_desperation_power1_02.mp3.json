@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "forge_desperation_power1_02",
+  "timestamp": "2025-05-14T15:51:21.132347",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " PLEASE KILL SOMETHING!",
+      "part": 1
+    }
+  ]
+}

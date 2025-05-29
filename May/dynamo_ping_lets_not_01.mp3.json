@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "dynamo_ping_lets_not_01",
+  "timestamp": "2025-05-13T16:25:52.063254",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": " Let's not do that.",
+      "part": 1
+    }
+  ]
+}

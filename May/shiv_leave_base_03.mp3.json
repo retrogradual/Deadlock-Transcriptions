@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "shiv_leave_base_03",
+  "timestamp": "2025-05-13T18:48:47.373130",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Time to finish the ritual!",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "priest_use_power3_06_alt_01",
+  "timestamp": "2025-05-13T18:48:27.367769",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " They buff em!",
+      "part": 1
+    }
+  ]
+}

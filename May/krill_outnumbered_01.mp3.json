@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "krill_outnumbered_01",
+  "timestamp": "2025-05-13T16:49:53.711110",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " We might want to turn back.",
+      "part": 1
+    }
+  ]
+}

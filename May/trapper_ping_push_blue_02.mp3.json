@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "trapper_ping_push_blue_02",
+  "timestamp": "2025-05-13T17:11:17.503283",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Let's push Broadway!",
+      "part": 1
+    }
+  ]
+}

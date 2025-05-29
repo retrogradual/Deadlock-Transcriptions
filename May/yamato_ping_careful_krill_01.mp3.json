@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_ping_careful_krill_01",
-  "timestamp": "2025-05-11T15:10:32.343135",
+  "timestamp": "2025-05-14T02:08:10.238450",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Kaup\u014dkuri.",
+      "text": " Careful, Cree.",
       "part": 1
     }
   ]

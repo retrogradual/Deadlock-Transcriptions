@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "operative_ping_missing_green_01",
+  "timestamp": "2025-05-13T17:02:27.650483",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": " Missing green.",
+      "part": 1
+    },
+    {
+      "start": 1.0,
+      "end": 1.0,
+      "text": "",
+      "part": 2
+    }
+  ]
+}

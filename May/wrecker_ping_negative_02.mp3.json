@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wrecker_ping_negative_02",
+  "timestamp": "2025-05-13T17:21:50.544716",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " IMPOSSIBLE!",
+      "part": 1
+    }
+  ]
+}

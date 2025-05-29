@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_select_06",
-  "timestamp": "2025-05-11T15:10:13.480522",
+  "timestamp": "2025-05-14T02:06:31.336186",
   "segments": [
     {
       "start": 0.0,
-      "end": 4.0,
-      "text": "\u3064\u3044\u3066\u3053\u3044\u3002\u79c1\u304c\u52dd\u5229\u306b\u5c0e\u3044\u3066\u3084\u308b\u3002",
+      "end": 3.200000047683716,
+      "text": " Come with me. I will guide you to victory.",
       "part": 1
     }
   ]

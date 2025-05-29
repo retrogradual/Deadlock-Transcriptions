@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_ping_with_forge",
-  "timestamp": "2025-05-11T15:10:24.918517",
+  "timestamp": "2025-05-14T02:07:42.304832",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": "I'm with you, McGinnis.",
+      "text": " I'm with you, McGinnis.",
       "part": 1
     }
   ]

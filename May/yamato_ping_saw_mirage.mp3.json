@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_ping_saw_mirage",
-  "timestamp": "2025-05-11T15:10:35.824762",
+  "timestamp": "2025-05-14T02:08:19.967703",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
-      "text": " AI SOU O MIRAGE",
+      "end": 1.0,
+      "text": " I saw a mirage.",
       "part": 1
     }
   ]

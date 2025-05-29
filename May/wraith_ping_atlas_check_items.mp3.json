@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wraith_ping_atlas_check_items",
+  "timestamp": "2025-05-13T17:18:40.893433",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Check out what Abrams bought.",
+      "part": 1
+    }
+  ]
+}

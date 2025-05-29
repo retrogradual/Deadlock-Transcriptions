@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "forge_ping_murphy_on_top_of_mid",
+  "timestamp": "2025-05-13T16:26:52.599238",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Murphy's on top of med.",
+      "part": 1
+    }
+  ]
+}

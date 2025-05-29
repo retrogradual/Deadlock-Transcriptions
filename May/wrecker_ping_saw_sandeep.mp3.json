@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wrecker_ping_saw_sandeep",
+  "timestamp": "2025-05-13T17:22:00.074783",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I saw Sandeep.",
+      "part": 1
+    }
+  ]
+}

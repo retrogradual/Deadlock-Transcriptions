@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "forge_ping_going_shop_01_alt_01",
+  "timestamp": "2025-05-13T16:26:39.407178",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Goin' to shop!",
+      "part": 1
+    }
+  ]
+}

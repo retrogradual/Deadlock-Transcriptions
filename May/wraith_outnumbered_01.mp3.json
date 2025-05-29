@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wraith_outnumbered_01",
+  "timestamp": "2025-05-13T17:18:31.463436",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " There's a lot of them.",
+      "part": 1
+    }
+  ]
+}

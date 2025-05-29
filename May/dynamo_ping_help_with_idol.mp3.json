@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "dynamo_ping_help_with_idol",
+  "timestamp": "2025-05-13T16:25:46.417310",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Help me with the idol!",
+      "part": 1
+    }
+  ]
+}

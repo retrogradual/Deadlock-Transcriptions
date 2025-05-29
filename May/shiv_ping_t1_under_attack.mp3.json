@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "shiv_ping_t1_under_attack",
+  "timestamp": "2025-05-13T17:07:24.251334",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " They're takin' our tier one!",
+      "part": 1
+    }
+  ]
+}

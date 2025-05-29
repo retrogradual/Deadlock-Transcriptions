@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "yamato_ping_push_purple_01",
+  "timestamp": "2025-05-14T02:07:07.312142",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Let's push POPL!",
+      "part": 1
+    }
+  ]
+}

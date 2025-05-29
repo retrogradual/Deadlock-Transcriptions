@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "operative_ping_push_purple_02",
+  "timestamp": "2025-05-13T17:02:38.628231",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Let's push park!",
+      "part": 1
+    }
+  ]
+}

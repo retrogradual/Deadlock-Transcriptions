@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_kill_astro_01",
-  "timestamp": "2025-05-12T02:51:58.410149",
+  "timestamp": "2025-05-14T02:07:18.440885",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": "\u8010\u6027\u306e\u72ac\u3081!",
+      "text": " Taisei no Inume!",
       "part": 1
     }
   ]

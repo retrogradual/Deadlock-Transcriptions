@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "haze_ping_tengu_was_here",
+  "timestamp": "2025-05-13T16:35:56.411131",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": " Ivy was here.",
+      "part": 1
+    }
+  ]
+}

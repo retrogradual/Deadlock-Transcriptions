@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "kelvin_ping_t1_under_attack",
+  "timestamp": "2025-05-13T16:49:34.346379",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " THEY'RE TAKING OUT TIER ONE!",
+      "part": 1
+    }
+  ]
+}

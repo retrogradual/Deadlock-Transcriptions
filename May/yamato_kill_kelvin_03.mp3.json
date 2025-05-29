@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_kill_kelvin_03",
-  "timestamp": "2025-05-12T02:52:07.276339",
+  "timestamp": "2025-05-14T02:08:08.433409",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": "\u5974\u306e\u65c5\u306f\u3053\u3053\u3067\u7d42\u308f\u308a\u3060\u3002",
+      "text": " That's the end of his journey.",
       "part": 1
     }
   ]

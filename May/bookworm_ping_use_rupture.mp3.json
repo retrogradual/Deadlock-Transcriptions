@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bookworm_ping_use_rupture",
+  "timestamp": "2025-05-13T16:23:26.461003",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Ready to use Decay!",
+      "part": 1
+    }
+  ]
+}

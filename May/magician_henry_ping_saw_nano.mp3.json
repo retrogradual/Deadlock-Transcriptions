@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "magician_henry_ping_saw_nano",
+  "timestamp": "2025-05-13T16:55:02.397147",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I saw Calico!",
+      "part": 1
+    }
+  ]
+}

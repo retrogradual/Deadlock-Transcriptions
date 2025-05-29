@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "priest_ping_push_green_01",
+  "timestamp": "2025-05-13T17:05:17.468730",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " LET'S PUSH GREEN!",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "viscous_leave_base_02",
+  "timestamp": "2025-05-13T18:51:12.766987",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I'm ready to help!",
+      "part": 1
+    }
+  ]
+}

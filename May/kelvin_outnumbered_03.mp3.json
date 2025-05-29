@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "kelvin_outnumbered_03",
+  "timestamp": "2025-05-13T16:41:19.444587",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.5,
+      "text": " There's nothing to be gained by charging into a fight where I'm outnumbered.",
+      "part": 1
+    }
+  ]
+}

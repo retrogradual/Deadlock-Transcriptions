@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_ping_with_chrono",
-  "timestamp": "2025-05-11T15:10:22.246557",
+  "timestamp": "2025-05-14T02:07:34.266806",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": "I'm with you, Paradox.",
+      "text": " I'm with you, Paradox.",
       "part": 1
     }
   ]

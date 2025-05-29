@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "viper_ping_t2_under_attack",
+  "timestamp": "2025-05-13T17:14:28.711158",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " They're taking our tier 2!",
+      "part": 1
+    }
+  ]
+}

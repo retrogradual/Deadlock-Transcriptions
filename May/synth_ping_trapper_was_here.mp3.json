@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "synth_ping_trapper_was_here",
+  "timestamp": "2025-05-13T17:09:33.479704",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Trapper was here!",
+      "part": 1
+    }
+  ]
+}

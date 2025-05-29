@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "operative_ping_warp_stone_not_ready",
+  "timestamp": "2025-05-13T17:02:56.991773",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Warpstone is on cooldown.",
+      "part": 1
+    }
+  ]
+}

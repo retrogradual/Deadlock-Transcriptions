@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "gigawatt_ping_hornet_dead",
+  "timestamp": "2025-05-13T16:31:12.969082",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " VENDETTA IS DEAD",
+      "part": 1
+    }
+  ]
+}

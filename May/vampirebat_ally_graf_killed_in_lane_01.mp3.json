@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_ally_graf_killed_in_lane_01",
+  "timestamp": "2025-05-13T17:11:38.082409",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " They took our graph!",
+      "part": 1
+    }
+  ]
+}

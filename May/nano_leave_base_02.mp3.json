@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "nano_leave_base_02",
+  "timestamp": "2025-05-13T18:47:17.580907",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " The time's come to complete the ritual.",
+      "part": 1
+    }
+  ]
+}

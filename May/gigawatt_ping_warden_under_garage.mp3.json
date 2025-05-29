@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "gigawatt_ping_warden_under_garage",
+  "timestamp": "2025-05-13T16:33:02.393264",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " WARDEN'S UNDER THE GARAGE",
+      "part": 1
+    }
+  ]
+}

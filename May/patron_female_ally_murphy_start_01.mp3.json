@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "patron_female_ally_murphy_start_01",
+  "timestamp": "2025-05-14T15:50:30.648348",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": " Your conviction is needed to complete the ritual, Murphy.",
+      "part": 1
+    }
+  ]
+}

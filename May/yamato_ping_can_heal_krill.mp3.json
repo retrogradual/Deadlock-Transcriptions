@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_ping_can_heal_krill",
-  "timestamp": "2025-05-11T15:10:32.319926",
+  "timestamp": "2025-05-14T02:08:10.153682",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": "\u30af\u30ea\u30eb\u3001\u79c1\u306f\u3042\u306a\u305f\u3092\u7652\u3059\u3053\u3068\u304c\u3067\u304d\u307e\u3059\u3002",
+      "text": " Kuriru, I can heal you.",
       "part": 1
     }
   ]

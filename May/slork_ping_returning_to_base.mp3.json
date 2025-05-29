@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "slork_ping_returning_to_base",
+  "timestamp": "2025-05-13T17:08:22.724700",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " HEADED BACK TO BASE!",
+      "part": 1
+    }
+  ]
+}

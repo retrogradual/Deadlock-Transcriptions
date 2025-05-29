@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "viper_ping_need_help_purple_alt",
+  "timestamp": "2025-05-13T17:14:15.732207",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Need help? I'm parked!",
+      "part": 1
+    }
+  ]
+}

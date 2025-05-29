@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_kill_lash_05",
-  "timestamp": "2025-05-12T02:52:09.308790",
+  "timestamp": "2025-05-14T02:08:14.367016",
   "segments": [
     {
       "start": 0.0,
-      "end": 4.0,
-      "text": "\u3088\u304f\u3082\u3042\u305d\u3053\u307e\u3067\u50b2\u6162\u306b\u306a\u308c\u308b\u3082\u306e\u3060\u3002",
+      "end": 3.200000047683716,
+      "text": " How dare you be so arrogant!",
       "part": 1
     }
   ]

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "trapper_use_power3_10",
+  "timestamp": "2025-05-13T18:50:25.687180",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " This ain't the end!",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "magician_henry_ping_ignore_synth",
+  "timestamp": "2025-05-13T16:55:07.795447",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": " Ignore pocket.",
+      "part": 1
+    }
+  ]
+}

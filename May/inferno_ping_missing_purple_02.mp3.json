@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "inferno_ping_missing_purple_02",
+  "timestamp": "2025-05-13T16:39:42.703161",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": " MISSING PARK",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wraith_ping_synth_almost_respawn",
+  "timestamp": "2025-05-13T17:20:41.005457",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Pocket is almost back.",
+      "part": 1
+    }
+  ]
+}

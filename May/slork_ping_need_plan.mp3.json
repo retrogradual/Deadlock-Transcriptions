@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "slork_ping_need_plan",
+  "timestamp": "2025-05-13T17:08:15.817254",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " What's the plan?",
+      "part": 1
+    }
+  ]
+}

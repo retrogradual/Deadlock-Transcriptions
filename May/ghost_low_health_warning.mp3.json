@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "ghost_low_health_warning",
+  "timestamp": "2025-05-13T16:29:32.501196",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I need to heal.",
+      "part": 1
+    }
+  ]
+}

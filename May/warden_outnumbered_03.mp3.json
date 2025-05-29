@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "warden_outnumbered_03",
+  "timestamp": "2025-05-13T17:15:57.729511",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": " Ah, and so they've come for me.",
+      "part": 1
+    }
+  ]
+}

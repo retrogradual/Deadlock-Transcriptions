@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "warden_use_power1_06",
+  "timestamp": "2025-05-13T18:51:46.033306",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " VICTORY!",
+      "part": 1
+    }
+  ]
+}

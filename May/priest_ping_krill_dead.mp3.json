@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "priest_ping_krill_dead",
+  "timestamp": "2025-05-13T17:04:51.001310",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Quail is dead.",
+      "part": 1
+    }
+  ]
+}

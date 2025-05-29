@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "gigawatt_ping_wait",
+  "timestamp": "2025-05-13T16:32:59.245184",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " HOLD UP!",
+      "part": 1
+    }
+  ]
+}

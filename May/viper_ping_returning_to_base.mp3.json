@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "viper_ping_returning_to_base",
+  "timestamp": "2025-05-13T17:14:24.009888",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Add it back to base.",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "inferno_leave_base_05",
+  "timestamp": "2025-05-13T18:45:09.812932",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " You've got to help the team.",
+      "part": 1
+    }
+  ]
+}

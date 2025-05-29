@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "trapper_ping_affermative_01",
+  "timestamp": "2025-05-13T17:10:49.465475",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.9599999785423279,
+      "text": " Sounds good!",
+      "part": 1
+    }
+  ]
+}

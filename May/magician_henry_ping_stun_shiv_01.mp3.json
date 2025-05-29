@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "magician_henry_ping_stun_shiv_01",
+  "timestamp": "2025-05-13T16:55:05.454074",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Stun Shiv!",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "gigawatt_ping_lets_not_01",
+  "timestamp": "2025-05-13T16:31:36.440312",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Let's not do that!",
+      "part": 1
+    }
+  ]
+}

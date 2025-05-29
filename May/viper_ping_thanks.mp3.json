@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "viper_ping_thanks",
+  "timestamp": "2025-05-13T17:14:29.833305",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.9599999785423279,
+      "text": " Thanks!",
+      "part": 1
+    }
+  ]
+}

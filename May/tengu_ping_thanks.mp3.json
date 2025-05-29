@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "tengu_ping_thanks",
+  "timestamp": "2025-05-13T17:10:38.407912",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.5,
+      "text": " Thanks!",
+      "part": 1
+    }
+  ]
+}

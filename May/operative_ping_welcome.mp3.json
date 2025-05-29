@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "operative_ping_welcome",
+  "timestamp": "2025-05-13T17:02:56.844728",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Pozholsta.",
+      "part": 1
+    }
+  ]
+}

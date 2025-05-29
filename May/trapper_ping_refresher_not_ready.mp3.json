@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "trapper_ping_refresher_not_ready",
+  "timestamp": "2025-05-13T17:11:20.255782",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Refreshers on cool down!",
+      "part": 1
+    }
+  ]
+}

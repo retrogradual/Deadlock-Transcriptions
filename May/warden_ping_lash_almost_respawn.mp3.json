@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "warden_ping_lash_almost_respawn",
+  "timestamp": "2025-05-13T17:16:52.135469",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Lass is almost back!",
+      "part": 1
+    }
+  ]
+}

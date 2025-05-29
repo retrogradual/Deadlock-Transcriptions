@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "gigawatt_ping_lets_go_purple",
+  "timestamp": "2025-05-13T16:31:34.178383",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " LET'S GO PURPLE!",
+      "part": 1
+    }
+  ]
+}

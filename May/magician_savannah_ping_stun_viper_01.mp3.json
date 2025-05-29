@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "magician_savannah_ping_stun_viper_01",
+  "timestamp": "2025-05-13T16:57:57.391277",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Stun Viper.",
+      "part": 1
+    }
+  ]
+}

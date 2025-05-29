@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_ping_stun_mirage_01",
-  "timestamp": "2025-05-11T15:10:36.270584",
+  "timestamp": "2025-05-14T02:08:20.492047",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " \u0633\u0637\u0645 \u0645\u0631\u0627\u062c",
+      "text": " Stam Mirage.",
       "part": 1
     }
   ]

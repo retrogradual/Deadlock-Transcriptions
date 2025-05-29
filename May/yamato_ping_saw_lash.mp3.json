@@ -1,12 +1,30 @@
 {
   "voiceline_id": "yamato_ping_saw_lash",
-  "timestamp": "2025-05-11T15:10:34.297605",
+  "timestamp": "2025-05-14T02:08:16.446213",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
-      "text": "\u611b\u60f3\u30e9\u30c3\u30b7\u30e5",
+      "end": 1.0,
+      "text": " .",
       "part": 1
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "text": " .",
+      "part": 2
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": " .",
+      "part": 3
+    },
+    {
+      "start": 3.0,
+      "end": 3.0,
+      "text": "",
+      "part": 4
     }
   ]
 }

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "operative_ping_request_follow",
+  "timestamp": "2025-05-13T17:02:40.424127",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Come with me.",
+      "part": 1
+    }
+  ]
+}

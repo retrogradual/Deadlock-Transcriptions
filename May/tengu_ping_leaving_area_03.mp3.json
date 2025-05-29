@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "tengu_ping_leaving_area_03",
+  "timestamp": "2025-05-13T17:10:17.375712",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " You're on your own!",
+      "part": 1
+    }
+  ]
+}

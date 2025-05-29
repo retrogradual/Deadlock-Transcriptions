@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "priest_ping_see_slork_on_roof",
+  "timestamp": "2025-05-13T17:05:32.287717",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " BATHROOM'S ON A ROOF!",
+      "part": 1
+    }
+  ]
+}

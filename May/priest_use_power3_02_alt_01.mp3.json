@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "priest_use_power3_02_alt_01",
+  "timestamp": "2025-05-13T18:48:25.620470",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " HIS POWER DID SOMETHING!",
+      "part": 1
+    }
+  ]
+}

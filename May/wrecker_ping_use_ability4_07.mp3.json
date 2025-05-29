@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wrecker_ping_use_ability4_07",
+  "timestamp": "2025-05-13T17:22:14.855619",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "text": " ASTRO MOVE is ready!",
+      "part": 1
+    }
+  ]
+}

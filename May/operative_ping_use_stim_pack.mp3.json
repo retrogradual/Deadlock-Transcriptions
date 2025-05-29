@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "operative_ping_use_stim_pack",
+  "timestamp": "2025-05-13T17:02:55.226914",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Ready to use healing rite.",
+      "part": 1
+    }
+  ]
+}

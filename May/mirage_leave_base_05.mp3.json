@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "mirage_leave_base_05",
+  "timestamp": "2025-05-13T18:46:56.533260",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": " This is our moment of triumph!",
+      "part": 1
+    }
+  ]
+}

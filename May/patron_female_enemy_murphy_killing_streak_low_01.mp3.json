@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "patron_female_enemy_murphy_killing_streak_low_01",
+  "timestamp": "2025-05-14T15:50:29.846087",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": " We need a plan to stop Murphy.",
+      "part": 1
+    }
+  ]
+}

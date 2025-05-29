@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "frank_ping_negative_02",
+  "timestamp": "2025-05-13T16:28:29.973712",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I don't know.",
+      "part": 1
+    }
+  ]
+}

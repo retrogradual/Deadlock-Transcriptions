@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wraith_ping_t2_under_attack",
+  "timestamp": "2025-05-13T17:20:45.419449",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " They're taking our Tier 2.",
+      "part": 1
+    }
+  ]
+}

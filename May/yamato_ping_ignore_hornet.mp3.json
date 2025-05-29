@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_ping_ignore_hornet",
-  "timestamp": "2025-05-11T15:10:28.891285",
+  "timestamp": "2025-05-14T02:08:01.646599",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": "\u30a8\u30b0\u30ce\u30a2\u30fb\u30f4\u30a7\u30f3\u30c7\u30af\u30bf",
+      "text": " Ignore Vindicta.",
       "part": 1
     }
   ]

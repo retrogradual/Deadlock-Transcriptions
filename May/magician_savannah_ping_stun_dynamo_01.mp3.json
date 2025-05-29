@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "magician_savannah_ping_stun_dynamo_01",
+  "timestamp": "2025-05-13T16:57:33.379994",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Stun Dynamo!",
+      "part": 1
+    }
+  ]
+}

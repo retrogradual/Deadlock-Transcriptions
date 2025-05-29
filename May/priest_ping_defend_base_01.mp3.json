@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "priest_ping_defend_base_01",
+  "timestamp": "2025-05-13T17:04:22.466908",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " DEFEND THE BASE!",
+      "part": 1
+    }
+  ]
+}

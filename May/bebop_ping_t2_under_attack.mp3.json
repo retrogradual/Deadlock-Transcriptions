@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bebop_ping_t2_under_attack",
+  "timestamp": "2025-05-13T16:21:12.831269",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " They're taking us here too!",
+      "part": 1
+    }
+  ]
+}

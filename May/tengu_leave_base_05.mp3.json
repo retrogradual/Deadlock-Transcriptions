@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "tengu_leave_base_05",
+  "timestamp": "2025-05-13T18:50:01.361634",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": " \u00a1Ahora terminamos lo que empezamos!",
+      "part": 1
+    }
+  ]
+}

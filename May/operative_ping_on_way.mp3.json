@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "operative_ping_on_way",
+  "timestamp": "2025-05-13T17:02:35.569573",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " On my way.",
+      "part": 1
+    }
+  ]
+}

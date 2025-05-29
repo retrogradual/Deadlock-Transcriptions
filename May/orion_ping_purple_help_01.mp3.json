@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "orion_ping_purple_help_01",
+  "timestamp": "2025-05-13T17:03:42.654853",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Purple needs help!",
+      "part": 1
+    }
+  ]
+}

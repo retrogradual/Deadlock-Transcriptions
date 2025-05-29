@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "yamato_ping_see_wraith_on_roof",
+  "timestamp": "2025-05-14T02:08:47.273242",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Races on the roof.",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "mirage_killstreak_start_03_alt_01",
+  "timestamp": "2025-05-13T18:46:55.574784",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " YIELD NOW, WHILE YOU STILL CAN!",
+      "part": 1
+    }
+  ]
+}

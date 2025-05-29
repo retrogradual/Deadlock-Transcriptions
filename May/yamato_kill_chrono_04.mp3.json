@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_kill_chrono_04",
-  "timestamp": "2025-05-12T02:52:00.882078",
+  "timestamp": "2025-05-14T02:07:31.329721",
   "segments": [
     {
       "start": 0.0,
       "end": 4.0,
-      "text": "\u30bb\u30d6\u30f3\u30b9\u30e0\u30fc\u30f3\u306e\u524d\u3067\u306f\u30d1\u30e9\u30c9\u30c3\u30af\u30b9\u306a\u3069\u5893\u5f8c\u540c\u7136\u3060!",
+      "text": " In the face of the 7th Moon, there is no such thing as a paradox!",
       "part": 1
     }
   ]

@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_kill_viscous_02",
-  "timestamp": "2025-05-12T02:52:13.779290",
+  "timestamp": "2025-05-14T02:08:37.593231",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
-      "text": "\u307e\u3063\u305f\u304f\u304a\u305e\u307e\u3057\u3044\u5974\u3060\u306a\u3002",
+      "end": 2.2799999713897705,
+      "text": " What a disgusting guy!",
       "part": 1
     }
   ]

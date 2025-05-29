@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "trapper_ping_missing_purple_01",
+  "timestamp": "2025-05-13T17:11:10.297898",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " MISSING PURPLE!",
+      "part": 1
+    }
+  ]
+}

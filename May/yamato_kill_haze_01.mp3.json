@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_kill_haze_01",
-  "timestamp": "2025-05-12T02:52:05.217490",
+  "timestamp": "2025-05-14T02:07:51.838711",
   "segments": [
     {
       "start": 0.0,
-      "end": 4.0,
-      "text": "\u79c1\u304cOSIC\u306a\u3069\u6050\u308c\u308b\u3068\u601d\u3063\u305f\u304b?",
+      "end": 3.359999895095825,
+      "text": " Did you think I'd be afraid of OSIC?",
       "part": 1
     }
   ]

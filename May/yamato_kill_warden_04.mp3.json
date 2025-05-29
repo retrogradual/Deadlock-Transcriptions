@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_kill_warden_04",
-  "timestamp": "2025-05-12T02:52:14.792332",
+  "timestamp": "2025-05-14T02:08:41.574620",
   "segments": [
     {
       "start": 0.0,
-      "end": 4.0,
-      "text": "\u79c1\u306f\u304a\u524d\u306a\u3069\u6050\u308c\u3093\u305e\u3001\u30a6\u30a9\u30fc\u30c7\u30f3\u3002",
+      "end": 3.0,
+      "text": " I'm not afraid of you, Warden.",
       "part": 1
     }
   ]

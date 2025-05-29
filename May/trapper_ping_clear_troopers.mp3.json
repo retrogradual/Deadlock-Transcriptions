@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "trapper_ping_clear_troopers",
+  "timestamp": "2025-05-13T17:10:52.200386",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I'll deal with the troopers.",
+      "part": 1
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_kill_tengu_02",
-  "timestamp": "2025-05-12T02:52:13.047990",
+  "timestamp": "2025-05-14T02:08:33.803897",
   "segments": [
     {
       "start": 0.0,
-      "end": 5.0,
-      "text": "\u9762\u5012\u3055\u3092\u7247\u4ed8\u3051\u3066\u304f\u308c\u305f\u3053\u3068\u306b\u306f\u611f\u8b1d\u3059\u308b\u305e\u3002",
+      "end": 4.0,
+      "text": " I'm grateful that you've taken care of my troubles.",
       "part": 1
     }
   ]

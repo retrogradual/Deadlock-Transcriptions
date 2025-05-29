@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "priest_ping_operative_on_top_of_garage",
+  "timestamp": "2025-05-13T17:05:13.876435",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Raven's on top of the garage!",
+      "part": 1
+    }
+  ]
+}

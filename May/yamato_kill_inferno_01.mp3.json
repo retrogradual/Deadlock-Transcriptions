@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_kill_inferno_01",
-  "timestamp": "2025-05-12T02:52:06.667489",
+  "timestamp": "2025-05-14T02:07:59.892082",
   "segments": [
     {
       "start": 0.0,
       "end": 3.0,
-      "text": "\u30d0\u30fc\u30c6\u30f3\u30c0\u30fc\u306a\u3069\u306b\u8ca0\u3051\u308b\u308f\u3051\u306b\u306f\u3044\u304b\u3093\u3002",
+      "text": " You can't afford to lose to a bartender.",
       "part": 1
     }
   ]

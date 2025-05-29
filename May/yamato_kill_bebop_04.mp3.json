@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_kill_bebop_04",
-  "timestamp": "2025-05-12T02:52:00.012752",
+  "timestamp": "2025-05-14T02:07:27.598297",
   "segments": [
     {
       "start": 0.0,
       "end": 3.0,
-      "text": "\u6a5f\u68b0\u306e\u308f\u308a\u306b\u306f\u9811\u5f35\u3063\u305f\u3058\u3083\u306a\u3044\u304b\u3002",
+      "text": " You did your best for a machine, didn't you?",
       "part": 1
     }
   ]

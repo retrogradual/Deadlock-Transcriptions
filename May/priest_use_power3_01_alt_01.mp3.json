@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "priest_use_power3_01_alt_01",
+  "timestamp": "2025-05-13T18:48:25.049693",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": " I'm buffing!",
+      "part": 1
+    }
+  ]
+}

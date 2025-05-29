@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bookworm_ping_ghost_on_top_of_garage",
+  "timestamp": "2025-05-13T16:22:04.635889",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Geists on top of the garage!",
+      "part": 1
+    }
+  ]
+}

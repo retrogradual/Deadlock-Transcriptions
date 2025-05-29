@@ -1,0 +1,24 @@
+{
+  "voiceline_id": "magician_hs_select_03",
+  "timestamp": "2025-05-14T15:52:31.243650",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.600000023841858,
+      "text": " Allow us to be of service.",
+      "part": 1
+    },
+    {
+      "start": 1.600000023841858,
+      "end": 4.0,
+      "text": " Us? I'll be doing 90% of the work.",
+      "part": 2
+    },
+    {
+      "start": 4.0,
+      "end": 5.0,
+      "text": " Shut up.",
+      "part": 3
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_ping_attack_gigawatt",
-  "timestamp": "2025-05-11T15:10:26.020976",
+  "timestamp": "2025-05-14T02:07:48.366668",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Let's take out seven.",
+      "text": " Let's take out 7.",
       "part": 1
     }
   ]

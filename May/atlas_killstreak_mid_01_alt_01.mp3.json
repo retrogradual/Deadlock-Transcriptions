@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "atlas_killstreak_mid_01_alt_01",
+  "timestamp": "2025-05-13T18:39:46.147768",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Come on, try to kill me!",
+      "part": 1
+    }
+  ]
+}

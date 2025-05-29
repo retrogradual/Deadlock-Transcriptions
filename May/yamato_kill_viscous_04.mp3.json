@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_kill_viscous_04",
-  "timestamp": "2025-05-12T02:52:13.992890",
+  "timestamp": "2025-05-14T02:08:37.906795",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": "\u306a\u3093\u306a\u3093\u3060\u3042\u308c\u306f?",
+      "text": " What the hell is that?",
       "part": 1
     }
   ]

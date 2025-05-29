@@ -1,12 +1,18 @@
 {
   "voiceline_id": "yamato_ping_saw_shiv",
-  "timestamp": "2025-05-11T15:10:40.189961",
+  "timestamp": "2025-05-14T02:08:25.999681",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
-      "text": "\u611b\u60f3\u30b7\u30a7\u30a4\u30d7",
+      "end": 1.0,
+      "text": " I saw a sheep.",
       "part": 1
+    },
+    {
+      "start": 1.0,
+      "end": 1.0,
+      "text": "",
+      "part": 2
     }
   ]
 }

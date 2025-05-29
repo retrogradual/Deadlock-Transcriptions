@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "priest_ping_missing_blue_02",
+  "timestamp": "2025-05-13T17:05:03.224694",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " MISSION BROADWAY!",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "frank_ping_returning_to_base",
+  "timestamp": "2025-05-13T16:28:37.285201",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Headed back to base.",
+      "part": 1
+    }
+  ]
+}

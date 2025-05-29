@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "yamato_ping_atlas_check_items",
+  "timestamp": "2025-05-14T02:07:24.488735",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Check out what Abrams bought.",
+      "part": 1
+    }
+  ]
+}

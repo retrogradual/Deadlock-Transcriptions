@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_ping_careful_wrecker_02",
-  "timestamp": "2025-05-11T15:10:47.307988",
+  "timestamp": "2025-05-14T02:08:50.356300",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Be careful, Leka!",
+      "text": " Be careful, Lekker!",
       "part": 1
     }
   ]

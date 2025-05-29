@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "forge_desperation_power4_01",
+  "timestamp": "2025-05-14T15:51:24.215048",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " MUNITIONS ARE ALIVE!",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_ping_thanks",
+  "timestamp": "2025-05-13T17:13:22.103033",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Oh, thanks!",
+      "part": 1
+    }
+  ]
+}

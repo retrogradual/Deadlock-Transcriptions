@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_ping_viper_under_garage",
+  "timestamp": "2025-05-13T17:13:28.024902",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Vipers, under the garage!",
+      "part": 1
+    }
+  ]
+}

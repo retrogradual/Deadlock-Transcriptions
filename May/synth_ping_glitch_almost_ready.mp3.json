@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "synth_ping_glitch_almost_ready",
+  "timestamp": "2025-05-13T17:08:52.895042",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " CURSE IS ALMOST READY!",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "orion_ping_thanks",
+  "timestamp": "2025-05-13T17:03:54.397884",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.5,
+      "text": " Thanks.",
+      "part": 1
+    }
+  ]
+}

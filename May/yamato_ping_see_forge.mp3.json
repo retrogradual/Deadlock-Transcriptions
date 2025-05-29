@@ -1,11 +1,11 @@
 {
   "voiceline_id": "yamato_ping_see_forge",
-  "timestamp": "2025-05-11T15:10:24.818540",
+  "timestamp": "2025-05-14T02:07:42.513412",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": "IC \u30de\u30af\u30ae\u30cb\u30b9",
+      "text": " I see McGuinness.",
       "part": 1
     }
   ]

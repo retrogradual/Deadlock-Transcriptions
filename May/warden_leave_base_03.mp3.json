@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "warden_leave_base_03",
+  "timestamp": "2025-05-13T18:51:44.197245",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": " To the lanes!",
+      "part": 1
+    }
+  ]
+}

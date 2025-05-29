@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wrecker_ping_with_geist",
+  "timestamp": "2025-05-13T17:22:17.660860",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I'm with you, Geist.",
+      "part": 1
+    }
+  ]
+}
