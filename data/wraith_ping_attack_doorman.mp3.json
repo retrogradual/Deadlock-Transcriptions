@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wraith_ping_attack_doorman",
+  "timestamp": "2025-08-18T19:34:01.010602",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Let's take out the doorman.",
+      "part": 1
+    }
+  ]
+}

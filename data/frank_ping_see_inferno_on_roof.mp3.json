@@ -1,11 +1,11 @@
 {
   "voiceline_id": "frank_ping_see_inferno_on_roof",
-  "timestamp": "2025-05-13T16:28:44.520022",
+  "timestamp": "2025-08-18T21:09:56.196557",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " In furnaces on the roof.",
+      "text": " Infernus is on the roof.",
       "part": 1
     }
   ]

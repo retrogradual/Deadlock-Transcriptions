@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "patron_female_enemy_doorman_killing_streak_high_01",
+  "timestamp": "2025-08-18T19:00:16.100193",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": " Damn you, Doorman!",
+      "part": 1
+    }
+  ]
+}

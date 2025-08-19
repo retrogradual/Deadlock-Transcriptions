@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "punkgoat_ally_shiv_multikill_02",
+  "timestamp": "2025-08-18T19:27:54.723541",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Shiv is ventilating those guys.",
+      "part": 1
+    }
+  ]
+}

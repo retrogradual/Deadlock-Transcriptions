@@ -1,10 +1,10 @@
 {
   "voiceline_id": "patron_male_ally_bebop_start_03",
-  "timestamp": "2025-03-12T12:31:58.268473",
+  "timestamp": "2025-08-18T21:04:49.770232",
   "segments": [
     {
       "start": 0.0,
-      "end": 5.0,
+      "end": 5.400000095367432,
       "text": " You may be made of iron, but you have more heart than our rivals combined.",
       "part": 1
     }

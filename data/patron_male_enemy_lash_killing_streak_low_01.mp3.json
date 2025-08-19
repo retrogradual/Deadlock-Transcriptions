@@ -1,12 +1,18 @@
 {
   "voiceline_id": "patron_male_enemy_lash_killing_streak_low_01",
-  "timestamp": "2025-03-12T03:36:56.762857",
+  "timestamp": "2025-08-18T21:05:19.008981",
   "segments": [
     {
       "start": 0.0,
-      "end": 4.0,
-      "text": " Lash grows more confident by the minute. Silence him!",
+      "end": 2.319999933242798,
+      "text": " Lash grows more confident by the minute.",
       "part": 1
+    },
+    {
+      "start": 2.319999933242798,
+      "end": 3.440000057220459,
+      "text": " Silence him!",
+      "part": 2
     }
   ]
 }

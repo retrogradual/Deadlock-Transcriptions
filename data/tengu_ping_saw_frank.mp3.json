@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "tengu_ping_saw_frank",
+  "timestamp": "2025-08-18T19:30:24.453042",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I saw Victor!",
+      "part": 1
+    }
+  ]
+}

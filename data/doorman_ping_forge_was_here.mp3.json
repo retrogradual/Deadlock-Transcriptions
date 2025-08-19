@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_ping_forge_was_here",
+  "timestamp": "2025-08-18T19:08:13.987667",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " McGinnis was here.",
+      "part": 1
+    }
+  ]
+}

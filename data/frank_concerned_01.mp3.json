@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "frank_concerned_01",
+  "timestamp": "2025-08-18T19:19:44.824722",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " This isn't ideal.",
+      "part": 1
+    }
+  ]
+}

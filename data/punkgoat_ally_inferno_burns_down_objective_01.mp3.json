@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "punkgoat_ally_inferno_burns_down_objective_01",
+  "timestamp": "2025-08-18T19:27:08.212612",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Nice job, Infernus!",
+      "part": 1
+    }
+  ]
+}

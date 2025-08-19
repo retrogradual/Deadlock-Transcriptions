@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_ping_stun_nano_01",
+  "timestamp": "2025-08-18T19:09:42.374704",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.440000057220459,
+      "text": " Stun Calico.",
+      "part": 1
+    }
+  ]
+}

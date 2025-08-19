@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "kelvin_ping_vampirebat_dead",
+  "timestamp": "2025-08-18T19:24:35.080217",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Mina is dead.",
+      "part": 1
+    }
+  ]
+}

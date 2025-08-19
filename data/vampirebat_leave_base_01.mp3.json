@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_leave_base_01",
+  "timestamp": "2025-08-18T19:32:21.025937",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I can't let them finish this without me!",
+      "part": 1
+    }
+  ]
+}

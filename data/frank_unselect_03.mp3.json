@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "frank_unselect_03",
+  "timestamp": "2025-08-18T19:19:18.200401",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": " I wish I could help, but I need to reattach my arm.",
+      "part": 1
+    }
+  ]
+}

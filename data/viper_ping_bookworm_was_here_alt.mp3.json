@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "viper_ping_bookworm_was_here_alt",
+  "timestamp": "2025-08-18T19:33:02.795233",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Page was here.",
+      "part": 1
+    }
+  ]
+}

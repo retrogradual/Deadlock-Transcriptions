@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_unselect_01",
+  "timestamp": "2025-08-18T19:11:17.831249",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "text": " I'm afraid a doorman's job is never done.",
+      "part": 1
+    }
+  ]
+}

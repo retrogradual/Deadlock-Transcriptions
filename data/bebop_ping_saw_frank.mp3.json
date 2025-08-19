@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bebop_ping_saw_frank",
+  "timestamp": "2025-08-18T19:01:51.245112",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " A SORVETTA!",
+      "part": 1
+    }
+  ]
+}

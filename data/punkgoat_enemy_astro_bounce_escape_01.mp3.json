@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "punkgoat_enemy_astro_bounce_escape_01",
+  "timestamp": "2025-08-18T19:25:49.679312",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " The man always gets away.",
+      "part": 1
+    }
+  ]
+}

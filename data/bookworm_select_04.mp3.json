@@ -1,12 +1,18 @@
 {
   "voiceline_id": "bookworm_select_04",
-  "timestamp": "2025-05-11T14:59:48.963822",
+  "timestamp": "2025-08-18T21:08:19.554240",
   "segments": [
     {
       "start": 0.0,
-      "end": 4.440000057220459,
-      "text": " Right now I'm temp, but maybe start a letter writing campaign and I'll stick around.",
+      "end": 6.0,
+      "text": " One of the things I love the most about Arthurian legend is that you have these noble heroes that are totally morally compro-",
       "part": 1
+    },
+    {
+      "start": 6.0,
+      "end": 8.319999694824219,
+      "text": " Oh my god, I didn't notice the time, we have to complete the ritual!",
+      "part": 2
     }
   ]
 }

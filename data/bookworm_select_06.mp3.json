@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_select_06",
-  "timestamp": "2025-05-11T14:59:49.508508",
+  "timestamp": "2025-08-18T21:08:20.229840",
   "segments": [
     {
       "start": 0.0,
-      "end": 4.0,
-      "text": " Look, I, for one, am very excited to see who I'm going to be today.",
+      "end": 3.0,
+      "text": " Who am I to resist a perfectly good prophecy?",
       "part": 1
     }
   ]

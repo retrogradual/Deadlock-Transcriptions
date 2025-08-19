@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "patron_male_ally_punkgoat_start_01",
+  "timestamp": "2025-08-18T19:00:58.906800",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "text": " They fear you. They mock you. They hate you.",
+      "part": 1
+    }
+  ]
+}

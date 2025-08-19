@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "frank_ping_ignore_doorman",
+  "timestamp": "2025-08-18T19:17:59.453941",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": " Ignore Dormin.",
+      "part": 1
+    }
+  ]
+}

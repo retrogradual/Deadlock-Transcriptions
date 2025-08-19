@@ -1,11 +1,11 @@
 {
   "voiceline_id": "haze_upgrade_power3_10",
-  "timestamp": "2025-05-13T18:44:28.850013",
+  "timestamp": "2025-08-18T21:12:28.343420",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " But my mind is focused.",
+      "text": " My mind is focused.",
       "part": 1
     }
   ]

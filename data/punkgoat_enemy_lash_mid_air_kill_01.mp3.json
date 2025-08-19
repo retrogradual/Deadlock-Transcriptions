@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "punkgoat_enemy_lash_mid_air_kill_01",
+  "timestamp": "2025-08-18T19:27:26.370616",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Lash, you're overrated as hell.",
+      "part": 1
+    }
+  ]
+}

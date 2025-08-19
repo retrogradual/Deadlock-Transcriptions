@@ -1,11 +1,11 @@
 {
   "voiceline_id": "haze_ping_ghost_check_items",
-  "timestamp": "2025-05-13T16:34:10.026896",
+  "timestamp": "2025-08-18T21:11:56.974331",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
-      "text": " Check out what Geist bought.",
+      "end": 1.6799999475479126,
+      "text": " Check out my Geist Bot!",
       "part": 1
     }
   ]

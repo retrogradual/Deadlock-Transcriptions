@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_ping_stun_orion_01",
+  "timestamp": "2025-08-18T19:09:49.955545",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.3600000143051147,
+      "text": " Stun Grey Talon.",
+      "part": 1
+    }
+  ]
+}

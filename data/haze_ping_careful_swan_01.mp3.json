@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "haze_ping_careful_swan_01",
+  "timestamp": "2025-08-18T19:22:10.748670",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Careful, Swan.",
+      "part": 1
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ping_stun_krill_01",
-  "timestamp": "2025-05-11T14:59:28.931576",
+  "timestamp": "2025-08-18T21:07:17.900212",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
-      "text": " STUNKRILL!",
+      "end": 1.2000000476837158,
+      "text": " Stun Krill.",
       "part": 1
     }
   ]

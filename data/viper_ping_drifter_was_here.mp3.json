@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "viper_ping_drifter_was_here",
+  "timestamp": "2025-08-18T19:33:12.254732",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": " Drifter was here!",
+      "part": 1
+    }
+  ]
+}

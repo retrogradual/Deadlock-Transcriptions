@@ -1,11 +1,11 @@
 {
   "voiceline_id": "patron_male_ally_dynamo_killing_streak_02",
-  "timestamp": "2025-03-12T03:48:57.753335",
+  "timestamp": "2025-08-18T21:04:52.295136",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " They can't stop the Professor.",
+      "text": " They can't stop the Professor!",
       "part": 1
     }
   ]

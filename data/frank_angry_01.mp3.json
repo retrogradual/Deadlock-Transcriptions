@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "frank_angry_01",
+  "timestamp": "2025-08-18T19:19:43.242280",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Damn you!",
+      "part": 1
+    }
+  ]
+}

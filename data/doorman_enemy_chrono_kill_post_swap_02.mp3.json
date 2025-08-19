@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_enemy_chrono_kill_post_swap_02",
+  "timestamp": "2025-08-18T19:07:48.340229",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.200000047683716,
+      "text": " You're not half as clever as you think you are, Paradox.",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "punkgoat_enemy_orion_see_missile_02",
+  "timestamp": "2025-08-18T19:27:45.609658",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Grey Talon's humping us!",
+      "part": 1
+    }
+  ]
+}

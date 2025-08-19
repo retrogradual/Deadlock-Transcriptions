@@ -1,11 +1,11 @@
 {
   "voiceline_id": "frank_ping_viper_in_mid",
-  "timestamp": "2025-05-13T16:29:14.645700",
+  "timestamp": "2025-08-18T21:10:49.310537",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
-      "text": " Vipers in mid.",
+      "end": 1.1200000047683716,
+      "text": " Vipers in Mid.",
       "part": 1
     }
   ]

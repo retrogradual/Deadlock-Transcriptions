@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "kelvin_ping_saw_doorman",
+  "timestamp": "2025-08-18T19:23:55.425271",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I SAW THE DOORMEN!",
+      "part": 1
+    }
+  ]
+}

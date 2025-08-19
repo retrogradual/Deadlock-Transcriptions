@@ -1,11 +1,11 @@
 {
   "voiceline_id": "frank_ping_saw_warden",
-  "timestamp": "2025-05-11T15:00:44.657187",
+  "timestamp": "2025-08-18T21:10:56.094421",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
-      "text": " I saw Warden.",
+      "end": 1.0,
+      "text": " I saw a Warden.",
       "part": 1
     }
   ]

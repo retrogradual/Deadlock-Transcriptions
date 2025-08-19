@@ -1,10 +1,10 @@
 {
   "voiceline_id": "patron_male_ally_bebop_start_02",
-  "timestamp": "2025-03-12T03:59:25.434034",
+  "timestamp": "2025-08-18T21:04:50.035149",
   "segments": [
     {
       "start": 0.0,
-      "end": 6.559999942779541,
+      "end": 6.639999866485596,
       "text": " Shelly Fisher is running out of time, Bebop. Don't fail her. Complete the ritual.",
       "part": 1
     }

@@ -1,16 +1,16 @@
 {
   "voiceline_id": "patron_male_ally_warden_start_05",
-  "timestamp": "2025-03-12T03:40:05.828068",
+  "timestamp": "2025-08-18T21:05:39.795696",
   "segments": [
     {
       "start": 0.0,
-      "end": 5.0,
+      "end": 4.679999828338623,
       "text": " I can't tell what you're after, Warden, but I know you're afraid of failure.",
       "part": 1
     },
     {
-      "start": 5.0,
-      "end": 9.0,
+      "start": 4.679999828338623,
+      "end": 8.640000343322754,
       "text": " Fear not, for I will be your guide to victory.",
       "part": 2
     }

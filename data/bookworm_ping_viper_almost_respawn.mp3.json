@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ping_viper_almost_respawn",
-  "timestamp": "2025-05-13T16:23:27.517036",
+  "timestamp": "2025-08-18T21:08:02.398010",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Viper is almost back.",
+      "text": " Vyper is almost back.",
       "part": 1
     }
   ]

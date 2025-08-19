@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_ping_with_chrono",
+  "timestamp": "2025-08-18T19:07:55.595914",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.440000057220459,
+      "text": " I'm with you, Paradox.",
+      "part": 1
+    }
+  ]
+}

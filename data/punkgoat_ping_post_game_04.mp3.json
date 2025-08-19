@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "punkgoat_ping_post_game_04",
+  "timestamp": "2025-08-18T19:28:45.652766",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": " We killed it!",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "boho_ping_see_nano",
+  "timestamp": "2025-08-18T19:03:49.343458",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I see Calico.",
+      "part": 1
+    }
+  ]
+}

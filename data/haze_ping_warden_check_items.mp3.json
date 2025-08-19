@@ -1,11 +1,11 @@
 {
   "voiceline_id": "haze_ping_warden_check_items",
-  "timestamp": "2025-05-13T16:36:08.274622",
+  "timestamp": "2025-08-18T21:12:17.545749",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Check out what Warden bought.",
+      "text": " Check out what Warden bought!",
       "part": 1
     }
   ]

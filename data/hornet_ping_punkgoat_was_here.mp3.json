@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "hornet_ping_punkgoat_was_here",
+  "timestamp": "2025-08-18T19:23:15.209857",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Billy was here!",
+      "part": 1
+    }
+  ]
+}

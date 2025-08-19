@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "boho_ping_see_inferno",
+  "timestamp": "2025-08-18T19:03:22.711515",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I see Infernus.",
+      "part": 1
+    }
+  ]
+}

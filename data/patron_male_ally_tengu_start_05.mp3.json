@@ -1,18 +1,12 @@
 {
   "voiceline_id": "patron_male_ally_tengu_start_05",
-  "timestamp": "2025-03-12T04:05:08.057186",
+  "timestamp": "2025-08-18T21:05:34.385443",
   "segments": [
     {
       "start": 0.0,
-      "end": 6.0,
-      "text": " You worry about the future, Ivy, but the unknown need not be something to fear.",
+      "end": 9.0,
+      "text": " You worry about the future, Ivy. But the unknown need not be something to fear. Complete the ritual and know your destiny.",
       "part": 1
-    },
-    {
-      "start": 6.0,
-      "end": 10.0,
-      "text": " Complete the ritual and know your destiny.",
-      "part": 2
     }
   ]
 }

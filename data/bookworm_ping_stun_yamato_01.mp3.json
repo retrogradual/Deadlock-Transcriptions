@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ping_stun_yamato_01",
-  "timestamp": "2025-05-11T14:59:48.277032",
+  "timestamp": "2025-08-18T21:08:15.496221",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Stun Yamato!",
+      "text": " Stun Yamato.",
       "part": 1
     }
   ]

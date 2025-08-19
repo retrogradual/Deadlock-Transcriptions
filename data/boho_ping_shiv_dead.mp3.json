@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "boho_ping_shiv_dead",
+  "timestamp": "2025-08-18T19:04:01.127700",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.9599999785423279,
+      "text": " Shiv is dead.",
+      "part": 1
+    }
+  ]
+}

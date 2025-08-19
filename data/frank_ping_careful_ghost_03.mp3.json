@@ -1,11 +1,11 @@
 {
   "voiceline_id": "frank_ping_careful_ghost_03",
-  "timestamp": "2025-05-11T15:00:17.438863",
+  "timestamp": "2025-08-18T21:09:34.405178",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
-      "text": " Careful, guys!",
+      "end": 0.8799999952316284,
+      "text": " Careful, Geist!",
       "part": 1
     }
   ]

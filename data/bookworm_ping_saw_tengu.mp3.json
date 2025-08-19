@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ping_saw_tengu",
-  "timestamp": "2025-05-11T14:59:40.890914",
+  "timestamp": "2025-08-18T21:07:55.625863",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
-      "text": " I saw Ivy!",
+      "end": 1.2000000476837158,
+      "text": " I saw Ivy.",
       "part": 1
     }
   ]

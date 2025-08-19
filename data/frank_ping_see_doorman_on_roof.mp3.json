@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "frank_ping_see_doorman_on_roof",
+  "timestamp": "2025-08-18T19:18:02.519890",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": " Dorman's on the roof!",
+      "part": 1
+    }
+  ]
+}

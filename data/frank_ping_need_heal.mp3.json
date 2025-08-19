@@ -1,11 +1,11 @@
 {
   "voiceline_id": "frank_ping_need_heal",
-  "timestamp": "2025-05-13T16:28:27.161358",
+  "timestamp": "2025-08-18T21:11:29.103313",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " You have a heel.",
+      "text": " Do you have a heel?",
       "part": 1
     }
   ]

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "patron_male_ally_bookworm_start_02_alt",
+  "timestamp": "2025-08-18T19:00:42.681591",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.0,
+      "text": " You risk much by coming here, Paige. But you understand that this is the only way to save him. Complete the ritual, and I will help you.",
+      "part": 1
+    }
+  ]
+}

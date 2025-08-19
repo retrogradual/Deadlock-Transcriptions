@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "viper_ping_saw_frank",
+  "timestamp": "2025-08-18T19:33:18.566428",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I SAW VICTOR!",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "punkgoat_enemy_kelvin_kill_on_ice_path_03",
+  "timestamp": "2025-08-18T19:27:15.507567",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.440000057220459,
+      "text": " You tried to cheat and not walk on the ground like a normal person, but that ain't happenin'",
+      "part": 1
+    },
+    {
+      "start": 4.440000057220459,
+      "end": 5.440000057220459,
+      "text": " on my watch.",
+      "part": 2
+    }
+  ]
+}

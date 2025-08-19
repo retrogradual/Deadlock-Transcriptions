@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "ghost_enemy_astro_bounce_escape_01",
+  "timestamp": "2025-08-18T19:20:10.615287",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " We'll finish this later, Sheriff.",
+      "part": 1
+    }
+  ]
+}

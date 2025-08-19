@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_ally_atlas_unkillable_01",
+  "timestamp": "2025-08-18T19:07:26.118335",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " They'll never stop Abrams!",
+      "part": 1
+    }
+  ]
+}

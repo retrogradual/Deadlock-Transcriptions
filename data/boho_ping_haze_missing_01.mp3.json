@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "boho_ping_haze_missing_01",
+  "timestamp": "2025-08-18T19:03:11.758523",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Haze is missing.",
+      "part": 1
+    }
+  ]
+}

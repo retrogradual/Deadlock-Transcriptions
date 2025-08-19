@@ -1,11 +1,11 @@
 {
   "voiceline_id": "haze_use_power1_07",
-  "timestamp": "2025-05-13T18:44:19.353535",
+  "timestamp": "2025-08-18T21:12:20.641003",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " SLUMBER",
+      "text": " Slumber.",
       "part": 1
     }
   ]

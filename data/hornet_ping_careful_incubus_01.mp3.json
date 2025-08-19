@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "hornet_ping_careful_incubus_01",
+  "timestamp": "2025-08-18T19:22:58.226818",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Careful, Incubus!",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "patron_male_enemy_vampirebat_killing_streak_high_01",
+  "timestamp": "2025-08-18T19:01:00.364511",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": " How is that vampire child still alive?",
+      "part": 1
+    }
+  ]
+}

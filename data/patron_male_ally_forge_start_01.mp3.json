@@ -1,10 +1,10 @@
 {
   "voiceline_id": "patron_male_ally_forge_start_01",
-  "timestamp": "2025-03-12T04:11:35.076000",
+  "timestamp": "2025-08-18T21:04:58.144284",
   "segments": [
     {
       "start": 0.0,
-      "end": 8.0,
+      "end": 7.440000057220459,
       "text": " Maggie McGinnis, you are ingenuity personified. Do whatever it takes to summon me.",
       "part": 1
     }

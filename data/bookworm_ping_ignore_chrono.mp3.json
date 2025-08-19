@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ping_ignore_chrono",
-  "timestamp": "2025-05-11T14:59:16.218400",
+  "timestamp": "2025-08-18T21:06:32.593148",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Ignore Paradox!",
+      "text": " Ignore Paradox.",
       "part": 1
     }
   ]

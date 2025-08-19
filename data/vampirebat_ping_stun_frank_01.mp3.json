@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_ping_stun_frank_01",
+  "timestamp": "2025-08-18T19:31:21.346423",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Stun Victor!",
+      "part": 1
+    }
+  ]
+}

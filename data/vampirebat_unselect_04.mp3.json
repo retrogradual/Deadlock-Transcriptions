@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_unselect_04",
+  "timestamp": "2025-08-18T19:32:14.527727",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Sorry, I'm working on my lookbook.",
+      "part": 1
+    }
+  ]
+}

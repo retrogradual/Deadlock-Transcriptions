@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ping_synth_under_garage",
-  "timestamp": "2025-05-13T16:23:18.087222",
+  "timestamp": "2025-08-18T21:07:53.307326",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Pockets under the garage!",
+      "text": " Pocket is under the garage.",
       "part": 1
     }
   ]

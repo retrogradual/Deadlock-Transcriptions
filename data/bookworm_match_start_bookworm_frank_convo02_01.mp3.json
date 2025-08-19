@@ -1,0 +1,26 @@
+{
+  "file": "bookworm_match_start_bookworm_frank_convo02_01.mp3",
+  "text": "Oh my god, I can't even imagine how many questions you have. Where did I come from? Who made me? Who am I made of?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.9600000381469727,
+      "text": "Oh my god, I can't even imagine how many questions you have."
+    },
+    {
+      "start": 2.9600000381469727,
+      "end": 4.360000133514404,
+      "text": "Where did I come from?"
+    },
+    {
+      "start": 4.360000133514404,
+      "end": 5.400000095367432,
+      "text": "Who made me?"
+    },
+    {
+      "start": 5.400000095367432,
+      "end": 6.639999866485596,
+      "text": "Who am I made of?"
+    }
+  ]
+}

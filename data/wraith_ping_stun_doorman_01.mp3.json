@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wraith_ping_stun_doorman_01",
+  "timestamp": "2025-08-18T19:34:01.825712",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Stun Dorman.",
+      "part": 1
+    }
+  ]
+}

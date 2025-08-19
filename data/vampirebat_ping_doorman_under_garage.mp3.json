@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_ping_doorman_under_garage",
+  "timestamp": "2025-08-18T19:31:08.665030",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Dormant's under the Grudge!",
+      "part": 1
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ally_orion_killed_in_lane_01",
-  "timestamp": "2025-05-11T14:59:35.078259",
+  "timestamp": "2025-08-18T21:07:35.036831",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " THEY TOOK OUT GREY TALON!",
+      "text": " They took out Grey Talon.",
       "part": 1
     }
   ]

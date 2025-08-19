@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "viper_ping_careful_succubus_01",
+  "timestamp": "2025-08-18T19:33:33.376533",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Careful, Succubus.",
+      "part": 1
+    }
+  ]
+}

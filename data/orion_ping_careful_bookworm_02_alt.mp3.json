@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "orion_ping_careful_bookworm_02_alt",
+  "timestamp": "2025-08-18T19:25:00.402928",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Careful, Paige!",
+      "part": 1
+    }
+  ]
+}

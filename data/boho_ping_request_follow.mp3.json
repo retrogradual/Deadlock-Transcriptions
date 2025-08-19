@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "boho_ping_request_follow",
+  "timestamp": "2025-08-18T19:05:05.641185",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Come with me.",
+      "part": 1
+    }
+  ]
+}

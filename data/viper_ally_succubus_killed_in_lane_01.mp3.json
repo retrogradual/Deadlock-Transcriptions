@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "viper_ally_succubus_killed_in_lane_01",
+  "timestamp": "2025-08-18T19:33:34.024241",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " THEY TOOK OUT THE SUCCUBUS!",
+      "part": 1
+    }
+  ]
+}

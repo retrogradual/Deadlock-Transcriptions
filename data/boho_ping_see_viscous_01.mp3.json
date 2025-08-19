@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "boho_ping_see_viscous_01",
+  "timestamp": "2025-08-18T19:04:25.453269",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I see Viscous.",
+      "part": 1
+    }
+  ]
+}

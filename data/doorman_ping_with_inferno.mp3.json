@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_ping_with_inferno",
+  "timestamp": "2025-08-18T19:09:03.251528",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.4800000190734863,
+      "text": " I'm with you, Infernus.",
+      "part": 1
+    }
+  ]
+}

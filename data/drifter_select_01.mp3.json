@@ -1,0 +1,42 @@
+{
+  "voiceline_id": "drifter_select_01",
+  "timestamp": "2025-08-18T19:16:24.892959",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.2200000286102295,
+      "text": " I never had much use for a name.",
+      "part": 1
+    },
+    {
+      "start": 3.2200000286102295,
+      "end": 6.900000095367432,
+      "text": " Names are for people who want to be remembered.",
+      "part": 2
+    },
+    {
+      "start": 6.900000095367432,
+      "end": 9.460000038146973,
+      "text": " Me?",
+      "part": 3
+    },
+    {
+      "start": 9.460000038146973,
+      "end": 13.359999656677246,
+      "text": " My existence is like gravity or time.",
+      "part": 4
+    },
+    {
+      "start": 13.359999656677246,
+      "end": 17.65999984741211,
+      "text": " A concept that you fear but you cannot escape.",
+      "part": 5
+    },
+    {
+      "start": 17.65999984741211,
+      "end": 20.260000228881836,
+      "text": " I simply am.",
+      "part": 6
+    }
+  ]
+}

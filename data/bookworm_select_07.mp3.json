@@ -1,30 +1,12 @@
 {
   "voiceline_id": "bookworm_select_07",
-  "timestamp": "2025-05-11T14:59:50.268725",
+  "timestamp": "2025-08-18T21:08:19.973128",
   "segments": [
     {
       "start": 0.0,
-      "end": 3.8399999141693115,
-      "text": " I keep on pitching a hero that's a dolphin with a fire axe, and people are like,",
+      "end": 10.399999618530273,
+      "text": " Hey, let's see, got my King Arthur, got my Midsummer Night's Dream, got my Wuthering Heights, I mean, that one's probably less useful, but you never know when you'll need a Byronic Hero for something romantic yet dangerous.",
       "part": 1
-    },
-    {
-      "start": 3.8399999141693115,
-      "end": 5.71999979019165,
-      "text": " that's dumb, dolphins don't have hands.",
-      "part": 2
-    },
-    {
-      "start": 5.71999979019165,
-      "end": 8.119999885559082,
-      "text": " And I'm like, that's why it's a psychic dolphin.",
-      "part": 3
-    },
-    {
-      "start": 8.119999885559082,
-      "end": 10.0,
-      "text": " Anyway, whatever, let's play a match.",
-      "part": 4
     }
   ]
 }

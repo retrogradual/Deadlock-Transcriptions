@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ping_careful_fortuna_01",
-  "timestamp": "2025-05-13T16:21:30.963889",
+  "timestamp": "2025-08-18T21:06:46.372718",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Careful, Fortuna.",
+      "text": " Be careful of Fortuna.",
       "part": 1
     }
   ]

@@ -1,11 +1,11 @@
 {
   "voiceline_id": "frank_select_02",
-  "timestamp": "2025-05-11T15:00:47.982800",
+  "timestamp": "2025-08-18T21:11:08.766333",
   "segments": [
     {
       "start": 0.0,
       "end": 2.799999952316284,
-      "text": " The Patron will have answers. I know it.",
+      "text": " The Patron will have answers, I know it.",
       "part": 1
     }
   ]

@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_use_power4_08",
-  "timestamp": "2025-05-13T18:40:36.952647",
+  "timestamp": "2025-08-18T21:08:28.769796",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.5,
-      "text": " You can do something you couldn't do previously!",
+      "end": 2.0,
+      "text": " I'll save the day!",
       "part": 1
     }
   ]

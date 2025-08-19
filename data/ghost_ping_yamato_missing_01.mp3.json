@@ -1,11 +1,11 @@
 {
   "voiceline_id": "ghost_ping_yamato_missing_01",
-  "timestamp": "2025-03-12T03:37:29.450569",
+  "timestamp": "2025-08-18T21:11:47.318312",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Yamato's missing.",
+      "text": " Yamato is missing.",
       "part": 1
     }
   ]

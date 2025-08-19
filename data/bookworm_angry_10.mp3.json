@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bookworm_angry_10",
+  "timestamp": "2025-08-18T19:06:50.870531",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": " I am not going to let them keep pushing us around.",
+      "part": 1
+    }
+  ]
+}

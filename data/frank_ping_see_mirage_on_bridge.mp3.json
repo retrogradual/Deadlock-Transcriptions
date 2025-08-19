@@ -1,11 +1,11 @@
 {
   "voiceline_id": "frank_ping_see_mirage_on_bridge",
-  "timestamp": "2025-05-13T16:28:47.718714",
+  "timestamp": "2025-08-18T21:10:18.371454",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Raj is on the bridge.",
+      "text": " Mirage is on the bridge.",
       "part": 1
     }
   ]

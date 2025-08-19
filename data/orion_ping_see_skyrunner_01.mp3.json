@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "orion_ping_see_skyrunner_01",
+  "timestamp": "2025-08-18T19:25:33.929657",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I see Skyrunner.",
+      "part": 1
+    }
+  ]
+}

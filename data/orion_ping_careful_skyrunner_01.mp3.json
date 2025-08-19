@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "orion_ping_careful_skyrunner_01",
+  "timestamp": "2025-08-18T19:25:34.075425",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Careful, Skyrunner.",
+      "part": 1
+    }
+  ]
+}

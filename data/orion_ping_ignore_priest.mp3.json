@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "orion_ping_ignore_priest",
+  "timestamp": "2025-08-18T19:25:26.446256",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " IGNORE VENATOR!",
+      "part": 1
+    }
+  ]
+}

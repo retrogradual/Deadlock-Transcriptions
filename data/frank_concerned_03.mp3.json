@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "frank_concerned_03",
+  "timestamp": "2025-08-18T19:19:45.714126",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " We need a new plan.",
+      "part": 1
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "voiceline_id": "patron_male_ally_chrono_start_03",
-  "timestamp": "2025-03-12T03:40:07.610617",
+  "timestamp": "2025-08-18T21:04:52.099341",
   "segments": [
     {
       "start": 0.0,
@@ -10,7 +10,7 @@
     },
     {
       "start": 4.0,
-      "end": 8.0,
+      "end": 9.0,
       "text": " I look forward to seeing what you claim is your reward for summoning me.",
       "part": 2
     }

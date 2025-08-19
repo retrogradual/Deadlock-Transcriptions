@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bebop_ping_careful_drifter_02",
+  "timestamp": "2025-08-18T19:01:39.120765",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " CAREFUL DRIFTER!",
+      "part": 1
+    }
+  ]
+}

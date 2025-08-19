@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "ghost_ping_saw_priest",
+  "timestamp": "2025-08-18T19:21:16.770782",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I saw the Venator!",
+      "part": 1
+    }
+  ]
+}

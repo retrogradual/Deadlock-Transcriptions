@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "boho_use_power2_01",
+  "timestamp": "2025-08-18T19:04:44.555988",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I'm moving!",
+      "part": 1
+    }
+  ]
+}

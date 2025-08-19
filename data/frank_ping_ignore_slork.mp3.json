@@ -1,11 +1,11 @@
 {
   "voiceline_id": "frank_ping_ignore_slork",
-  "timestamp": "2025-05-11T15:00:36.641753",
+  "timestamp": "2025-08-18T21:10:32.657186",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
-      "text": " Ignore fathom.",
+      "end": 1.0,
+      "text": " Ignore Fathom.",
       "part": 1
     }
   ]

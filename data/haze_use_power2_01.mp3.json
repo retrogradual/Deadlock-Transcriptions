@@ -1,11 +1,11 @@
 {
   "voiceline_id": "haze_use_power2_01",
-  "timestamp": "2025-05-13T18:44:20.557775",
+  "timestamp": "2025-08-18T21:12:21.509156",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Now they see me?",
+      "text": " Now they see me!",
       "part": 1
     }
   ]

@@ -1,11 +1,11 @@
 {
   "voiceline_id": "frank_ping_lets_go_blue",
-  "timestamp": "2025-05-13T16:28:16.068514",
+  "timestamp": "2025-08-18T21:11:25.519161",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Let's go blue!",
+      "text": " Let's go blue.",
       "part": 1
     }
   ]

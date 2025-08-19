@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_concerned_02",
+  "timestamp": "2025-08-18T19:11:55.670610",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I'm not sure I like this.",
+      "part": 1
+    }
+  ]
+}

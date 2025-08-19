@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ping_careful_mirage_02",
-  "timestamp": "2025-05-11T14:59:32.743743",
+  "timestamp": "2025-08-18T21:07:28.060112",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Careful, Mirage!",
+      "text": " Careful Mirage.",
       "part": 1
     }
   ]

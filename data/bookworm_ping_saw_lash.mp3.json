@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ping_saw_lash",
-  "timestamp": "2025-05-11T14:59:30.588308",
+  "timestamp": "2025-08-18T21:07:23.475598",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " I saw a lash!",
+      "text": " I saw Lash.",
       "part": 1
     }
   ]

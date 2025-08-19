@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_ping_vampirebat_almost_respawn",
+  "timestamp": "2025-08-18T19:10:37.511597",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Mina is almost back.",
+      "part": 1
+    }
+  ]
+}

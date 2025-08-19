@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_concerned_01",
+  "timestamp": "2025-08-18T19:32:41.013803",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " This isn't going how I planned.",
+      "part": 1
+    }
+  ]
+}

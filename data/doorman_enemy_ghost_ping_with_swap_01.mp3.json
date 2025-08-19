@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_enemy_ghost_ping_with_swap_01",
+  "timestamp": "2025-08-18T19:08:22.740387",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Stay away from Lady Geist!",
+      "part": 1
+    }
+  ]
+}

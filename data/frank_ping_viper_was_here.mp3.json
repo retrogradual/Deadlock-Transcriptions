@@ -1,11 +1,11 @@
 {
   "voiceline_id": "frank_ping_viper_was_here",
-  "timestamp": "2025-05-13T16:29:15.992192",
+  "timestamp": "2025-08-18T21:10:49.819343",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Viper was here.",
+      "text": " Vyper was here.",
       "part": 1
     }
   ]

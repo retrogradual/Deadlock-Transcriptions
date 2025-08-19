@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "orion_ping_doorman_was_here",
+  "timestamp": "2025-08-18T19:25:07.901937",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": " Doorman was here.",
+      "part": 1
+    }
+  ]
+}

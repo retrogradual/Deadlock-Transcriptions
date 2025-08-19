@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_leave_base_04",
+  "timestamp": "2025-08-18T19:32:21.172091",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "text": " This is the beginning of the end.",
+      "part": 1
+    }
+  ]
+}

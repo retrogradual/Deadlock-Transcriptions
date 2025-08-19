@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bebop_ping_stun_punkgoat_01",
+  "timestamp": "2025-08-18T19:02:06.213999",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " STUN BILLY!",
+      "part": 1
+    }
+  ]
+}

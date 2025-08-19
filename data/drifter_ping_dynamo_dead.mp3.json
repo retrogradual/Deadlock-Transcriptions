@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "drifter_ping_dynamo_dead",
+  "timestamp": "2025-08-18T19:13:32.905651",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " DYNAMO IS DEAD!",
+      "part": 1
+    }
+  ]
+}

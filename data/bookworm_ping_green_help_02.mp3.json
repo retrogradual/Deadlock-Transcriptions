@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ping_green_help_02",
-  "timestamp": "2025-05-13T16:22:11.281262",
+  "timestamp": "2025-08-18T21:08:41.021394",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Greenwich needs help!",
+      "text": " Greenwich needs help.",
       "part": 1
     }
   ]

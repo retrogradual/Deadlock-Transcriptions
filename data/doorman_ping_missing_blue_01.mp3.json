@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_ping_missing_blue_01",
+  "timestamp": "2025-08-18T19:12:33.889794",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": " MISSINGBLUE",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "punkgoat_ally_atlas_unkillable_02",
+  "timestamp": "2025-08-18T19:25:56.571592",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.600000023841858,
+      "text": " You can't stop Abrams!",
+      "part": 1
+    }
+  ]
+}

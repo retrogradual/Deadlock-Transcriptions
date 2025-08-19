@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "ghost_ping_post_game_02",
+  "timestamp": "2025-08-18T19:21:47.475406",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.2799999713897705,
+      "text": " Yes, you are the help, but you are solid help.",
+      "part": 1
+    }
+  ]
+}

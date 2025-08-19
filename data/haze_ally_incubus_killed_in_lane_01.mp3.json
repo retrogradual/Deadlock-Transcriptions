@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "haze_ally_incubus_killed_in_lane_01",
+  "timestamp": "2025-08-18T19:22:04.440821",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " They took out the Incubus!",
+      "part": 1
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ping_stun_lash_01",
-  "timestamp": "2025-05-11T14:59:30.417783",
+  "timestamp": "2025-08-18T21:07:21.837595",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
-      "text": " Stunlash!",
+      "end": 1.0,
+      "text": " Stun Lash",
       "part": 1
     }
   ]

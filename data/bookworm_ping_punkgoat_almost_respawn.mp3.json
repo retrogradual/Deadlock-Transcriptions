@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bookworm_ping_punkgoat_almost_respawn",
+  "timestamp": "2025-08-18T19:06:08.041190",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Ghibli is almost back!",
+      "part": 1
+    }
+  ]
+}

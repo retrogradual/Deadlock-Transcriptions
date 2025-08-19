@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bookworm_happy_03",
+  "timestamp": "2025-08-18T19:06:53.334603",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " We did it!",
+      "part": 1
+    }
+  ]
+}

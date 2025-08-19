@@ -1,10 +1,10 @@
 {
   "voiceline_id": "patron_male_ally_viscous_start_04",
-  "timestamp": "2025-03-12T12:27:55.315737",
+  "timestamp": "2025-08-18T21:05:37.060323",
   "segments": [
     {
       "start": 0.0,
-      "end": 8.239999771118164,
+      "end": 7.400000095367432,
       "text": " New York can be an unwelcoming place, but once you complete the ritual, you will be able to navigate it with ease.",
       "part": 1
     }

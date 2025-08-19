@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "hornet_ping_drifter_dead",
+  "timestamp": "2025-08-18T19:22:42.902414",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " The Drifter is dead.",
+      "part": 1
+    }
+  ]
+}

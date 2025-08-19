@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "orion_ping_saw_vampirebat",
+  "timestamp": "2025-08-18T19:25:40.006546",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I saw Amina!",
+      "part": 1
+    }
+  ]
+}

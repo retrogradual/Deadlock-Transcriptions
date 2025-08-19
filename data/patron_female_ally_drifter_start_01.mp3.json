@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "patron_female_ally_drifter_start_01",
+  "timestamp": "2025-08-18T19:00:20.862757",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.0,
+      "text": " Enjoy yourself, Drifter. Rend their flesh and complete the ritual.",
+      "part": 1
+    }
+  ]
+}

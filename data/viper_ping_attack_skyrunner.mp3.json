@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "viper_ping_attack_skyrunner",
+  "timestamp": "2025-08-18T19:33:32.349081",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.600000023841858,
+      "text": " Let's take out Skyrunner.",
+      "part": 1
+    }
+  ]
+}

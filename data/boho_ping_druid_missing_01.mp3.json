@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "boho_ping_druid_missing_01",
+  "timestamp": "2025-08-18T19:02:49.798072",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": " The Druid's missing.",
+      "part": 1
+    }
+  ]
+}

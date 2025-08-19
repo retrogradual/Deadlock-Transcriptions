@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ping_careful_magician_03",
-  "timestamp": "2025-05-11T14:59:31.221171",
+  "timestamp": "2025-08-18T21:07:24.892461",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Careful Sinclair!",
+      "text": " Careful, Sinclair!",
       "part": 1
     }
   ]

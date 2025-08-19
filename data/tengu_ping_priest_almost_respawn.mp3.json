@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "tengu_ping_priest_almost_respawn",
+  "timestamp": "2025-08-18T19:30:27.023157",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Benetor is almost back!",
+      "part": 1
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 {
   "voiceline_id": "haze_ping_kelvin_check_items",
-  "timestamp": "2025-05-13T16:34:38.380721",
+  "timestamp": "2025-08-18T21:12:03.715615",
   "segments": [
     {
       "start": 0.0,
-      "end": 1.600000023841858,
-      "text": " Check out the Kelvin bot.",
+      "end": 2.0,
+      "text": " Check out what Kelvin bought!",
       "part": 1
     }
   ]

@@ -1,11 +1,11 @@
 {
   "voiceline_id": "haze_use_power2_09",
-  "timestamp": "2025-05-13T18:44:21.866081",
+  "timestamp": "2025-08-18T21:12:23.217741",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
-      "text": " I'd go where I wish.",
+      "end": 1.7999999523162842,
+      "text": " I go where I wish.",
       "part": 1
     }
   ]

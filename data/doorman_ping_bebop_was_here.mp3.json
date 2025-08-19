@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_ping_bebop_was_here",
+  "timestamp": "2025-08-18T19:07:38.637561",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.2799999713897705,
+      "text": " Bebop was here.",
+      "part": 1
+    }
+  ]
+}

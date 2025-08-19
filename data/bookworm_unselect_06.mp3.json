@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bookworm_unselect_06",
+  "timestamp": "2025-08-18T19:06:26.519427",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I'm not a hero, I'm sorry.",
+      "part": 1
+    }
+  ]
+}

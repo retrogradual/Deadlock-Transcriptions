@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_ping_astro_check_items",
+  "timestamp": "2025-08-18T19:07:21.457046",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.5199999809265137,
+      "text": " Check out what Holliday bought!",
+      "part": 1
+    }
+  ]
+}

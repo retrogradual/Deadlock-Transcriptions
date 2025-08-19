@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "boho_ping_ignore_orion",
+  "timestamp": "2025-08-18T19:03:50.860515",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Ignore Grey Talon.",
+      "part": 1
+    }
+  ]
+}

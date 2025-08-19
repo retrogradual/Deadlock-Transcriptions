@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "drifter_ping_see_graf_01",
+  "timestamp": "2025-08-18T19:14:03.630223",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I see Grath.",
+      "part": 1
+    }
+  ]
+}

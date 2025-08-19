@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "kelvin_ping_ignore_drifter",
+  "timestamp": "2025-08-18T19:23:58.510528",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Ignore the Drifter.",
+      "part": 1
+    }
+  ]
+}

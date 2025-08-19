@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "boho_ping_careful_bookworm_01",
+  "timestamp": "2025-08-18T19:02:40.673837",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Careful, Bookworm.",
+      "part": 1
+    }
+  ]
+}

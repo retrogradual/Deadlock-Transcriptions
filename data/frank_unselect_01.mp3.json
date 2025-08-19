@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "frank_unselect_01",
+  "timestamp": "2025-08-18T19:19:18.736599",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I'm not ready to face my past.",
+      "part": 1
+    }
+  ]
+}

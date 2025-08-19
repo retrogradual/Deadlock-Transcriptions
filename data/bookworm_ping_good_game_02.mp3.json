@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ping_good_game_02",
-  "timestamp": "2025-05-13T16:22:09.748674",
+  "timestamp": "2025-08-18T21:08:32.941796",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " You boys put up a fight!",
+      "text": " I'll remember that one.",
       "part": 1
     }
   ]

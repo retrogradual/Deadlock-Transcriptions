@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_ally_shiv_multikill_02",
+  "timestamp": "2025-08-18T19:10:04.356581",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " He cut them all down.",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_unselect_09",
+  "timestamp": "2025-08-18T19:11:19.967541",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.799999952316284,
+      "text": " I don't feel the need to insert myself in the Patron's little spat.",
+      "part": 1
+    }
+  ]
+}

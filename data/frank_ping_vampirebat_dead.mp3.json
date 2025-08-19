@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "frank_ping_vampirebat_dead",
+  "timestamp": "2025-08-18T19:19:07.416913",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Meena is dead.",
+      "part": 1
+    }
+  ]
+}

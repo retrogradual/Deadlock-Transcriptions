@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ping_headed_green_02",
-  "timestamp": "2025-05-13T16:22:14.549018",
+  "timestamp": "2025-08-18T21:08:44.749947",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Headed to Greenwich!",
+      "text": " Headed to Greenwich.",
       "part": 1
     }
   ]

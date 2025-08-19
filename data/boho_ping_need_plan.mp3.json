@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "boho_ping_need_plan",
+  "timestamp": "2025-08-18T19:04:55.790555",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " What's the plan?",
+      "part": 1
+    }
+  ]
+}

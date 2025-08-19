@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "viper_ping_drifter_dead",
+  "timestamp": "2025-08-18T19:33:11.002689",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " DRIFTERS DAY!",
+      "part": 1
+    }
+  ]
+}

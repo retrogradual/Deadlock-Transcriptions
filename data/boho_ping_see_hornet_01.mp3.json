@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "boho_ping_see_hornet_01",
+  "timestamp": "2025-08-18T19:03:16.960048",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I see Vindicta!",
+      "part": 1
+    }
+  ]
+}

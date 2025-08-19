@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ping_see_incubus_01",
-  "timestamp": "2025-05-13T16:21:32.757011",
+  "timestamp": "2025-08-18T21:07:08.792465",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Receive the Incubus!",
+      "text": " I see the Incubus.",
       "part": 1
     }
   ]

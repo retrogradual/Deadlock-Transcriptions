@@ -1,11 +1,11 @@
 {
   "voiceline_id": "frank_ping_see_kelvin_on_roof",
-  "timestamp": "2025-05-13T16:28:46.164493",
+  "timestamp": "2025-08-18T21:10:00.743746",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
-      "text": " Kelvyn's on the roof.",
+      "end": 1.2000000476837158,
+      "text": " Kelvin's on the Roof.",
       "part": 1
     }
   ]

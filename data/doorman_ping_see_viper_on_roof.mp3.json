@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_ping_see_viper_on_roof",
+  "timestamp": "2025-08-18T19:10:42.056680",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Vipers on the Roof.",
+      "part": 1
+    }
+  ]
+}

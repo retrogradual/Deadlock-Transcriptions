@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "boho_ping_inferno_almost_respawn",
+  "timestamp": "2025-08-18T19:03:20.059141",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Infernus is almost back.",
+      "part": 1
+    }
+  ]
+}

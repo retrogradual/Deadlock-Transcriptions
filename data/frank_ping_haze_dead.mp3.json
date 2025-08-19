@@ -1,11 +1,11 @@
 {
   "voiceline_id": "frank_ping_haze_dead",
-  "timestamp": "2025-05-13T16:27:58.355515",
+  "timestamp": "2025-08-18T21:09:44.465536",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " H.A.S.E. is dead.",
+      "text": " Haze is dead.",
       "part": 1
     }
   ]

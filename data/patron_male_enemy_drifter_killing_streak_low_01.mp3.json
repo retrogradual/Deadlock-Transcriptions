@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "patron_male_enemy_drifter_killing_streak_low_01",
+  "timestamp": "2025-08-18T19:00:47.846848",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": " The Drifter comes for us. Stop him before he grows in power!",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "frank_ping_doorman_dead",
+  "timestamp": "2025-08-18T19:18:00.523930",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.9599999785423279,
+      "text": " Dormin is dead.",
+      "part": 1
+    }
+  ]
+}

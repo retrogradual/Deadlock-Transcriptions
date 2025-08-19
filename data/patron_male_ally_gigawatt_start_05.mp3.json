@@ -1,10 +1,10 @@
 {
   "voiceline_id": "patron_male_ally_gigawatt_start_05",
-  "timestamp": "2025-03-12T03:35:07.053266",
+  "timestamp": "2025-08-18T21:05:03.111122",
   "segments": [
     {
       "start": 0.0,
-      "end": 7.5,
+      "end": 7.0,
       "text": " All your decisions have led you to this moment, Seven, and now it's time to reap the reward you cultivated.",
       "part": 1
     }

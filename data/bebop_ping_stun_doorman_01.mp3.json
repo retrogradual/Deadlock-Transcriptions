@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bebop_ping_stun_doorman_01",
+  "timestamp": "2025-08-18T19:01:33.672413",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Stun Doman!",
+      "part": 1
+    }
+  ]
+}

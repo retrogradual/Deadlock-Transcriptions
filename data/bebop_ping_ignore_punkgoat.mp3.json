@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bebop_ping_ignore_punkgoat",
+  "timestamp": "2025-08-18T19:02:05.652031",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " IGNORE BILLY!",
+      "part": 1
+    }
+  ]
+}

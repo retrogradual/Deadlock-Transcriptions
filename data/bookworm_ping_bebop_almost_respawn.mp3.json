@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ping_bebop_almost_respawn",
-  "timestamp": "2025-05-13T16:21:44.878464",
+  "timestamp": "2025-08-18T21:06:28.775762",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Bebop is almost back!",
+      "text": " Bebop is almost back.",
       "part": 1
     }
   ]

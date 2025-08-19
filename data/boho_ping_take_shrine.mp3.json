@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "boho_ping_take_shrine",
+  "timestamp": "2025-08-18T19:05:00.398485",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " It's time to end this.",
+      "part": 1
+    }
+  ]
+}

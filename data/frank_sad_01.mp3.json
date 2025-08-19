@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "frank_sad_01",
+  "timestamp": "2025-08-18T19:19:50.228274",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.1600000858306885,
+      "text": " The truth is still out there.",
+      "part": 1
+    },
+    {
+      "start": 2.1600000858306885,
+      "end": 2.8399999141693115,
+      "text": " I know it.",
+      "part": 2
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ping_forge_in_mid",
-  "timestamp": "2025-05-13T16:22:01.072355",
+  "timestamp": "2025-08-18T21:06:43.622870",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " McGinnis is in mid!",
+      "text": " McGinnis is in Mid.",
       "part": 1
     }
   ]

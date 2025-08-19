@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "drifter_ping_stay_together",
+  "timestamp": "2025-08-18T19:17:19.795215",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " STAY TOGETHER",
+      "part": 1
+    }
+  ]
+}

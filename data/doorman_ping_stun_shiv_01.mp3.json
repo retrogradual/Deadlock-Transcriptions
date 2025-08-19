@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_ping_stun_shiv_01",
+  "timestamp": "2025-08-18T19:10:07.665615",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.1200000047683716,
+      "text": " Stun Shiv",
+      "part": 1
+    }
+  ]
+}

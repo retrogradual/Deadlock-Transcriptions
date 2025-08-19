@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_ping_attack_skyrunner",
+  "timestamp": "2025-08-18T19:10:11.701528",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Let's take out Skyrunner.",
+      "part": 1
+    }
+  ]
+}

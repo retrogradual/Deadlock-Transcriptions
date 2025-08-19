@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ping_can_heal_tengu",
-  "timestamp": "2025-05-11T14:59:40.398077",
+  "timestamp": "2025-08-18T21:07:55.448053",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Ivy, I can heal you!",
+      "text": " Ivy, I can heal you.",
       "part": 1
     }
   ]

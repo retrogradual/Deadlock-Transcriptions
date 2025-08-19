@@ -1,17 +1,17 @@
 {
   "voiceline_id": "patron_male_ally_tengu_start_02",
-  "timestamp": "2025-03-12T04:02:16.232020",
+  "timestamp": "2025-08-18T21:05:33.566024",
   "segments": [
     {
       "start": 0.0,
-      "end": 3.7200000286102295,
+      "end": 3.5,
       "text": " To the people of Spanish Harlem, you were a beacon of hope.",
       "part": 1
     },
     {
-      "start": 3.7200000286102295,
-      "end": 6.639999866485596,
-      "text": " Now you must inspire your allies.",
+      "start": 3.5,
+      "end": 6.5,
+      "text": " Now, you must inspire your allies.",
       "part": 2
     }
   ]

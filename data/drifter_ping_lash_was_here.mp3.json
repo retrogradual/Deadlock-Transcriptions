@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "drifter_ping_lash_was_here",
+  "timestamp": "2025-08-18T19:14:40.365100",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Lash was here.",
+      "part": 1
+    }
+  ]
+}

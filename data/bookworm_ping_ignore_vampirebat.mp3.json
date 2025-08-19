@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bookworm_ping_ignore_vampirebat",
+  "timestamp": "2025-08-18T19:06:16.092306",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": " Ignore Mina.",
+      "part": 1
+    }
+  ]
+}

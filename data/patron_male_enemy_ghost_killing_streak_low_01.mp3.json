@@ -1,10 +1,10 @@
 {
   "voiceline_id": "patron_male_enemy_ghost_killing_streak_low_01",
-  "timestamp": "2025-03-12T03:04:07.713815",
+  "timestamp": "2025-08-18T21:04:59.070091",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.559999942779541,
+      "end": 2.640000104904175,
       "text": " Lady Geist can't remain unchecked.",
       "part": 1
     }

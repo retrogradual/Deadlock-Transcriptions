@@ -1,11 +1,11 @@
 {
   "voiceline_id": "frank_ping_careful_vampirebat_01",
-  "timestamp": "2025-05-11T15:00:40.041752",
+  "timestamp": "2025-08-18T21:10:46.141278",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Careful Vampire.",
+      "text": " Be careful, Mina.",
       "part": 1
     }
   ]

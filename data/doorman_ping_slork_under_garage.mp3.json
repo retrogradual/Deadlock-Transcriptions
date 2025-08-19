@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_ping_slork_under_garage",
+  "timestamp": "2025-08-18T19:10:15.579425",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " FATHOMS UNDER THE GARAGE",
+      "part": 1
+    }
+  ]
+}

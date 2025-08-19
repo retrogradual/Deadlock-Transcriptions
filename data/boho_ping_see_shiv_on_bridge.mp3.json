@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "boho_ping_see_shiv_on_bridge",
+  "timestamp": "2025-08-18T19:03:59.046960",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Shiv's on the bridge!",
+      "part": 1
+    }
+  ]
+}

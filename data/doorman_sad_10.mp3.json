@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_sad_10",
+  "timestamp": "2025-08-18T19:12:01.458987",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": " If they think they weakened my resolve, they're fooling themselves.",
+      "part": 1
+    }
+  ]
+}

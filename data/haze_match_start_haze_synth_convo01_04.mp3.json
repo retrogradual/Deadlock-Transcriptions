@@ -1,0 +1,26 @@
+{
+  "file": "haze_match_start_haze_synth_convo01_04.mp3",
+  "text": "I'm the Sandman, not a curator. I'm not expected to recognize what you're holding, and I can't report what I don't know. Now, what were you about to tell me?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.7200000286102295,
+      "text": "I'm the Sandman, not a curator."
+    },
+    {
+      "start": 2.7200000286102295,
+      "end": 5.199999809265137,
+      "text": "I'm not expected to recognize what you're holding,"
+    },
+    {
+      "start": 5.199999809265137,
+      "end": 7.400000095367432,
+      "text": "and I can't report what I don't know."
+    },
+    {
+      "start": 7.400000095367432,
+      "end": 9.739999771118164,
+      "text": "Now, what were you about to tell me?"
+    }
+  ]
+}

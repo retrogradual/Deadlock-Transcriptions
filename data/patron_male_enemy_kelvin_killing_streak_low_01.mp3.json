@@ -1,11 +1,11 @@
 {
   "voiceline_id": "patron_male_enemy_kelvin_killing_streak_low_01",
-  "timestamp": "2025-03-12T03:44:03.308489",
+  "timestamp": "2025-08-18T21:05:13.234794",
   "segments": [
     {
       "start": 0.0,
       "end": 3.0,
-      "text": " Bury Kelvin with the rest of his expedition.",
+      "text": " Bury Kelvin with the rest of his expedition!",
       "part": 1
     }
   ]

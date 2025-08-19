@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "boho_ping_careful_incubus_01",
+  "timestamp": "2025-08-18T19:03:17.777533",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Careful, Incubus.",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_enemy_astro_bounce_escape_01",
+  "timestamp": "2025-08-18T19:07:18.948875",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Run while you can, Holliday!",
+      "part": 1
+    }
+  ]
+}

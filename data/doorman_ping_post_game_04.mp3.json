@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_ping_post_game_04",
+  "timestamp": "2025-08-18T19:11:22.307440",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.159999847412109,
+      "text": " Should you have further need of my services, you know where to find me.",
+      "part": 1
+    }
+  ]
+}

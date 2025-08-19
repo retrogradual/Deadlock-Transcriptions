@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ping_saw_viper",
-  "timestamp": "2025-05-11T14:59:42.465702",
+  "timestamp": "2025-08-18T21:08:00.893242",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " I saw a viper!",
+      "text": " I saw Vyper.",
       "part": 1
     }
   ]

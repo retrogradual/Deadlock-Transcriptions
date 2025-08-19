@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_ping_careful_swan_01",
+  "timestamp": "2025-08-18T19:10:17.508619",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Be careful, Swan.",
+      "part": 1
+    }
+  ]
+}

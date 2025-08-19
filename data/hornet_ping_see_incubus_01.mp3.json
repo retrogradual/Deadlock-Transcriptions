@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "hornet_ping_see_incubus_01",
+  "timestamp": "2025-08-18T19:22:58.629557",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I see the Incubus!",
+      "part": 1
+    }
+  ]
+}

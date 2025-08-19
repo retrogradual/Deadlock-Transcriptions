@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_ping_post_game_01",
+  "timestamp": "2025-08-18T19:32:17.072228",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Like there was ever any doubt.",
+      "part": 1
+    }
+  ]
+}

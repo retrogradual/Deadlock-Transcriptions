@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "punkgoat_ping_magician_was_here",
+  "timestamp": "2025-08-18T19:27:34.421894",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Sinclair was here!",
+      "part": 1
+    }
+  ]
+}

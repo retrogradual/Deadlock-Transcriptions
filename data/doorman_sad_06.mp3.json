@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_sad_06",
+  "timestamp": "2025-08-18T19:12:00.232332",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " The Patrons will have to wait.",
+      "part": 1
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 {
   "voiceline_id": "frank_ping_wait",
-  "timestamp": "2025-05-13T16:29:18.756364",
+  "timestamp": "2025-08-18T21:11:35.182965",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Hold up!",
+      "text": " Hold up.",
       "part": 1
     }
   ]

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bebop_ping_drifter_check_items",
+  "timestamp": "2025-08-18T19:01:40.143847",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Check out what drifts the board!",
+      "part": 1
+    }
+  ]
+}

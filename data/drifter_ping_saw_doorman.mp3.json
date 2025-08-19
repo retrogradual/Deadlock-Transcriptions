@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "drifter_ping_saw_doorman",
+  "timestamp": "2025-08-18T19:13:27.243807",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Assault a Doorman!",
+      "part": 1
+    }
+  ]
+}

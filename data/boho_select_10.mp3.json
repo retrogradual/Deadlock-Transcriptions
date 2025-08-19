@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "boho_select_10",
+  "timestamp": "2025-08-18T19:04:42.641482",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.239999771118164,
+      "text": " Fun Fact! Some of my lines were transcribed by a 5th grader in the back of a moving car.",
+      "part": 1
+    },
+    {
+      "start": 5.239999771118164,
+      "end": 7.639999866485596,
+      "text": " Buckle up and get ready for excitement!",
+      "part": 2
+    }
+  ]
+}

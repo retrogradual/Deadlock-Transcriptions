@@ -1,10 +1,10 @@
 {
   "voiceline_id": "patron_male_enemy_warden_killing_streak_medium_01",
-  "timestamp": "2025-03-12T04:07:54.894182",
+  "timestamp": "2025-08-18T21:05:38.928946",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.640000104904175,
+      "end": 2.0,
       "text": " Warden needs to be brought low.",
       "part": 1
     }

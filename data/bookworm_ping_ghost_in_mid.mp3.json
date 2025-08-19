@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ping_ghost_in_mid",
-  "timestamp": "2025-05-13T16:22:05.645200",
+  "timestamp": "2025-08-18T21:06:53.236333",
   "segments": [
     {
       "start": 0.0,
-      "end": 1.2999999523162842,
-      "text": " Geist zun Mid!",
+      "end": 2.0,
+      "text": " Geist is in mid.",
       "part": 1
     }
   ]

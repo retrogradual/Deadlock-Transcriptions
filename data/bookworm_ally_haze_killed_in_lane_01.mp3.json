@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ally_haze_killed_in_lane_01",
-  "timestamp": "2025-05-11T14:59:22.597266",
+  "timestamp": "2025-08-18T21:06:59.395801",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " THEY TOOK OUT HAYES!",
+      "text": " They took out Haze!",
       "part": 1
     }
   ]

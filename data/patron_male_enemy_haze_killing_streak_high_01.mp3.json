@@ -1,11 +1,11 @@
 {
   "voiceline_id": "patron_male_enemy_haze_killing_streak_high_01",
-  "timestamp": "2025-03-12T12:47:32.645390",
+  "timestamp": "2025-08-18T21:05:05.194823",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
-      "text": " We can still kill the Sandman!",
+      "end": 2.5,
+      "text": " We can still kill the Sandman.",
       "part": 1
     }
   ]

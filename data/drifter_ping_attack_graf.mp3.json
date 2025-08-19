@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "drifter_ping_attack_graf",
+  "timestamp": "2025-08-18T19:14:02.829419",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Let's take our graph.",
+      "part": 1
+    }
+  ]
+}

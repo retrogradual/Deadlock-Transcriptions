@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "patron_male_ally_viper_start_03",
+  "timestamp": "2025-08-18T19:01:06.278297",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.5,
+      "text": " Your whole life you've been painted as a failure, but you and I both know you've always been destined for so much more.",
+      "part": 1
+    },
+    {
+      "start": 7.5,
+      "end": 12.5,
+      "text": " It's time to realize your dreams. It's time to complete the ritual.",
+      "part": 2
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "tengu_ping_succubus_missing_01",
+  "timestamp": "2025-08-18T19:30:43.756735",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " The Succubus is missing!",
+      "part": 1
+    }
+  ]
+}

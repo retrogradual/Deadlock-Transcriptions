@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ping_stun_astro_01",
-  "timestamp": "2025-05-11T14:59:11.440817",
+  "timestamp": "2025-08-18T21:06:22.820722",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " STUN HOLIDAY!",
+      "text": " Stun Holliday.",
       "part": 1
     }
   ]

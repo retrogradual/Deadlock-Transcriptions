@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "punkgoat_melee_kill_05",
+  "timestamp": "2025-08-18T19:29:16.769930",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " YOU ASKED FOR THIS FIGHT, BUDDY!",
+      "part": 1
+    }
+  ]
+}

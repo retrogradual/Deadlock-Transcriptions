@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bebop_ping_vampirebat_dead",
+  "timestamp": "2025-08-18T19:02:19.853952",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Vayner is dead.",
+      "part": 1
+    }
+  ]
+}

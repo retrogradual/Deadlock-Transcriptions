@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "kelvin_ping_doorman_check_items",
+  "timestamp": "2025-08-18T19:23:54.025679",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Check out what the doorman bought!",
+      "part": 1
+    }
+  ]
+}

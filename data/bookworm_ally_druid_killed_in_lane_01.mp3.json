@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ally_druid_killed_in_lane_01",
-  "timestamp": "2025-05-13T16:21:30.147216",
+  "timestamp": "2025-08-18T21:06:37.780304",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " They took out the druid!",
+      "text": " They took out the Druid!",
       "part": 1
     }
   ]

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "drifter_ping_ignore_doorman",
+  "timestamp": "2025-08-18T19:13:24.550454",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Ignore the Dolmen!",
+      "part": 1
+    }
+  ]
+}

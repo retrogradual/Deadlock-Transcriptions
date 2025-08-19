@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "frank_ally_shiv_unkillable_01",
+  "timestamp": "2025-08-18T19:18:56.656538",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " They don't have what it takes to kill Shiv.",
+      "part": 1
+    }
+  ]
+}

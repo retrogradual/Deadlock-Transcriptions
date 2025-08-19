@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "kelvin_ping_drifter_was_here",
+  "timestamp": "2025-08-18T19:24:00.310752",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Driftor was here!",
+      "part": 1
+    }
+  ]
+}

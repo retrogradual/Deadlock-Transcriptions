@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "frank_sad_02",
+  "timestamp": "2025-08-18T19:19:49.981264",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " This won't deter me.",
+      "part": 1
+    }
+  ]
+}

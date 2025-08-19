@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_ally_atlas_unkillable_02",
+  "timestamp": "2025-08-18T19:07:26.073567",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " The Ixian fights with fervor!",
+      "part": 1
+    }
+  ]
+}

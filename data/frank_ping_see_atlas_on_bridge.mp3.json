@@ -1,11 +1,11 @@
 {
   "voiceline_id": "frank_ping_see_atlas_on_bridge",
-  "timestamp": "2025-05-13T16:28:39.094131",
+  "timestamp": "2025-08-18T21:09:12.792205",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Abram's on the bridge.",
+      "text": " Abrams on the bridge.",
       "part": 1
     }
   ]

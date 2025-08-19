@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_enemy_chrono_kill_post_swap_03",
+  "timestamp": "2025-08-18T19:07:48.596855",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.200000047683716,
+      "text": " You made a grave mistake, Paradox.",
+      "part": 1
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 {
   "voiceline_id": "haze_ping_attack_synth",
-  "timestamp": "2025-05-11T15:03:05.111703",
+  "timestamp": "2025-08-18T21:12:12.047503",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Let's take out pocket.",
+      "text": " Let's take out Pocket.",
       "part": 1
     }
   ]

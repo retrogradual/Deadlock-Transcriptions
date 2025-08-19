@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ping_hornet_was_here",
-  "timestamp": "2025-05-13T16:22:18.844149",
+  "timestamp": "2025-08-18T21:07:06.373720",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Vindicta was here!",
+      "text": " Vindicta was here.",
       "part": 1
     }
   ]

@@ -1,11 +1,11 @@
 {
   "voiceline_id": "haze_ping_ghost_almost_respawn",
-  "timestamp": "2025-05-13T16:34:09.436275",
+  "timestamp": "2025-08-18T21:11:56.779259",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " G.I.S.T. is almost back!",
+      "text": " Geist is almost back!",
       "part": 1
     }
   ]

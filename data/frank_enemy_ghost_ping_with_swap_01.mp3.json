@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "frank_enemy_ghost_ping_with_swap_01",
+  "timestamp": "2025-08-18T19:18:15.158497",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Don't get too close to Geist.",
+      "part": 1
+    }
+  ]
+}

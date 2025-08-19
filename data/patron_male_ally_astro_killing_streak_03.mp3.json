@@ -1,10 +1,10 @@
 {
   "voiceline_id": "patron_male_ally_astro_killing_streak_03",
-  "timestamp": "2025-03-12T12:47:54.668608",
+  "timestamp": "2025-08-18T21:04:43.229225",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.5999999046325684,
+      "end": 2.799999952316284,
       "text": " The Sheriff is taking no prisoners.",
       "part": 1
     }

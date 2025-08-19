@@ -1,11 +1,11 @@
 {
   "voiceline_id": "haze_ping_ignore_dynamo",
-  "timestamp": "2025-05-11T15:02:32.165518",
+  "timestamp": "2025-08-18T21:11:54.682649",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Ignore Dynamo.",
+      "text": " Ignore Dynamo!",
       "part": 1
     }
   ]

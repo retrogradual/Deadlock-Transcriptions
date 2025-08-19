@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "drifter_unselect_07",
+  "timestamp": "2025-08-18T19:16:27.235173",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": " Today I plan to sit back and just watch the carnage unfold.",
+      "part": 1
+    }
+  ]
+}

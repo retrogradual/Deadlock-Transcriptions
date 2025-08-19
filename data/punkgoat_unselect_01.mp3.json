@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "punkgoat_unselect_01",
+  "timestamp": "2025-08-18T19:28:43.973259",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": " You think I want to hang out with those jackasses?",
+      "part": 1
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "text": " Pass.",
+      "part": 2
+    }
+  ]
+}

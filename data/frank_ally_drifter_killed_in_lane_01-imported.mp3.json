@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "frank_ally_drifter_killed_in_lane_01-imported",
+  "timestamp": "2025-08-18T19:18:02.417153",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " They took out the Drifter.",
+      "part": 1
+    }
+  ]
+}

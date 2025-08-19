@@ -1,11 +1,11 @@
 {
   "voiceline_id": "frank_ping_wraith_in_mid",
-  "timestamp": "2025-05-13T16:29:22.397359",
+  "timestamp": "2025-08-18T21:11:00.317552",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
-      "text": " RAISIN MID!",
+      "end": 1.0,
+      "text": " Race in Mid.",
       "part": 1
     }
   ]

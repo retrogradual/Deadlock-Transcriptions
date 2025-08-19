@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ping_stun_viper_01",
-  "timestamp": "2025-05-11T14:59:42.713110",
+  "timestamp": "2025-08-18T21:08:00.289847",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
-      "text": " Stun Viper!",
+      "end": 1.0,
+      "text": " Stun Vyper.",
       "part": 1
     }
   ]

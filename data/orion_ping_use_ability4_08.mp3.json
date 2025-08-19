@@ -1,11 +1,11 @@
 {
   "voiceline_id": "orion_ping_use_ability4_08",
-  "timestamp": "2025-05-13T17:04:02.258306",
+  "timestamp": "2025-08-18T21:13:27.845941",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Ready to Launchero!",
+      "text": " Ready to release Rohan!",
       "part": 1
     }
   ]

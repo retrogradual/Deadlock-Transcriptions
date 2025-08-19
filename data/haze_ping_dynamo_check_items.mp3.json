@@ -1,11 +1,11 @@
 {
   "voiceline_id": "haze_ping_dynamo_check_items",
-  "timestamp": "2025-05-13T16:34:00.911062",
+  "timestamp": "2025-08-18T21:11:55.417908",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Check out with DynamoBot!",
+      "text": " Check out what Dynamo bought!",
       "part": 1
     }
   ]

@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ping_with_hornet",
-  "timestamp": "2025-05-11T14:59:25.458421",
+  "timestamp": "2025-08-18T21:07:07.662601",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " I'm with you, Vindicta!",
+      "text": " I'm with you, Vindicta.",
       "part": 1
     }
   ]

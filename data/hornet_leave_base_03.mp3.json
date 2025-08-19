@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "hornet_leave_base_03",
+  "timestamp": "2025-08-18T19:23:32.466767",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "text": " It's time to end this once and for all.",
+      "part": 1
+    }
+  ]
+}

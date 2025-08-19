@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "viper_ping_ignore_frank",
+  "timestamp": "2025-08-18T19:33:16.681766",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Ignore Victor!",
+      "part": 1
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ping_headed_blue_02",
-  "timestamp": "2025-05-13T16:22:14.140431",
+  "timestamp": "2025-08-18T21:08:44.380385",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
-      "text": " Headed to Broadway!",
+      "end": 1.2000000476837158,
+      "text": " Headed to Broadway.",
       "part": 1
     }
   ]

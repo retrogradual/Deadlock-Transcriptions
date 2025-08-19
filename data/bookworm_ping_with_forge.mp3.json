@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ping_with_forge",
-  "timestamp": "2025-05-11T14:59:19.328417",
+  "timestamp": "2025-08-18T21:06:46.249470",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " I'm with you, McGinnis!",
+      "text": " I'm with you, McGinnis.",
       "part": 1
     }
   ]

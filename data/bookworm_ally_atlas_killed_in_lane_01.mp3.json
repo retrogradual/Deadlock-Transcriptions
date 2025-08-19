@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ally_atlas_killed_in_lane_01",
-  "timestamp": "2025-05-11T14:59:11.418654",
+  "timestamp": "2025-08-18T21:06:23.992321",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " THEY TOOK OUT ABRAMS!",
+      "text": " They took out Abrams!",
       "part": 1
     }
   ]

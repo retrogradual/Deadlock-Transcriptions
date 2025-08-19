@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_ally_atlas_unkillable_01",
+  "timestamp": "2025-08-18T19:30:52.336798",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " They can't stop you, Abrams!",
+      "part": 1
+    }
+  ]
+}

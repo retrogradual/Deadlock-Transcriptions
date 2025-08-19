@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "drifter_ping_viscous_dead",
+  "timestamp": "2025-08-18T19:16:03.434996",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Viscous is dead.",
+      "part": 1
+    }
+  ]
+}

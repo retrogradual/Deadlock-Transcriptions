@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ping_viper_check_items",
-  "timestamp": "2025-05-13T16:23:28.751165",
+  "timestamp": "2025-08-18T21:08:03.169821",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
-      "text": " Check out what Viper bought.",
+      "end": 1.3600000143051147,
+      "text": " Check out what Vyper bought.",
       "part": 1
     }
   ]

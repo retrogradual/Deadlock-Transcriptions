@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "boho_ping_mirage_in_mid",
+  "timestamp": "2025-08-18T19:03:42.869162",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Mirage is in Mid.",
+      "part": 1
+    }
+  ]
+}

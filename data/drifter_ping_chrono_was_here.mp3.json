@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "drifter_ping_chrono_was_here",
+  "timestamp": "2025-08-18T19:13:20.516123",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " PARADOX WAS HERE!",
+      "part": 1
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ping_can_heal_mirage",
-  "timestamp": "2025-05-11T14:59:32.113119",
+  "timestamp": "2025-08-18T21:07:28.679856",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Mirage, I can heal you!",
+      "text": " Mirage, I can heal you.",
       "part": 1
     }
   ]

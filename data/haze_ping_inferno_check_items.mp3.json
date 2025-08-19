@@ -1,11 +1,11 @@
 {
   "voiceline_id": "haze_ping_inferno_check_items",
-  "timestamp": "2025-05-13T16:34:33.791009",
+  "timestamp": "2025-08-18T21:12:02.816084",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
-      "text": " Check out what Infernus bought.",
+      "end": 1.840000033378601,
+      "text": " Check out what Infernus bought!",
       "part": 1
     }
   ]

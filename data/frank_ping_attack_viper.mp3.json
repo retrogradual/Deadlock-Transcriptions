@@ -1,11 +1,11 @@
 {
   "voiceline_id": "frank_ping_attack_viper",
-  "timestamp": "2025-05-11T15:00:40.396399",
+  "timestamp": "2025-08-18T21:10:50.022951",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
-      "text": " Let's take out Viper.",
+      "end": 1.2000000476837158,
+      "text": " Let's take out Vyper.",
       "part": 1
     }
   ]

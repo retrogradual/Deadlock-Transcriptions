@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "kelvin_ping_ignore_doorman",
+  "timestamp": "2025-08-18T19:23:53.471859",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " IGNORE THE DOORMAN!",
+      "part": 1
+    }
+  ]
+}

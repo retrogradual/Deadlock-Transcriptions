@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "boho_ping_see_doorman_01",
+  "timestamp": "2025-08-18T19:02:48.176794",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I see the doorman.",
+      "part": 1
+    }
+  ]
+}

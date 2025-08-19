@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_sad_01",
+  "timestamp": "2025-08-18T19:11:59.231058",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " There will be other days.",
+      "part": 1
+    }
+  ]
+}

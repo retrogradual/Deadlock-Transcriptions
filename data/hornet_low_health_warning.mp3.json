@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "hornet_low_health_warning",
+  "timestamp": "2025-08-18T19:23:37.461756",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I need to go heal.",
+      "part": 1
+    }
+  ]
+}

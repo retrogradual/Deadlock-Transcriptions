@@ -1,10 +1,10 @@
 {
   "voiceline_id": "haze_upgrade_power2_06",
-  "timestamp": "2025-05-13T18:44:26.384065",
+  "timestamp": "2025-08-18T21:12:25.516329",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
+      "end": 2.5,
       "text": " There's no place I can't breach.",
       "part": 1
     }

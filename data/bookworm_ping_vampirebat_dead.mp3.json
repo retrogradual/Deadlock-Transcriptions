@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bookworm_ping_vampirebat_dead",
+  "timestamp": "2025-08-18T19:06:18.302432",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Mina is dead.",
+      "part": 1
+    }
+  ]
+}

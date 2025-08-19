@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ping_defend_blue_02",
-  "timestamp": "2025-05-13T16:21:54.550244",
+  "timestamp": "2025-08-18T21:08:37.721898",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " DEFEND BROADWAY!",
+      "text": " Defend Broadway.",
       "part": 1
     }
   ]

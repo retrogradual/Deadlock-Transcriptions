@@ -1,11 +1,11 @@
 {
   "voiceline_id": "frank_ping_stun_haze_01",
-  "timestamp": "2025-05-11T15:00:20.260600",
+  "timestamp": "2025-08-18T21:09:44.382709",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " STUNHAZE",
+      "text": " Stun Haze.",
       "part": 1
     }
   ]

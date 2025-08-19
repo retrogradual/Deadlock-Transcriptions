@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "hornet_ping_tvspirit_missing_01",
+  "timestamp": "2025-08-18T19:23:20.688606",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " The Poltergeist is missing.",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "drifter_ping_stun_tengu_01",
+  "timestamp": "2025-08-18T19:15:40.342015",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " STUN IVY!",
+      "part": 1
+    }
+  ]
+}

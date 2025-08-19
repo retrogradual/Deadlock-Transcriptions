@@ -1,11 +1,11 @@
 {
   "voiceline_id": "frank_ping_with_forge",
-  "timestamp": "2025-05-11T15:00:16.636296",
+  "timestamp": "2025-08-18T21:09:32.688247",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
-      "text": " I'm with you McGinnis.",
+      "end": 1.2000000476837158,
+      "text": " I'm with you, McGinnis.",
       "part": 1
     }
   ]

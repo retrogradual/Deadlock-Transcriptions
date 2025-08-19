@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "boho_ping_see_wraith_on_bridge",
+  "timestamp": "2025-08-18T19:04:33.616146",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Wraith's on the bridge!",
+      "part": 1
+    }
+  ]
+}

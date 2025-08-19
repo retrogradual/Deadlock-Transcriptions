@@ -1,11 +1,11 @@
 {
   "voiceline_id": "orion_ping_use_ability4_01",
-  "timestamp": "2025-05-13T17:03:58.112970",
+  "timestamp": "2025-08-18T21:13:27.730523",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Guided Arrow is ready!",
+      "text": " My owl's ready.",
       "part": 1
     }
   ]

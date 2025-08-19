@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_sad_02",
+  "timestamp": "2025-08-18T19:32:44.686877",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.440000057220459,
+      "text": " It's a smaller step forward than I'd like, but it's still a step.",
+      "part": 1
+    }
+  ]
+}

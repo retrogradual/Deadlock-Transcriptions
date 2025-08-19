@@ -1,11 +1,11 @@
 {
   "voiceline_id": "haze_ping_chrono_dead",
-  "timestamp": "2025-05-13T16:33:51.567127",
+  "timestamp": "2025-08-18T21:11:54.443676",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " The paradox is dead.",
+      "text": " Paradox is dead.",
       "part": 1
     }
   ]

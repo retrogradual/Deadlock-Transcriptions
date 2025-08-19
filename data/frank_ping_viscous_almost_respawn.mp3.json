@@ -1,11 +1,11 @@
 {
   "voiceline_id": "frank_ping_viscous_almost_respawn",
-  "timestamp": "2025-05-13T16:29:16.457377",
+  "timestamp": "2025-08-18T21:10:54.249436",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Whiskas is almost back.",
+      "text": " Viscous is almost back.",
       "part": 1
     }
   ]

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_unselect_06",
+  "timestamp": "2025-08-18T19:11:18.879892",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " When you need me, I'll be ready.",
+      "part": 1
+    }
+  ]
+}

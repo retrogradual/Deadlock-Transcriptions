@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_ping_with_shiv",
+  "timestamp": "2025-08-18T19:10:10.798405",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I'm with you, Shiv.",
+      "part": 1
+    }
+  ]
+}

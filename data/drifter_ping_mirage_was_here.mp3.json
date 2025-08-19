@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "drifter_ping_mirage_was_here",
+  "timestamp": "2025-08-18T19:14:52.676091",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Mirage was here.",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bookworm_interrupt_03",
+  "timestamp": "2025-08-18T19:06:59.246031",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.5,
+      "text": " GOTCHA!",
+      "part": 1
+    }
+  ]
+}

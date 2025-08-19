@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "viper_ping_priest_almost_respawn",
+  "timestamp": "2025-08-18T19:33:24.137375",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Banneter's almost back!",
+      "part": 1
+    }
+  ]
+}

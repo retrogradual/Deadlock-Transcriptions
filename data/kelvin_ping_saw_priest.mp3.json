@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "kelvin_ping_saw_priest",
+  "timestamp": "2025-08-18T19:24:21.555562",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.2799999713897705,
+      "text": " I saw Venator!",
+      "part": 1
+    }
+  ]
+}

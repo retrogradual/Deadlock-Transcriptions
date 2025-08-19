@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "boho_ping_yellow_help_01",
+  "timestamp": "2025-08-18T19:05:03.184270",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Yellow needs help!",
+      "part": 1
+    }
+  ]
+}

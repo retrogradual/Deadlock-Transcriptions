@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bookworm_ping_post_game_06",
+  "timestamp": "2025-08-18T19:06:29.941075",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I couldn't have done it without you.",
+      "part": 1
+    }
+  ]
+}

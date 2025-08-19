@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ping_stun_haze_01",
-  "timestamp": "2025-05-11T14:59:24.108110",
+  "timestamp": "2025-08-18T21:07:01.182192",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " STUN HAYES!",
+      "text": " Stun Haze!",
       "part": 1
     }
   ]

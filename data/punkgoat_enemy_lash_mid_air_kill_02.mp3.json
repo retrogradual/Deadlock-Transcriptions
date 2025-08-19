@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "punkgoat_enemy_lash_mid_air_kill_02",
+  "timestamp": "2025-08-18T19:27:26.340467",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.7599999904632568,
+      "text": " Lash, you ain't got shit on me.",
+      "part": 1
+    }
+  ]
+}

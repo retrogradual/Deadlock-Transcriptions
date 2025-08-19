@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_ping_frank_under_garage",
+  "timestamp": "2025-08-18T19:08:20.618644",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " VICTOR'S UNDER THE GARAGE",
+      "part": 1
+    }
+  ]
+}

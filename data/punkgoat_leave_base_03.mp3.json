@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "punkgoat_leave_base_03",
+  "timestamp": "2025-08-18T19:28:47.891517",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " This show's gone on long enough.",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "viper_ping_saw_priest",
+  "timestamp": "2025-08-18T19:33:26.045387",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I saw Vanator.",
+      "part": 1
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 {
   "voiceline_id": "frank_ping_see_krill_01",
-  "timestamp": "2025-05-11T15:00:26.537073",
+  "timestamp": "2025-08-18T21:10:05.568704",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " I see, Krill.",
+      "text": " I see Krill.",
       "part": 1
     }
   ]

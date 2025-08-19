@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_leave_base_05",
+  "timestamp": "2025-08-18T19:11:27.657721",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Our victory is at hand!",
+      "part": 1
+    }
+  ]
+}

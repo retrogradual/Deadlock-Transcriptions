@@ -1,11 +1,11 @@
 {
   "voiceline_id": "haze_ping_synth_almost_respawn",
-  "timestamp": "2025-05-13T16:35:48.919932",
+  "timestamp": "2025-08-18T21:12:12.041926",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " The pocket is almost back.",
+      "text": " Pocket is almost back!",
       "part": 1
     }
   ]

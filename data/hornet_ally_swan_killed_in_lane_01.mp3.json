@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "hornet_ally_swan_killed_in_lane_01",
+  "timestamp": "2025-08-18T19:23:19.003208",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " They took out Swan.",
+      "part": 1
+    }
+  ]
+}

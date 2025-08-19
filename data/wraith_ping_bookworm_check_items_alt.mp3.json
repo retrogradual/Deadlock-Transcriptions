@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wraith_ping_bookworm_check_items_alt",
+  "timestamp": "2025-08-18T19:33:57.789520",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.440000057220459,
+      "text": " Check out what Paige bought.",
+      "part": 1
+    }
+  ]
+}

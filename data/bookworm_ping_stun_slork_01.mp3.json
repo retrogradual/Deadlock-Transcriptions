@@ -1,10 +1,10 @@
 {
   "voiceline_id": "bookworm_ping_stun_slork_01",
-  "timestamp": "2025-05-11T14:59:38.616314",
+  "timestamp": "2025-08-18T21:07:46.374675",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
+      "end": 1.1200000047683716,
       "text": " Stun Fathom.",
       "part": 1
     }

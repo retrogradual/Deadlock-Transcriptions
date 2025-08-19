@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_angry_03",
+  "timestamp": "2025-08-18T19:32:39.049922",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Ridiculous!",
+      "part": 1
+    }
+  ]
+}

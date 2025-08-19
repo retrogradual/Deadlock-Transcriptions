@@ -1,11 +1,11 @@
 {
   "voiceline_id": "patron_male_enemy_warden_killing_streak_high_01",
-  "timestamp": "2025-03-12T03:44:51.001494",
+  "timestamp": "2025-08-18T21:05:38.213223",
   "segments": [
     {
       "start": 0.0,
-      "end": 3.0,
-      "text": " Stop Warden before he completes the ritual.",
+      "end": 3.200000047683716,
+      "text": " Stop Warden before he completes the ritual!",
       "part": 1
     }
   ]

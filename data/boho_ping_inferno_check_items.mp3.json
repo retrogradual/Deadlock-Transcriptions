@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "boho_ping_inferno_check_items",
+  "timestamp": "2025-08-18T19:03:20.236218",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Check out what Infernus bought.",
+      "part": 1
+    }
+  ]
+}

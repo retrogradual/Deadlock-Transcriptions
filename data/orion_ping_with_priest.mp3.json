@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "orion_ping_with_priest",
+  "timestamp": "2025-08-18T19:25:28.971884",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I'm with you, Venator.",
+      "part": 1
+    }
+  ]
+}

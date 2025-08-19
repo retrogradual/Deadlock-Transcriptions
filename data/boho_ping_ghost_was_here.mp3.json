@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "boho_ping_ghost_was_here",
+  "timestamp": "2025-08-18T19:03:03.537666",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": " Geist was here.",
+      "part": 1
+    }
+  ]
+}

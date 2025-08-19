@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_ping_stun_priest_01",
+  "timestamp": "2025-08-18T19:31:50.274251",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Sudden Broke.",
+      "part": 1
+    }
+  ]
+}

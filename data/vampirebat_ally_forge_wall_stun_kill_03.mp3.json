@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_ally_forge_wall_stun_kill_03",
+  "timestamp": "2025-08-18T19:31:17.405217",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I admit, that was impressive.",
+      "part": 1
+    }
+  ]
+}

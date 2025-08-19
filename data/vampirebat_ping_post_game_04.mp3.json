@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_ping_post_game_04",
+  "timestamp": "2025-08-18T19:32:17.566773",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.4000000953674316,
+      "text": " Hmph, you weren't dead weight after all.",
+      "part": 1
+    }
+  ]
+}

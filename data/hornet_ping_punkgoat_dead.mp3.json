@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "hornet_ping_punkgoat_dead",
+  "timestamp": "2025-08-18T19:23:13.856944",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Billy is dead.",
+      "part": 1
+    }
+  ]
+}

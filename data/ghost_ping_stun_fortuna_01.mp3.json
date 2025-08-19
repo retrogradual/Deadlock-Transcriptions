@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "ghost_ping_stun_fortuna_01",
+  "timestamp": "2025-08-18T19:20:43.522580",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Stun Fortuna.",
+      "part": 1
+    }
+  ]
+}

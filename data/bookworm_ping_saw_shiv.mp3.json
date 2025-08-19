@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ping_saw_shiv",
-  "timestamp": "2025-05-11T14:59:37.166645",
+  "timestamp": "2025-08-18T21:07:41.501021",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
-      "text": " I saw a shiv!",
+      "end": 1.0,
+      "text": " I saw Shiv.",
       "part": 1
     }
   ]

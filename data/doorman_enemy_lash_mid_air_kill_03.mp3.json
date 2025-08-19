@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_enemy_lash_mid_air_kill_03",
+  "timestamp": "2025-08-18T19:09:22.103523",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I'm not impressed.",
+      "part": 1
+    }
+  ]
+}

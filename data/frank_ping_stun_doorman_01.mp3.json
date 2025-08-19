@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "frank_ping_stun_doorman_01",
+  "timestamp": "2025-08-18T19:17:59.952671",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Stun Dorman.",
+      "part": 1
+    }
+  ]
+}

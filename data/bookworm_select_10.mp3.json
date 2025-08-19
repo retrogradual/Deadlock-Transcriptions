@@ -1,18 +1,12 @@
 {
   "voiceline_id": "bookworm_select_10",
-  "timestamp": "2025-05-11T14:59:50.955534",
+  "timestamp": "2025-08-18T21:08:21.177542",
   "segments": [
     {
       "start": 0.0,
-      "end": 5.360000133514404,
-      "text": " Fun fact, some of my lines were transcribed by a 5th grader in the back of a moving car.",
+      "end": 4.0,
+      "text": " There is nothing more rewarding than making stories come to life.",
       "part": 1
-    },
-    {
-      "start": 5.360000133514404,
-      "end": 7.519999980926514,
-      "text": " Buckle up and get ready for excitement!",
-      "part": 2
     }
   ]
 }

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bookworm_leave_base_05",
+  "timestamp": "2025-08-18T19:06:33.677815",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " It's time to summon the patron!",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "patron_female_bespoke_ally_update_drifter",
+  "timestamp": "2025-08-18T19:00:22.911916",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": " Darkness has descended upon New York.",
+      "part": 1
+    }
+  ]
+}

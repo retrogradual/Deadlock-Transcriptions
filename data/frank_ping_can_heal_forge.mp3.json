@@ -1,11 +1,11 @@
 {
   "voiceline_id": "frank_ping_can_heal_forge",
-  "timestamp": "2025-05-11T15:00:15.402769",
+  "timestamp": "2025-08-18T21:09:30.418685",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Beginis, I can heal you.",
+      "text": " McGinnis, I can heal you.",
       "part": 1
     }
   ]

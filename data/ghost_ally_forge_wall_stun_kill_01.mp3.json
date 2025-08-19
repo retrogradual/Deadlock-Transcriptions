@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "ghost_ally_forge_wall_stun_kill_01",
+  "timestamp": "2025-08-18T19:20:41.130466",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Thanks for the setup, McGinnis.",
+      "part": 1
+    }
+  ]
+}

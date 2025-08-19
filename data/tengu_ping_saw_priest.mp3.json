@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "tengu_ping_saw_priest",
+  "timestamp": "2025-08-18T19:30:28.315871",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I saw Benidorm!",
+      "part": 1
+    }
+  ]
+}

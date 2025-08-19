@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "kelvin_ping_fortuna_missing_01",
+  "timestamp": "2025-08-18T19:24:03.228989",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Fortuna's missing!",
+      "part": 1
+    }
+  ]
+}

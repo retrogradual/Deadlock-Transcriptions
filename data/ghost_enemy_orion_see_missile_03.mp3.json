@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "ghost_enemy_orion_see_missile_03",
+  "timestamp": "2025-08-18T19:21:09.185373",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Talon hunts us!",
+      "part": 1
+    }
+  ]
+}

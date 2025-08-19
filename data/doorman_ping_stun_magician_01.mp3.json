@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_ping_stun_magician_01",
+  "timestamp": "2025-08-18T19:09:31.526477",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.2799999713897705,
+      "text": " Stun Sinclair.",
+      "part": 1
+    }
+  ]
+}

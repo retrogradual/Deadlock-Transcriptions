@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "punkgoat_ping_ignore_frank",
+  "timestamp": "2025-08-18T19:26:41.225414",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " IGNORE VICTOR!",
+      "part": 1
+    }
+  ]
+}

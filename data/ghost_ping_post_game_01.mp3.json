@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "ghost_ping_post_game_01",
+  "timestamp": "2025-08-18T19:21:47.612137",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.28000020980835,
+      "text": " You were all surprisingly competent. Good job.",
+      "part": 1
+    }
+  ]
+}

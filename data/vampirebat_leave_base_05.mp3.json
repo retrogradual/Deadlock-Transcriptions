@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_leave_base_05",
+  "timestamp": "2025-08-18T19:32:21.471908",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "text": " Time to end things once and for all.",
+      "part": 1
+    }
+  ]
+}

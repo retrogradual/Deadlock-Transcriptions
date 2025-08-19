@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "doorman_select_09",
+  "timestamp": "2025-08-18T19:11:17.530521",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.9200000762939453,
+      "text": " New York is a fascinating place, isn't it?",
+      "part": 1
+    },
+    {
+      "start": 2.9200000762939453,
+      "end": 4.679999828338623,
+      "text": " You never know who you're going to meet.",
+      "part": 2
+    }
+  ]
+}

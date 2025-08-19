@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "boho_ping_push_green_01",
+  "timestamp": "2025-08-18T19:05:00.154990",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Let's push green!",
+      "part": 1
+    }
+  ]
+}

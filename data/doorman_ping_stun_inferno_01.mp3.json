@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_ping_stun_inferno_01",
+  "timestamp": "2025-08-18T19:08:59.704135",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.440000057220459,
+      "text": " Stun Infernus.",
+      "part": 1
+    }
+  ]
+}

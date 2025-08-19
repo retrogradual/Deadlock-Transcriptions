@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "drifter_ping_vampirebat_check_items",
+  "timestamp": "2025-08-18T19:15:51.781505",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Check out Aminabot!",
+      "part": 1
+    }
+  ]
+}

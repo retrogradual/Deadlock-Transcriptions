@@ -1,10 +1,10 @@
 {
   "voiceline_id": "patron_male_enemy_atlas_killing_streak_medium_01",
-  "timestamp": "2025-03-12T03:30:22.866485",
+  "timestamp": "2025-08-18T21:04:46.437088",
   "segments": [
     {
       "start": 0.0,
-      "end": 3.0,
+      "end": 3.640000104904175,
       "text": " Abrams is strong, but he's not unkillable.",
       "part": 1
     }

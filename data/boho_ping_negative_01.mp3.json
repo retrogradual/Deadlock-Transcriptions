@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "boho_ping_negative_01",
+  "timestamp": "2025-08-18T19:04:53.136794",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.5,
+      "text": " Now.",
+      "part": 1
+    }
+  ]
+}

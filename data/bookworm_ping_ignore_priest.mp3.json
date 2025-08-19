@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bookworm_ping_ignore_priest",
+  "timestamp": "2025-08-18T19:06:04.932355",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Ignore Venator.",
+      "part": 1
+    }
+  ]
+}

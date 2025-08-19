@@ -1,11 +1,11 @@
 {
   "voiceline_id": "haze_ping_wrecker_check_items",
-  "timestamp": "2025-05-13T16:36:14.503132",
+  "timestamp": "2025-08-18T21:12:19.185222",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
-      "text": " Check out what Wrecker bought.",
+      "end": 1.7599999904632568,
+      "text": " Check out what Wrecker bought!",
       "part": 1
     }
   ]

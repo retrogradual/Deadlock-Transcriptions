@@ -1,11 +1,11 @@
 {
   "voiceline_id": "ghost_ping_see_yamato_on_roof",
-  "timestamp": "2025-03-12T12:35:41.186058",
+  "timestamp": "2025-08-18T21:11:46.064400",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Yamato is on the roof!",
+      "text": " Yamato's on the roof!",
       "part": 1
     }
   ]

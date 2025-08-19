@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "frank_sad_09",
+  "timestamp": "2025-08-18T19:19:51.899256",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Can't win them all.",
+      "part": 1
+    }
+  ]
+}

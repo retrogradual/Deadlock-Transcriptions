@@ -1,11 +1,11 @@
 {
   "voiceline_id": "frank_ping_magician_in_mid",
-  "timestamp": "2025-05-13T16:28:19.317916",
+  "timestamp": "2025-08-18T21:10:11.477325",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
-      "text": " Sinclair's in mid.",
+      "end": 1.2799999713897705,
+      "text": " Sinclair's in Mid.",
       "part": 1
     }
   ]

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "tengu_ping_with_frank",
+  "timestamp": "2025-08-18T19:30:24.434448",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I'm with you, Victor!",
+      "part": 1
+    }
+  ]
+}

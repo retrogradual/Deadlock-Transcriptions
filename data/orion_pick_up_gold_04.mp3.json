@@ -1,11 +1,11 @@
 {
   "voiceline_id": "orion_pick_up_gold_04",
-  "timestamp": "2025-05-13T18:48:14.934115",
+  "timestamp": "2025-08-18T21:13:27.055456",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " I claim them as my own.",
+      "text": " I could use the souls.",
       "part": 1
     }
   ]

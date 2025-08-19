@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "boho_ping_retreat_01",
+  "timestamp": "2025-08-18T19:05:05.790593",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Pull back!",
+      "part": 1
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 {
   "voiceline_id": "patron_male_enemy_mirage_killing_streak_high_01",
-  "timestamp": "2025-03-12T03:38:33.829016",
+  "timestamp": "2025-08-18T21:05:21.489962",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " I want that Djinn!",
+      "text": " I want that Djinn.",
       "part": 1
     }
   ]

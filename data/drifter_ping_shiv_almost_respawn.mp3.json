@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "drifter_ping_shiv_almost_respawn",
+  "timestamp": "2025-08-18T19:15:24.406960",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " SHIV IS ALMOST BACK!",
+      "part": 1
+    }
+  ]
+}

@@ -1,16 +1,16 @@
 {
   "voiceline_id": "frank_select_06",
-  "timestamp": "2025-05-11T15:00:49.384375",
+  "timestamp": "2025-08-18T21:11:06.880454",
   "segments": [
     {
       "start": 0.0,
-      "end": 5.480000019073486,
+      "end": 5.539999961853027,
       "text": " When I think about who made me, I picture some awkward scientist wishing for a son.",
       "part": 1
     },
     {
-      "start": 5.480000019073486,
-      "end": 9.680000305175781,
+      "start": 5.539999961853027,
+      "end": 9.84000015258789,
       "text": " Knowing my luck, I'm probably a serial killer's walking trophy collection.",
       "part": 2
     }

@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_use_power1_03",
-  "timestamp": "2025-05-13T18:40:31.214333",
+  "timestamp": "2025-08-18T21:08:22.582218",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
-      "text": " I'm hurtin' him!",
+      "end": 0.5,
+      "text": " Cheer!",
       "part": 1
     }
   ]

@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "punkgoat_select_06",
+  "timestamp": "2025-08-18T19:28:41.463217",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.079999923706055,
+      "text": " Bebop belongs in a scrap pile, and Lash was relevant for like 20 minutes 3 years ago.",
+      "part": 1
+    },
+    {
+      "start": 6.079999923706055,
+      "end": 7.480000019073486,
+      "text": " I'll kick both their asses.",
+      "part": 2
+    }
+  ]
+}

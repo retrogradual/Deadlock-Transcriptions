@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ping_attack_druid",
-  "timestamp": "2025-05-13T16:21:30.137420",
+  "timestamp": "2025-08-18T21:06:37.382397",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Let's take out the druid!",
+      "text": " Let's take out the Druid.",
       "part": 1
     }
   ]

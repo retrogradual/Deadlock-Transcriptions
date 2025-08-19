@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "patron_female_ally_punkgoat_start_05",
+  "timestamp": "2025-08-18T19:00:32.102189",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 10.0,
+      "text": " They underestimate you, Billy. Let their hubris fuel their demise and your triumph.",
+      "part": 1
+    }
+  ]
+}

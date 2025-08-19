@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ping_see_chrono",
-  "timestamp": "2025-05-11T14:59:16.370265",
+  "timestamp": "2025-08-18T21:06:35.241650",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " I SEE PARADOX!",
+      "text": " I see Paradox.",
       "part": 1
     }
   ]

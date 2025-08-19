@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "kelvin_ping_with_priest",
+  "timestamp": "2025-08-18T19:24:22.295427",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I'm with you, Venator!",
+      "part": 1
+    }
+  ]
+}

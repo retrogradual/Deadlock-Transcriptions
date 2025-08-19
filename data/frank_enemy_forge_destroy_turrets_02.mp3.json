@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "frank_enemy_forge_destroy_turrets_02",
+  "timestamp": "2025-08-18T19:18:11.948632",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.319999933242798,
+      "text": " I'm sick of dealing with these damn turrets.",
+      "part": 1
+    }
+  ]
+}

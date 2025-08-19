@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "doorman_power4_on_krill_01",
+  "timestamp": "2025-08-18T21:00:38.642970",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.5,
+      "text": " Maurice, Krill is dead weight, an albatross whose petty schemes have driven you to hide in the muck like a common criminal.",
+      "part": 1
+    },
+    {
+      "start": 8.5,
+      "end": 15.5,
+      "text": " But you're not common, you're exceptional. Free yourself of him and see this for yourself.",
+      "part": 2
+    }
+  ]
+}

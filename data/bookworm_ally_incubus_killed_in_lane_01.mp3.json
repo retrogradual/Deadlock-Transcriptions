@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ally_incubus_killed_in_lane_01",
-  "timestamp": "2025-05-13T16:21:32.883313",
+  "timestamp": "2025-08-18T21:07:07.866430",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " They took out the Incubus!",
+      "text": " They took out the Incubus.",
       "part": 1
     }
   ]

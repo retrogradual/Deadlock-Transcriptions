@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "punkgoat_ally_dynamo_clutch_heal_02_alt_01",
+  "timestamp": "2025-08-18T19:26:27.026576",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Thanks.",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "drifter_ping_saw_synth",
+  "timestamp": "2025-08-18T19:15:34.827163",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I SAW A POCKET!",
+      "part": 1
+    }
+  ]
+}

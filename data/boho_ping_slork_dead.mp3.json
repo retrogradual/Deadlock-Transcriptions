@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "boho_ping_slork_dead",
+  "timestamp": "2025-08-18T19:04:07.108063",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Fathom is dead.",
+      "part": 1
+    }
+  ]
+}

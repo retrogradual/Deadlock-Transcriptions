@@ -1,0 +1,16 @@
+{
+  "file": "mirage_match_start_bebop_mirage_convo02_01.mp3",
+  "text": "Be Bump. Today, your courage is required.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Be Bump."
+    },
+    {
+      "start": 1.0,
+      "end": 3.559999942779541,
+      "text": "Today, your courage is required."
+    }
+  ]
+}

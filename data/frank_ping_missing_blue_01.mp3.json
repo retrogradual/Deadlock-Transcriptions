@@ -1,11 +1,11 @@
 {
   "voiceline_id": "frank_ping_missing_blue_01",
-  "timestamp": "2025-05-13T16:28:23.227419",
+  "timestamp": "2025-08-18T21:11:35.144218",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Missing Blue.",
+      "text": " MISSING BLUE",
       "part": 1
     }
   ]

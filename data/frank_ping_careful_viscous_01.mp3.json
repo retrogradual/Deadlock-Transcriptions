@@ -1,11 +1,11 @@
 {
   "voiceline_id": "frank_ping_careful_viscous_01",
-  "timestamp": "2025-05-11T15:00:42.762506",
+  "timestamp": "2025-08-18T21:10:51.289579",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Be careful, Vizcaz.",
+      "text": " Careful, Viscous.",
       "part": 1
     }
   ]

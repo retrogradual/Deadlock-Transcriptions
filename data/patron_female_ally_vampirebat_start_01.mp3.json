@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "patron_female_ally_vampirebat_start_01",
+  "timestamp": "2025-08-18T19:00:34.194678",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.399999618530273,
+      "text": " You had the world at your fingertips, and it was stolen from you by an assassin's bullet.",
+      "part": 1
+    },
+    {
+      "start": 8.399999618530273,
+      "end": 16.399999618530273,
+      "text": " But it's not too late to change your future. Summon me.",
+      "part": 2
+    }
+  ]
+}

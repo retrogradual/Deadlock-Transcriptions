@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "patron_male_ally_mirage_start_02_alt_01",
+  "timestamp": "2025-08-18T19:00:53.512513",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.0,
+      "text": " You dedicated your life to service, Mirage. Perhaps it's time to think about what you want.",
+      "part": 1
+    }
+  ]
+}

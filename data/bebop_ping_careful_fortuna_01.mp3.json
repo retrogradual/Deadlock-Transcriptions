@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bebop_ping_careful_fortuna_01",
+  "timestamp": "2025-08-18T19:01:45.882834",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Careful, Fortuna.",
+      "part": 1
+    }
+  ]
+}

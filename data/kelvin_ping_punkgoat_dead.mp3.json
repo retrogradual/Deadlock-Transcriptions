@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "kelvin_ping_punkgoat_dead",
+  "timestamp": "2025-08-18T19:24:24.986971",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": " Billy is dead.",
+      "part": 1
+    }
+  ]
+}

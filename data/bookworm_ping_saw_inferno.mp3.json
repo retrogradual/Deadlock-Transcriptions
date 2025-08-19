@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ping_saw_inferno",
-  "timestamp": "2025-05-11T14:59:26.033294",
+  "timestamp": "2025-08-18T21:07:12.530395",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " I saw it in Furnace!",
+      "text": " I saw Infernus.",
       "part": 1
     }
   ]

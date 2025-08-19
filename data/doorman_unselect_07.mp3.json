@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_unselect_07",
+  "timestamp": "2025-08-18T19:11:19.154579",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": " The Baroness will gladly open its doors to you, should you wish it.",
+      "part": 1
+    }
+  ]
+}

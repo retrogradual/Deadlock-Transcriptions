@@ -1,10 +1,10 @@
 {
   "voiceline_id": "patron_male_ally_forge_start_05",
-  "timestamp": "2025-03-12T12:26:14.294966",
+  "timestamp": "2025-08-18T21:04:59.010066",
   "segments": [
     {
       "start": 0.0,
-      "end": 5.760000228881836,
+      "end": 5.360000133514404,
       "text": " Think of what you can achieve with my help, McGinnis. Complete the ritual.",
       "part": 1
     }

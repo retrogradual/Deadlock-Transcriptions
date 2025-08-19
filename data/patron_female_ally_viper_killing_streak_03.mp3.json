@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "patron_female_ally_viper_killing_streak_03",
+  "timestamp": "2025-08-18T19:00:36.895210",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.640000104904175,
+      "text": " They have no answers for you, Vyper.",
+      "part": 1
+    },
+    {
+      "start": 3.640000104904175,
+      "end": 8.4399995803833,
+      "text": " Go, child, and eradicate them.",
+      "part": 2
+    }
+  ]
+}

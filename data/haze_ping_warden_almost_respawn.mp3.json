@@ -1,11 +1,11 @@
 {
   "voiceline_id": "haze_ping_warden_almost_respawn",
-  "timestamp": "2025-05-13T16:36:07.326219",
+  "timestamp": "2025-08-18T21:12:16.943654",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Warden is almost back.",
+      "text": " Warden is almost back!",
       "part": 1
     }
   ]

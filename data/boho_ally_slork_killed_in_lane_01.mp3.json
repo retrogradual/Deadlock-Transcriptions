@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "boho_ally_slork_killed_in_lane_01",
+  "timestamp": "2025-08-18T19:04:02.617085",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " They took out Fathom!",
+      "part": 1
+    }
+  ]
+}

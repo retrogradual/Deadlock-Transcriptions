@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_enemy_orion_see_missile_01",
+  "timestamp": "2025-08-18T19:31:47.187540",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Avoid the Owl!",
+      "part": 1
+    }
+  ]
+}

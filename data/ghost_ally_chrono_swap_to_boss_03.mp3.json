@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "ghost_ally_chrono_swap_to_boss_03",
+  "timestamp": "2025-08-18T19:20:24.489421",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Good thinking, Paradox!",
+      "part": 1
+    }
+  ]
+}

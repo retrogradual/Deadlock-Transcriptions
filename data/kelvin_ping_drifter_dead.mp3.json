@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "kelvin_ping_drifter_dead",
+  "timestamp": "2025-08-18T19:23:59.224947",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " The Drifter is dead.",
+      "part": 1
+    }
+  ]
+}

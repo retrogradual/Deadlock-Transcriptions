@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bookworm_unselect_02",
+  "timestamp": "2025-08-18T19:06:26.255850",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": " You know, I would love to help, but I've got a kindergarten class to read to.",
+      "part": 1
+    }
+  ]
+}

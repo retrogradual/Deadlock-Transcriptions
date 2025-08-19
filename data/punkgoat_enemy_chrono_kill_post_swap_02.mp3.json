@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "punkgoat_enemy_chrono_kill_post_swap_02",
+  "timestamp": "2025-08-18T19:26:12.647843",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Gotta try harder than that, Paradox!",
+      "part": 1
+    }
+  ]
+}

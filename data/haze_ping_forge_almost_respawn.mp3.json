@@ -1,11 +1,11 @@
 {
   "voiceline_id": "haze_ping_forge_almost_respawn",
-  "timestamp": "2025-05-13T16:34:05.145184",
+  "timestamp": "2025-08-18T21:11:56.046229",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " McGinnis is almost back.",
+      "text": " McGinnis is almost back!",
       "part": 1
     }
   ]

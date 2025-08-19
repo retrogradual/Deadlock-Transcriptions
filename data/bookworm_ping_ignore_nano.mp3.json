@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ping_ignore_nano",
-  "timestamp": "2025-05-11T14:59:34.005792",
+  "timestamp": "2025-08-18T21:07:31.840492",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
-      "text": " Ignore Calico!",
+      "end": 1.2799999713897705,
+      "text": " Ignore Calico.",
       "part": 1
     }
   ]

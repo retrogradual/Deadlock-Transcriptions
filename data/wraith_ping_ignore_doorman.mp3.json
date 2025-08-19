@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wraith_ping_ignore_doorman",
+  "timestamp": "2025-08-18T19:34:01.683960",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Ignore the Doorman.",
+      "part": 1
+    }
+  ]
+}

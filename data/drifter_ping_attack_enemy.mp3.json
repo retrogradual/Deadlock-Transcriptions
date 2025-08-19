@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "drifter_ping_attack_enemy",
+  "timestamp": "2025-08-18T19:17:06.340313",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Let's take out the enemy!",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_enemy_hornet_killed_mid_air_03",
+  "timestamp": "2025-08-18T19:08:47.128094",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " She should have flown away.",
+      "part": 1
+    }
+  ]
+}

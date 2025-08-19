@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "ghost_ally_kelvin_pass_on_zipline_01",
+  "timestamp": "2025-08-18T19:20:58.343415",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Don't fail me this time, Kelvin.",
+      "part": 1
+    }
+  ]
+}

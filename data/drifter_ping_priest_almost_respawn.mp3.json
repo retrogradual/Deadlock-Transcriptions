@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "drifter_ping_priest_almost_respawn",
+  "timestamp": "2025-08-18T19:15:08.612165",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Venator's almost back!",
+      "part": 1
+    }
+  ]
+}

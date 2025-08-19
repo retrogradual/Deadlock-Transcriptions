@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "ghost_ping_saw_vampirebat",
+  "timestamp": "2025-08-18T19:21:37.493157",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.2799999713897705,
+      "text": " I saw Mina!",
+      "part": 1
+    }
+  ]
+}

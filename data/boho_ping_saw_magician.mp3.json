@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "boho_ping_saw_magician",
+  "timestamp": "2025-08-18T19:03:40.068650",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I saw Sinclair!",
+      "part": 1
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ping_saw_synth",
-  "timestamp": "2025-05-11T14:59:39.426239",
+  "timestamp": "2025-08-18T21:07:52.011876",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
-      "text": " I saw a pocket!",
+      "end": 1.2000000476837158,
+      "text": " I saw Pocket.",
       "part": 1
     }
   ]

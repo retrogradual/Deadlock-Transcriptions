@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "patron_male_enemy_doorman_killing_streak_medium_01",
+  "timestamp": "2025-08-18T19:00:45.365153",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.559999942779541,
+      "text": " The Dorman needs to die!",
+      "part": 1
+    }
+  ]
+}

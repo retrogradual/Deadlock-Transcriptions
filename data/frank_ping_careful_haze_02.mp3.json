@@ -1,11 +1,11 @@
 {
   "voiceline_id": "frank_ping_careful_haze_02",
-  "timestamp": "2025-05-11T15:00:19.815050",
+  "timestamp": "2025-08-18T21:09:43.492316",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
-      "text": " Careful, Hayes.",
+      "end": 1.0,
+      "text": " Careful, Haze.",
       "part": 1
     }
   ]

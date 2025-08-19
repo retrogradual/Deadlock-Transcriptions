@@ -1,11 +1,11 @@
 {
   "voiceline_id": "frank_ping_careful_krill_02",
-  "timestamp": "2025-05-11T15:00:25.924256",
+  "timestamp": "2025-08-18T21:10:02.397114",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Careful, Krill.",
+      "text": " Be careful, Krill.",
       "part": 1
     }
   ]

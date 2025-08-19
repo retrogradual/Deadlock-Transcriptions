@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_ping_see_skyrunner_01",
+  "timestamp": "2025-08-18T19:10:12.062553",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.2799999713897705,
+      "text": " Icy Skyrunner.",
+      "part": 1
+    }
+  ]
+}

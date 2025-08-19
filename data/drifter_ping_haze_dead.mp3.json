@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "drifter_ping_haze_dead",
+  "timestamp": "2025-08-18T19:14:07.875356",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Haze is dead.",
+      "part": 1
+    }
+  ]
+}

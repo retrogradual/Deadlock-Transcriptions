@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "drifter_ping_fortuna_missing_01",
+  "timestamp": "2025-08-18T19:13:43.231031",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Fortuna's missin'.",
+      "part": 1
+    }
+  ]
+}

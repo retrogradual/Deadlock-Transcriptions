@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "patron_male_ally_drifter_start_03",
+  "timestamp": "2025-08-18T19:00:48.848977",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.200000047683716,
+      "text": " They fear you, Drifter, as they should.",
+      "part": 1
+    }
+  ]
+}

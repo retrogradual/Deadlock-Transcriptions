@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "punkgoat_unselect_05",
+  "timestamp": "2025-08-18T19:28:43.569025",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.200000047683716,
+      "text": " Don't pick me, that's fine, whatever, I don't care.",
+      "part": 1
+    }
+  ]
+}

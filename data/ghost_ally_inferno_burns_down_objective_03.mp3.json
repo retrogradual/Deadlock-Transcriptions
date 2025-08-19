@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "ghost_ally_inferno_burns_down_objective_03",
+  "timestamp": "2025-08-18T19:20:56.230717",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": " Fern, you are wasting your talents behind a bar.",
+      "part": 1
+    }
+  ]
+}

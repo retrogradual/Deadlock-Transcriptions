@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "bookworm_upgrade_power1_01",
+  "timestamp": "2025-08-18T19:06:39.071472",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.200000047683716,
+      "text": " Had to stop pulling this guy out at the library.",
+      "part": 1
+    },
+    {
+      "start": 2.200000047683716,
+      "end": 4.300000190734863,
+      "text": " They were not too happy when I burned the stacks.",
+      "part": 2
+    }
+  ]
+}

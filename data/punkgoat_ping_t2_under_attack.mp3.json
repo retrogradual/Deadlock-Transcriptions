@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "punkgoat_ping_t2_under_attack",
+  "timestamp": "2025-08-18T19:29:31.122143",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " They're taking our tier 2!",
+      "part": 1
+    }
+  ]
+}

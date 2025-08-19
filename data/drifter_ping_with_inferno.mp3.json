@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "drifter_ping_with_inferno",
+  "timestamp": "2025-08-18T19:14:23.087999",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I'm with you, Infernus!",
+      "part": 1
+    }
+  ]
+}

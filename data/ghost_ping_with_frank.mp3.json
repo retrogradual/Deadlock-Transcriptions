@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "ghost_ping_with_frank",
+  "timestamp": "2025-08-18T19:20:48.465234",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I'm with you, Victor!",
+      "part": 1
+    }
+  ]
+}

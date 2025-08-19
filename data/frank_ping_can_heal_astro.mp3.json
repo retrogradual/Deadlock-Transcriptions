@@ -1,11 +1,11 @@
 {
   "voiceline_id": "frank_ping_can_heal_astro",
-  "timestamp": "2025-05-11T15:00:06.679618",
+  "timestamp": "2025-08-18T21:09:11.013945",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Holiday, I can heal you.",
+      "text": " Holliday, I can heal you.",
       "part": 1
     }
   ]

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "frank_ally_forge_wall_stun_kill_02",
+  "timestamp": "2025-08-18T19:18:11.522815",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Couldn't have done it without you, McGinnis.",
+      "part": 1
+    }
+  ]
+}

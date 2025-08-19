@@ -1,11 +1,11 @@
 {
   "voiceline_id": "frank_ping_stun_inferno_01",
-  "timestamp": "2025-05-11T15:00:22.954958",
+  "timestamp": "2025-08-18T21:09:54.450279",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Stun and furnace.",
+      "text": " Stun and Furnace.",
       "part": 1
     }
   ]

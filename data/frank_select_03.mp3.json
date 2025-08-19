@@ -1,10 +1,10 @@
 {
   "voiceline_id": "frank_select_03",
-  "timestamp": "2025-05-11T15:00:48.107670",
+  "timestamp": "2025-08-18T21:11:05.667859",
   "segments": [
     {
       "start": 0.0,
-      "end": 4.0,
+      "end": 3.799999952316284,
       "text": " The pain doesn't get any better. I just get better at hiding it.",
       "part": 1
     }

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_enemy_ghost_ping_with_swap_02",
+  "timestamp": "2025-08-18T19:08:23.493188",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.799999952316284,
+      "text": " Lady Geist looks to steal our health.",
+      "part": 1
+    }
+  ]
+}

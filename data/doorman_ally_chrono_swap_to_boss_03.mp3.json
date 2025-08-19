@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_ally_chrono_swap_to_boss_03",
+  "timestamp": "2025-08-18T19:07:47.449471",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Help Paradox finish them off!",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "punkgoat_enemy_krill_grabbed_02",
+  "timestamp": "2025-08-18T19:27:20.957285",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " SOMEBODY KILL THIS GODDAMN MOLE!",
+      "part": 1
+    }
+  ]
+}

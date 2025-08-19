@@ -1,11 +1,11 @@
 {
   "voiceline_id": "frank_ping_stun_hornet_01",
-  "timestamp": "2025-05-11T15:00:21.459367",
+  "timestamp": "2025-08-18T21:09:48.370528",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Stun Vindicta!",
+      "text": " Stun Vindicta.",
       "part": 1
     }
   ]

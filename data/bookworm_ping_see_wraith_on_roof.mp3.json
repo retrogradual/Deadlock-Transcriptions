@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ping_see_wraith_on_roof",
-  "timestamp": "2025-05-13T16:23:06.844757",
+  "timestamp": "2025-08-18T21:08:12.345583",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Wraiths on the roof!",
+      "text": " Wraith is on the roof.",
       "part": 1
     }
   ]

@@ -1,11 +1,11 @@
 {
   "voiceline_id": "haze_use_power1_06",
-  "timestamp": "2025-05-13T18:44:19.264881",
+  "timestamp": "2025-08-18T21:12:21.883797",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Don't leave them to me.",
+      "text": " Leave them to me.",
       "part": 1
     }
   ]

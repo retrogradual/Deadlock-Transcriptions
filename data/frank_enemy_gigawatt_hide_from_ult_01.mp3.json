@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "frank_enemy_gigawatt_hide_from_ult_01",
+  "timestamp": "2025-08-18T19:18:16.922697",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " TAKE COVER!",
+      "part": 1
+    }
+  ]
+}

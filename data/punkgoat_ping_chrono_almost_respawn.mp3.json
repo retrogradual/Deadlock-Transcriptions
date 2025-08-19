@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "punkgoat_ping_chrono_almost_respawn",
+  "timestamp": "2025-08-18T19:26:14.963888",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Paradox is almost back.",
+      "part": 1
+    }
+  ]
+}

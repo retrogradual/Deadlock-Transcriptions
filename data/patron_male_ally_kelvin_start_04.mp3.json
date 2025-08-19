@@ -1,11 +1,11 @@
 {
   "voiceline_id": "patron_male_ally_kelvin_start_04",
-  "timestamp": "2025-03-12T03:52:40.354989",
+  "timestamp": "2025-08-18T21:05:14.420920",
   "segments": [
     {
       "start": 0.0,
-      "end": 5.0,
-      "text": " Glory awaits, Kelvin. All you need to do is summon me.",
+      "end": 4.320000171661377,
+      "text": " Glory awaits, Kelvin! All you need to do is summon me!",
       "part": 1
     }
   ]

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wraith_ping_stun_bookworm_01_alt",
+  "timestamp": "2025-08-18T19:33:57.187891",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Stun page.",
+      "part": 1
+    }
+  ]
+}

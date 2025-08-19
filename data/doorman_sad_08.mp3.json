@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_sad_08",
+  "timestamp": "2025-08-18T19:12:01.826021",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.680000066757202,
+      "text": " Rest assured that I will one day complete the ritual.",
+      "part": 1
+    }
+  ]
+}

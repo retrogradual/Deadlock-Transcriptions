@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ping_ignore_krill",
-  "timestamp": "2025-05-11T14:59:29.202898",
+  "timestamp": "2025-08-18T21:07:17.953035",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
-      "text": " Ignore krill.",
+      "end": 1.0,
+      "text": " Ignore Krill.",
       "part": 1
     }
   ]

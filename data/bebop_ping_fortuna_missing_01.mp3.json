@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bebop_ping_fortuna_missing_01",
+  "timestamp": "2025-08-18T19:01:46.750725",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " FORTUNA'S MISSING!",
+      "part": 1
+    }
+  ]
+}

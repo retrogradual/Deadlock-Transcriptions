@@ -1,11 +1,11 @@
 {
   "voiceline_id": "frank_ping_careful_tengu_01",
-  "timestamp": "2025-05-11T15:00:38.613141",
+  "timestamp": "2025-08-18T21:10:40.692154",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
-      "text": " Be careful, Ivy.",
+      "end": 1.0,
+      "text": " Careful, Ivy.",
       "part": 1
     }
   ]

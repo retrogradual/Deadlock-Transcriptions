@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "boho_ping_wraith_under_garage",
+  "timestamp": "2025-08-18T19:04:35.097773",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Wraith's son to the garage!",
+      "part": 1
+    }
+  ]
+}

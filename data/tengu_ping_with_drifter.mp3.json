@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "tengu_ping_with_drifter",
+  "timestamp": "2025-08-18T19:30:20.342963",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I'm with you, Director!",
+      "part": 1
+    }
+  ]
+}

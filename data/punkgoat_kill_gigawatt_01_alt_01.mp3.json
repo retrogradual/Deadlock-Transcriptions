@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "punkgoat_kill_gigawatt_01_alt_01",
+  "timestamp": "2025-08-18T19:26:51.707835",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.440000057220459,
+      "text": " You think you got it bad because you were locked up in Lost Whisper?",
+      "part": 1
+    },
+    {
+      "start": 4.440000057220459,
+      "end": 7.0,
+      "text": " And actually, that probably did suck.",
+      "part": 2
+    }
+  ]
+}

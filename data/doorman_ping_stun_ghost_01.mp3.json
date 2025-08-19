@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_ping_stun_ghost_01",
+  "timestamp": "2025-08-18T19:08:25.637467",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.2799999713897705,
+      "text": " Stun Geist.",
+      "part": 1
+    }
+  ]
+}

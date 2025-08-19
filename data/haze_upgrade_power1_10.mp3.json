@@ -1,10 +1,10 @@
 {
   "voiceline_id": "haze_upgrade_power1_10",
-  "timestamp": "2025-05-13T18:44:25.418330",
+  "timestamp": "2025-08-18T21:12:24.606309",
   "segments": [
     {
       "start": 0.0,
-      "end": 3.0,
+      "end": 4.0,
       "text": " Sometimes the simplest tricks are the most effective.",
       "part": 1
     }

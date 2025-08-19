@@ -1,10 +1,10 @@
 {
   "voiceline_id": "haze_upgrade_power3_08",
-  "timestamp": "2025-05-13T18:44:28.780562",
+  "timestamp": "2025-08-18T21:12:27.441117",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.319999933242798,
+      "end": 2.559999942779541,
       "text": " I've been forged into a weapon.",
       "part": 1
     }

@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ping_with_dynamo",
-  "timestamp": "2025-05-11T14:59:17.745183",
+  "timestamp": "2025-08-18T21:06:42.128915",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " I'm with you, Dynamo!",
+      "text": " I'm with you, Dynamo.",
       "part": 1
     }
   ]

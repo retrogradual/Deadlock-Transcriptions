@@ -1,10 +1,10 @@
 {
   "voiceline_id": "patron_male_ally_mirage_start_03",
-  "timestamp": "2025-03-12T12:46:16.690517",
+  "timestamp": "2025-08-18T21:05:22.544064",
   "segments": [
     {
       "start": 0.0,
-      "end": 5.0,
+      "end": 6.0,
       "text": " Nashala has put her faith in you, Mirage. I know that you will not fail her.",
       "part": 1
     }

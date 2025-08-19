@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "patron_male_enemy_drifter_killing_streak_high_01",
+  "timestamp": "2025-08-18T19:00:47.271434",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I want the Drifter's head!",
+      "part": 1
+    }
+  ]
+}

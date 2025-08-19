@@ -1,0 +1,24 @@
+{
+  "voiceline_id": "punkgoat_select_07",
+  "timestamp": "2025-08-18T19:28:41.090344",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.240000009536743,
+      "text": " Vyper thinks she's hard, cause she did time.",
+      "part": 1
+    },
+    {
+      "start": 3.240000009536743,
+      "end": 6.559999942779541,
+      "text": " Lady can't go three blocks without catching a charge.",
+      "part": 2
+    },
+    {
+      "start": 6.559999942779541,
+      "end": 8.640000343322754,
+      "text": " She's no con, she's a moron!",
+      "part": 3
+    }
+  ]
+}

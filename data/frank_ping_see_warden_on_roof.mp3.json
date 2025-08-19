@@ -1,11 +1,11 @@
 {
   "voiceline_id": "frank_ping_see_warden_on_roof",
-  "timestamp": "2025-05-13T16:28:52.976380",
+  "timestamp": "2025-08-18T21:10:57.270221",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Wardens on the roof.",
+      "text": " Wardens on the Roof.",
       "part": 1
     }
   ]

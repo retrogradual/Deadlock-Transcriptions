@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bebop_ping_tvspirit_missing_01",
+  "timestamp": "2025-08-18T19:02:14.680448",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " The Polar Geist's missing!",
+      "part": 1
+    }
+  ]
+}

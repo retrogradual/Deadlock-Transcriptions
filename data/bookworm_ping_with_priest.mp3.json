@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bookworm_ping_with_priest",
+  "timestamp": "2025-08-18T19:06:05.818362",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I'm with you, Venator!",
+      "part": 1
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ally_mirage_killed_in_lane_01",
-  "timestamp": "2025-05-11T14:59:32.155768",
+  "timestamp": "2025-08-18T21:07:27.906073",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " They took out Mirage!",
+      "text": " They took out Mirage.",
       "part": 1
     }
   ]

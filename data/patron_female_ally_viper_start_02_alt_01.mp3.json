@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "patron_female_ally_viper_start_02_alt_01",
+  "timestamp": "2025-08-18T19:00:38.773808",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 15.0,
+      "text": " I see into your heart, Vyper. I know what you want. And you can have it. All you need do is summon me.",
+      "part": 1
+    }
+  ]
+}

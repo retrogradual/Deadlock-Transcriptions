@@ -1,10 +1,10 @@
 {
   "voiceline_id": "patron_male_ally_haze_start_05",
-  "timestamp": "2025-03-12T03:54:36.155066",
+  "timestamp": "2025-08-18T21:05:06.781767",
   "segments": [
     {
       "start": 0.0,
-      "end": 6.0,
+      "end": 7.0,
       "text": " There is a life waiting for you, Haze, and once you complete the ritual, it can be yours.",
       "part": 1
     }

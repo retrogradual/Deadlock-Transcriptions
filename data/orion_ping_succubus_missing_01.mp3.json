@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "orion_ping_succubus_missing_01",
+  "timestamp": "2025-08-18T19:25:35.013781",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " The succubus is missing.",
+      "part": 1
+    }
+  ]
+}

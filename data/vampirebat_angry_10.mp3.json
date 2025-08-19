@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_angry_10",
+  "timestamp": "2025-08-18T19:32:40.690736",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.4000000953674316,
+      "text": " I can't believe I have to deal with these people.",
+      "part": 1
+    }
+  ]
+}

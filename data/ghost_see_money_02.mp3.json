@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "ghost_see_money_02",
+  "timestamp": "2025-08-18T19:21:48.473539",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " There's souls nearby!",
+      "part": 1
+    }
+  ]
+}

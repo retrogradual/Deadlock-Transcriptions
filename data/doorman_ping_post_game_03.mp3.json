@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_ping_post_game_03",
+  "timestamp": "2025-08-18T19:11:21.881842",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.5,
+      "text": " It was an honor to complete the ritual with you all.",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_sad_02",
+  "timestamp": "2025-08-18T19:11:59.550407",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.4000000953674316,
+      "text": " I'll reflect on this at the Baroness.",
+      "part": 1
+    }
+  ]
+}

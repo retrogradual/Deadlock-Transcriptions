@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ping_careful_viscous_03",
-  "timestamp": "2025-05-11T14:59:43.853333",
+  "timestamp": "2025-08-18T21:08:04.285212",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Careful, Viscous!",
+      "text": " Careful, Viscous.",
       "part": 1
     }
   ]

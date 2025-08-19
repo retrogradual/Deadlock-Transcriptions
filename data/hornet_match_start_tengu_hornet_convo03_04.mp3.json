@@ -1,6 +1,6 @@
 {
   "file": "hornet_match_start_tengu_hornet_convo03_04.mp3",
-  "text": "That you can see, for now. Ivy, some might mistake your naivete for charm, but believe me when I say, it's dangerous. And if you don't smarten up soon, someone you care about is going to be hurt. Not everyone deserves redemption. And even fewer are capable of it.",
+  "text": "That you can see, for now. Ivy, some might mistake your naivete for charm, but believe me when I say, it's dangerous. And if you don't smarten up soon, someone you care about is going to be hurt. Not everyone deserves redemption, and even fewer are capable of it.",
   "segments": [
     {
       "start": 0.0,
@@ -8,24 +8,19 @@
       "text": "That you can see, for now."
     },
     {
-      "start": 2.880000114440918,
-      "end": 8.5600004196167,
+      "start": 2.440000057220459,
+      "end": 8.119999885559082,
       "text": "Ivy, some might mistake your naivete for charm, but believe me when I say, it's dangerous."
     },
     {
-      "start": 8.920000076293945,
-      "end": 12.920000076293945,
+      "start": 8.279999732971191,
+      "end": 12.359999656677246,
       "text": "And if you don't smarten up soon, someone you care about is going to be hurt."
     },
     {
-      "start": 13.880000114440918,
-      "end": 16.239999771118164,
-      "text": "Not everyone deserves redemption."
-    },
-    {
-      "start": 16.760000228881836,
-      "end": 18.760000228881836,
-      "text": "And even fewer are capable of it."
+      "start": 12.800000190734863,
+      "end": 17.280000686645508,
+      "text": "Not everyone deserves redemption, and even fewer are capable of it."
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
   "voiceline_id": "haze_ping_missing_green_02",
-  "timestamp": "2025-05-13T16:35:03.186389",
+  "timestamp": "2025-08-18T21:12:36.794612",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
-      "text": " Missing Greenwich.",
+      "end": 1.2799999713897705,
+      "text": " Missing Crennage.",
       "part": 1
     }
   ]

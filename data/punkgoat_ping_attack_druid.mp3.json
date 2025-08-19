@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "punkgoat_ping_attack_druid",
+  "timestamp": "2025-08-18T19:29:43.822967",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.440000057220459,
+      "text": " Let's take out the Druid.",
+      "part": 1
+    }
+  ]
+}

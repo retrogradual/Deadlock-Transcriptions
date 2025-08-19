@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "patron_female_ally_bookworm_start_04_alt",
+  "timestamp": "2025-08-18T19:00:13.675917",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.400000095367432,
+      "text": " Paige, you are more than a protagonist, more than a hero.",
+      "part": 1
+    },
+    {
+      "start": 7.400000095367432,
+      "end": 14.800000190734863,
+      "text": " You, my dear, are about to become a legend.",
+      "part": 2
+    }
+  ]
+}

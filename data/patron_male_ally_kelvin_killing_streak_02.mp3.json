@@ -1,11 +1,11 @@
 {
   "voiceline_id": "patron_male_ally_kelvin_killing_streak_02",
-  "timestamp": "2025-03-12T03:55:57.961282",
+  "timestamp": "2025-08-18T21:05:12.361605",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " They cannot kill Kelvin.",
+      "text": " They cannot kill Kelvin!",
       "part": 1
     }
   ]

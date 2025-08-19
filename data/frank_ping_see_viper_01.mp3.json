@@ -1,11 +1,11 @@
 {
   "voiceline_id": "frank_ping_see_viper_01",
-  "timestamp": "2025-05-11T15:00:41.521358",
+  "timestamp": "2025-08-18T21:10:48.041892",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
-      "text": " I see Viper.",
+      "end": 1.0,
+      "text": " I see Vyper.",
       "part": 1
     }
   ]

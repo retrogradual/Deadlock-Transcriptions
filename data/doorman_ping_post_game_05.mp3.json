@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_ping_post_game_05",
+  "timestamp": "2025-08-18T19:11:22.169965",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Oh, that was fun!",
+      "part": 1
+    }
+  ]
+}

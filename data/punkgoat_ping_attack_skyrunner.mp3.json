@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "punkgoat_ping_attack_skyrunner",
+  "timestamp": "2025-08-18T19:29:46.304877",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Let's take out Skyrunner!",
+      "part": 1
+    }
+  ]
+}

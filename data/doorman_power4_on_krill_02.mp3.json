@@ -1,0 +1,30 @@
+{
+  "voiceline_id": "doorman_power4_on_krill_02",
+  "timestamp": "2025-08-18T21:00:40.154792",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.400000095367432,
+      "text": " Krill, your brilliance shines in the dark, but it would be radiant in the sun.",
+      "part": 1
+    },
+    {
+      "start": 6.400000095367432,
+      "end": 9.399999618530273,
+      "text": " Why do you lower yourself to Maurice's standards?",
+      "part": 2
+    },
+    {
+      "start": 9.399999618530273,
+      "end": 14.600000381469727,
+      "text": " Your blind loyalty to him has cost you opportunity after opportunity.",
+      "part": 3
+    },
+    {
+      "start": 14.600000381469727,
+      "end": 18.399999618530273,
+      "text": " Cast him aside. Accept who you are.",
+      "part": 4
+    }
+  ]
+}

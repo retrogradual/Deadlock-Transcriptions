@@ -1,0 +1,24 @@
+{
+  "voiceline_id": "punkgoat_select_09",
+  "timestamp": "2025-08-18T19:28:42.303592",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": " You know those people who think having a dog is the same as having a personality?",
+      "part": 1
+    },
+    {
+      "start": 4.0,
+      "end": 5.800000190734863,
+      "text": " That's Mirage and the Djinn.",
+      "part": 2
+    },
+    {
+      "start": 5.800000190734863,
+      "end": 9.199999809265137,
+      "text": " I get it, you have a lady and a bottle, stop talking about it!",
+      "part": 3
+    }
+  ]
+}

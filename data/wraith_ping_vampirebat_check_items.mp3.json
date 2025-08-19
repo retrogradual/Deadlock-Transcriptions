@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wraith_ping_vampirebat_check_items",
+  "timestamp": "2025-08-18T19:34:34.999747",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.5199999809265137,
+      "text": " Check out what Mina bought.",
+      "part": 1
+    }
+  ]
+}

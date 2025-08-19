@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ping_careful_warden_01",
-  "timestamp": "2025-05-11T14:59:44.520099",
+  "timestamp": "2025-08-18T21:08:07.315859",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Care for one.",
+      "text": " Be careful, Warden.",
       "part": 1
     }
   ]

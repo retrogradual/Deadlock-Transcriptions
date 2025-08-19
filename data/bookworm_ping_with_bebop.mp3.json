@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ping_with_bebop",
-  "timestamp": "2025-05-11T14:59:14.553311",
+  "timestamp": "2025-08-18T21:06:30.711239",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " I'm with you, Bebop!",
+      "text": " I'm with you, Bebop.",
       "part": 1
     }
   ]

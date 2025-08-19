@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bookworm_upgrade_power4_01",
+  "timestamp": "2025-08-18T19:06:44.967927",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": " The Knights of the Round always answer the call.",
+      "part": 1
+    }
+  ]
+}

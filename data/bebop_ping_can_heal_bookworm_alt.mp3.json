@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bebop_ping_can_heal_bookworm_alt",
+  "timestamp": "2025-08-18T19:01:30.179569",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Paige, I can heal ya!",
+      "part": 1
+    }
+  ]
+}

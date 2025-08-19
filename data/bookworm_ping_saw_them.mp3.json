@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ping_saw_them",
-  "timestamp": "2025-05-13T16:22:51.641255",
+  "timestamp": "2025-08-18T21:08:48.024667",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
-      "text": " I saw them!",
+      "end": 1.0,
+      "text": " I saw them.",
       "part": 1
     }
   ]

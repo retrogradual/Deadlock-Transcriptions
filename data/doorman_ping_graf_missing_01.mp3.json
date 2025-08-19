@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_ping_graf_missing_01",
+  "timestamp": "2025-08-18T19:08:35.573934",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Graphs missing.",
+      "part": 1
+    }
+  ]
+}

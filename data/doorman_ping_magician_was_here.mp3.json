@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_ping_magician_was_here",
+  "timestamp": "2025-08-18T19:09:32.840267",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": " Sinclair was here.",
+      "part": 1
+    }
+  ]
+}

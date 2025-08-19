@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bookworm_ping_doorman_almost_respawn",
+  "timestamp": "2025-08-18T19:05:27.419747",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Torment is almost back!",
+      "part": 1
+    }
+  ]
+}

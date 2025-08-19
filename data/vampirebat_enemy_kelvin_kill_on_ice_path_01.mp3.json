@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_enemy_kelvin_kill_on_ice_path_01",
+  "timestamp": "2025-08-18T19:31:36.335157",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Well, that was a sad getaway.",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "drifter_ping_bookworm_dead_alt",
+  "timestamp": "2025-08-18T19:13:12.167389",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " PAGE IS DEAD",
+      "part": 1
+    }
+  ]
+}

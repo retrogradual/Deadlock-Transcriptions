@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "viper_ping_frank_check_items",
+  "timestamp": "2025-08-18T19:33:17.742813",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Check out what Vector bought.",
+      "part": 1
+    }
+  ]
+}

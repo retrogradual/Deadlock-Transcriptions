@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "boho_ping_see_enemy",
+  "timestamp": "2025-08-18T19:05:08.679259",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Defeat the enemy!",
+      "part": 1
+    }
+  ]
+}

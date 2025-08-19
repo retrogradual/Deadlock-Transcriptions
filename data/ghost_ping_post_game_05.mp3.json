@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "ghost_ping_post_game_05",
+  "timestamp": "2025-08-18T19:21:47.903437",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " No one can deny me!",
+      "part": 1
+    }
+  ]
+}

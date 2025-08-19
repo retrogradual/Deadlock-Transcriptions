@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_ping_bebop_on_top_of_garage",
+  "timestamp": "2025-08-18T19:07:38.578262",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " BEBOP'S ON TOP OF THE GARAGE!",
+      "part": 1
+    }
+  ]
+}

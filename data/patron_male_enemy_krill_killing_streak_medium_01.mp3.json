@@ -1,10 +1,10 @@
 {
   "voiceline_id": "patron_male_enemy_krill_killing_streak_medium_01",
-  "timestamp": "2025-03-12T04:07:01.142820",
+  "timestamp": "2025-08-18T21:05:15.891879",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
+      "end": 2.240000009536743,
       "text": " Don't let Moe and Krill grab you!",
       "part": 1
     }

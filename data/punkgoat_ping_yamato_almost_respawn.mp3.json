@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "punkgoat_ping_yamato_almost_respawn",
+  "timestamp": "2025-08-18T19:28:38.763435",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Yamato's almost back!",
+      "part": 1
+    }
+  ]
+}

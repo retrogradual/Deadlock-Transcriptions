@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bebop_ping_ignore_fortuna",
+  "timestamp": "2025-08-18T19:01:46.789874",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Ignore Fortuna!",
+      "part": 1
+    }
+  ]
+}

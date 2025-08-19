@@ -1,6 +1,6 @@
 {
   "voiceline_id": "frank_select_09",
-  "timestamp": "2025-05-11T15:00:49.713031",
+  "timestamp": "2025-08-18T21:11:08.642863",
   "segments": [
     {
       "start": 0.0,
@@ -9,8 +9,8 @@
       "part": 1
     },
     {
-      "start": 4.5,
-      "end": 6.5,
+      "start": 4.0,
+      "end": 6.440000057220459,
       "text": " Where does he end and I begin?",
       "part": 2
     }

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_ping_saw_drifter",
+  "timestamp": "2025-08-18T19:31:12.283433",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I saw the Drifter!",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "voiceline_id": "boho_select_03",
+  "timestamp": "2025-08-18T19:04:41.893178",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.799999952316284,
+      "text": " This character is not voiced by Matt Mercer.",
+      "part": 1
+    },
+    {
+      "start": 2.799999952316284,
+      "end": 6.599999904632568,
+      "text": " Probably. I mean, that guy's really talented.",
+      "part": 2
+    },
+    {
+      "start": 6.599999904632568,
+      "end": 8.600000381469727,
+      "text": " Hey, maybe I'm Matt Mercer.",
+      "part": 3
+    }
+  ]
+}

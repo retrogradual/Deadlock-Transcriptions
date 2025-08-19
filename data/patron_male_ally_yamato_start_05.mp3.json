@@ -1,10 +1,10 @@
 {
   "voiceline_id": "patron_male_ally_yamato_start_05",
-  "timestamp": "2025-03-12T03:58:39.361242",
+  "timestamp": "2025-08-18T21:05:46.269995",
   "segments": [
     {
       "start": 0.0,
-      "end": 10.0,
+      "end": 9.0,
       "text": " Kaori, you honor your brother by taking his name, and honor him further still by making his dreams a reality. Summon me.",
       "part": 1
     }

@@ -1,16 +1,16 @@
 {
   "voiceline_id": "patron_male_ally_krill_start_03",
-  "timestamp": "2025-03-12T12:28:14.523507",
+  "timestamp": "2025-08-18T21:05:17.380529",
   "segments": [
     {
       "start": 0.0,
-      "end": 6.0,
+      "end": 5.679999828338623,
       "text": " Gentlemen, society may not appreciate your contributions, but I do.",
       "part": 1
     },
     {
-      "start": 6.0,
-      "end": 10.0,
+      "start": 5.679999828338623,
+      "end": 10.319999694824219,
       "text": " Complete the ritual, and New York will know your worth.",
       "part": 2
     }

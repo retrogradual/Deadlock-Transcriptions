@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_ally_atlas_unkillable_03",
+  "timestamp": "2025-08-18T19:07:26.342557",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Don't stop fighting, Abrams!",
+      "part": 1
+    }
+  ]
+}

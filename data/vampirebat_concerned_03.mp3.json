@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_concerned_03",
+  "timestamp": "2025-08-18T19:32:41.540886",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.799999952316284,
+      "text": " This is bad, but we can still pull it off.",
+      "part": 1
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 {
   "voiceline_id": "frank_ping_ignore_forge",
-  "timestamp": "2025-05-11T15:00:15.827312",
+  "timestamp": "2025-08-18T21:09:30.706838",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
-      "text": " Ignore McGuinness.",
+      "end": 1.0,
+      "text": " Ignore McGinnis.",
       "part": 1
     }
   ]

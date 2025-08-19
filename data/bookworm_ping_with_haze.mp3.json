@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ping_with_haze",
-  "timestamp": "2025-05-11T14:59:24.562495",
+  "timestamp": "2025-08-18T21:07:03.039030",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
-      "text": " I'm with you, Haze!",
+      "end": 1.2799999713897705,
+      "text": " I'm with you, Haze.",
       "part": 1
     }
   ]

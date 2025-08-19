@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_ping_krill_dead",
+  "timestamp": "2025-08-18T19:09:17.759155",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Krill is dead.",
+      "part": 1
+    }
+  ]
+}

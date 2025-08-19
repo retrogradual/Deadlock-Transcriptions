@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bebop_ping_priest_dead",
+  "timestamp": "2025-08-18T19:02:00.849415",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " FENETER IS DEAD!",
+      "part": 1
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 {
   "voiceline_id": "frank_ping_see_atlas_01",
-  "timestamp": "2025-05-11T15:00:08.094062",
+  "timestamp": "2025-08-18T21:09:13.186750",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " I see Abrams.",
+      "text": " I see you, Abrams.",
       "part": 1
     }
   ]

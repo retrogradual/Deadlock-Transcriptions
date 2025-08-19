@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "drifter_unselect_04",
+  "timestamp": "2025-08-18T19:16:26.356450",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.5,
+      "text": " Wish I could help, but I have an old friend I need to say hello to.",
+      "part": 1
+    }
+  ]
+}

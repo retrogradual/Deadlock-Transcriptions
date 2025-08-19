@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "patron_female_ally_doorman_start_04",
+  "timestamp": "2025-08-18T19:00:17.900445",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.239999771118164,
+      "text": " You honor the Sapphire Flame by standing with us today.",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "orion_ping_priest_was_here",
+  "timestamp": "2025-08-18T19:25:28.195825",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " The Venator was here.",
+      "part": 1
+    }
+  ]
+}

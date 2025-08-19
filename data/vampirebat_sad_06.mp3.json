@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_sad_06",
+  "timestamp": "2025-08-18T19:32:45.810885",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.5,
+      "text": " The Patron should have assembled more useful pawns for me to use.",
+      "part": 1
+    }
+  ]
+}

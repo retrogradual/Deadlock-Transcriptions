@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "drifter_ping_punkgoat_was_here",
+  "timestamp": "2025-08-18T19:15:16.159096",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " That it was here.",
+      "part": 1
+    }
+  ]
+}

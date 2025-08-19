@@ -1,17 +1,17 @@
 {
   "voiceline_id": "patron_male_ally_krill_start_05",
-  "timestamp": "2025-03-12T12:24:44.934084",
+  "timestamp": "2025-08-18T21:05:19.100895",
   "segments": [
     {
       "start": 0.0,
-      "end": 5.360000133514404,
-      "text": " Moe and Krill, time and again you've shown that no building is impregnable.",
+      "end": 6.400000095367432,
+      "text": " Moe and Krill, your work sustains so many, and yet you are forced to live in the margins.",
       "part": 1
     },
     {
-      "start": 5.360000133514404,
-      "end": 9.199999809265137,
-      "text": " Complete the ritual and break me free!",
+      "start": 6.400000095367432,
+      "end": 10.319999694824219,
+      "text": " This injustice will end once you complete the ritual.",
       "part": 2
     }
   ]

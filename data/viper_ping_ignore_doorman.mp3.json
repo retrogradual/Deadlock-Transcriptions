@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "viper_ping_ignore_doorman",
+  "timestamp": "2025-08-18T19:33:06.085895",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.600000023841858,
+      "text": " Ignore the doorman!",
+      "part": 1
+    }
+  ]
+}

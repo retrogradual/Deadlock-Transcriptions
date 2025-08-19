@@ -1,10 +1,10 @@
 {
   "voiceline_id": "patron_male_ally_krill_start_04",
-  "timestamp": "2025-03-12T12:24:54.066868",
+  "timestamp": "2025-08-18T21:05:17.503039",
   "segments": [
     {
       "start": 0.0,
-      "end": 8.0,
+      "end": 7.599999904632568,
       "text": " Moe and Krill, you count on each other for survival as I count on you to complete the ritual.",
       "part": 1
     }

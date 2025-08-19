@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_happy_05",
+  "timestamp": "2025-08-18T19:11:58.192649",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.5999999046325684,
+      "text": " It was my pleasure to be of service.",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "frank_ping_punkgoat_almost_respawn",
+  "timestamp": "2025-08-18T19:18:53.857244",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Billy's almost back.",
+      "part": 1
+    }
+  ]
+}

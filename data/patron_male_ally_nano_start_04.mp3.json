@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "patron_male_ally_nano_start_04",
+  "timestamp": "2025-08-18T19:00:56.467251",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.399999618530273,
+      "text": " Your brilliance has gotten you far in life, but you have enough humility to know there are some things beyond even your considerable ability.",
+      "part": 1
+    },
+    {
+      "start": 8.399999618530273,
+      "end": 13.399999618530273,
+      "text": " Summon me, Calico, and together we will do great things.",
+      "part": 2
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_sad_03",
+  "timestamp": "2025-08-18T19:11:59.501531",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": " Turns out humanity is full of surprises.",
+      "part": 1
+    }
+  ]
+}

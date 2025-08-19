@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bookworm_unselect_05",
+  "timestamp": "2025-08-18T19:06:26.655741",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.159999847412109,
+      "text": " Sorry, I don't think I'm ready to answer the call yet.",
+      "part": 1
+    }
+  ]
+}

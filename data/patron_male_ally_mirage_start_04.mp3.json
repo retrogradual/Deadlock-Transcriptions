@@ -1,10 +1,10 @@
 {
   "voiceline_id": "patron_male_ally_mirage_start_04",
-  "timestamp": "2025-03-12T12:39:39.194001",
+  "timestamp": "2025-08-18T21:05:23.175718",
   "segments": [
     {
       "start": 0.0,
-      "end": 4.199999809265137,
+      "end": 5.0,
       "text": " Complete the ritual, and I will ensure that the Djinn have a safe haven.",
       "part": 1
     }

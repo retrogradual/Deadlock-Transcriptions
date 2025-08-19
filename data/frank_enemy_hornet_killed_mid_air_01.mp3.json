@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "frank_enemy_hornet_killed_mid_air_01",
+  "timestamp": "2025-08-18T19:18:23.942811",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " She's grounded.",
+      "part": 1
+    }
+  ]
+}

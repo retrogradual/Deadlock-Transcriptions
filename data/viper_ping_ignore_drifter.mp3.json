@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "viper_ping_ignore_drifter",
+  "timestamp": "2025-08-18T19:33:10.430780",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.440000057220459,
+      "text": " Ignore Drifter.",
+      "part": 1
+    }
+  ]
+}

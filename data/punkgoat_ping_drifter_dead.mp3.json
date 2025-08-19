@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "punkgoat_ping_drifter_dead",
+  "timestamp": "2025-08-18T19:26:24.263059",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8799999952316284,
+      "text": " The Drifter's dead.",
+      "part": 1
+    }
+  ]
+}

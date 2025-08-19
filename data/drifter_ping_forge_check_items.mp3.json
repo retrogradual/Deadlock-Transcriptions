@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "drifter_ping_forge_check_items",
+  "timestamp": "2025-08-18T19:13:39.416937",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Check out McGinnis' board.",
+      "part": 1
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 {
   "voiceline_id": "haze_ping_kelvin_dead",
-  "timestamp": "2025-05-13T16:34:38.611903",
+  "timestamp": "2025-08-18T21:12:03.008593",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Calvin is dead.",
+      "text": " Kelvin is dead.",
       "part": 1
     }
   ]

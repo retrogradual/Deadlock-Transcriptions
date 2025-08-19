@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "ghost_ping_careful_bookworm_02_alt",
+  "timestamp": "2025-08-18T19:20:19.543922",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": " Careful, Paige!",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "drifter_ally_swan_killed_in_lane_01",
+  "timestamp": "2025-08-18T19:15:31.285296",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " THEY TOOK OUR SWAN!",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "drifter_ping_post_game_05",
+  "timestamp": "2025-08-18T19:16:31.431325",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.5,
+      "text": " Friendly word of advice, you might want to stay away from Times Square tonight.",
+      "part": 1
+    },
+    {
+      "start": 5.5,
+      "end": 7.5,
+      "text": " I plan on celebrating.",
+      "part": 2
+    }
+  ]
+}

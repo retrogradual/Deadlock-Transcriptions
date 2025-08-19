@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "boho_ping_can_heal_atlas",
+  "timestamp": "2025-08-18T19:02:33.850171",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Abrams, I can heal you!",
+      "part": 1
+    }
+  ]
+}

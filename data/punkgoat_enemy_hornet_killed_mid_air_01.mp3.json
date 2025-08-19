@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "punkgoat_enemy_hornet_killed_mid_air_01",
+  "timestamp": "2025-08-18T19:27:02.513087",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.4000000953674316,
+      "text": " Get on the ground and fight like a normal person.",
+      "part": 1
+    }
+  ]
+}

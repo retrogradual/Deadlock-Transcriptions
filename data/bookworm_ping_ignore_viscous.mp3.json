@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ping_ignore_viscous",
-  "timestamp": "2025-05-11T14:59:43.783003",
+  "timestamp": "2025-08-18T21:08:05.702373",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Ignore viscus!",
+      "text": " Ignore Viscous.",
       "part": 1
     }
   ]

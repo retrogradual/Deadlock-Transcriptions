@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bookworm_leave_base_02",
+  "timestamp": "2025-08-18T19:06:32.362209",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I need to get back to the team.",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "drifter_ping_stun_doorman_01",
+  "timestamp": "2025-08-18T19:13:25.063791",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Stun Dolmen!",
+      "part": 1
+    }
+  ]
+}

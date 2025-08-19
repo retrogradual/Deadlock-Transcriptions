@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "patron_male_ally_frank_start_03",
+  "timestamp": "2025-08-18T19:00:52.787738",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.800000190734863,
+      "text": " What do you see when you look in the mirror, Victor? Yourself, or a stranger?",
+      "part": 1
+    },
+    {
+      "start": 5.800000190734863,
+      "end": 12.399999618530273,
+      "text": " Where do you end and he begins? Summon me, and find closure.",
+      "part": 2
+    }
+  ]
+}

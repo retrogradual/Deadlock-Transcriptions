@@ -1,10 +1,10 @@
 {
   "voiceline_id": "patron_male_enemy_astro_killing_streak_high_01",
-  "timestamp": "2025-03-12T03:46:04.718130",
+  "timestamp": "2025-08-18T21:04:42.923556",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
+      "end": 2.5,
       "text": " She has her grandfather's aim.",
       "part": 1
     }

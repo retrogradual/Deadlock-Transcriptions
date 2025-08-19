@@ -1,11 +1,11 @@
 {
   "voiceline_id": "frank_ping_saw_ghost",
-  "timestamp": "2025-05-11T15:00:17.692773",
+  "timestamp": "2025-08-18T21:09:37.048655",
   "segments": [
     {
       "start": 0.0,
       "end": 1.0,
-      "text": " I saw a ghost.",
+      "text": " I saw a Geist.",
       "part": 1
     }
   ]

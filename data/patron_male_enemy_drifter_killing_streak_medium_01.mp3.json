@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "patron_male_enemy_drifter_killing_streak_medium_01",
+  "timestamp": "2025-08-18T19:00:48.059833",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": " The Drifter will kill us all if we don't stop him!",
+      "part": 1
+    }
+  ]
+}

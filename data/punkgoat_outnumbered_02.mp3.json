@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "punkgoat_outnumbered_02",
+  "timestamp": "2025-08-18T19:29:17.361560",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " There's too many of them!",
+      "part": 1
+    }
+  ]
+}

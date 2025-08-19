@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "boho_ping_danger_area",
+  "timestamp": "2025-08-18T19:05:07.618433",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " It's dangerous here.",
+      "part": 1
+    }
+  ]
+}

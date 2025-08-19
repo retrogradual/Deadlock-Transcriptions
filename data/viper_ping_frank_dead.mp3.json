@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "viper_ping_frank_dead",
+  "timestamp": "2025-08-18T19:33:17.648981",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": " Victor is dead.",
+      "part": 1
+    }
+  ]
+}

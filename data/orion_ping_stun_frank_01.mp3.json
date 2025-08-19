@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "orion_ping_stun_frank_01",
+  "timestamp": "2025-08-18T19:25:17.985790",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Stun Victor.",
+      "part": 1
+    }
+  ]
+}

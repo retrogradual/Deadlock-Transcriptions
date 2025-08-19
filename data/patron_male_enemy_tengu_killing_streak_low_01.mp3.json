@@ -1,11 +1,11 @@
 {
   "voiceline_id": "patron_male_enemy_tengu_killing_streak_low_01",
-  "timestamp": "2025-03-12T12:46:12.973324",
+  "timestamp": "2025-08-18T21:05:32.800566",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " The Gargoyle is giving us trouble.",
+      "text": " The Gargoyle is giving us trouble!",
       "part": 1
     }
   ]

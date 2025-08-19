@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bebop_ping_doorman_in_mid",
+  "timestamp": "2025-08-18T19:01:34.924098",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Tolman's Inc. Made.",
+      "part": 1
+    }
+  ]
+}

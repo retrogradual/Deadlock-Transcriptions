@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "boho_ping_careful_punkgoat_01",
+  "timestamp": "2025-08-18T19:03:56.805558",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Careful, goat boy!",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "boho_ping_kelvin_was_here",
+  "timestamp": "2025-08-18T19:03:26.375378",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Kelvin was here!",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "punkgoat_ping_wraith_almost_respawn",
+  "timestamp": "2025-08-18T19:28:33.571972",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Wraith is almost back!",
+      "part": 1
+    }
+  ]
+}

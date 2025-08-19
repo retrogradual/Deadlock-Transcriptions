@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_ally_forge_wall_stun_kill_01",
+  "timestamp": "2025-08-18T19:08:08.909957",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Well done, McGinnis!",
+      "part": 1
+    }
+  ]
+}

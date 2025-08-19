@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "hornet_leave_base_05",
+  "timestamp": "2025-08-18T19:23:32.617411",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I'm coming for you, Hathorne!",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "boho_ping_attack_nano",
+  "timestamp": "2025-08-18T19:03:45.240314",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Let's take out Calico.",
+      "part": 1
+    }
+  ]
+}

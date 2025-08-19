@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_ally_forge_wall_stun_kill_01",
+  "timestamp": "2025-08-18T19:31:16.376424",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Good thinking, McGinnis!",
+      "part": 1
+    }
+  ]
+}

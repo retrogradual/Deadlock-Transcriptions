@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "boho_ping_affermative_01",
+  "timestamp": "2025-08-18T19:04:51.388366",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.800000011920929,
+      "text": " Sounds good!",
+      "part": 1
+    }
+  ]
+}

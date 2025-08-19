@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ping_tengu_almost_respawn",
-  "timestamp": "2025-05-13T16:23:20.344892",
+  "timestamp": "2025-08-18T21:07:56.933128",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Ivy is almost back.",
+      "text": " Ivy is almost back!",
       "part": 1
     }
   ]

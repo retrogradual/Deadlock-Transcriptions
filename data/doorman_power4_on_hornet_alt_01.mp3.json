@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_power4_on_hornet_alt_01",
+  "timestamp": "2025-08-18T21:00:36.194570",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 14.0,
+      "text": " Vindicta, how many lives have you claimed? Do they weigh on you? If so, rest and purge yourself of that nagging sense of guilt. If not, take a moment to revel in the fruits of your labor.",
+      "part": 1
+    }
+  ]
+}

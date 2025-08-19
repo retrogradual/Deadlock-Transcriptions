@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "frank_unselect_04",
+  "timestamp": "2025-08-18T19:19:20.073302",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.240000009536743,
+      "text": " Maybe some secrets are best left buried.",
+      "part": 1
+    }
+  ]
+}

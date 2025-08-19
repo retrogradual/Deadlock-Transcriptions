@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bookworm_upgrade_power2_05",
+  "timestamp": "2025-08-18T19:06:42.892562",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I'm ready to help out the team!",
+      "part": 1
+    }
+  ]
+}

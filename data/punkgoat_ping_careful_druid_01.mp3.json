@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "punkgoat_ping_careful_druid_01",
+  "timestamp": "2025-08-18T19:29:44.291166",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8799999952316284,
+      "text": " Careful, Druid!",
+      "part": 1
+    }
+  ]
+}

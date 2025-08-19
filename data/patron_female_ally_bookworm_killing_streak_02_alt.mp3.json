@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "patron_female_ally_bookworm_killing_streak_02_alt",
+  "timestamp": "2025-08-18T19:00:12.186866",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.28000020980835,
+      "text": " I never expected Paige to be so lethal.",
+      "part": 1
+    },
+    {
+      "start": 4.28000020980835,
+      "end": 10.399999618530273,
+      "text": " It would seem this story has some surprises.",
+      "part": 2
+    }
+  ]
+}

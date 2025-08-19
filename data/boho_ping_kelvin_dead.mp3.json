@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "boho_ping_kelvin_dead",
+  "timestamp": "2025-08-18T19:03:25.331800",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Kelvin is dead.",
+      "part": 1
+    }
+  ]
+}

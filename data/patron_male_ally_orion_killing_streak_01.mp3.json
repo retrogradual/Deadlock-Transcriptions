@@ -1,11 +1,11 @@
 {
   "voiceline_id": "patron_male_ally_orion_killing_streak_01",
-  "timestamp": "2025-03-12T04:02:59.619258",
+  "timestamp": "2025-08-18T21:05:23.716479",
   "segments": [
     {
       "start": 0.0,
-      "end": 4.0,
-      "text": " Show them why you are Legend, Grey Talon.",
+      "end": 3.359999895095825,
+      "text": " Show them why you are legend, Grey Talon.",
       "part": 1
     }
   ]

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_ping_krill_was_here",
+  "timestamp": "2025-08-18T19:09:19.362508",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Krill was here.",
+      "part": 1
+    }
+  ]
+}

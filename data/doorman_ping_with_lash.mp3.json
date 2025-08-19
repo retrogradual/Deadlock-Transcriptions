@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_ping_with_lash",
+  "timestamp": "2025-08-18T19:09:29.257619",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I'm with you, Lash.",
+      "part": 1
+    }
+  ]
+}

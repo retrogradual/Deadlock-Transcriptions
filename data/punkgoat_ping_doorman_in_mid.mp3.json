@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "punkgoat_ping_doorman_in_mid",
+  "timestamp": "2025-08-18T19:26:20.065206",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " THE DOORMAN'S IN MID!",
+      "part": 1
+    }
+  ]
+}

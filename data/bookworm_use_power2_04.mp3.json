@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_use_power2_04",
-  "timestamp": "2025-05-13T18:40:32.943551",
+  "timestamp": "2025-08-18T21:08:23.696430",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " I'm a little tricky!",
+      "text": " This should help!",
       "part": 1
     }
   ]

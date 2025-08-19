@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ally_synth_killed_in_lane_01",
-  "timestamp": "2025-05-11T14:59:38.791100",
+  "timestamp": "2025-08-18T21:07:50.594653",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " THEY TOOK OUT POCKET!",
+      "text": " They took out Pocket!",
       "part": 1
     }
   ]

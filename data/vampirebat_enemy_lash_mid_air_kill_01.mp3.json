@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_enemy_lash_mid_air_kill_01",
+  "timestamp": "2025-08-18T19:31:41.186995",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Whatever, Lash!",
+      "part": 1
+    }
+  ]
+}

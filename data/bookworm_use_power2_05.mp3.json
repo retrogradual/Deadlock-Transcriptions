@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_use_power2_05",
-  "timestamp": "2025-05-13T18:40:33.025097",
+  "timestamp": "2025-08-18T21:08:23.829737",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
-      "text": " GOING FAST!",
+      "end": 1.0,
+      "text": " Here you go!",
       "part": 1
     }
   ]

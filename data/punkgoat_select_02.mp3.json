@@ -1,0 +1,24 @@
+{
+  "voiceline_id": "punkgoat_select_02",
+  "timestamp": "2025-08-18T19:28:40.351257",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.760000228881836,
+      "text": " If you think the OSIC are the good guys, bro, you gotta wake up and take a look around.",
+      "part": 1
+    },
+    {
+      "start": 5.760000228881836,
+      "end": 12.199999809265137,
+      "text": " Regulation is just a $3 word for hoarding, which is just a $2 word for controlling, which",
+      "part": 2
+    },
+    {
+      "start": 12.199999809265137,
+      "end": 14.720000267028809,
+      "text": " is just a $1 word for asshole.",
+      "part": 3
+    }
+  ]
+}

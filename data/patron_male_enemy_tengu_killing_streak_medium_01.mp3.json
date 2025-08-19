@@ -1,11 +1,11 @@
 {
   "voiceline_id": "patron_male_enemy_tengu_killing_streak_medium_01",
-  "timestamp": "2025-03-12T03:52:17.522686",
+  "timestamp": "2025-08-18T21:05:33.093792",
   "segments": [
     {
       "start": 0.0,
       "end": 3.0,
-      "text": " We can't let the Gargoyle destroy us!",
+      "text": " We can't let that gargoyle destroy us!",
       "part": 1
     }
   ]

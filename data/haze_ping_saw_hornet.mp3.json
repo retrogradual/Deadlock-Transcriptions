@@ -1,11 +1,11 @@
 {
   "voiceline_id": "haze_ping_saw_hornet",
-  "timestamp": "2025-05-11T15:02:46.540593",
+  "timestamp": "2025-08-18T21:12:00.728165",
   "segments": [
     {
       "start": 0.0,
-      "end": 1.2799999713897705,
-      "text": " I saw the Dicta.",
+      "end": 2.0,
+      "text": " I saw Vindicta.",
       "part": 1
     }
   ]

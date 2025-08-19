@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_kill_yamato_01_alt_01",
+  "timestamp": "2025-08-18T19:11:08.884821",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Stopped the Swordsman.",
+      "part": 1
+    }
+  ]
+}

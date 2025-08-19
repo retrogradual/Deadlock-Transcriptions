@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "boho_ping_inferno_in_mid",
+  "timestamp": "2025-08-18T19:03:20.759876",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Infernus is in Mid.",
+      "part": 1
+    }
+  ]
+}

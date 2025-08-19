@@ -1,11 +1,11 @@
 {
   "voiceline_id": "haze_upgrade_power2_01",
-  "timestamp": "2025-05-13T18:44:25.423143",
+  "timestamp": "2025-08-18T21:12:25.206944",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
-      "text": " The shadows protect their own.",
+      "end": 2.319999933242798,
+      "text": " The Shadows protect their own.",
       "part": 1
     }
   ]

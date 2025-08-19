@@ -1,11 +1,11 @@
 {
   "voiceline_id": "kelvin_ping_post_game_06",
-  "timestamp": "2025-03-12T12:38:54.418986",
+  "timestamp": "2025-08-18T21:13:14.605305",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.799999952316284,
-      "text": " I'm honored to fight by your side once more.",
+      "end": 2.0,
+      "text": " Well done, my friends!",
       "part": 1
     }
   ]

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "punkgoat_ping_hornet_was_here",
+  "timestamp": "2025-08-18T19:27:06.871716",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Vindicta was here.",
+      "part": 1
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 {
   "voiceline_id": "frank_ping_shiv_in_mid",
-  "timestamp": "2025-05-13T16:28:55.529828",
+  "timestamp": "2025-08-18T21:10:29.680539",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
-      "text": " Shiv's in mid.",
+      "end": 1.0,
+      "text": " Shivs in mid.",
       "part": 1
     }
   ]

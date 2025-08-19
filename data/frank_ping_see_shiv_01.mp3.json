@@ -1,11 +1,11 @@
 {
   "voiceline_id": "frank_ping_see_shiv_01",
-  "timestamp": "2025-05-11T15:00:35.256880",
+  "timestamp": "2025-08-18T21:10:28.785317",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Icy Chef.",
+      "text": " I see Shiv.",
       "part": 1
     }
   ]

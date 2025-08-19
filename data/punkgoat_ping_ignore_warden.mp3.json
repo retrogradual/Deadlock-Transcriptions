@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "punkgoat_ping_ignore_warden",
+  "timestamp": "2025-08-18T19:28:27.326916",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Ignore Warden.",
+      "part": 1
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 {
   "voiceline_id": "haze_ping_stun_nano_01",
-  "timestamp": "2025-05-11T15:02:59.371090",
+  "timestamp": "2025-08-18T21:12:06.446161",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
-      "text": " Stun Calico!",
+      "end": 1.440000057220459,
+      "text": " Stun Calico.",
       "part": 1
     }
   ]

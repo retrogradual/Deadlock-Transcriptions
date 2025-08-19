@@ -1,11 +1,11 @@
 {
   "voiceline_id": "frank_ping_see_chrono_on_bridge",
-  "timestamp": "2025-05-13T16:28:39.766932",
+  "timestamp": "2025-08-18T21:09:22.319790",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Paradox on the bridge.",
+      "text": " Paradox on the Bridge.",
       "part": 1
     }
   ]

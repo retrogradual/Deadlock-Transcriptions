@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_concerned_07",
+  "timestamp": "2025-08-18T19:11:56.569665",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.240000009536743,
+      "text": " I might need to rethink things.",
+      "part": 1
+    }
+  ]
+}

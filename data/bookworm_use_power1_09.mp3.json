@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_use_power1_09",
-  "timestamp": "2025-05-13T18:40:31.695763",
+  "timestamp": "2025-08-18T21:08:23.116905",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Leave them to me!",
+      "text": " This is a great read!",
       "part": 1
     }
   ]

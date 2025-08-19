@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "ghost_enemy_astro_bounce_escape_03",
+  "timestamp": "2025-08-18T19:20:11.383579",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " You can't outrun the inevitable.",
+      "part": 1
+    }
+  ]
+}

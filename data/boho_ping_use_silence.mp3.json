@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "boho_ping_use_silence",
+  "timestamp": "2025-08-18T19:05:15.086612",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Ready to use Silence Cliff!",
+      "part": 1
+    }
+  ]
+}

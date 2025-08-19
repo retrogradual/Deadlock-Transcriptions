@@ -1,11 +1,11 @@
 {
   "voiceline_id": "haze_ping_lash_almost_respawn",
-  "timestamp": "2025-05-13T16:34:47.021574",
+  "timestamp": "2025-08-18T21:12:05.060299",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Lash is almost back.",
+      "text": " Splash is almost back!",
       "part": 1
     }
   ]

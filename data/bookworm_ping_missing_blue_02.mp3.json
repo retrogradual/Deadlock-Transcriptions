@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ping_missing_blue_02",
-  "timestamp": "2025-05-13T16:22:37.177987",
+  "timestamp": "2025-08-18T21:08:47.095791",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " MISSING BROADWAY",
+      "text": " Missing Broadway.",
       "part": 1
     }
   ]

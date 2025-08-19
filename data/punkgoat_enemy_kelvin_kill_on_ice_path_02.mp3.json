@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "punkgoat_enemy_kelvin_kill_on_ice_path_02",
+  "timestamp": "2025-08-18T19:27:14.942410",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.840000033378601,
+      "text": " Cute Ice Path, you're dead.",
+      "part": 1
+    }
+  ]
+}

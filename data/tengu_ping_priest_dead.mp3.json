@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "tengu_ping_priest_dead",
+  "timestamp": "2025-08-18T19:30:27.402032",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Beneteau is dead.",
+      "part": 1
+    }
+  ]
+}

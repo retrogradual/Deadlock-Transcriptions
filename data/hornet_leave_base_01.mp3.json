@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "hornet_leave_base_01",
+  "timestamp": "2025-08-18T19:23:32.131879",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Ready to end the ritual.",
+      "part": 1
+    }
+  ]
+}

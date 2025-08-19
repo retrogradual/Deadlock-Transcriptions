@@ -1,11 +1,11 @@
 {
   "voiceline_id": "frank_ping_careful_forge_03",
-  "timestamp": "2025-05-11T15:00:15.958046",
+  "timestamp": "2025-08-18T21:09:30.299966",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Be careful with Guinness!",
+      "text": " Be careful McGinnis!",
       "part": 1
     }
   ]

@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_use_power3_01",
-  "timestamp": "2025-05-13T18:40:33.917061",
+  "timestamp": "2025-08-18T21:08:26.618111",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " I'm buffing!",
+      "text": " I call on the Lady of the Lake!",
       "part": 1
     }
   ]

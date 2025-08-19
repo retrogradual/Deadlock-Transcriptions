@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bookworm_ping_doorman_dead",
+  "timestamp": "2025-08-18T19:05:27.292714",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": " Tormund is dead.",
+      "part": 1
+    }
+  ]
+}

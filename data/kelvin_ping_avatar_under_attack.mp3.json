@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "kelvin_ping_avatar_under_attack",
+  "timestamp": "2025-08-18T19:24:40.781588",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " You're taking our patron!",
+      "part": 1
+    }
+  ]
+}

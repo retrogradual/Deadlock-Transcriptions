@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "patron_female_ally_bookworm_start_05_alt",
+  "timestamp": "2025-08-18T19:00:15.765485",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.0,
+      "text": " Today you find yourself in a crucible, but the love for your brother is stronger than iron.",
+      "part": 1
+    },
+    {
+      "start": 8.0,
+      "end": 19.0,
+      "text": " You will succeed, you will summon me, and in doing so, you will heal your family.",
+      "part": 2
+    }
+  ]
+}

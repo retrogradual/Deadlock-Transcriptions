@@ -1,10 +1,10 @@
 {
   "voiceline_id": "patron_male_ally_forge_killing_streak_01",
-  "timestamp": "2025-03-12T12:28:18.758700",
+  "timestamp": "2025-08-18T21:04:55.414211",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.700000047683716,
+      "end": 2.8399999141693115,
       "text": " I expected nothing less from you, McGinnis.",
       "part": 1
     }

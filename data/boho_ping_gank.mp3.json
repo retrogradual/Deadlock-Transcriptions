@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "boho_ping_gank",
+  "timestamp": "2025-08-18T19:04:55.447021",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": " Go in a gank.",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_enemy_forge_destroy_turrets_01",
+  "timestamp": "2025-08-18T19:31:16.995801",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.5999999046325684,
+      "text": " I'll smash every one of her machines!",
+      "part": 1
+    }
+  ]
+}

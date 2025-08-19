@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "frank_ping_priest_check_items",
+  "timestamp": "2025-08-18T19:18:48.318909",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Check out what Rourke bought.",
+      "part": 1
+    }
+  ]
+}

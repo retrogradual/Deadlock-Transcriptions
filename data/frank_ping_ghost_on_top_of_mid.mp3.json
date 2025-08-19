@@ -1,11 +1,11 @@
 {
   "voiceline_id": "frank_ping_ghost_on_top_of_mid",
-  "timestamp": "2025-05-13T16:27:51.072594",
+  "timestamp": "2025-08-18T21:09:36.249820",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
-      "text": " Guys on top of mid.",
+      "end": 1.2799999713897705,
+      "text": " Geist on top of mid.",
       "part": 1
     }
   ]

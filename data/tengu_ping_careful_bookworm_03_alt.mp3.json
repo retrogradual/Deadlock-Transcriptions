@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "tengu_ping_careful_bookworm_03_alt",
+  "timestamp": "2025-08-18T19:30:10.051252",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Careful, B.A.T.E.!",
+      "part": 1
+    }
+  ]
+}

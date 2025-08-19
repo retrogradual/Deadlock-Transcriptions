@@ -1,11 +1,11 @@
 {
   "voiceline_id": "haze_ping_dynamo_almost_respawn",
-  "timestamp": "2025-05-13T16:34:01.166046",
+  "timestamp": "2025-08-18T21:11:55.110536",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Dynamo is almost back.",
+      "text": " DYNAMO IS ALMOST BACK!",
       "part": 1
     }
   ]

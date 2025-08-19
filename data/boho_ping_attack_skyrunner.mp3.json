@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "boho_ping_attack_skyrunner",
+  "timestamp": "2025-08-18T19:04:01.874616",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Let's take out Skyrunner!",
+      "part": 1
+    }
+  ]
+}

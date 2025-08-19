@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_ping_with_priest",
+  "timestamp": "2025-08-18T19:31:53.149637",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I'm with you, Rourke.",
+      "part": 1
+    }
+  ]
+}

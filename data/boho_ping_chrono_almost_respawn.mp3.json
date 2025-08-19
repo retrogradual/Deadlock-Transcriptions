@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "boho_ping_chrono_almost_respawn",
+  "timestamp": "2025-08-18T19:02:43.308782",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Paradox is almost back!",
+      "part": 1
+    }
+  ]
+}

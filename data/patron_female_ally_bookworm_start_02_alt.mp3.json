@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "patron_female_ally_bookworm_start_02_alt",
+  "timestamp": "2025-08-18T19:00:14.197463",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 15.800000190734863,
+      "text": " You risk much by coming here, Patience, but you understand that this is the only way to save him. Complete the ritual, and I will help you.",
+      "part": 1
+    }
+  ]
+}

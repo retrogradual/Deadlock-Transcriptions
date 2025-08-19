@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ping_hornet_under_garage",
-  "timestamp": "2025-05-13T16:22:18.819209",
+  "timestamp": "2025-08-18T21:07:06.093428",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Vindictus under the garage!",
+      "text": " Vindicta is under the garage.",
       "part": 1
     }
   ]

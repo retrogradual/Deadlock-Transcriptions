@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "ghost_ping_frank_was_here",
+  "timestamp": "2025-08-18T19:20:47.581069",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Vito is here!",
+      "part": 1
+    }
+  ]
+}

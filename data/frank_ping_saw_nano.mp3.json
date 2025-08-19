@@ -1,11 +1,11 @@
 {
   "voiceline_id": "frank_ping_saw_nano",
-  "timestamp": "2025-05-11T15:00:32.320590",
+  "timestamp": "2025-08-18T21:10:20.635328",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " I saw a calico.",
+      "text": " I saw Gallagher.",
       "part": 1
     }
   ]

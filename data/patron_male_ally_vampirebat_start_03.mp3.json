@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "patron_male_ally_vampirebat_start_03",
+  "timestamp": "2025-08-18T19:01:03.188409",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 16.0,
+      "text": " The other vampires are old, weak. Not in power, but in spirit, in vision. But not you. You have the chance to lead the barony of New York to new heights. But first, you must complete the ritual.",
+      "part": 1
+    }
+  ]
+}

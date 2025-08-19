@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ping_careful_inferno_01",
-  "timestamp": "2025-05-11T14:59:25.798733",
+  "timestamp": "2025-08-18T21:07:08.851777",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Careful Infernus.",
+      "text": " Be careful, Infernus.",
       "part": 1
     }
   ]

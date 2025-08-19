@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "viper_ping_vampirebat_dead",
+  "timestamp": "2025-08-18T19:33:42.865333",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Mina's dead.",
+      "part": 1
+    }
+  ]
+}

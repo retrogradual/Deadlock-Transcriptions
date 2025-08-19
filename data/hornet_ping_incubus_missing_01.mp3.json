@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "hornet_ping_incubus_missing_01",
+  "timestamp": "2025-08-18T19:22:58.090525",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " The Incubus is missing!",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bookworm_upgrade_power1_09",
+  "timestamp": "2025-08-18T19:06:41.243182",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " This is my comfort book.",
+      "part": 1
+    }
+  ]
+}

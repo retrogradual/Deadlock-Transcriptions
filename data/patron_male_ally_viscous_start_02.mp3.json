@@ -1,12 +1,18 @@
 {
   "voiceline_id": "patron_male_ally_viscous_start_02",
-  "timestamp": "2025-03-12T12:29:30.343964",
+  "timestamp": "2025-08-18T21:05:36.630722",
   "segments": [
     {
       "start": 0.0,
-      "end": 9.0,
-      "text": " You yearn to understand humanity, even as it shuns you. Summon me, Viscous, and make your dreams reality.",
+      "end": 4.639999866485596,
+      "text": " You yearn to understand humanity, Viscous, even as it shuns you.",
       "part": 1
+    },
+    {
+      "start": 4.639999866485596,
+      "end": 8.319999694824219,
+      "text": " Summon me, Viscous, and make your dreams reality.",
+      "part": 2
     }
   ]
 }

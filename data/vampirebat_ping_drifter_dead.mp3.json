@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_ping_drifter_dead",
+  "timestamp": "2025-08-18T19:31:11.060181",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " The Drifter is dead.",
+      "part": 1
+    }
+  ]
+}

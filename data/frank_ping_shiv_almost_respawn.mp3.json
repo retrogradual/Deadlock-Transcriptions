@@ -1,11 +1,11 @@
 {
   "voiceline_id": "frank_ping_shiv_almost_respawn",
-  "timestamp": "2025-05-13T16:28:54.811664",
+  "timestamp": "2025-08-18T21:10:30.405721",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Ship's almost back.",
+      "text": " Shiv's almost back.",
       "part": 1
     }
   ]

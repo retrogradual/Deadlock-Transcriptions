@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "boho_ping_gigawatt_dead",
+  "timestamp": "2025-08-18T19:03:06.086207",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Seven is dead.",
+      "part": 1
+    }
+  ]
+}

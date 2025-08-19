@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "frank_enemy_orion_see_missile_01",
+  "timestamp": "2025-08-18T19:18:42.686510",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Talon's on the hunt!",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "boho_ping_skyrunner_missing_01",
+  "timestamp": "2025-08-18T19:04:02.841914",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Skyrun is missing.",
+      "part": 1
+    }
+  ]
+}

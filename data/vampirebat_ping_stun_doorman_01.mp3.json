@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_ping_stun_doorman_01",
+  "timestamp": "2025-08-18T19:31:06.611639",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Stun the doorman!",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "frank_ping_use_ability1",
+  "timestamp": "2025-08-18T19:20:03.733171",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " PAIN BATTERIES READY!",
+      "part": 1
+    }
+  ]
+}

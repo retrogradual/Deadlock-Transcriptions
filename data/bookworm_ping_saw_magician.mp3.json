@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ping_saw_magician",
-  "timestamp": "2025-05-11T14:59:31.512222",
+  "timestamp": "2025-08-18T21:07:27.327308",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " I swore Sinclair!",
+      "text": " I saw Sinclair.",
       "part": 1
     }
   ]

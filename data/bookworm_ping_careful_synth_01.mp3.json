@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ping_careful_synth_01",
-  "timestamp": "2025-05-11T14:59:39.245175",
+  "timestamp": "2025-08-18T21:07:51.192186",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Careful pocket.",
+      "text": " Careful, Pocket.",
       "part": 1
     }
   ]

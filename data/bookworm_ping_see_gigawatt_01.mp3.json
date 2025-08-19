@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ping_see_gigawatt_01",
-  "timestamp": "2025-05-11T14:59:22.532328",
+  "timestamp": "2025-08-18T21:06:57.758981",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " I see seven!",
+      "text": " I see Seven.",
       "part": 1
     }
   ]

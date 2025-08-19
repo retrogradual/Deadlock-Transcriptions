@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "ghost_ping_bookworm_dead_alt",
+  "timestamp": "2025-08-18T19:20:20.705071",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Pej is dead.",
+      "part": 1
+    }
+  ]
+}

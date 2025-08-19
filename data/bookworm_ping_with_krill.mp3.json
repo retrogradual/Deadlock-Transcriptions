@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ping_with_krill",
-  "timestamp": "2025-05-11T14:59:28.949339",
+  "timestamp": "2025-08-18T21:07:20.576518",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " I'm with you, Krill!",
+      "text": " I'm with you, Krill.",
       "part": 1
     }
   ]

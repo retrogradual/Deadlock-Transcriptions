@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "drifter_unselect_09",
+  "timestamp": "2025-08-18T19:16:27.876713",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.159999847412109,
+      "text": " I don't need the Patrons. The Patrons need me.",
+      "part": 1
+    }
+  ]
+}

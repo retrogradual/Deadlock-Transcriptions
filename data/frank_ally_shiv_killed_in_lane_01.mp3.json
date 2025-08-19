@@ -1,11 +1,11 @@
 {
   "voiceline_id": "frank_ally_shiv_killed_in_lane_01",
-  "timestamp": "2025-05-11T15:00:34.369040",
+  "timestamp": "2025-08-18T21:10:27.382722",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " THEY TOOK OUT SHIFT!",
+      "text": " They took out Shiv!",
       "part": 1
     }
   ]

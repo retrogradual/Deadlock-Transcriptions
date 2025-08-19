@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ping_ignore_dynamo",
-  "timestamp": "2025-05-11T14:59:17.225252",
+  "timestamp": "2025-08-18T21:06:38.921554",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Ignore Dynamo!",
+      "text": " Ignore Dynamo.",
       "part": 1
     }
   ]

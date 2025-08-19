@@ -1,10 +1,10 @@
 {
   "voiceline_id": "frank_ping_ignore_inferno",
-  "timestamp": "2025-05-11T15:00:22.717753",
+  "timestamp": "2025-08-18T21:09:53.659139",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
+      "end": 1.0,
       "text": " Ignore Infernus.",
       "part": 1
     }

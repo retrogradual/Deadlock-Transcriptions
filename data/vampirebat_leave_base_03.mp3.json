@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_leave_base_03",
+  "timestamp": "2025-08-18T19:32:20.919881",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " And now, we complete the ritual.",
+      "part": 1
+    }
+  ]
+}

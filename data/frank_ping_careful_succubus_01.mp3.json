@@ -1,11 +1,11 @@
 {
   "voiceline_id": "frank_ping_careful_succubus_01",
-  "timestamp": "2025-05-13T16:27:24.254314",
+  "timestamp": "2025-08-18T21:10:35.293143",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Careful Succubus.",
+      "text": " Careful, Succubus.",
       "part": 1
     }
   ]

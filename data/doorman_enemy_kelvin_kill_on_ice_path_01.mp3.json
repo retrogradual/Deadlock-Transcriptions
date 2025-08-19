@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_enemy_kelvin_kill_on_ice_path_01",
+  "timestamp": "2025-08-18T19:09:06.459852",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.4000000953674316,
+      "text": " Stick to Rockefeller Center, Kelvin.",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "boho_ping_stay_together",
+  "timestamp": "2025-08-18T19:05:06.657314",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": " Stay together!",
+      "part": 1
+    }
+  ]
+}

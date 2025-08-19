@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bebop_ping_punkgoat_almost_respawn",
+  "timestamp": "2025-08-18T19:02:06.593526",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Billy's almost back!",
+      "part": 1
+    }
+  ]
+}

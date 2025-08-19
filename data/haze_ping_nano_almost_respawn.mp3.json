@@ -1,11 +1,11 @@
 {
   "voiceline_id": "haze_ping_nano_almost_respawn",
-  "timestamp": "2025-05-13T16:35:05.537223",
+  "timestamp": "2025-08-18T21:12:06.971558",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Calico is almost back.",
+      "text": " Calico is almost back!",
       "part": 1
     }
   ]

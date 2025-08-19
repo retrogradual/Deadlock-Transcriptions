@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "drifter_ping_heal_ready",
+  "timestamp": "2025-08-18T19:17:24.695287",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Heels Ready!",
+      "part": 1
+    }
+  ]
+}

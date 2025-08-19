@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "punkgoat_ping_thanks",
+  "timestamp": "2025-08-18T19:29:23.948263",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.6399999856948853,
+      "text": " Thanks.",
+      "part": 1
+    }
+  ]
+}

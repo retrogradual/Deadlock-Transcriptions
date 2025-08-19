@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_use_power4_05",
+  "timestamp": "2025-08-18T19:11:34.343787",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Your Elevator Awaits.",
+      "part": 1
+    }
+  ]
+}

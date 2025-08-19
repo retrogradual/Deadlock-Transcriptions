@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_sad_05",
+  "timestamp": "2025-08-18T19:12:00.493331",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Next time we'll go differently.",
+      "part": 1
+    }
+  ]
+}

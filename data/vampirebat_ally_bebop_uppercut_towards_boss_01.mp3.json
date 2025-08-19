@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_ally_bebop_uppercut_towards_boss_01",
+  "timestamp": "2025-08-18T19:30:54.734563",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Good thinking, Bebop!",
+      "part": 1
+    }
+  ]
+}

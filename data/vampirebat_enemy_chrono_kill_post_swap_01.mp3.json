@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_enemy_chrono_kill_post_swap_01",
+  "timestamp": "2025-08-18T19:31:03.349829",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " You're pathetic, Paradox.",
+      "part": 1
+    }
+  ]
+}

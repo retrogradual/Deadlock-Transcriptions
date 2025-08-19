@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ally_priest_killed_in_lane_01",
-  "timestamp": "2025-05-11T14:59:35.952371",
+  "timestamp": "2025-08-18T21:07:38.970780",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " THEY TOOK OUR PRIEST!",
+      "text": " They took out Venator!",
       "part": 1
     }
   ]

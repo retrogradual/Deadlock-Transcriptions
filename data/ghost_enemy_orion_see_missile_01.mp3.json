@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "ghost_enemy_orion_see_missile_01",
+  "timestamp": "2025-08-18T19:21:09.610451",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Look out for the damn owl!",
+      "part": 1
+    }
+  ]
+}

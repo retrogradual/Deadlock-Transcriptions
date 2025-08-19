@@ -1,11 +1,11 @@
 {
   "voiceline_id": "orion_ally_warden_big_ult_01",
-  "timestamp": "2025-03-12T12:30:48.016752",
+  "timestamp": "2025-08-18T21:13:26.566786",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " The Warden is a man possessed!",
+      "text": " Warden is a man possessed.",
       "part": 1
     }
   ]

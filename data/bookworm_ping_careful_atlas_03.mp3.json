@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ping_careful_atlas_03",
-  "timestamp": "2025-05-11T14:59:12.140321",
+  "timestamp": "2025-08-18T21:06:26.383579",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " CAREFUL ABRAMS!",
+      "text": " Careful, Abrams!",
       "part": 1
     }
   ]

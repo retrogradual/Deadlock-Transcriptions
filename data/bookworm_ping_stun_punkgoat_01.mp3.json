@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bookworm_ping_stun_punkgoat_01",
+  "timestamp": "2025-08-18T19:06:07.597553",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Stun Billy!",
+      "part": 1
+    }
+  ]
+}

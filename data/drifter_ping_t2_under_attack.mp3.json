@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "drifter_ping_t2_under_attack",
+  "timestamp": "2025-08-18T19:17:15.047398",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " They've taken our Tier 2!",
+      "part": 1
+    }
+  ]
+}

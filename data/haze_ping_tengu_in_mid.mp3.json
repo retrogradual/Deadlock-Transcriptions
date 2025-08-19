@@ -1,11 +1,11 @@
 {
   "voiceline_id": "haze_ping_tengu_in_mid",
-  "timestamp": "2025-05-13T16:35:54.712566",
+  "timestamp": "2025-08-18T21:12:14.601043",
   "segments": [
     {
       "start": 0.0,
-      "end": 1.1200000047683716,
-      "text": " Ivy's in MIT.",
+      "end": 2.0,
+      "text": " Ivy's in Mid.",
       "part": 1
     }
   ]

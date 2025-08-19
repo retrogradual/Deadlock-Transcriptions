@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_enemy_chrono_kill_post_swap_03",
+  "timestamp": "2025-08-18T19:31:03.376334",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Thought you'd be harder to kill than that.",
+      "part": 1
+    }
+  ]
+}

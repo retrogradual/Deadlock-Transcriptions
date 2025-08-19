@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "frank_enemy_ghost_ping_with_swap_02",
+  "timestamp": "2025-08-18T19:18:14.477482",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Geist is looking to swap.",
+      "part": 1
+    }
+  ]
+}

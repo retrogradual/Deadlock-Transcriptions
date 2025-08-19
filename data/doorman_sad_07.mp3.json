@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_sad_07",
+  "timestamp": "2025-08-18T19:12:00.473366",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Next time we will succeed.",
+      "part": 1
+    }
+  ]
+}

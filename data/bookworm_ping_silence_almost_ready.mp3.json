@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ping_silence_almost_ready",
-  "timestamp": "2025-05-13T16:23:11.233387",
+  "timestamp": "2025-08-18T21:08:51.887740",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Silent's glyph's almost ready.",
+      "text": " Silence glyph is almost ready.",
       "part": 1
     }
   ]

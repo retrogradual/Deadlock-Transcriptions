@@ -1,10 +1,10 @@
 {
   "voiceline_id": "patron_male_ally_synth_start_04",
-  "timestamp": "2025-03-12T12:24:11.729209",
+  "timestamp": "2025-08-18T21:05:31.801598",
   "segments": [
     {
       "start": 0.0,
-      "end": 6.0,
+      "end": 5.400000095367432,
       "text": " Your parents do not define you, Pocket. It's time to forge your own path.",
       "part": 1
     }

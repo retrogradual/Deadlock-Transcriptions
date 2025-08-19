@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "frank_unselect_07",
+  "timestamp": "2025-08-18T19:19:20.530723",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.200000047683716,
+      "text": " I'm a little busy dealing with existential dread right now.",
+      "part": 1
+    }
+  ]
+}

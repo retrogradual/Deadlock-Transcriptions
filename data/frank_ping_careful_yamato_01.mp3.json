@@ -1,11 +1,11 @@
 {
   "voiceline_id": "frank_ping_careful_yamato_01",
-  "timestamp": "2025-05-11T15:00:46.851452",
+  "timestamp": "2025-08-18T21:11:01.869736",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Careful Yamato.",
+      "text": " Careful, Yamato.",
       "part": 1
     }
   ]

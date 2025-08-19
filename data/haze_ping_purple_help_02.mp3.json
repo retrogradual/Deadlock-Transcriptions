@@ -1,11 +1,11 @@
 {
   "voiceline_id": "haze_ping_purple_help_02",
-  "timestamp": "2025-05-13T16:35:21.564089",
+  "timestamp": "2025-08-18T21:12:34.469583",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Park needs help.",
+      "text": " PARC NEEDS HELP.",
       "part": 1
     }
   ]

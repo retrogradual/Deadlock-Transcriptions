@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bebop_ping_drifter_dead",
+  "timestamp": "2025-08-18T19:01:41.518414",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " A DRIFTER IS DEAD!",
+      "part": 1
+    }
+  ]
+}

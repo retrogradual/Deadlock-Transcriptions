@@ -1,0 +1,24 @@
+{
+  "voiceline_id": "boho_select_07",
+  "timestamp": "2025-08-18T19:04:42.793239",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.799999952316284,
+      "text": " I keep on pitching a hero that's a dolphin with a fire axe, and people are like,",
+      "part": 1
+    },
+    {
+      "start": 3.799999952316284,
+      "end": 8.0,
+      "text": " that's dumb, dolphins don't have hands, and I'm like, that's why it's a psychic dolphin.",
+      "part": 2
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": " Anyway, whatever, let's play a match.",
+      "part": 3
+    }
+  ]
+}

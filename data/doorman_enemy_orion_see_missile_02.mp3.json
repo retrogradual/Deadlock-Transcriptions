@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_enemy_orion_see_missile_02",
+  "timestamp": "2025-08-18T19:09:48.413518",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Get away from the Owl!",
+      "part": 1
+    }
+  ]
+}

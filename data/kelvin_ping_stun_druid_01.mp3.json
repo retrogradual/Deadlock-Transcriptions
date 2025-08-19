@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "kelvin_ping_stun_druid_01",
+  "timestamp": "2025-08-18T19:24:01.774628",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Stun the Druid!",
+      "part": 1
+    }
+  ]
+}

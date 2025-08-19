@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ping_viper_dead",
-  "timestamp": "2025-05-13T16:23:27.904111",
+  "timestamp": "2025-08-18T21:08:02.304356",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Viper's dead.",
+      "text": " Vyper is dead.",
       "part": 1
     }
   ]

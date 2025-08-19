@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wraith_ally_graf_killed_in_lane_01",
+  "timestamp": "2025-08-18T19:34:16.885002",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " They took out Graf.",
+      "part": 1
+    }
+  ]
+}

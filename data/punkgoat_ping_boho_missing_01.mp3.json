@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "punkgoat_ping_boho_missing_01",
+  "timestamp": "2025-08-18T19:29:43.700464",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " BOHO'S MISSING!",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bebop_ally_drifter_killed_in_lane_01",
+  "timestamp": "2025-08-18T19:01:37.479936",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " THEY TOOK OUT THE DRIFTER!",
+      "part": 1
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 {
   "voiceline_id": "frank_ping_can_heal_orion",
-  "timestamp": "2025-05-11T15:00:33.495158",
+  "timestamp": "2025-08-18T21:10:22.843552",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Gretel, and I can heal you.",
+      "text": " Grey Talon, I can heal you.",
       "part": 1
     }
   ]

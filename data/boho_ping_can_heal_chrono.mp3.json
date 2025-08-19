@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "boho_ping_can_heal_chrono",
+  "timestamp": "2025-08-18T19:02:43.044693",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Paradox, I can heal you!",
+      "part": 1
+    }
+  ]
+}

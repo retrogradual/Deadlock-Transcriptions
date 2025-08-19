@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_ally_shiv_unkillable_02",
+  "timestamp": "2025-08-18T19:31:59.232511",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " They can't stop you, Shiv.",
+      "part": 1
+    }
+  ]
+}

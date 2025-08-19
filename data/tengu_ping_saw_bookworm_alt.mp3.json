@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "tengu_ping_saw_bookworm_alt",
+  "timestamp": "2025-08-18T19:30:11.746234",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I saw Paige!",
+      "part": 1
+    }
+  ]
+}

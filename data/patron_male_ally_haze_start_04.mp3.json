@@ -1,6 +1,6 @@
 {
   "voiceline_id": "patron_male_ally_haze_start_04",
-  "timestamp": "2025-03-12T03:34:43.721207",
+  "timestamp": "2025-08-18T21:05:06.087272",
   "segments": [
     {
       "start": 0.0,
@@ -11,7 +11,7 @@
     {
       "start": 3.0,
       "end": 6.0,
-      "text": " Ply your trade and complete the ritual.",
+      "text": " Ply your trade and complete the ritual!",
       "part": 2
     }
   ]

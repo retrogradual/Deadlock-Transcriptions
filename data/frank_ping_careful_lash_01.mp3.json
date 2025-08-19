@@ -1,11 +1,11 @@
 {
   "voiceline_id": "frank_ping_careful_lash_01",
-  "timestamp": "2025-05-11T15:00:27.351707",
+  "timestamp": "2025-08-18T21:10:06.436148",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
-      "text": " Careful, Lush.",
+      "end": 1.0,
+      "text": " Careful, Lash.",
       "part": 1
     }
   ]

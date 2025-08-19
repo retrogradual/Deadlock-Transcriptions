@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ping_lets_go_yellow_alt",
-  "timestamp": "2025-05-13T16:22:31.089566",
+  "timestamp": "2025-08-18T21:08:38.601526",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Let's go to York!",
+      "text": " Let's go to York.",
       "part": 1
     }
   ]

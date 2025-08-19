@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "drifter_kill_inferno_04",
+  "timestamp": "2025-08-18T19:14:17.844382",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": " Can't have you send me on file now, can I?",
+      "part": 1
+    }
+  ]
+}

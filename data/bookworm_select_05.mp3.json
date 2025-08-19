@@ -1,12 +1,36 @@
 {
   "voiceline_id": "bookworm_select_05",
-  "timestamp": "2025-05-11T14:59:49.711125",
+  "timestamp": "2025-08-18T21:08:19.583123",
   "segments": [
     {
       "start": 0.0,
-      "end": 7.599999904632568,
-      "text": " Don't get too attached to me. I'm like a wandering protagonist on an episodic TV show. I go where I'm needed the most.",
+      "end": 1.6799999475479126,
+      "text": " Do you think I brought enough books?",
       "part": 1
+    },
+    {
+      "start": 1.6799999475479126,
+      "end": 4.099999904632568,
+      "text": " I mean, it's probably enough, but I remember this one time,",
+      "part": 2
+    },
+    {
+      "start": 4.099999904632568,
+      "end": 5.480000019073486,
+      "text": " I planned on it being an Austin day,",
+      "part": 3
+    },
+    {
+      "start": 5.480000019073486,
+      "end": 7.920000076293945,
+      "text": " but life was like, sorry, lady, it's Bronte time,",
+      "part": 4
+    },
+    {
+      "start": 7.920000076293945,
+      "end": 10.319999694824219,
+      "text": " and I was just, God, I was not prepared.",
+      "part": 5
     }
   ]
 }

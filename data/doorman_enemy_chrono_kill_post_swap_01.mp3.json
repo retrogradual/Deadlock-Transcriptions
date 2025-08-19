@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_enemy_chrono_kill_post_swap_01",
+  "timestamp": "2025-08-18T19:07:48.010533",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.880000114440918,
+      "text": " You have to try harder than that, Paradox.",
+      "part": 1
+    }
+  ]
+}

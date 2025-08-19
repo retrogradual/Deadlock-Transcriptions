@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_ping_need_help_yellow_alt",
+  "timestamp": "2025-08-18T19:12:27.977007",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " NEED HELP ON YORK!",
+      "part": 1
+    }
+  ]
+}

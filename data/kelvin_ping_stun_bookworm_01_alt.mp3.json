@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "kelvin_ping_stun_bookworm_01_alt",
+  "timestamp": "2025-08-18T19:23:48.250476",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.1200000047683716,
+      "text": " Stun Page.",
+      "part": 1
+    }
+  ]
+}

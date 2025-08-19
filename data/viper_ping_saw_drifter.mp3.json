@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "viper_ping_saw_drifter",
+  "timestamp": "2025-08-18T19:33:12.180233",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I saw a Drifter.",
+      "part": 1
+    }
+  ]
+}

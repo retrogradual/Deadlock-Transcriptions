@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bookworm_ping_post_game_04",
+  "timestamp": "2025-08-18T19:06:29.147543",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I knew we could do it!",
+      "part": 1
+    }
+  ]
+}

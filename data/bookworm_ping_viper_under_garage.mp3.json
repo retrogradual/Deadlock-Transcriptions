@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ping_viper_under_garage",
-  "timestamp": "2025-05-13T16:23:29.997169",
+  "timestamp": "2025-08-18T21:08:01.891458",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Vipers under the garage!",
+      "text": " Vyper is under the garage.",
       "part": 1
     }
   ]

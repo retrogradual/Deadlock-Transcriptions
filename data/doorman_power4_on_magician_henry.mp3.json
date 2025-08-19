@@ -1,0 +1,24 @@
+{
+  "voiceline_id": "doorman_power4_on_magician_henry",
+  "timestamp": "2025-08-18T21:00:55.760030",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": " You were in love once, but that has given way to spite and jealousy.",
+      "part": 1
+    },
+    {
+      "start": 5.0,
+      "end": 8.699999809265137,
+      "text": " You don't need a divorce. You need time together.",
+      "part": 2
+    },
+    {
+      "start": 8.699999809265137,
+      "end": 11.699999809265137,
+      "text": " Why don't you stay in our honeymoon suite?",
+      "part": 3
+    }
+  ]
+}

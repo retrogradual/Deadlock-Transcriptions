@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bebop_ping_attack_druid",
+  "timestamp": "2025-08-18T19:01:43.151902",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Let's take out a druid!",
+      "part": 1
+    }
+  ]
+}

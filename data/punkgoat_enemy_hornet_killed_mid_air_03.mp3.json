@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "punkgoat_enemy_hornet_killed_mid_air_03",
+  "timestamp": "2025-08-18T19:27:02.685670",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " You think you can hide in the skies?",
+      "part": 1
+    }
+  ]
+}

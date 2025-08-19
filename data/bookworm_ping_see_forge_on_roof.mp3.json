@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ping_see_forge_on_roof",
-  "timestamp": "2025-05-13T16:22:54.985946",
+  "timestamp": "2025-08-18T21:06:45.493839",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " McGinnis is on the roof!",
+      "text": " McGinnis is on the roof.",
       "part": 1
     }
   ]

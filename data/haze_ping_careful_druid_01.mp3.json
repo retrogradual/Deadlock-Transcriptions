@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "haze_ping_careful_druid_01",
+  "timestamp": "2025-08-18T19:21:59.419985",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.2799999713897705,
+      "text": " Careful, Druid.",
+      "part": 1
+    }
+  ]
+}

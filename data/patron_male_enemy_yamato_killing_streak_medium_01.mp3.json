@@ -1,10 +1,10 @@
 {
   "voiceline_id": "patron_male_enemy_yamato_killing_streak_medium_01",
-  "timestamp": "2025-03-12T04:09:35.773072",
+  "timestamp": "2025-08-18T21:05:43.589778",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
+      "end": 2.8399999141693115,
       "text": " Yamato is not one to trifle with.",
       "part": 1
     }

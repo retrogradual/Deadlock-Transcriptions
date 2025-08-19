@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_enemy_hornet_killed_mid_air_03",
+  "timestamp": "2025-08-18T19:31:34.137321",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": " I can get to you whenever I want, Vindicta.",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "drifter_ping_doorman_dead",
+  "timestamp": "2025-08-18T19:13:25.264752",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " The Dormin's dead.",
+      "part": 1
+    }
+  ]
+}

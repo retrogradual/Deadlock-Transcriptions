@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ping_with_nano",
-  "timestamp": "2025-05-11T14:59:34.439140",
+  "timestamp": "2025-08-18T21:07:35.149173",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " I'm with you, Calico!",
+      "text": " I'm with you, Calico.",
       "part": 1
     }
   ]

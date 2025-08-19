@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bookworm_concerned_03",
+  "timestamp": "2025-08-18T19:06:51.245175",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Things won't be this way forever.",
+      "part": 1
+    }
+  ]
+}

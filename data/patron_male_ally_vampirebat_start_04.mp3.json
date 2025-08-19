@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "patron_male_ally_vampirebat_start_04",
+  "timestamp": "2025-08-18T19:01:04.075615",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": " You may not be a Fairfax, but you are something greater.",
+      "part": 1
+    },
+    {
+      "start": 4.0,
+      "end": 9.0,
+      "text": " You are Mina Ha, the woman who heralds my arrival to this plane.",
+      "part": 2
+    }
+  ]
+}

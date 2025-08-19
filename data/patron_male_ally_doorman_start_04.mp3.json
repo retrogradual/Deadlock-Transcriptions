@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "patron_male_ally_doorman_start_04",
+  "timestamp": "2025-08-18T19:00:46.215119",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": " You honor the Ember Hand by standing with us today.",
+      "part": 1
+    }
+  ]
+}

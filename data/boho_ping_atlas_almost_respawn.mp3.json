@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "boho_ping_atlas_almost_respawn",
+  "timestamp": "2025-08-18T19:02:30.587281",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Abrams is almost back.",
+      "part": 1
+    }
+  ]
+}

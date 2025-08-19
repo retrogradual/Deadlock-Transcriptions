@@ -1,11 +1,11 @@
 {
   "voiceline_id": "frank_ping_with_inferno",
-  "timestamp": "2025-05-11T15:00:23.281214",
+  "timestamp": "2025-08-18T21:09:56.433088",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
-      "text": " I'm with you Infernus.",
+      "end": 1.2000000476837158,
+      "text": " I'm with you, Infernus.",
       "part": 1
     }
   ]

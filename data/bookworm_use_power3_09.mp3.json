@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_use_power3_09",
-  "timestamp": "2025-05-13T18:40:35.285680",
+  "timestamp": "2025-08-18T21:08:27.313293",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " RUDE-A-DUM!",
+      "text": " Stop right there!",
       "part": 1
     }
   ]

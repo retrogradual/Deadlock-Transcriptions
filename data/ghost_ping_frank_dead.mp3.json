@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "ghost_ping_frank_dead",
+  "timestamp": "2025-08-18T19:20:46.267362",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Victor is dead.",
+      "part": 1
+    }
+  ]
+}

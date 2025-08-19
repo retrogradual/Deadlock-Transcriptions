@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "ghost_ping_vampirebat_dead",
+  "timestamp": "2025-08-18T19:21:38.962631",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.1200000047683716,
+      "text": " Mina is dead.",
+      "part": 1
+    }
+  ]
+}

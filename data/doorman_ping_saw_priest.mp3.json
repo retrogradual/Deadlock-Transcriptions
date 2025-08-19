@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_ping_saw_priest",
+  "timestamp": "2025-08-18T19:09:57.941054",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I SAW THE VENATOR!",
+      "part": 1
+    }
+  ]
+}

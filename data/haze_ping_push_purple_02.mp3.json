@@ -1,11 +1,11 @@
 {
   "voiceline_id": "haze_ping_push_purple_02",
-  "timestamp": "2025-05-13T16:35:23.906105",
+  "timestamp": "2025-08-18T21:12:32.784273",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Let's push PARK!",
+      "text": " Let's push PARC.",
       "part": 1
     }
   ]

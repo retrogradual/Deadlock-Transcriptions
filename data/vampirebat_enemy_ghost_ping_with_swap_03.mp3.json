@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_enemy_ghost_ping_with_swap_03",
+  "timestamp": "2025-08-18T19:31:24.652511",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Don't get close to Geist!",
+      "part": 1
+    }
+  ]
+}

@@ -1,12 +1,18 @@
 {
   "voiceline_id": "bookworm_select_01",
-  "timestamp": "2025-05-11T14:59:48.804593",
+  "timestamp": "2025-08-18T21:08:18.584522",
   "segments": [
     {
       "start": 0.0,
-      "end": 3.5999999046325684,
-      "text": " If you thought the bodega guy was a good temp voice, wait till you hear me.",
+      "end": 1.440000057220459,
+      "text": " I'm excited!",
       "part": 1
+    },
+    {
+      "start": 1.440000057220459,
+      "end": 3.440000057220459,
+      "text": " Okay, that's a lie, I'm really nervous.",
+      "part": 2
     }
   ]
 }

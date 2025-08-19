@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "patron_male_ally_viper_start_05",
+  "timestamp": "2025-08-18T19:01:06.061923",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.0,
+      "text": " Vyper, the cycle can be broken. A new life awaits you once you've completed the ritual.",
+      "part": 1
+    }
+  ]
+}

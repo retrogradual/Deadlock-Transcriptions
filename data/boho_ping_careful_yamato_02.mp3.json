@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "boho_ping_careful_yamato_02",
+  "timestamp": "2025-08-18T19:04:36.032131",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.2000000476837158,
+      "text": " Careful, Yamato.",
+      "part": 1
+    }
+  ]
+}

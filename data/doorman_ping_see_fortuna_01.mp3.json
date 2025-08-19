@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_ping_see_fortuna_01",
+  "timestamp": "2025-08-18T19:08:15.817268",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": " I see Fortuna.",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "frank_unselect_06",
+  "timestamp": "2025-08-18T19:19:20.079575",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.799999952316284,
+      "text": " I'm sorry, my head's not in the right place.",
+      "part": 1
+    }
+  ]
+}

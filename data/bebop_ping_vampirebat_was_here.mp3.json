@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bebop_ping_vampirebat_was_here",
+  "timestamp": "2025-08-18T19:02:20.046062",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Mater is here!",
+      "part": 1
+    }
+  ]
+}

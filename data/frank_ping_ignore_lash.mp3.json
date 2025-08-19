@@ -1,11 +1,11 @@
 {
   "voiceline_id": "frank_ping_ignore_lash",
-  "timestamp": "2025-05-11T15:00:27.532805",
+  "timestamp": "2025-08-18T21:10:06.881007",
   "segments": [
     {
       "start": 0.0,
       "end": 1.0,
-      "text": " Ignore lash.",
+      "text": " Ignore Lash.",
       "part": 1
     }
   ]

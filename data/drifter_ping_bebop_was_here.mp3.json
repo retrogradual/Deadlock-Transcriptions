@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "drifter_ping_bebop_was_here",
+  "timestamp": "2025-08-18T19:13:06.453225",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Bebop was here!",
+      "part": 1
+    }
+  ]
+}

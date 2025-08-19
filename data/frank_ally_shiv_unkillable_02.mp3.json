@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "frank_ally_shiv_unkillable_02",
+  "timestamp": "2025-08-18T19:18:56.952981",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Help out Shiv!",
+      "part": 1
+    }
+  ]
+}

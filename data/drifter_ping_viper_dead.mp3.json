@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "drifter_ping_viper_dead",
+  "timestamp": "2025-08-18T19:15:57.818162",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Vyper's dead.",
+      "part": 1
+    }
+  ]
+}

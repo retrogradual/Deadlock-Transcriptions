@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bookworm_sad_01",
+  "timestamp": "2025-08-18T19:06:55.092201",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I'm not liking the way this story is going.",
+      "part": 1
+    }
+  ]
+}

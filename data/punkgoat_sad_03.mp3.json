@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "punkgoat_sad_03",
+  "timestamp": "2025-08-18T19:29:09.822606",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.7200000286102295,
+      "text": " The deck's always stacked against guys like me.",
+      "part": 1
+    }
+  ]
+}

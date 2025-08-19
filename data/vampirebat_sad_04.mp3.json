@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_sad_04",
+  "timestamp": "2025-08-18T19:32:44.442125",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.5,
+      "text": " If the entire team was made up of me, this would never have happened.",
+      "part": 1
+    }
+  ]
+}

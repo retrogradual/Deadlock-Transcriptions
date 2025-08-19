@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "haze_ping_see_druid_01",
+  "timestamp": "2025-08-18T19:21:59.960105",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.440000057220459,
+      "text": " I see the Druid.",
+      "part": 1
+    }
+  ]
+}

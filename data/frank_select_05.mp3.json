@@ -1,22 +1,22 @@
 {
   "voiceline_id": "frank_select_05",
-  "timestamp": "2025-05-11T15:00:49.122965",
+  "timestamp": "2025-08-18T21:11:06.440211",
   "segments": [
     {
       "start": 0.0,
-      "end": 3.0,
+      "end": 2.559999942779541,
       "text": " Who the hell stitches together dead bodies?",
       "part": 1
     },
     {
-      "start": 3.0,
-      "end": 5.0,
+      "start": 3.359999895095825,
+      "end": 4.960000038146973,
       "text": " At least I hoped they were dead bodies.",
       "part": 2
     },
     {
-      "start": 5.0,
-      "end": 7.0,
+      "start": 4.960000038146973,
+      "end": 7.119999885559082,
       "text": " Oh God, what if they weren't dead bodies?",
       "part": 3
     }

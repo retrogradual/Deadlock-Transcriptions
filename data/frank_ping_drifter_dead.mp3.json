@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "frank_ping_drifter_dead",
+  "timestamp": "2025-08-18T19:18:05.420183",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Drifter is dead.",
+      "part": 1
+    }
+  ]
+}

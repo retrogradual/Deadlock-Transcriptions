@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_ping_mirage_dead",
+  "timestamp": "2025-08-18T19:09:37.717839",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.2799999713897705,
+      "text": " Mirage is dead.",
+      "part": 1
+    }
+  ]
+}

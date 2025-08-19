@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ping_going_in_01",
-  "timestamp": "2025-05-13T16:22:09.032140",
+  "timestamp": "2025-08-18T21:08:43.606689",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " I'm going in!",
+      "text": " I'm going in.",
       "part": 1
     }
   ]

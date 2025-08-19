@@ -1,11 +1,11 @@
 {
   "voiceline_id": "haze_ping_defend_purple_02",
-  "timestamp": "2025-05-13T16:33:59.262041",
+  "timestamp": "2025-08-18T21:12:30.549322",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " DEFEND PARK!",
+      "text": " DEFEND PARK",
       "part": 1
     }
   ]

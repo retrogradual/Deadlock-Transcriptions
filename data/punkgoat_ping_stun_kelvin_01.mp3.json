@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "punkgoat_ping_stun_kelvin_01",
+  "timestamp": "2025-08-18T19:27:19.095695",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Stun Kelvin!",
+      "part": 1
+    }
+  ]
+}

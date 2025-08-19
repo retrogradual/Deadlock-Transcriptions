@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_ally_shiv_unkillable_02",
+  "timestamp": "2025-08-18T19:10:04.845454",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " No one can stop Shiv!",
+      "part": 1
+    }
+  ]
+}

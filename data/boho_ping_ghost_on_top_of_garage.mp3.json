@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "boho_ping_ghost_on_top_of_garage",
+  "timestamp": "2025-08-18T19:03:03.238786",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.5199999809265137,
+      "text": " Geist on top of the garage!",
+      "part": 1
+    }
+  ]
+}

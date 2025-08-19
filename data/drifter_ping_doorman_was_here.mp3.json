@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "drifter_ping_doorman_was_here",
+  "timestamp": "2025-08-18T19:13:26.632759",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " The Dormin was here!",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "punkgoat_enemy_ghost_ping_with_swap_03",
+  "timestamp": "2025-08-18T19:26:45.374199",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Geist is going to try and steal your health.",
+      "part": 1
+    }
+  ]
+}

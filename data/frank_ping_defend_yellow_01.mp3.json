@@ -1,10 +1,10 @@
 {
   "voiceline_id": "frank_ping_defend_yellow_01",
-  "timestamp": "2025-05-13T16:27:41.940751",
+  "timestamp": "2025-08-18T21:11:25.539329",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
+      "end": 1.0,
       "text": " DEFEND YELLOW",
       "part": 1
     }

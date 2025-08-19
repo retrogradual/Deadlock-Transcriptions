@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_ping_careful_priest_01-imported",
+  "timestamp": "2025-08-18T19:32:57.506430",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Careful, Rourke.",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "drifter_ping_with_warden",
+  "timestamp": "2025-08-18T19:16:10.318495",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.440000057220459,
+      "text": " I'm with you, Warden.",
+      "part": 1
+    }
+  ]
+}

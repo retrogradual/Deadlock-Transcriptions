@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "drifter_ping_nano_dead",
+  "timestamp": "2025-08-18T19:14:56.963798",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Calico is dead.",
+      "part": 1
+    }
+  ]
+}

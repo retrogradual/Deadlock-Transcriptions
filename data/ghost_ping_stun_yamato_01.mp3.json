@@ -1,11 +1,11 @@
 {
   "voiceline_id": "ghost_ping_stun_yamato_01",
-  "timestamp": "2025-03-12T12:32:00.380874",
+  "timestamp": "2025-08-18T21:11:46.602444",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Stan Yamato.",
+      "text": " Stun Yamato.",
       "part": 1
     }
   ]

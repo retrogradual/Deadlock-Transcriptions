@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "kelvin_ping_can_heal_bookworm_alt",
+  "timestamp": "2025-08-18T19:23:51.014595",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Patrick can heal you!",
+      "part": 1
+    }
+  ]
+}

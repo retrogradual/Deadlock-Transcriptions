@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_enemy_kelvin_kill_on_ice_path_03",
+  "timestamp": "2025-08-18T19:09:05.077590",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.200000047683716,
+      "text": " Kelvin, you didn't think we were going to get away, did you?",
+      "part": 1
+    }
+  ]
+}

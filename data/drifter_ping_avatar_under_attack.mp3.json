@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "drifter_ping_avatar_under_attack",
+  "timestamp": "2025-08-18T19:17:12.430277",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " They're takin' our patron!",
+      "part": 1
+    }
+  ]
+}

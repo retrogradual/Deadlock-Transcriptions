@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_use_power3_10",
-  "timestamp": "2025-05-13T18:40:36.148780",
+  "timestamp": "2025-08-18T21:08:27.078013",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " DID SOMETHING BAD TO THEM!",
+      "text": " There's someone I want you to meet.",
       "part": 1
     }
   ]

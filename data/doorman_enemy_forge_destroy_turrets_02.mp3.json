@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_enemy_forge_destroy_turrets_02",
+  "timestamp": "2025-08-18T19:08:10.052098",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.799999952316284,
+      "text": " McGinnis, you are beginning to annoy me.",
+      "part": 1
+    }
+  ]
+}

@@ -1,10 +1,10 @@
 {
   "voiceline_id": "patron_male_ally_shiv_killing_streak_03",
-  "timestamp": "2025-03-12T12:26:20.247301",
+  "timestamp": "2025-08-18T21:05:26.202058",
   "segments": [
     {
       "start": 0.0,
-      "end": 3.0,
+      "end": 2.4000000953674316,
       "text": " They have no chance of stopping Shiv.",
       "part": 1
     }

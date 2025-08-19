@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "boho_ping_see_wraith_01",
+  "timestamp": "2025-08-18T19:04:33.257015",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I see Wraith.",
+      "part": 1
+    }
+  ]
+}

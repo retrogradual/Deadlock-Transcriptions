@@ -1,11 +1,11 @@
 {
   "voiceline_id": "patron_male_enemy_hornet_killing_streak_high_01",
-  "timestamp": "2025-03-12T03:55:55.231851",
+  "timestamp": "2025-08-18T21:05:07.661575",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
-      "text": " Vindicta can't evade us forever.",
+      "end": 3.0,
+      "text": " Vindicta can't evade us forever!",
       "part": 1
     }
   ]

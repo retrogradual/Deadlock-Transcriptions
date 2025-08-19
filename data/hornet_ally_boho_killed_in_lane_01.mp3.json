@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "hornet_ally_boho_killed_in_lane_01",
+  "timestamp": "2025-08-18T19:22:29.366809",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " They took out the witch!",
+      "part": 1
+    }
+  ]
+}

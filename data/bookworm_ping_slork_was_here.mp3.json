@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ping_slork_was_here",
-  "timestamp": "2025-05-13T16:23:13.257438",
+  "timestamp": "2025-08-18T21:07:49.097873",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Fathom was here!",
+      "text": " Fathom was here.",
       "part": 1
     }
   ]

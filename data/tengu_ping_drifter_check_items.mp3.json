@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "tengu_ping_drifter_check_items",
+  "timestamp": "2025-08-18T19:30:19.008830",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Check out what Drifter bought!",
+      "part": 1
+    }
+  ]
+}

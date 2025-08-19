@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ping_can_heal_atlas",
-  "timestamp": "2025-05-11T14:59:11.695737",
+  "timestamp": "2025-08-18T21:06:27.897126",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Abrams, I can heal you!",
+      "text": " Abrams, I can heal you.",
       "part": 1
     }
   ]

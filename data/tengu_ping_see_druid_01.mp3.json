@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "tengu_ping_see_druid_01",
+  "timestamp": "2025-08-18T19:30:40.870580",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": " I see the droid!",
+      "part": 1
+    }
+  ]
+}

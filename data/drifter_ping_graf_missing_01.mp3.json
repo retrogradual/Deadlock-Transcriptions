@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "drifter_ping_graf_missing_01",
+  "timestamp": "2025-08-18T19:14:03.513061",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Graphs Missing.",
+      "part": 1
+    }
+  ]
+}

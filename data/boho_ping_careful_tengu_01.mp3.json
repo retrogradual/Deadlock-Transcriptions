@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "boho_ping_careful_tengu_01",
+  "timestamp": "2025-08-18T19:04:13.816180",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Careful, Ivy.",
+      "part": 1
+    }
+  ]
+}

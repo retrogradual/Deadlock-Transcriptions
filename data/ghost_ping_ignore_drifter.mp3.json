@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "ghost_ping_ignore_drifter",
+  "timestamp": "2025-08-18T19:20:34.694526",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Ignore the Drifter!",
+      "part": 1
+    }
+  ]
+}

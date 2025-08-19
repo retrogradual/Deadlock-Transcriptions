@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_concerned_09",
+  "timestamp": "2025-08-18T19:11:57.016993",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.799999952316284,
+      "text": " If we are to complete the ritual, we must think clearly.",
+      "part": 1
+    }
+  ]
+}

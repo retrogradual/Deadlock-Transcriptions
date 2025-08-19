@@ -1,11 +1,11 @@
 {
   "voiceline_id": "frank_ping_viper_under_garage",
-  "timestamp": "2025-05-13T16:29:15.506791",
+  "timestamp": "2025-08-18T21:10:49.917034",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Vipers under the garage.",
+      "text": " Vyper's under the garage.",
       "part": 1
     }
   ]

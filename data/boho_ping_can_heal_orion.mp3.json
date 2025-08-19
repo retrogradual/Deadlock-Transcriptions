@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "boho_ping_can_heal_orion",
+  "timestamp": "2025-08-18T19:03:51.237084",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Grey Talon, I can heal you!",
+      "part": 1
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 {
   "voiceline_id": "frank_ping_use_rupture",
-  "timestamp": "2025-05-13T16:29:12.257970",
+  "timestamp": "2025-08-18T21:11:42.840515",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Ready to use decay.",
+      "text": " Ready to use Decay.",
       "part": 1
     }
   ]

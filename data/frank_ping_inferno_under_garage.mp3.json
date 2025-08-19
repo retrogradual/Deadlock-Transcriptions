@@ -1,11 +1,11 @@
 {
   "voiceline_id": "frank_ping_inferno_under_garage",
-  "timestamp": "2025-05-13T16:28:07.285971",
+  "timestamp": "2025-08-18T21:09:55.452810",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " In furnaces under the garage.",
+      "text": " Infernus is under the garage!",
       "part": 1
     }
   ]

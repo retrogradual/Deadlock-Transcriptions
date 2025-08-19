@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "patron_female_ally_doorman_start_05",
+  "timestamp": "2025-08-18T19:00:18.898530",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 10.0,
+      "text": " You've shed your trappings to walk amongst humanity, but now you reclaim your rightful place.",
+      "part": 1
+    }
+  ]
+}

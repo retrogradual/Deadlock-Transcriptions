@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "drifter_ping_dynamo_almost_respawn",
+  "timestamp": "2025-08-18T19:13:32.190314",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " DYNAMO IS ALMOST BACK!",
+      "part": 1
+    }
+  ]
+}

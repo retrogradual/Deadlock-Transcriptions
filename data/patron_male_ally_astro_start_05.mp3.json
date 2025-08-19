@@ -1,10 +1,10 @@
 {
   "voiceline_id": "patron_male_ally_astro_start_05",
-  "timestamp": "2025-03-12T12:46:53.884985",
+  "timestamp": "2025-08-18T21:04:45.183894",
   "segments": [
     {
       "start": 0.0,
-      "end": 5.0,
+      "end": 5.300000190734863,
       "text": " Summon me, Holliday, and the Troubadour will sing his final song.",
       "part": 1
     }

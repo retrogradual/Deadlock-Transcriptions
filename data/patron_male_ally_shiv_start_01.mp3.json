@@ -1,10 +1,10 @@
 {
   "voiceline_id": "patron_male_ally_shiv_start_01",
-  "timestamp": "2025-03-12T04:03:29.304881",
+  "timestamp": "2025-08-18T21:05:27.296305",
   "segments": [
     {
       "start": 0.0,
-      "end": 4.0,
+      "end": 5.0,
       "text": " You were given a second chance, Shiv. Don't squander it.",
       "part": 1
     }

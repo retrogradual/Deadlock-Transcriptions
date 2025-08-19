@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "boho_ping_hornet_dead",
+  "timestamp": "2025-08-18T19:03:15.733346",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Vindicta is dead.",
+      "part": 1
+    }
+  ]
+}

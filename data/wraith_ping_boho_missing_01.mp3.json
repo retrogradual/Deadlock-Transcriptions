@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wraith_ping_boho_missing_01",
+  "timestamp": "2025-08-18T19:33:56.310972",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " The witch is missing.",
+      "part": 1
+    }
+  ]
+}

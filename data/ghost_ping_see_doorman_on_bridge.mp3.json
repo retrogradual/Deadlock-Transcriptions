@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "ghost_ping_see_doorman_on_bridge",
+  "timestamp": "2025-08-18T19:20:31.554279",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " TOEMAN'S ON THE BRIDGE!",
+      "part": 1
+    }
+  ]
+}

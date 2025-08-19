@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "frank_ally_chrono_swap_to_boss_02",
+  "timestamp": "2025-08-18T19:17:54.933675",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Paradox swapped them.",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "frank_unselect_10",
+  "timestamp": "2025-08-18T19:19:20.665499",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Good luck, but you're on your own.",
+      "part": 1
+    }
+  ]
+}

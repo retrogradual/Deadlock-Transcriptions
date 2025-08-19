@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_ping_attack_swan",
+  "timestamp": "2025-08-18T19:10:16.950562",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Let's take out Swann.",
+      "part": 1
+    }
+  ]
+}

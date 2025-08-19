@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "viper_ping_stun_bookworm_01_alt",
+  "timestamp": "2025-08-18T19:33:01.575425",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " START PAGE.",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_outnumbered_02",
+  "timestamp": "2025-08-18T19:12:09.460898",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.240000009536743,
+      "text": " I don't care for these odds.",
+      "part": 1
+    }
+  ]
+}

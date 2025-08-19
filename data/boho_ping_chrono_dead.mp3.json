@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "boho_ping_chrono_dead",
+  "timestamp": "2025-08-18T19:02:44.428305",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Paradox is dead.",
+      "part": 1
+    }
+  ]
+}

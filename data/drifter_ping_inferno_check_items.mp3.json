@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "drifter_ping_inferno_check_items",
+  "timestamp": "2025-08-18T19:14:20.573732",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Check out what Infernus brought!",
+      "part": 1
+    }
+  ]
+}

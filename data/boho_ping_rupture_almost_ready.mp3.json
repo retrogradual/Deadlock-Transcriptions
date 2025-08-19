@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "boho_ping_rupture_almost_ready",
+  "timestamp": "2025-08-18T19:05:16.582896",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Decay is almost ready.",
+      "part": 1
+    }
+  ]
+}

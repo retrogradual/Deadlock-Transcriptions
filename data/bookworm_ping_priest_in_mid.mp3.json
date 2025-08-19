@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bookworm_ping_priest_in_mid",
+  "timestamp": "2025-08-18T19:06:03.414452",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " VENATOR IS IN MID!",
+      "part": 1
+    }
+  ]
+}

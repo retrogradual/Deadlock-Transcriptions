@@ -1,11 +1,11 @@
 {
   "voiceline_id": "frank_ping_careful_warden_01",
-  "timestamp": "2025-05-11T15:00:43.912582",
+  "timestamp": "2025-08-18T21:10:55.597755",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Be a careful warden.",
+      "text": " Care for Warden.",
       "part": 1
     }
   ]

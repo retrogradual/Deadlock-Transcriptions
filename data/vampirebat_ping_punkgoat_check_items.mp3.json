@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_ping_punkgoat_check_items",
+  "timestamp": "2025-08-18T19:31:55.759369",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Check out what Billy bought!",
+      "part": 1
+    }
+  ]
+}

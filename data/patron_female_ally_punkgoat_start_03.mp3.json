@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "patron_female_ally_punkgoat_start_03",
+  "timestamp": "2025-08-18T19:00:30.256397",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 12.0,
+      "text": " The world is corrupt and beyond saving, but if you summon me, I can help you change that.",
+      "part": 1
+    }
+  ]
+}

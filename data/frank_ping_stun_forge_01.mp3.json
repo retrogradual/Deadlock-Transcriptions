@@ -1,11 +1,11 @@
 {
   "voiceline_id": "frank_ping_stun_forge_01",
-  "timestamp": "2025-05-11T15:00:16.317653",
+  "timestamp": "2025-08-18T21:09:30.401999",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
-      "text": " Stunmaginus.",
+      "end": 1.0,
+      "text": " Stun McGinnis.",
       "part": 1
     }
   ]

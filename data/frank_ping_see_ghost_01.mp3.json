@@ -1,11 +1,11 @@
 {
   "voiceline_id": "frank_ping_see_ghost_01",
-  "timestamp": "2025-05-11T15:00:17.707837",
+  "timestamp": "2025-08-18T21:09:42.163956",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
-      "text": " I see ghosts.",
+      "end": 1.1200000047683716,
+      "text": " I see Geist.",
       "part": 1
     }
   ]

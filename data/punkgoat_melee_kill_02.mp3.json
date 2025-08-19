@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "punkgoat_melee_kill_02",
+  "timestamp": "2025-08-18T19:29:15.730015",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " YOU GOT NOTHING!",
+      "part": 1
+    }
+  ]
+}

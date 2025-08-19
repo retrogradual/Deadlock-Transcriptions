@@ -1,18 +1,12 @@
 {
   "voiceline_id": "bookworm_select_02",
-  "timestamp": "2025-05-11T14:59:49.195959",
+  "timestamp": "2025-08-18T21:08:18.740438",
   "segments": [
     {
       "start": 0.0,
-      "end": 3.799999952316284,
-      "text": " Now, right now, I'm the voice for Bookworm, but by the time you hear this, who knows?",
+      "end": 2.0,
+      "text": " This is gonna make for one hell of a story.",
       "part": 1
-    },
-    {
-      "start": 3.799999952316284,
-      "end": 8.079999923706055,
-      "text": " Maybe I'll be a ballerina or some gastromancer that throws Cherries Jubilee.",
-      "part": 2
     }
   ]
 }

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_see_money_01",
+  "timestamp": "2025-08-18T19:11:52.091250",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " There are souls nearby.",
+      "part": 1
+    }
+  ]
+}

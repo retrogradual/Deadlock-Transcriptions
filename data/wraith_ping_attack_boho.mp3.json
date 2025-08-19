@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wraith_ping_attack_boho",
+  "timestamp": "2025-08-18T19:33:55.763158",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Let's take out the witch.",
+      "part": 1
+    }
+  ]
+}

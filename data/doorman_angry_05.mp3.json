@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_angry_05",
+  "timestamp": "2025-08-18T19:11:53.980509",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.240000009536743,
+      "text": " I will not be made a fool.",
+      "part": 1
+    }
+  ]
+}

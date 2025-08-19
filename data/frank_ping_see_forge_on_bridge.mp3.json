@@ -1,11 +1,11 @@
 {
   "voiceline_id": "frank_ping_see_forge_on_bridge",
-  "timestamp": "2025-05-13T16:28:41.429065",
+  "timestamp": "2025-08-18T21:09:32.761996",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " A Guinness is on the bridge.",
+      "text": " McGinnis is on the bridge.",
       "part": 1
     }
   ]

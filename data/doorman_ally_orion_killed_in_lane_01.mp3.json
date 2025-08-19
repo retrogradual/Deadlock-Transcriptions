@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_ally_orion_killed_in_lane_01",
+  "timestamp": "2025-08-18T19:09:45.916088",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " THEY TOOK OUT GREY TALON!",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_leave_base_02",
+  "timestamp": "2025-08-18T19:11:26.354657",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " The Patron will be summoned.",
+      "part": 1
+    }
+  ]
+}

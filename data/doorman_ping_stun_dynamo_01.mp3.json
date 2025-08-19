@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_ping_stun_dynamo_01",
+  "timestamp": "2025-08-18T19:08:05.429340",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.3600000143051147,
+      "text": " Stun Dynamo!",
+      "part": 1
+    }
+  ]
+}

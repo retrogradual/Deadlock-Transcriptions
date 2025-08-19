@@ -1,10 +1,10 @@
 {
   "voiceline_id": "frank_ping_ignore_shiv",
-  "timestamp": "2025-05-11T15:00:35.160759",
+  "timestamp": "2025-08-18T21:10:28.183711",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
+      "end": 1.0,
       "text": " Ignore Shiv.",
       "part": 1
     }

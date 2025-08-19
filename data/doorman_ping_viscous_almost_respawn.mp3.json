@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_ping_viscous_almost_respawn",
+  "timestamp": "2025-08-18T19:10:50.453207",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.5199999809265137,
+      "text": " Viscous is almost back.",
+      "part": 1
+    }
+  ]
+}

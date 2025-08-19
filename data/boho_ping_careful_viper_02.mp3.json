@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "boho_ping_careful_viper_02",
+  "timestamp": "2025-08-18T19:04:19.945758",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Be careful, Vyper.",
+      "part": 1
+    }
+  ]
+}

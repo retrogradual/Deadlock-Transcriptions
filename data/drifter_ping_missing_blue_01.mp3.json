@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "drifter_ping_missing_blue_01",
+  "timestamp": "2025-08-18T19:17:20.945299",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Missing Blue.",
+      "part": 1
+    }
+  ]
+}

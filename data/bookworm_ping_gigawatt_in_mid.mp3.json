@@ -1,11 +1,11 @@
 {
   "voiceline_id": "bookworm_ping_gigawatt_in_mid",
-  "timestamp": "2025-05-13T16:22:07.134118",
+  "timestamp": "2025-08-18T21:06:56.608158",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Seven's in mid!",
+      "text": " Seven is in Mid.",
       "part": 1
     }
   ]

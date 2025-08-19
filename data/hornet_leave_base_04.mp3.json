@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "hornet_leave_base_04",
+  "timestamp": "2025-08-18T19:23:33.559761",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Now we kill them all!",
+      "part": 1
+    }
+  ]
+}

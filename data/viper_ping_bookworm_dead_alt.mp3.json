@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "viper_ping_bookworm_dead_alt",
+  "timestamp": "2025-08-18T19:33:01.640347",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": " PAGE IS DEAD.",
+      "part": 1
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 {
   "voiceline_id": "haze_ping_hornet_dead",
-  "timestamp": "2025-05-13T16:34:31.354986",
+  "timestamp": "2025-08-18T21:11:59.564700",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
-      "text": " The Dicta is dead.",
+      "end": 1.600000023841858,
+      "text": " Vindicta is dead.",
       "part": 1
     }
   ]

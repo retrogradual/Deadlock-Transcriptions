@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "kelvin_ping_stun_doorman_01",
+  "timestamp": "2025-08-18T19:23:53.079245",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " STAND THE DORM IN!",
+      "part": 1
+    }
+  ]
+}
