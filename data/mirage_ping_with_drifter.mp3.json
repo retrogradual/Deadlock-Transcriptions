@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "mirage_ping_with_drifter",
+  "timestamp": "2025-08-27T18:34:53.442739",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I'm with you, Drifter!",
+      "part": 1
+    }
+  ]
+}

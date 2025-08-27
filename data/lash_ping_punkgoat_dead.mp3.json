@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "lash_ping_punkgoat_dead",
+  "timestamp": "2025-08-27T18:33:10.932255",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Billy's dead.",
+      "part": 1
+    }
+  ]
+}

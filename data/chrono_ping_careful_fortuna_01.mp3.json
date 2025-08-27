@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "chrono_ping_careful_fortuna_01",
+  "timestamp": "2025-08-27T18:27:01.592867",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Careful, Vartuna!",
+      "part": 1
+    }
+  ]
+}

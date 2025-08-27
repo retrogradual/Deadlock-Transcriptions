@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "lash_ping_see_boho_01",
+  "timestamp": "2025-08-27T18:32:08.486735",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.2000000476837158,
+      "text": " I see the witch!",
+      "part": 1
+    }
+  ]
+}

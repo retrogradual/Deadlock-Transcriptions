@@ -1,11 +1,11 @@
 {
   "voiceline_id": "chrono_ping_atlas_on_top_of_mid",
-  "timestamp": "2025-03-12T12:42:15.149338",
+  "timestamp": "2025-08-27T18:26:28.604278",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Abrams on top of Mid!",
+      "text": " Abrams on top of mid!",
       "part": 1
     }
   ]

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "chrono_ping_avatar_under_attack",
+  "timestamp": "2025-08-27T18:28:43.355089",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " They're taking our patron!",
+      "part": 1
+    }
+  ]
+}

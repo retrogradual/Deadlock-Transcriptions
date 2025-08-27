@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "inferno_ping_careful_druid_01",
+  "timestamp": "2025-08-27T18:30:13.649592",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": " Careful, Druid.",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "chrono_enemy_astro_bounce_escape_02",
+  "timestamp": "2025-08-27T18:26:22.033991",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I'll be right here, Sheriff!",
+      "part": 1
+    }
+  ]
+}

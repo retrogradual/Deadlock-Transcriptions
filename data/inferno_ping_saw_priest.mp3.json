@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "inferno_ping_saw_priest",
+  "timestamp": "2025-08-27T18:30:36.515496",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I SAW A VENATOR!",
+      "part": 1
+    }
+  ]
+}

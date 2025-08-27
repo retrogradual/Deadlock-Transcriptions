@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "chrono_ally_forge_wall_stun_kill_02",
+  "timestamp": "2025-08-27T18:26:58.816310",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Good thinking, McGinnis!",
+      "part": 1
+    }
+  ]
+}

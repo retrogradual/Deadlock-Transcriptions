@@ -1,11 +1,11 @@
 {
   "voiceline_id": "inferno_ping_attack_yamato",
-  "timestamp": "2025-03-12T03:43:27.580133",
+  "timestamp": "2025-08-27T18:31:06.959460",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Let's take out Yamato!",
+      "text": " Let's take out Yamato.",
       "part": 1
     }
   ]

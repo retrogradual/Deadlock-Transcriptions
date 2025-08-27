@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "mirage_enemy_chrono_steals_rejuv_02",
+  "timestamp": "2025-08-27T18:34:33.383024",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Paradox stole our Rejuvenator.",
+      "part": 1
+    }
+  ]
+}

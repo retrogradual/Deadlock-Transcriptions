@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "chrono_angry_09",
+  "timestamp": "2025-08-27T18:28:24.758189",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " You can't stop us!",
+      "part": 1
+    }
+  ]
+}

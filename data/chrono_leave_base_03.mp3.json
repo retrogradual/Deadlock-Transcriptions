@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "chrono_leave_base_03",
+  "timestamp": "2025-08-27T18:28:17.421209",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Time to win this thing!",
+      "part": 1
+    }
+  ]
+}

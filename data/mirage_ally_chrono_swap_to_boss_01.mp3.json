@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "mirage_ally_chrono_swap_to_boss_01",
+  "timestamp": "2025-08-27T18:34:32.570285",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Paradox is wily.",
+      "part": 1
+    }
+  ]
+}

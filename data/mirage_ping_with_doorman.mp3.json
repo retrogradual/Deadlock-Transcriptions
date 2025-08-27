@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "mirage_ping_with_doorman",
+  "timestamp": "2025-08-27T18:34:43.017159",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I'm with you, Doorman!",
+      "part": 1
+    }
+  ]
+}

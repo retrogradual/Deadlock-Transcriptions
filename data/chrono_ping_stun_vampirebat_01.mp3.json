@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "chrono_ping_stun_vampirebat_01",
+  "timestamp": "2025-08-27T18:27:52.996465",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Stamina!",
+      "part": 1
+    }
+  ]
+}

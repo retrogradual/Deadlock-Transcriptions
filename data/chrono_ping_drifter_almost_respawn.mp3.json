@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "chrono_ping_drifter_almost_respawn",
+  "timestamp": "2025-08-27T18:26:50.021739",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " TRIPTURE IS ALMOST BACK!",
+      "part": 1
+    }
+  ]
+}

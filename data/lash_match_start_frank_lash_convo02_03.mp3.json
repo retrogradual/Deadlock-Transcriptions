@@ -1,0 +1,16 @@
+{
+  "file": "lash_match_start_frank_lash_convo02_03.mp3",
+  "text": "Yeah, but there's no way I'm going to remember your name. This is a mnemonic.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Yeah, but there's no way I'm going to remember your name."
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "This is a mnemonic."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "mirage_ally_atlas_unkillable_01",
+  "timestamp": "2025-08-27T18:34:12.776589",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Abrams stands resolute.",
+      "part": 1
+    }
+  ]
+}

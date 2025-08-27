@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "mirage_ping_bookworm_dead_alt",
+  "timestamp": "2025-08-27T18:34:26.529125",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Paige is dead.",
+      "part": 1
+    }
+  ]
+}

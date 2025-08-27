@@ -1,0 +1,36 @@
+{
+  "voiceline_id": "lash_ping_post_game_06",
+  "timestamp": "2025-08-27T18:33:47.749691",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.5,
+      "text": " Part of being great is remaining humble when you deliver a crushing and humiliating defeat",
+      "part": 1
+    },
+    {
+      "start": 6.5,
+      "end": 7.5,
+      "text": " to your enemies.",
+      "part": 2
+    },
+    {
+      "start": 7.5,
+      "end": 12.920000076293945,
+      "text": " You don't need to rub it in that they were outclassed from minute one, that their feeble",
+      "part": 3
+    },
+    {
+      "start": 12.920000076293945,
+      "end": 17.360000610351562,
+      "text": " attempts to stave off the inevitable are laughable at best.",
+      "part": 4
+    },
+    {
+      "start": 17.360000610351562,
+      "end": 23.239999771118164,
+      "text": " No, you shake their hand, you look them in the eye, and you say, you're welcome.",
+      "part": 5
+    }
+  ]
+}

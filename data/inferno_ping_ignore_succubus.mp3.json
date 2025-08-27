@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "inferno_ping_ignore_succubus",
+  "timestamp": "2025-08-27T18:30:50.075272",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Ignore the Succubus!",
+      "part": 1
+    }
+  ]
+}

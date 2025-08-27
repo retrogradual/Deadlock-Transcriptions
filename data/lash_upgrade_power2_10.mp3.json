@@ -1,12 +1,18 @@
 {
   "voiceline_id": "lash_upgrade_power2_10",
-  "timestamp": "2025-05-13T18:46:35.433619",
+  "timestamp": "2025-08-27T18:33:46.443019",
   "segments": [
     {
       "start": 0.0,
-      "end": 4.559999942779541,
-      "text": " Flying in on someone trying to escape cruel? Sure, but I'm alive and they're dead, so who cares?",
+      "end": 3.440000057220459,
+      "text": " I could start a fight with this, I can end a fight with this.",
       "part": 1
+    },
+    {
+      "start": 3.440000057220459,
+      "end": 6.480000019073486,
+      "text": " I mean, it's basically the caviar of murder techniques.",
+      "part": 2
     }
   ]
 }

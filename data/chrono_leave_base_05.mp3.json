@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "chrono_leave_base_05",
+  "timestamp": "2025-08-27T18:28:16.722411",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Back to work!",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "inferno_ping_drifter_check_items",
+  "timestamp": "2025-08-27T18:30:10.897446",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.2799999713897705,
+      "text": " Check out what Drifter bought.",
+      "part": 1
+    }
+  ]
+}

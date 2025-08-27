@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "chrono_low_health_warning",
+  "timestamp": "2025-08-27T18:28:38.082204",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " GOTTA GET BACK TO BASE!",
+      "part": 1
+    }
+  ]
+}

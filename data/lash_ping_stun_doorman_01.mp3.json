@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "lash_ping_stun_doorman_01",
+  "timestamp": "2025-08-27T18:32:21.823581",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Stun the doorman!",
+      "part": 1
+    }
+  ]
+}

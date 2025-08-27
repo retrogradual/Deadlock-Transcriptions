@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "chrono_sad_01",
+  "timestamp": "2025-08-27T18:28:30.927123",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " This is getting out of hand.",
+      "part": 1
+    }
+  ]
+}

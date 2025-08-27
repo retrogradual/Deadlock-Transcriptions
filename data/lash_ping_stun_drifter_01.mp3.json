@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "lash_ping_stun_drifter_01",
+  "timestamp": "2025-08-27T18:32:28.673300",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " STUNNED, DRIFTER!",
+      "part": 1
+    }
+  ]
+}

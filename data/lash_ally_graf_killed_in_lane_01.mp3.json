@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "lash_ally_graf_killed_in_lane_01",
+  "timestamp": "2025-08-27T18:32:50.981676",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I took out Graf!",
+      "part": 1
+    }
+  ]
+}

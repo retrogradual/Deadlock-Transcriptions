@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "chrono_ping_saw_priest",
+  "timestamp": "2025-08-27T18:27:29.445568",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I saw Venator!",
+      "part": 1
+    }
+  ]
+}

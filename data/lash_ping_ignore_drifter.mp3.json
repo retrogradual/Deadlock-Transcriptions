@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "lash_ping_ignore_drifter",
+  "timestamp": "2025-08-27T18:32:29.726374",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " IGNORE DRIFTER!",
+      "part": 1
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 {
   "voiceline_id": "inferno_ally_nano_pass_on_zipline_01",
-  "timestamp": "2025-03-12T03:53:04.831787",
+  "timestamp": "2025-08-27T18:30:28.415190",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Hey Ava!",
+      "text": " EVA.",
       "part": 1
     }
   ]

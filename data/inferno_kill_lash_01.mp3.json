@@ -1,10 +1,10 @@
 {
   "voiceline_id": "inferno_kill_lash_01",
-  "timestamp": "2025-03-12T04:04:54.730571",
+  "timestamp": "2025-08-27T18:30:27.572293",
   "segments": [
     {
       "start": 0.0,
-      "end": 0.800000011920929,
+      "end": 2.0,
       "text": " Shut him up.",
       "part": 1
     }

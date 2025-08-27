@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "mirage_ping_frank_almost_respawn",
+  "timestamp": "2025-08-27T18:35:07.133537",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Victor is almost back!",
+      "part": 1
+    }
+  ]
+}

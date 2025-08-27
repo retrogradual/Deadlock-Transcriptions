@@ -1,11 +1,11 @@
 {
   "voiceline_id": "chrono_ping_forge_under_garage",
-  "timestamp": "2025-03-12T04:11:53.760255",
+  "timestamp": "2025-08-27T18:27:00.969752",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " McGinnis is under the garage!",
+      "text": " McGinnis, under the garage.",
       "part": 1
     }
   ]

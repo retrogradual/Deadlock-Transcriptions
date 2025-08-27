@@ -1,11 +1,11 @@
 {
   "voiceline_id": "lash_ping_stun_bebop_01",
-  "timestamp": "2025-03-12T03:50:16.587983",
+  "timestamp": "2025-08-27T18:32:09.233161",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
-      "text": " Stun that fuckin' robot!",
+      "end": 1.2000000476837158,
+      "text": " Stun Bebop!",
       "part": 1
     }
   ]

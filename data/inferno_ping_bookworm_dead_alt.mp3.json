@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "inferno_ping_bookworm_dead_alt",
+  "timestamp": "2025-08-27T18:31:23.283589",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Page is dead.",
+      "part": 1
+    }
+  ]
+}

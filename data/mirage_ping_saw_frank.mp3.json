@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "mirage_ping_saw_frank",
+  "timestamp": "2025-08-27T18:35:10.307185",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I SAW A VICTORY!",
+      "part": 1
+    }
+  ]
+}

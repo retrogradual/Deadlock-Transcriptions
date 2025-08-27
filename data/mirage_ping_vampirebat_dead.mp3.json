@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "mirage_ping_vampirebat_dead",
+  "timestamp": "2025-08-27T18:35:50.019306",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Minerva's dead.",
+      "part": 1
+    }
+  ]
+}

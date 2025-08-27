@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "chrono_enemy_astro_bounce_escape_03",
+  "timestamp": "2025-08-27T18:26:21.325161",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Of course she bounces away.",
+      "part": 1
+    }
+  ]
+}

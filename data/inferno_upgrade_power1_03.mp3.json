@@ -1,18 +1,12 @@
 {
   "voiceline_id": "inferno_upgrade_power1_03",
-  "timestamp": "2025-05-13T18:45:17.317006",
+  "timestamp": "2025-08-27T18:31:14.590328",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Y'all still using Molotovs?",
+      "text": " Molotovs are for tourists.",
       "part": 1
-    },
-    {
-      "start": 2.0,
-      "end": 4.0,
-      "text": " They for tourists.",
-      "part": 2
     }
   ]
 }

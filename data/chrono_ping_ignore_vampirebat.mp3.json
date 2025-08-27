@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "chrono_ping_ignore_vampirebat",
+  "timestamp": "2025-08-27T18:27:52.226368",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Ignore Mina!",
+      "part": 1
+    }
+  ]
+}

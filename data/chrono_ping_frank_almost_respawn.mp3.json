@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "chrono_ping_frank_almost_respawn",
+  "timestamp": "2025-08-27T18:27:05.425750",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " VICTOR IS ALMOST BACK!",
+      "part": 1
+    }
+  ]
+}

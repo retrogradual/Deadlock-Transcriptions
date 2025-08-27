@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "lash_ping_saw_frank",
+  "timestamp": "2025-08-27T18:32:48.095386",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I SAW VICTOR!",
+      "part": 1
+    }
+  ]
+}

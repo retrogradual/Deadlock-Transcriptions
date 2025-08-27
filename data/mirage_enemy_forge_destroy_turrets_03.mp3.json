@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "mirage_enemy_forge_destroy_turrets_03",
+  "timestamp": "2025-08-27T18:35:00.679988",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.799999952316284,
+      "text": " I wonder how many more of these I'll have to destroy.",
+      "part": 1
+    }
+  ]
+}

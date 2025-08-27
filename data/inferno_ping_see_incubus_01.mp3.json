@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "inferno_ping_see_incubus_01",
+  "timestamp": "2025-08-27T18:30:26.425229",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.2799999713897705,
+      "text": " I see the Incubus.",
+      "part": 1
+    }
+  ]
+}

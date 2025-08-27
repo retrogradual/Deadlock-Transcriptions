@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "inferno_ping_vampirebat_almost_respawn",
+  "timestamp": "2025-08-27T18:31:04.505136",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Nina's almost back.",
+      "part": 1
+    }
+  ]
+}

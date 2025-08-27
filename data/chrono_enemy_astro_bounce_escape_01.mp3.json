@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "chrono_enemy_astro_bounce_escape_01",
+  "timestamp": "2025-08-27T18:26:21.687690",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Run away, Sheriff!",
+      "part": 1
+    }
+  ]
+}

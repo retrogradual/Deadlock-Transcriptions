@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "mirage_enemy_chrono_kill_post_swap_03",
+  "timestamp": "2025-08-27T18:34:33.530082",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": " Really, Paradox, that's the best you can do.",
+      "part": 1
+    }
+  ]
+}

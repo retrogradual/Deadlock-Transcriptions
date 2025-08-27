@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "chrono_ping_bookworm_almost_respawn_alt",
+  "timestamp": "2025-08-27T18:26:36.199025",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Pitch is almost back!",
+      "part": 1
+    }
+  ]
+}

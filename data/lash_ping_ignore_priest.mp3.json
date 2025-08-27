@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "lash_ping_ignore_priest",
+  "timestamp": "2025-08-27T18:33:02.582874",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " IGNORE BENNETTER!",
+      "part": 1
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 {
   "voiceline_id": "mirage_use_power4_01",
-  "timestamp": "2025-05-13T18:47:01.493260",
+  "timestamp": "2025-08-27T18:35:52.506968",
   "segments": [
     {
       "start": 0.0,
-      "end": 2.0,
-      "text": " THEY DIDN'T BIND YOU!",
+      "end": 1.0,
+      "text": " Teleporting.",
       "part": 1
     }
   ]

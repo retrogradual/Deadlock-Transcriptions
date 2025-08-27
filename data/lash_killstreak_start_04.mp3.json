@@ -1,11 +1,11 @@
 {
   "voiceline_id": "lash_killstreak_start_04",
-  "timestamp": "2025-05-13T18:46:24.769637",
+  "timestamp": "2025-08-27T18:33:44.821559",
   "segments": [
     {
       "start": 0.0,
       "end": 3.0,
-      "text": " Oh, just wait till I get it going.",
+      "text": " You're all about to enter Lash's world.",
       "part": 1
     }
   ]

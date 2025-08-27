@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "chrono_concerned_07",
+  "timestamp": "2025-08-27T18:28:26.967935",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Running out of options here.",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "chrono_ping_priest_on_top_of_mid",
+  "timestamp": "2025-08-27T18:27:28.726057",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " That answer's on top of mid!",
+      "part": 1
+    }
+  ]
+}

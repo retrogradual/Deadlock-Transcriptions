@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "lash_ping_doorman_in_mid",
+  "timestamp": "2025-08-27T18:32:24.114244",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " DOORMAN'S IN MID!",
+      "part": 1
+    }
+  ]
+}

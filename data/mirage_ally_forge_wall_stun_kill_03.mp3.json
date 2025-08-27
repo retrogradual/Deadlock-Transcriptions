@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "mirage_ally_forge_wall_stun_kill_03",
+  "timestamp": "2025-08-27T18:34:59.831900",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Appreciate your help, McGinnis.",
+      "part": 1
+    }
+  ]
+}

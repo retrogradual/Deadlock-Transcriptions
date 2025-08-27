@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "chrono_happy_06",
+  "timestamp": "2025-08-27T18:28:28.850140",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " They won't escape!",
+      "part": 1
+    }
+  ]
+}

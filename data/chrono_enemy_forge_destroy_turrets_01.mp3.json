@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "chrono_enemy_forge_destroy_turrets_01",
+  "timestamp": "2025-08-27T18:26:59.149075",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " The turrets aren't getting it done, McGinnis.",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "chrono_ping_stun_punkgoat_01",
+  "timestamp": "2025-08-27T18:27:33.119487",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " STUN BILLY!",
+      "part": 1
+    }
+  ]
+}

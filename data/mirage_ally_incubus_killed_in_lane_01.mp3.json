@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "mirage_ally_incubus_killed_in_lane_01",
+  "timestamp": "2025-08-27T18:35:13.576578",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " THEY TOOK OUT THE INCUBUS!",
+      "part": 1
+    }
+  ]
+}

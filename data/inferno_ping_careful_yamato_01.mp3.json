@@ -1,11 +1,11 @@
 {
   "voiceline_id": "inferno_ping_careful_yamato_01",
-  "timestamp": "2025-03-12T04:02:14.887861",
+  "timestamp": "2025-08-27T18:31:06.661368",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Care for Yamato?",
+      "text": " Careful, Yamato.",
       "part": 1
     }
   ]

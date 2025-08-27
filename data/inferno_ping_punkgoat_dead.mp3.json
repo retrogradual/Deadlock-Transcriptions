@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "inferno_ping_punkgoat_dead",
+  "timestamp": "2025-08-27T18:30:42.353880",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Billy is dead.",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "mirage_ping_careful_druid_01",
+  "timestamp": "2025-08-27T18:34:53.901278",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Careful, Druid!",
+      "part": 1
+    }
+  ]
+}

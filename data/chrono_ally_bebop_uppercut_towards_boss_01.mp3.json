@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "chrono_ally_bebop_uppercut_towards_boss_01",
+  "timestamp": "2025-08-27T18:26:29.464444",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Good thinking, Bebop!",
+      "part": 1
+    }
+  ]
+}

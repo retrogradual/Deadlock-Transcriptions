@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "lash_ping_stun_punkgoat_01",
+  "timestamp": "2025-08-27T18:33:09.891155",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Stunned, Billy!",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "inferno_ping_doorman_in_mid",
+  "timestamp": "2025-08-27T18:30:02.224124",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " SHOREMAN'S IN MID!",
+      "part": 1
+    }
+  ]
+}

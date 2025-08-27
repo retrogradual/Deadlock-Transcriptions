@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "mirage_ping_see_incubus_01",
+  "timestamp": "2025-08-27T18:35:14.583776",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I see the Incubus!",
+      "part": 1
+    }
+  ]
+}

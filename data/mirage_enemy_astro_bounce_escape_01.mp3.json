@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "mirage_enemy_astro_bounce_escape_01",
+  "timestamp": "2025-08-27T18:34:09.891634",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " The Sheriff flees from consequences.",
+      "part": 1
+    }
+  ]
+}

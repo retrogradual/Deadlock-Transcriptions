@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "inferno_ping_boho_missing_01",
+  "timestamp": "2025-08-27T18:29:57.078841",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " The witch is missing.",
+      "part": 1
+    }
+  ]
+}

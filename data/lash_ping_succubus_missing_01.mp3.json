@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "lash_ping_succubus_missing_01",
+  "timestamp": "2025-08-27T18:33:19.728181",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " The Succubus is missing.",
+      "part": 1
+    }
+  ]
+}

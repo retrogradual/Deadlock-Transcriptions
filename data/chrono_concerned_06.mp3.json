@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "chrono_concerned_06",
+  "timestamp": "2025-08-27T18:28:26.828011",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Time isn't on our side.",
+      "part": 1
+    }
+  ]
+}

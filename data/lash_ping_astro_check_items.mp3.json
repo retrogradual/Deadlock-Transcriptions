@@ -1,11 +1,11 @@
 {
   "voiceline_id": "lash_ping_astro_check_items",
-  "timestamp": "2025-03-12T04:01:54.968670",
+  "timestamp": "2025-08-27T18:32:06.456779",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Check out what Holliday brought!",
+      "text": " Check out what Holliday bought!",
       "part": 1
     }
   ]

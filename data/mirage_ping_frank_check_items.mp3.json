@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "mirage_ping_frank_check_items",
+  "timestamp": "2025-08-27T18:35:07.213341",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Check out what Viktor bought!",
+      "part": 1
+    }
+  ]
+}

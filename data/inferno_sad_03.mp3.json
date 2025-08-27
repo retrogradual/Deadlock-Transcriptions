@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "inferno_sad_03",
+  "timestamp": "2025-08-27T18:31:17.111404",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Not the way I was expecting things to go.",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "chrono_ally_haze_killed_in_lane_01",
+  "timestamp": "2025-08-27T18:27:11.723836",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " THE KILLED HAZE!",
+      "part": 1
+    }
+  ]
+}

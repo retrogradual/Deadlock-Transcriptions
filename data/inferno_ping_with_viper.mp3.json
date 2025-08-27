@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "inferno_ping_with_viper",
+  "timestamp": "2025-08-27T18:31:40.666653",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.2000000476837158,
+      "text": " I'm with you, Vyper!",
+      "part": 1
+    }
+  ]
+}

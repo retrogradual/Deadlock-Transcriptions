@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "lash_ping_saw_priest",
+  "timestamp": "2025-08-27T18:33:06.363168",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Solve Ender.",
+      "part": 1
+    }
+  ]
+}

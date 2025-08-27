@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "mirage_ping_careful_bookworm_01_alt",
+  "timestamp": "2025-08-27T18:34:25.366620",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": " Careful page.",
+      "part": 1
+    }
+  ]
+}

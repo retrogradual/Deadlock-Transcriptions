@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "lash_ping_bookworm_dead_alt",
+  "timestamp": "2025-08-27T18:32:13.399428",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " PAGE IS DEAD!",
+      "part": 1
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 {
   "voiceline_id": "chrono_ping_viscous_on_top_of_mid",
-  "timestamp": "2025-03-12T03:56:19.129271",
+  "timestamp": "2025-08-27T18:28:02.477943",
   "segments": [
     {
       "start": 0.0,
       "end": 2.0,
-      "text": " Viscous, on top of Mid.",
+      "text": " Viscous on top of Mid.",
       "part": 1
     }
   ]

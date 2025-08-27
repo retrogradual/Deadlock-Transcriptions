@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "chrono_ping_drifter_was_here",
+  "timestamp": "2025-08-27T18:26:51.956010",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Drifter was here!",
+      "part": 1
+    }
+  ]
+}

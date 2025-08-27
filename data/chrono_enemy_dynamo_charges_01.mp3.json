@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "chrono_enemy_dynamo_charges_01",
+  "timestamp": "2025-08-27T18:26:55.647555",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " DYNAMO IS MAKING HIS MOVE!",
+      "part": 1
+    }
+  ]
+}
