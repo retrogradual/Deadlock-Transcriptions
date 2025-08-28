@@ -5,13 +5,13 @@
     {
       "start": 0.0,
       "end": 1.0,
-      "text": " HELP!",
+      "text": "Help!",
       "part": 1
     },
     {
       "start": 1.0,
       "end": 1.5,
-      "text": " HELP!",
+      "text": "Help!",
       "part": 2
     }
   ]
