@@ -70,29 +70,41 @@ class FindReplaceApp:
         preview_frame = ttk.Frame(self.root, padding="10")
         preview_frame.grid(row=2, column=0, sticky="nsew", padx=10, pady=5)
         preview_frame.columnconfigure(0, weight=1)
-        preview_frame.rowconfigure(0, weight=1)
+        preview_frame.rowconfigure(1, weight=1)
 
-        columns = ("file", "line", "original", "new")
+        # Add controls for selecting/deselecting all
+        control_frame = ttk.Frame(preview_frame)
+        control_frame.grid(row=0, column=0, sticky="ew", pady=(0, 5))
+        
+        ttk.Button(control_frame, text="Select All", command=self._select_all).pack(side="left", padx=(0, 5))
+        ttk.Button(control_frame, text="Deselect All", command=self._deselect_all).pack(side="left")
+
+        columns = ("include", "file", "line", "original", "new")
         self.tree = ttk.Treeview(preview_frame, columns=columns, show="headings")
         
         # Define headings
+        self.tree.heading("include", text="Include")
         self.tree.heading("file", text="File")
         self.tree.heading("line", text="Line No.")
         self.tree.heading("original", text="Original Text")
         self.tree.heading("new", text="New Text")
 
         # Configure column widths
-        self.tree.column("file", width=200, anchor="w")
+        self.tree.column("include", width=60, anchor="center")
+        self.tree.column("file", width=180, anchor="w")
         self.tree.column("line", width=80, anchor="center")
-        self.tree.column("original", width=300, anchor="w")
-        self.tree.column("new", width=300, anchor="w")
+        self.tree.column("original", width=280, anchor="w")
+        self.tree.column("new", width=280, anchor="w")
 
-        self.tree.grid(row=0, column=0, sticky="nsew")
+        # Bind click event to toggle checkboxes
+        self.tree.bind("<Button-1>", self._on_tree_click)
+
+        self.tree.grid(row=1, column=0, sticky="nsew")
 
         # Add a scrollbar
         scrollbar = ttk.Scrollbar(preview_frame, orient=tk.VERTICAL, command=self.tree.yview)
         self.tree.configure(yscroll=scrollbar.set)
-        scrollbar.grid(row=0, column=1, sticky="ns")
+        scrollbar.grid(row=1, column=1, sticky="ns")
         
         # --- Status Bar ---
         self.status_label = ttk.Label(self.root, text="Ready", padding="5")
@@ -106,6 +118,67 @@ class FindReplaceApp:
         if path:
             self.target_directory.set(path)
             self.status_label.config(text=f"Selected directory: {path}")
+
+    def _on_tree_click(self, event):
+        """
+        Handles clicks on the treeview to toggle checkboxes in the Include column.
+        """
+        region = self.tree.identify_region(event.x, event.y)
+        if region == "cell":
+            item = self.tree.identify_row(event.y)
+            column = self.tree.identify_column(event.x)
+            
+            # Only handle clicks on the first column (Include)
+            if column == "#1" and item:
+                self._toggle_checkbox(item)
+
+    def _toggle_checkbox(self, item):
+        """
+        Toggles the checkbox state for a specific tree item.
+        """
+        values = list(self.tree.item(item, "values"))
+        current_state = values[0]
+        
+        # Toggle between ✓ and ✗
+        if current_state == "✓":
+            values[0] = "✗"
+            included = False
+        else:
+            values[0] = "✓"
+            included = True
+        
+        self.tree.item(item, values=values)
+        
+        # Update the corresponding preview_data item
+        item_index = self.tree.index(item)
+        if 0 <= item_index < len(self.preview_data):
+            self.preview_data[item_index]["included"] = included
+
+    def _select_all(self):
+        """
+        Selects all items in the preview.
+        """
+        for item in self.tree.get_children():
+            values = list(self.tree.item(item, "values"))
+            values[0] = "✓"
+            self.tree.item(item, values=values)
+        
+        # Update all preview_data items
+        for data_item in self.preview_data:
+            data_item["included"] = True
+
+    def _deselect_all(self):
+        """
+        Deselects all items in the preview.
+        """
+        for item in self.tree.get_children():
+            values = list(self.tree.item(item, "values"))
+            values[0] = "✗"
+            self.tree.item(item, values=values)
+        
+        # Update all preview_data items
+        for data_item in self.preview_data:
+            data_item["included"] = False
 
     def _preview_changes(self):
         """
@@ -160,10 +233,14 @@ class FindReplaceApp:
                                         # Store data for replacement and display
                                         self.preview_data.append({
                                             "path": file_path,
+                                            "line_num": line_num,
+                                            "original_line": line,
+                                            "new_line": new_line,
+                                            "included": True  # Default to included
                                         })
                                         
-                                        # Insert into Treeview
-                                        self.tree.insert("", "end", values=(file, line_num, line.strip(), new_line.strip()))
+                                        # Insert into Treeview with checkbox (✓ for checked)
+                                        item_id = self.tree.insert("", "end", values=("✓", file, line_num, line.strip(), new_line.strip()))
                                         found_count += 1
                         except Exception as e:
                             print(f"Could not read file {file_path}: {e}")
@@ -186,45 +263,76 @@ class FindReplaceApp:
             messagebox.showwarning("Warning", "Nothing to replace. Please generate a preview first.")
             return
 
-        if not messagebox.askyesno("Confirm Replace", "Are you sure you want to apply these changes to the files? This action cannot be undone."):
+        # Check if any items are selected
+        selected_items = [item for item in self.preview_data if item.get("included", True)]
+        if not selected_items:
+            messagebox.showwarning("Warning", "No items selected for replacement. Please select at least one item.")
+            return
+
+        if not messagebox.askyesno("Confirm Replace", f"Are you sure you want to apply changes to {len(selected_items)} selected occurrences? This action cannot be undone."):
             return
             
         self.status_label.config(text="Replacing text...")
         self.root.update_idletasks()
 
-        # Get unique file paths to process
-        files_to_change = sorted(list(set(item['path'] for item in self.preview_data)))
+        # Group selected items by file path
+        files_to_change = {}
+        for item in selected_items:
+            file_path = item['path']
+            if file_path not in files_to_change:
+                files_to_change[file_path] = []
+            files_to_change[file_path].append(item)
         
         find_str = self.find_text.get()
         replace_str = self.replace_text.get()
         files_changed_count = 0
+        total_replacements = 0
 
         try:
-            for file_path in files_to_change:
+            for file_path, file_items in files_to_change.items():
                 try:
                     with open(file_path, 'r', encoding='utf-8', errors='ignore') as f:
-                        content = f.read()
+                        lines = f.readlines()
                     
-                    # Perform case-insensitive replacement on the whole file content
-                    new_content = content
-                    start = 0
-                    while True:
-                        pos = new_content.lower().find(find_str.lower(), start)
-                        if pos == -1:
-                            break
-                        # Replace the actual case found in the file
-                        new_content = new_content[:pos] + replace_str + new_content[pos + len(find_str):]
-                        start = pos + len(replace_str)
+                    original_content = ''.join(lines)
+                    replacements_made = 0
                     
-                    if new_content != content:
+                    # Process each selected item for this file
+                    for item in file_items:
+                        line_num = item['line_num']
+                        original_line = item['original_line']
+                        
+                        # Find and replace in the specific line
+                        if 1 <= line_num <= len(lines):
+                            current_line = lines[line_num - 1]  # Convert to 0-based index
+                            
+                            # Perform case-insensitive replacement on this line
+                            new_line = current_line
+                            start = 0
+                            while True:
+                                pos = new_line.lower().find(find_str.lower(), start)
+                                if pos == -1:
+                                    break
+                                # Replace the actual case found in the file
+                                new_line = new_line[:pos] + replace_str + new_line[pos + len(find_str):]
+                                start = pos + len(replace_str)
+                                replacements_made += 1
+                            
+                            lines[line_num - 1] = new_line
+                    
+                    # Only write file if changes were made
+                    new_content = ''.join(lines)
+                    if new_content != original_content:
                         with open(file_path, 'w', encoding='utf-8') as f:
                             f.write(new_content)
                         files_changed_count += 1
+                        total_replacements += replacements_made
+                        
                 except Exception as e:
                     print(f"Could not process file {file_path}: {e}")
 
-            messagebox.showinfo("Success", f"Replacement complete! {files_changed_count} files were modified.")
-            self.status_label.config(text=f"Replacement complete. {files_changed_count} files modified.")
+            messagebox.showinfo("Success", f"Replacement complete! {total_replacements} replacements made in {files_changed_count} files.")
+            self.status_label.config(text=f"Replacement complete. {total_replacements} replacements in {files_changed_count} files.")
             
             # Clear preview and disable button after successful replacement
             for item in self.tree.get_children():
