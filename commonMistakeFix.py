@@ -20,6 +20,7 @@ class FindReplaceApp:
         self.find_text = tk.StringVar()
         self.replace_text = tk.StringVar()
         self.file_extension = tk.StringVar(value=".txt")
+        self.case_sensitive = tk.BooleanVar(value=False)  # Default to case-insensitive
         self.preview_data = [] # To store data for actual replacement
 
         # --- UI Configuration ---
@@ -53,6 +54,9 @@ class FindReplaceApp:
         # File Extension
         ttk.Label(input_frame, text="File Extension:").grid(row=3, column=0, sticky="w", padx=5, pady=5)
         ttk.Entry(input_frame, textvariable=self.file_extension, width=10).grid(row=3, column=1, sticky="w", padx=5, pady=5)
+
+        # Case Sensitive Option
+        ttk.Checkbutton(input_frame, text="Case Sensitive", variable=self.case_sensitive).grid(row=4, column=0, columnspan=2, sticky="w", padx=5, pady=5)
 
 
         # --- Frame for Buttons ---
@@ -194,6 +198,7 @@ class FindReplaceApp:
         directory = self.target_directory.get()
         find_str = self.find_text.get()
         ext = self.file_extension.get()
+        case_sensitive = self.case_sensitive.get()
 
         if not directory:
             messagebox.showerror("Error", "Please select a directory.")
@@ -218,16 +223,37 @@ class FindReplaceApp:
                         try:
                             with open(file_path, 'r', encoding='utf-8', errors='ignore') as f:
                                 for line_num, line in enumerate(f, 1):
-                                    if find_str.lower() in line.lower():
-                                        # Find all occurrences (case insensitive) and replace them
+                                    # Only process lines that contain "text": (case-insensitive)
+                                    if '"text":' not in line.lower():
+                                        continue
+                                    
+                                    # Check for match based on case sensitivity setting
+                                    if case_sensitive:
+                                        line_contains_text = find_str in line
+                                    else:
+                                        line_contains_text = find_str.lower() in line.lower()
+                                    
+                                    if line_contains_text:
+                                        # Find all occurrences and replace them
                                         new_line = line
                                         start = 0
                                         while True:
-                                            pos = new_line.lower().find(find_str.lower(), start)
+                                            if case_sensitive:
+                                                pos = new_line.find(find_str, start)
+                                            else:
+                                                pos = new_line.lower().find(find_str.lower(), start)
+                                            
                                             if pos == -1:
                                                 break
+                                            
                                             # Replace the actual case found in the file
-                                            new_line = new_line[:pos] + self.replace_text.get() + new_line[pos + len(find_str):]
+                                            if case_sensitive:
+                                                new_line = new_line[:pos] + self.replace_text.get() + new_line[pos + len(find_str):]
+                                            else:
+                                                # For case-insensitive, we need to replace the exact text found
+                                                actual_text = new_line[pos:pos + len(find_str)]
+                                                new_line = new_line[:pos] + self.replace_text.get() + new_line[pos + len(find_str):]
+                                            
                                             start = pos + len(self.replace_text.get())
                                         
                                         # Store data for replacement and display
@@ -285,6 +311,7 @@ class FindReplaceApp:
         
         find_str = self.find_text.get()
         replace_str = self.replace_text.get()
+        case_sensitive = self.case_sensitive.get()
         files_changed_count = 0
         total_replacements = 0
 
@@ -306,14 +333,19 @@ class FindReplaceApp:
                         if 1 <= line_num <= len(lines):
                             current_line = lines[line_num - 1]  # Convert to 0-based index
                             
-                            # Perform case-insensitive replacement on this line
+                            # Perform replacement on this line based on case sensitivity
                             new_line = current_line
                             start = 0
                             while True:
-                                pos = new_line.lower().find(find_str.lower(), start)
+                                if case_sensitive:
+                                    pos = new_line.find(find_str, start)
+                                else:
+                                    pos = new_line.lower().find(find_str.lower(), start)
+                                
                                 if pos == -1:
                                     break
-                                # Replace the actual case found in the file
+                                
+                                # Replace the text
                                 new_line = new_line[:pos] + replace_str + new_line[pos + len(find_str):]
                                 start = pos + len(replace_str)
                                 replacements_made += 1
