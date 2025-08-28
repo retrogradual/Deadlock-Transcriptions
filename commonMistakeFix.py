@@ -145,8 +145,17 @@ class FindReplaceApp:
                         try:
                             with open(file_path, 'r', encoding='utf-8', errors='ignore') as f:
                                 for line_num, line in enumerate(f, 1):
-                                    if find_str in line:
-                                        new_line = line.replace(find_str, self.replace_text.get())
+                                    if find_str.lower() in line.lower():
+                                        # Find all occurrences (case insensitive) and replace them
+                                        new_line = line
+                                        start = 0
+                                        while True:
+                                            pos = new_line.lower().find(find_str.lower(), start)
+                                            if pos == -1:
+                                                break
+                                            # Replace the actual case found in the file
+                                            new_line = new_line[:pos] + self.replace_text.get() + new_line[pos + len(find_str):]
+                                            start = pos + len(self.replace_text.get())
                                         
                                         # Store data for replacement and display
                                         self.preview_data.append({
@@ -196,8 +205,16 @@ class FindReplaceApp:
                     with open(file_path, 'r', encoding='utf-8', errors='ignore') as f:
                         content = f.read()
                     
-                    # Perform replacement on the whole file content
-                    new_content = content.replace(find_str, replace_str)
+                    # Perform case-insensitive replacement on the whole file content
+                    new_content = content
+                    start = 0
+                    while True:
+                        pos = new_content.lower().find(find_str.lower(), start)
+                        if pos == -1:
+                            break
+                        # Replace the actual case found in the file
+                        new_content = new_content[:pos] + replace_str + new_content[pos + len(find_str):]
+                        start = pos + len(replace_str)
                     
                     if new_content != content:
                         with open(file_path, 'w', encoding='utf-8') as f:
