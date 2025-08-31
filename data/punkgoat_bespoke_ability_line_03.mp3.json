@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "punkgoat_bespoke_ability_line_03",
+  "timestamp": "2025-08-30T22:42:24.285539",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": " Kill me across the map with an owl, that's fair.",
+      "part": 1
+    }
+  ]
+}

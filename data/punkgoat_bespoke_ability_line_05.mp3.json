@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "punkgoat_bespoke_ability_line_05",
+  "timestamp": "2025-08-30T22:42:23.721274",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.639999866485596,
+      "text": " So I kill the bastard, then he gets to pop back up with full health and just off me?",
+      "part": 1
+    },
+    {
+      "start": 4.639999866485596,
+      "end": 5.639999866485596,
+      "text": " Heh, cool.",
+      "part": 2
+    }
+  ]
+}

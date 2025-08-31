@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bookworm_kill_anyhero_04_alt_01",
+  "timestamp": "2025-08-30T22:41:31.325218",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Okay, this is going good.",
+      "part": 1
+    }
+  ]
+}
