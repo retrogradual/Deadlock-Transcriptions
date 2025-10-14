@@ -1,11 +1,11 @@
 {
   "voiceline_id": "patron_female_ally_doorman_killing_streak_01",
-  "timestamp": "2025-08-18T19:00:14.810261",
+  "timestamp": "2025-10-14T00:21:55.499612",
   "segments": [
     {
       "start": 0.0,
-      "end": 6.0,
-      "text": " The Doorman has begun his great work!",
+      "end": 5.400000095367432,
+      "text": " The Doorman has begun his great work.",
       "part": 1
     }
   ]

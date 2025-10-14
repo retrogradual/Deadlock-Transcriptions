@@ -1,11 +1,11 @@
 {
   "voiceline_id": "patron_female_ally_vampirebat_killing_streak_01",
-  "timestamp": "2025-08-18T19:00:31.709940",
+  "timestamp": "2025-10-14T00:22:02.062996",
   "segments": [
     {
       "start": 0.0,
-      "end": 10.0,
-      "text": " Mina, rise up and take what you deserve!",
+      "end": 7.800000190734863,
+      "text": " Mina Ha, rise up and take what you deserve.",
       "part": 1
     }
   ]

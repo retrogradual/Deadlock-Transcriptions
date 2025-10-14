@@ -1,10 +1,10 @@
 {
   "voiceline_id": "patron_female_enemy_viper_killing_streak_high_01",
-  "timestamp": "2025-08-18T19:00:36.910738",
+  "timestamp": "2025-10-14T00:22:03.386039",
   "segments": [
     {
       "start": 0.0,
-      "end": 4.0,
+      "end": 3.5999999046325684,
       "text": " Someone kill that wretched woman!",
       "part": 1
     }

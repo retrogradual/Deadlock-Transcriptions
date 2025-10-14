@@ -1,11 +1,11 @@
 {
   "voiceline_id": "patron_female_enemy_frank_killing_streak_medium_01",
-  "timestamp": "2025-08-18T19:00:23.785065",
+  "timestamp": "2025-10-14T00:22:00.476194",
   "segments": [
     {
       "start": 0.0,
-      "end": 4.0,
-      "text": " We need to stop the Cadaver Man.",
+      "end": 4.159999847412109,
+      "text": " We need to stop the Cadaver Man!",
       "part": 1
     }
   ]

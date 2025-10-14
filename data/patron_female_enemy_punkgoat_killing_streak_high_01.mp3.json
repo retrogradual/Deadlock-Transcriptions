@@ -1,10 +1,10 @@
 {
   "voiceline_id": "patron_female_enemy_punkgoat_killing_streak_high_01",
-  "timestamp": "2025-08-18T19:00:28.250252",
+  "timestamp": "2025-10-14T00:22:00.367764",
   "segments": [
     {
       "start": 0.0,
-      "end": 5.599999904632568,
+      "end": 5.0,
       "text": " How are we being killed by an idiot with a goat head?",
       "part": 1
     }
