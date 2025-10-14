@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "orion_use_silencer_02",
+  "timestamp": "2025-10-13T23:41:51.244019",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " PREPARING TO BLOCK THEIR MAGIC",
+      "part": 1
+    }
+  ]
+}

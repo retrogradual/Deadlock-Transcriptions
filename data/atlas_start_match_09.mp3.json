@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "atlas_start_match_09",
+  "timestamp": "2025-10-13T23:28:33.156600",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Ugh, hope we know what we're doing.",
+      "part": 1
+    }
+  ]
+}

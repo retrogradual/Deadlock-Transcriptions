@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "slork_effort_general_07",
+  "timestamp": "2025-10-13T23:43:04.031987",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": " Do not include extra whitespace at the beginning or end of transcriptions..",
+      "part": 1
+    }
+  ]
+}

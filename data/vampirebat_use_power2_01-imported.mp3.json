@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_use_power2_01-imported",
+  "timestamp": "2025-10-13T23:45:29.926799",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.5,
+      "text": " Bye!",
+      "part": 1
+    }
+  ]
+}

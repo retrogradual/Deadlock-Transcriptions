@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "hornet_use_silencer_03",
+  "timestamp": "2025-10-13T23:37:29.758883",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I'll stop their abilities.",
+      "part": 1
+    }
+  ]
+}

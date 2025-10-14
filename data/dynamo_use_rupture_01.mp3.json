@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "dynamo_use_rupture_01",
+  "timestamp": "2025-10-13T23:33:15.279083",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " RUPTURE!",
+      "part": 1
+    }
+  ]
+}

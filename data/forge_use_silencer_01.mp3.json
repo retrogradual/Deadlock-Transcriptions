@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "forge_use_silencer_01",
+  "timestamp": "2025-10-13T23:34:09.981817",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " READY TO SILENCE THEM!",
+      "part": 1
+    }
+  ]
+}

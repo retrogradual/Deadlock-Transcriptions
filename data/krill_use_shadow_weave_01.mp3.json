@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "krill_use_shadow_weave_01",
+  "timestamp": "2025-10-13T23:39:37.626399",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.5199999809265137,
+      "text": " SHADOW WEAVE",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_ap_reminder_02",
+  "timestamp": "2025-10-13T23:31:31.772444",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.9200000762939453,
+      "text": " I mustn't forget to upgrade my powers.",
+      "part": 1
+    }
+  ]
+}

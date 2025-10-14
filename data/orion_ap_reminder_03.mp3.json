@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "orion_ap_reminder_03",
+  "timestamp": "2025-10-13T23:41:24.646464",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "text": " It might be time to invest in my abilities.",
+      "part": 1
+    }
+  ]
+}

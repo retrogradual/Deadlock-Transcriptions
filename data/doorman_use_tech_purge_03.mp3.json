@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_use_tech_purge_03",
+  "timestamp": "2025-10-13T23:32:09.052551",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Thank you for watching!",
+      "part": 1
+    }
+  ]
+}

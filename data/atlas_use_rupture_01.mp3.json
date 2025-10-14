@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "atlas_use_rupture_01",
+  "timestamp": "2025-10-13T23:28:39.682243",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " RUPTURE!",
+      "part": 1
+    }
+  ]
+}

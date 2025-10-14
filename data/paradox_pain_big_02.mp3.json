@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "paradox_pain_big_02",
+  "timestamp": "2025-10-13T23:31:02.359062",
+  "segments": [
+    {
+      "start": 1.0,
+      "end": 2.799999952316284,
+      "text": " P\u4e8c\u4e8c\u4e8c\u4e8c\u4e8c\u4e8c\u4e8c\u4e8c\u4e8c\u4e8c\u4e8c\u4e8c\u4e09\u5514\u4fc2\u6578",
+      "part": 1
+    },
+    {
+      "start": 2.799999952316284,
+      "end": 6.800000190734863,
+      "text": "\u6c38 \u6c38\u9060\u7121\u6cd5\u548c\u79ae,\u6c38\u9060\u7121\u6cd5\u548c\u79ae,\u6c38\u9060\u7121\u6cd5\u548c\u79ae,\u6c38\u9060\u7121\u6cd5\u548c\u795d\u79ae\u3002",
+      "part": 2
+    }
+  ]
+}

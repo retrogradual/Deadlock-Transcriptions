@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "shiv_use_shadow_weave_01",
+  "timestamp": "2025-10-13T23:42:56.160862",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.2000000476837158,
+      "text": " Shadow Weave",
+      "part": 1
+    }
+  ]
+}

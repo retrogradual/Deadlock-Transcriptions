@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "chrono_effort_general_08",
+  "timestamp": "2025-10-13T23:30:30.240427",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Do not include extra whitespace at the beginning or end of transcriptions.",
+      "part": 1
+    }
+  ]
+}

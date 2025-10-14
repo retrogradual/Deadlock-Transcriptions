@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "shiv_use_rupture_02",
+  "timestamp": "2025-10-13T23:42:56.161581",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Let's see him heal now!",
+      "part": 1
+    }
+  ]
+}

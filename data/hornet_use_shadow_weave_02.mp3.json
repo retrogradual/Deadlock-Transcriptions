@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "hornet_use_shadow_weave_02",
+  "timestamp": "2025-10-13T23:37:29.067121",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I'll blend with the shadows.",
+      "part": 1
+    }
+  ]
+}

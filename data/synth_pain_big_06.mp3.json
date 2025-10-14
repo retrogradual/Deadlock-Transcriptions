@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "synth_pain_big_06",
+  "timestamp": "2025-10-13T23:43:44.414402",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Follow the above spelling for ambiguous names.",
+      "part": 1
+    }
+  ]
+}

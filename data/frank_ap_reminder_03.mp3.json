@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "frank_ap_reminder_03",
+  "timestamp": "2025-10-13T23:34:11.921498",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Can't forget to upgrade my powers..",
+      "part": 1
+    }
+  ]
+}

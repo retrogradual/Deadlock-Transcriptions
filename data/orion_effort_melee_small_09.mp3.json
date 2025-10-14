@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "orion_effort_melee_small_09",
+  "timestamp": "2025-10-13T23:41:34.157080",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.2200000286102295,
+      "text": " tell us who you supported at the beginning and at the end.",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "warden_use_vampiric_burst_01",
+  "timestamp": "2025-10-13T23:46:56.110355",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Vampiric Burst!",
+      "part": 1
+    }
+  ]
+}

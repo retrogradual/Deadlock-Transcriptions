@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_boost_past_on_zipline_02",
+  "timestamp": "2025-10-13T23:45:10.100697",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": " Coming through!",
+      "part": 1
+    }
+  ]
+}

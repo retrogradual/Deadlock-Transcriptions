@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "forge_use_shadow_weave_03",
+  "timestamp": "2025-10-13T23:34:10.574717",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Melding with the shadows.",
+      "part": 1
+    }
+  ]
+}

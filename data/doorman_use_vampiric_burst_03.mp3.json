@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_use_vampiric_burst_03",
+  "timestamp": "2025-10-13T23:32:12.407647",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.5999999046325684,
+      "text": " I will heal and they will die.",
+      "part": 1
+    }
+  ]
+}

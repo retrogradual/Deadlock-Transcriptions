@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "krill_use_silencer_03",
+  "timestamp": "2025-10-13T23:39:41.415773",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "text": " They won't be able to use their powers.",
+      "part": 1
+    }
+  ]
+}

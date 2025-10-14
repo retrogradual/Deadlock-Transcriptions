@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "chrono_use_silencer_03",
+  "timestamp": "2025-10-13T23:31:28.188065",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.799999952316284,
+      "text": " They'll die before they can use their magic!",
+      "part": 1
+    }
+  ]
+}

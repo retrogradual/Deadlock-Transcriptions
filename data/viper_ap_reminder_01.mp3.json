@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "viper_ap_reminder_01",
+  "timestamp": "2025-10-13T23:45:40.233223",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Gotta upgrade my powers!",
+      "part": 1
+    }
+  ]
+}

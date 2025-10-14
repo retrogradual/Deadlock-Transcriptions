@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "mirage_use_silencer_02",
+  "timestamp": "2025-10-13T23:40:39.093192",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I'll put an end to their magic!",
+      "part": 1
+    }
+  ]
+}

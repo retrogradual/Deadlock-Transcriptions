@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "ghost_pain_small_03",
+  "timestamp": "2025-10-13T23:35:14.932591",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.0,
+      "text": " If you have any questions or other problems, please post them in the comments.",
+      "part": 1
+    }
+  ]
+}

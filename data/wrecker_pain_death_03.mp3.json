@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wrecker_pain_death_03",
+  "timestamp": "2025-10-13T23:47:50.697112",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0199999809265137,
+      "text": "\u82f1\u6587\u5b57\u5e55\u7531\u68ee\u8d8a\u5bf6\u4ee3\u7406\u88fd\u4f5c",
+      "part": 1
+    }
+  ]
+}

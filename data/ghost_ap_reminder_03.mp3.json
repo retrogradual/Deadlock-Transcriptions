@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "ghost_ap_reminder_03",
+  "timestamp": "2025-10-13T23:34:45.231871",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I must improve my powers.",
+      "part": 1
+    }
+  ]
+}

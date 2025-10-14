@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "punkgoat_use_silencer_02",
+  "timestamp": "2025-10-13T23:42:23.310854",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0399999618530273,
+      "text": " They won't be using their powers for much longer.",
+      "part": 1
+    }
+  ]
+}

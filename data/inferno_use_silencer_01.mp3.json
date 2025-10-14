@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "inferno_use_silencer_01",
+  "timestamp": "2025-10-13T23:38:18.434092",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8399999737739563,
+      "text": " Be silent.",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "tengu_use_vampiric_burst_03",
+  "timestamp": "2025-10-13T23:44:30.520599",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I'll give it everything I got!",
+      "part": 1
+    }
+  ]
+}

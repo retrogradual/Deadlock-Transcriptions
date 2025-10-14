@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "atlas_lose_04",
+  "timestamp": "2025-10-13T23:28:09.516768",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Failure is a teacher.",
+      "part": 1
+    }
+  ]
+}

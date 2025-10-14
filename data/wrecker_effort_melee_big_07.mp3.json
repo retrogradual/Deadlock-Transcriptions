@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "wrecker_effort_melee_big_07",
+  "timestamp": "2025-10-13T23:47:40.598964",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Drinks With Diablo A presentation of",
+      "part": 1
+    },
+    {
+      "start": 2.0,
+      "end": 8.0,
+      "text": " TheFNDC.com",
+      "part": 2
+    }
+  ]
+}

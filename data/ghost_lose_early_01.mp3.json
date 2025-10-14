@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "ghost_lose_early_01",
+  "timestamp": "2025-10-13T23:35:05.080442",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.5999999046325684,
+      "text": " We have plenty of time for revenge.",
+      "part": 1
+    }
+  ]
+}

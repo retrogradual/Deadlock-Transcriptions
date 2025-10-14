@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "astro_ap_reminder_03",
+  "timestamp": "2025-10-13T23:27:04.009614",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Can't forget to train!",
+      "part": 1
+    }
+  ]
+}

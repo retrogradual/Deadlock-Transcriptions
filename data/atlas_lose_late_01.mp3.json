@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "atlas_lose_late_01",
+  "timestamp": "2025-10-13T23:28:11.794366",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.5999999046325684,
+      "text": " We didn't win, but at least we gave them some scars.",
+      "part": 1
+    }
+  ]
+}

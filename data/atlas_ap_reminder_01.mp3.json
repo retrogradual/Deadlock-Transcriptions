@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "atlas_ap_reminder_01",
+  "timestamp": "2025-10-13T23:27:52.910772",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Ready to improve my abilities.",
+      "part": 1
+    }
+  ]
+}

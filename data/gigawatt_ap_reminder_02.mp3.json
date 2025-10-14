@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "gigawatt_ap_reminder_02",
+  "timestamp": "2025-10-13T23:35:32.160340",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "text": " Powers are ready to be upgraded.",
+      "part": 1
+    }
+  ]
+}

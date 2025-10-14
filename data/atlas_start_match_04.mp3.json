@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "atlas_start_match_04",
+  "timestamp": "2025-10-13T23:28:30.573947",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Let's get to work on that ritual.",
+      "part": 1
+    }
+  ]
+}

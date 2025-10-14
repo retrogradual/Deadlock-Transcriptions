@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "shiv_use_shadow_weave_02",
+  "timestamp": "2025-10-13T23:42:56.564598",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.3600000143051147,
+      "text": " Time to disappear.",
+      "part": 1
+    }
+  ]
+}

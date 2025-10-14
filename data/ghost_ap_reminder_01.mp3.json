@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "ghost_ap_reminder_01",
+  "timestamp": "2025-10-13T23:34:45.843625",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I can't forget to train.",
+      "part": 1
+    }
+  ]
+}

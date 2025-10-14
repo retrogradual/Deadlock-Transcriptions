@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "inferno_use_silencer_02",
+  "timestamp": "2025-10-13T23:38:18.762484",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0399999618530273,
+      "text": " I'll silence them.",
+      "part": 1
+    }
+  ]
+}

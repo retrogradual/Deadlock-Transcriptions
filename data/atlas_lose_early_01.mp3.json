@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "atlas_lose_early_01",
+  "timestamp": "2025-10-13T23:28:12.189906",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " We'll have another chance.",
+      "part": 1
+    }
+  ]
+}

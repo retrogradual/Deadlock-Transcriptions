@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "viscous_ap_reminder_01",
+  "timestamp": "2025-10-13T23:45:54.587433",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": " I can improve my powers!",
+      "part": 1
+    }
+  ]
+}

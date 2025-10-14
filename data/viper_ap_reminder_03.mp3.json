@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "viper_ap_reminder_03",
+  "timestamp": "2025-10-13T23:45:40.638682",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Can't forget to improve my skills.",
+      "part": 1
+    }
+  ]
+}

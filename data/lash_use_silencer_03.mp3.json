@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "lash_use_silencer_03",
+  "timestamp": "2025-10-13T23:40:02.935114",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Oh, I'll end their magic.",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "hornet_pain_small_01",
+  "timestamp": "2025-10-13T23:37:21.272877",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.300000190734863,
+      "text": " If you have any questions or other problems, please post them in the comments.",
+      "part": 1
+    }
+  ]
+}

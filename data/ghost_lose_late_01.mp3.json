@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "ghost_lose_late_01",
+  "timestamp": "2025-10-13T23:35:05.386508",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " That could have gone either way.",
+      "part": 1
+    }
+  ]
+}

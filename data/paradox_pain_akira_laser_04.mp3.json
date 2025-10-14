@@ -1,0 +1,18 @@
+{
+  "voiceline_id": "paradox_pain_akira_laser_04",
+  "timestamp": "2025-10-13T23:30:53.111874",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " VISA Put Man Single",
+      "part": 1
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": " copyright \u00a9 2019, New Thinking Allowed Foundation",
+      "part": 2
+    }
+  ]
+}

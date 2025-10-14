@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "forge_use_silencer_02",
+  "timestamp": "2025-10-13T23:34:11.188536",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Nothing kills magic faster than a bullet.",
+      "part": 1
+    }
+  ]
+}

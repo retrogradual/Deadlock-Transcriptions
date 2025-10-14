@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "ghost_lose_early_02",
+  "timestamp": "2025-10-13T23:35:04.158536",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "text": " We won't make the same mistakes next time.",
+      "part": 1
+    }
+  ]
+}

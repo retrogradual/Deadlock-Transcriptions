@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "punkgoat_ap_reminder_03",
+  "timestamp": "2025-10-13T23:41:53.966834",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Ready to upgrade my abilities.",
+      "part": 1
+    }
+  ]
+}

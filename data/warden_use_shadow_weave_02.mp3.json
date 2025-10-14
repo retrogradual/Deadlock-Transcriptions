@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "warden_use_shadow_weave_02",
+  "timestamp": "2025-10-13T23:46:52.481866",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " They won't see me.",
+      "part": 1
+    }
+  ]
+}

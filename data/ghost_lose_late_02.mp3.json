@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "ghost_lose_late_02",
+  "timestamp": "2025-10-13T23:35:05.698835",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " We didn't make that easy for them.",
+      "part": 1
+    }
+  ]
+}

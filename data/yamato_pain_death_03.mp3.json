@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "yamato_pain_death_03",
+  "timestamp": "2025-10-13T23:48:19.156213",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " ah",
+      "part": 1
+    }
+  ]
+}

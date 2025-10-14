@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "krill_ap_reminder_03",
+  "timestamp": "2025-10-13T23:39:09.400226",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Let's find a safe place to train.",
+      "part": 1
+    }
+  ]
+}

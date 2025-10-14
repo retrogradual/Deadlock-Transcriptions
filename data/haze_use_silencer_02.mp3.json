@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "haze_use_silencer_02",
+  "timestamp": "2025-10-13T23:36:49.370589",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.5999999046325684,
+      "text": " My guns will silence them!",
+      "part": 1
+    }
+  ]
+}

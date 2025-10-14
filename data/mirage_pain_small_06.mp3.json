@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "mirage_pain_small_06",
+  "timestamp": "2025-10-13T23:40:31.317707",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 10.0,
+      "text": " If you have any questions or other problems, please post them in the comments.",
+      "part": 1
+    }
+  ]
+}

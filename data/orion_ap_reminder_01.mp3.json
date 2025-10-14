@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "orion_ap_reminder_01",
+  "timestamp": "2025-10-13T23:41:25.140892",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I can't empower my abilities.",
+      "part": 1
+    }
+  ]
+}

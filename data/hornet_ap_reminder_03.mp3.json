@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "hornet_ap_reminder_03",
+  "timestamp": "2025-10-13T23:36:52.871749",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I can train my powers.",
+      "part": 1
+    }
+  ]
+}

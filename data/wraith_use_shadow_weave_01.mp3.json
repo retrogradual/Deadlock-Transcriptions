@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wraith_use_shadow_weave_01",
+  "timestamp": "2025-10-13T23:47:23.958695",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.800000011920929,
+      "text": " Shadow Weave",
+      "part": 1
+    }
+  ]
+}

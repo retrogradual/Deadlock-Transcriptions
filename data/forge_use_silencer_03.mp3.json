@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "forge_use_silencer_03",
+  "timestamp": "2025-10-13T23:34:10.097093",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.090000033378601,
+      "text": " Priming Weapon",
+      "part": 1
+    }
+  ]
+}

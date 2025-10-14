@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_pain_small_05",
+  "timestamp": "2025-10-13T23:45:27.644845",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "text": " If you have any questions or other problems, please post them in the comments.",
+      "part": 1
+    }
+  ]
+}

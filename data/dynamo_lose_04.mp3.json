@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "dynamo_lose_04",
+  "timestamp": "2025-10-13T23:32:46.090059",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " No one is perfect, we just need to try again.",
+      "part": 1
+    }
+  ]
+}

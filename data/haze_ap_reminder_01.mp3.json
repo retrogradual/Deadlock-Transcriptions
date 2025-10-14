@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "haze_ap_reminder_01",
+  "timestamp": "2025-10-13T23:36:18.667177",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I need to train...",
+      "part": 1
+    }
+  ]
+}

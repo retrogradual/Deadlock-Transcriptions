@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "ghost_lose_late_05",
+  "timestamp": "2025-10-13T23:35:05.600901",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.799999952316284,
+      "text": " We shall meet again, and on that day we'll win.",
+      "part": 1
+    }
+  ]
+}

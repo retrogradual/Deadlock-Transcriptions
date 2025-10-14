@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "viscous_ap_reminder_03",
+  "timestamp": "2025-10-13T23:45:53.811090",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.799999952316284,
+      "text": " I need to find a place to train.",
+      "part": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "vampirebat_ap_reminder_03",
+  "timestamp": "2025-10-13T23:45:09.016911",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " It's time to train!",
+      "part": 1
+    }
+  ]
+}

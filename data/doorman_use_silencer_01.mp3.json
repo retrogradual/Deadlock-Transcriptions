@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_use_silencer_01",
+  "timestamp": "2025-10-13T23:32:08.369547",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Their powers will cease.",
+      "part": 1
+    }
+  ]
+}

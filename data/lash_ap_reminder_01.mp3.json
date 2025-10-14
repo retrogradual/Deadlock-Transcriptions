@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "lash_ap_reminder_01",
+  "timestamp": "2025-10-13T23:39:41.525920",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I could train my abilities.",
+      "part": 1
+    }
+  ]
+}

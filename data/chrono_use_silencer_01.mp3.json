@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "chrono_use_silencer_01",
+  "timestamp": "2025-10-13T23:31:27.355737",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I'LL SILENCE THEM!",
+      "part": 1
+    }
+  ]
+}

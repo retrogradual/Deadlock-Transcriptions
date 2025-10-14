@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "atlas_start_match_01",
+  "timestamp": "2025-10-13T23:28:29.622982",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Everyone's making it home today.",
+      "part": 1
+    }
+  ]
+}

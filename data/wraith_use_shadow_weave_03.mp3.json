@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "wraith_use_shadow_weave_03",
+  "timestamp": "2025-10-13T23:47:24.576876",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.800000011920929,
+      "text": " Bye.",
+      "part": 1
+    }
+  ]
+}

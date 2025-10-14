@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_boost_past_on_zipline_01",
+  "timestamp": "2025-10-13T23:31:33.242321",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Pardon me.",
+      "part": 1
+    }
+  ]
+}

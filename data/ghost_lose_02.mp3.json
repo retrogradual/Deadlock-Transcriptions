@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "ghost_lose_02",
+  "timestamp": "2025-10-13T23:35:02.886620",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.600000023841858,
+      "text": " I will have revenge.",
+      "part": 1
+    }
+  ]
+}

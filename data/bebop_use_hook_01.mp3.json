@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "bebop_use_hook_01",
+  "timestamp": "2025-10-13T23:29:13.777079",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Hook's out!",
+      "part": 1
+    }
+  ]
+}
