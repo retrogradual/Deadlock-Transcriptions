@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "mirage_desperation_power3_05_alt_01",
+  "timestamp": "2025-10-13T23:05:50.731705",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " You haven't won yet!",
+      "part": 1
+    }
+  ]
+}

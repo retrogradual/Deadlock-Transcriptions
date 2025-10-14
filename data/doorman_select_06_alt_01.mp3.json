@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_select_06_alt_01",
+  "timestamp": "2025-10-13T23:05:42.348750",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": " After the ritual is complete, if you'd like tickets to South Pacific, don't be afraid to ask.",
+      "part": 1
+    }
+  ]
+}

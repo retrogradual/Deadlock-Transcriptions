@@ -1,0 +1,12 @@
+{
+  "voiceline_id": "doorman_use_power1_02_alt_01",
+  "timestamp": "2025-10-13T23:05:43.193531",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Enjoy!",
+      "part": 1
+    }
+  ]
+}
